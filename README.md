@@ -1,0 +1,3 @@
+# hunterxhunter-vocab
+
+Placeholder README.
