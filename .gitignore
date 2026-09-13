@@ -40,6 +40,10 @@ yarn-error.log*
 /data/*.db
 /data/*.db-*
 
+# raw manga scan used locally to derive vocab-seed entries — personal-use
+# reference material only, never redistributed via this repo
+/sample/DLRAW.NET-Hunter_x_Hunter_v01-08/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

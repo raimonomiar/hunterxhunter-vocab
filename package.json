@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "import-vocab": "tsx scripts/import-vocab.ts"
+    "import-vocab": "tsx scripts/import-vocab.ts",
+    "seed-vocab": "tsx scripts/load-vocab-seed.ts"
   },
   "dependencies": {
     "@libsql/client": "^0.18.0",
