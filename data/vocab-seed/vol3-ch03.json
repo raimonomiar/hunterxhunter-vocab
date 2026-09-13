@@ -1,0 +1,639 @@
+[
+  {
+    "kanji": "死ぬ",
+    "kana": "しぬ",
+    "english": "to die",
+    "page": 48,
+    "notes": "text: 死んでる? — Is he dead?"
+  },
+  {
+    "kanji": "薄暗い",
+    "kana": "うすぐらい",
+    "english": "dim, dusky, half-dark",
+    "page": 48,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "くそ",
+    "english": "damn, crap (mild expletive)",
+    "page": 48,
+    "notes": null
+  },
+  {
+    "kanji": "気絶する",
+    "kana": "きぜつする",
+    "english": "to faint, lose consciousness",
+    "page": 49,
+    "notes": "text: 彼は気絶してるだけよ — he's just unconscious"
+  },
+  {
+    "kanji": "生死",
+    "kana": "せいし",
+    "english": "life or death",
+    "page": 49,
+    "notes": "text: そいつの生死を確認させてもらおうか — let us confirm whether he's alive or dead"
+  },
+  {
+    "kanji": "信用",
+    "kana": "しんよう",
+    "english": "trust, credibility",
+    "page": 49,
+    "notes": "text: 言葉だけじゃ信用出来ねーな — can't trust just words"
+  },
+  {
+    "kanji": "賭ける",
+    "kana": "かける",
+    "english": "to bet, wager",
+    "page": 49,
+    "notes": null
+  },
+  {
+    "kanji": "勝負",
+    "kana": "しょうぶ",
+    "english": "match, contest, game",
+    "page": 50,
+    "notes": null
+  },
+  {
+    "kanji": "希少生物",
+    "kana": "きしょうせいぶつ",
+    "english": "rare creature, rare species",
+    "page": 50,
+    "notes": "From a sign listing crimes: 希少生物売買 — trafficking in rare creatures"
+  },
+  {
+    "kanji": "売買",
+    "kana": "ばいばい",
+    "english": "buying and selling, trade",
+    "page": 50,
+    "notes": null
+  },
+  {
+    "kanji": "賭博",
+    "kana": "とばく",
+    "english": "gambling",
+    "page": 50,
+    "notes": "text: 賭博法違反 — violation of gambling law"
+  },
+  {
+    "kanji": "懲役",
+    "kana": "ちょうえき",
+    "english": "prison sentence (with hard labor), penal servitude",
+    "page": 50,
+    "notes": null
+  },
+  {
+    "kanji": "交互に",
+    "kana": "こうごに",
+    "english": "alternately, in turn",
+    "page": 50,
+    "notes": "text: 賭けの問題は交互に出題すること — the betting questions are to be posed alternately"
+  },
+  {
+    "kanji": "出題する",
+    "kana": "しゅつだいする",
+    "english": "to set/pose a question (e.g. on a test)",
+    "page": 50,
+    "notes": null
+  },
+  {
+    "kanji": "脱出",
+    "kana": "だっしゅつ",
+    "english": "escape",
+    "page": 50,
+    "notes": "text: タワー脱出のリミットが50時間短くなる — the tower-escape time limit shortens by 50 hours"
+  },
+  {
+    "kanji": "慎重に",
+    "kana": "しんちょうに",
+    "english": "carefully, cautiously",
+    "page": 51,
+    "notes": "text: 慎重に考えろよ — think carefully"
+  },
+  {
+    "kanji": "刑期",
+    "kana": "けいき",
+    "english": "prison term, length of sentence",
+    "page": 51,
+    "notes": null
+  },
+  {
+    "kanji": "とどめを刺す",
+    "kana": "とどめをさす",
+    "english": "to finish off, deliver the coup de grace",
+    "page": 51,
+    "notes": "Idiom; text: とどめを刺さないから悪いんじゃねーか — isn't it your fault for not finishing him off"
+  },
+  {
+    "kanji": "仲間割れ",
+    "kana": "なかまわれ",
+    "english": "falling out among allies, infighting",
+    "page": 51,
+    "notes": "text: 仲間割れはよそでやれ — take your infighting elsewhere"
+  },
+  {
+    "kanji": null,
+    "kana": "イカれる",
+    "english": "to go crazy, be messed up, be broken (slang)",
+    "page": 51,
+    "notes": "text uses past tense イカれた女だぜ — she's one crazy woman"
+  },
+  {
+    "kanji": "生きる",
+    "kana": "いきる",
+    "english": "to live, be alive",
+    "page": 52,
+    "notes": null
+  },
+  {
+    "kanji": "当然",
+    "kana": "とうぜん",
+    "english": "naturally, of course, obviously",
+    "page": 52,
+    "notes": null
+  },
+  {
+    "kanji": "結構",
+    "kana": "けっこう",
+    "english": "fairly, quite, rather",
+    "page": 52,
+    "notes": "text: けっこう慎重だな — pretty cautious, aren't you"
+  },
+  {
+    "kanji": "仮に",
+    "kana": "かりに",
+    "english": "hypothetically, suppose that, even if",
+    "page": 53,
+    "notes": "text: 仮にこれではずれても — even if this guess turns out wrong"
+  },
+  {
+    "kanji": "外れる",
+    "kana": "はずれる",
+    "english": "to miss, be wrong, come off",
+    "page": 53,
+    "notes": null
+  },
+  {
+    "kanji": "確定する",
+    "kana": "かくていする",
+    "english": "to be confirmed, finalized, settled",
+    "page": 53,
+    "notes": null
+  },
+  {
+    "kanji": "了解",
+    "kana": "りょうかい",
+    "english": "understood, roger",
+    "page": 53,
+    "notes": null
+  },
+  {
+    "kanji": "橋をかける",
+    "kana": "はしをかける",
+    "english": "to set up a bridge",
+    "page": 53,
+    "notes": "text: 橋をかけてもらえますか — could you set up a bridge for us"
+  },
+  {
+    "kanji": null,
+    "kana": "くすくす",
+    "english": "giggling, snickering (onomatopoeia)",
+    "page": 54,
+    "notes": null
+  },
+  {
+    "kanji": "目覚める",
+    "kana": "めざめる",
+    "english": "to wake up",
+    "page": 54,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "リードする",
+    "english": "to take the lead",
+    "page": 54,
+    "notes": "text: レオリオがリードしたね — Leorio's taken the lead"
+  },
+  {
+    "kanji": null,
+    "kana": "まずい",
+    "english": "bad, in trouble, not good (colloquial)",
+    "page": 54,
+    "notes": null
+  },
+  {
+    "kanji": "倒れる",
+    "kana": "たおれる",
+    "english": "to collapse, fall down, keel over",
+    "page": 55,
+    "notes": null
+  },
+  {
+    "kanji": "都合がいい",
+    "kana": "つごうがいい",
+    "english": "convenient (for oneself)",
+    "page": 55,
+    "notes": "Idiom; text: あいつらにしてみりゃ都合がいいんだよね — it works out conveniently for them"
+  },
+  {
+    "kanji": "縮まる",
+    "kana": "ちぢまる",
+    "english": "to shrink, be shortened",
+    "page": 55,
+    "notes": "text: 72年分の刑期が縮まるんだから — their sentence gets shortened by 72 years"
+  },
+  {
+    "kanji": "内容",
+    "kana": "ないよう",
+    "english": "content, substance, details",
+    "page": 55,
+    "notes": "text: 賭けの内容を決めてちょうだい — decide the terms of the bet"
+  },
+  {
+    "kanji": null,
+    "kana": "なるほど",
+    "english": "I see, indeed, so that's it",
+    "page": 55,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "フリをする",
+    "english": "to pretend, act as if",
+    "page": 57,
+    "notes": "Idiom; text: 気絶したフリを続けろ — keep up the pretense of being unconscious"
+  },
+  {
+    "kanji": "隠す",
+    "kana": "かくす",
+    "english": "to hide, conceal",
+    "page": 57,
+    "notes": null
+  },
+  {
+    "kanji": "タヌキ寝入り",
+    "kana": "たぬきねいり",
+    "english": "feigning sleep, playing possum",
+    "page": 57,
+    "notes": "Idiom, lit. 'raccoon-dog sleep'; text: このままタヌキ寝入りで時間を潰せば — if we just keep feigning sleep to kill time"
+  },
+  {
+    "kanji": "潰す",
+    "kana": "つぶす",
+    "english": "to crush; (of time) to kill, while away",
+    "page": 57,
+    "notes": null
+  },
+  {
+    "kanji": "帳消しになる",
+    "kana": "ちょうけしになる",
+    "english": "to be canceled out, written off, wiped clean",
+    "page": 57,
+    "notes": "text: 72年分の懲役が帳消しになる — 72 years of the sentence would be wiped clean"
+  },
+  {
+    "kanji": "確かめる",
+    "kana": "たしかめる",
+    "english": "to confirm, make sure of, verify",
+    "page": 57,
+    "notes": null
+  },
+  {
+    "kanji": "重い",
+    "kana": "おもい",
+    "english": "heavy",
+    "page": 58,
+    "notes": "text uses the colloquial contraction 重てーな for 重いな"
+  },
+  {
+    "kanji": "落とす",
+    "kana": "おとす",
+    "english": "to drop",
+    "page": 58,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "すんなり",
+    "english": "smoothly, easily, without a hitch",
+    "page": 58,
+    "notes": null
+  },
+  {
+    "kanji": "認める",
+    "kana": "みとめる",
+    "english": "to approve, acknowledge, accept",
+    "page": 58,
+    "notes": "text: そんな方法は認められないわ — that method can't be accepted"
+  },
+  {
+    "kanji": "気は確かか",
+    "kana": "きはたしかか",
+    "english": "are you out of your mind? (rhetorical, questioning someone's sanity)",
+    "page": 58,
+    "notes": "Idiom; text: 気は確かなの?"
+  },
+  {
+    "kanji": "安心する",
+    "kana": "あんしんする",
+    "english": "to relax, feel relieved, be at ease",
+    "page": 59,
+    "notes": "text: 安心しなよ — relax, don't worry"
+  },
+  {
+    "kanji": "反則負け",
+    "kana": "はんそくまけ",
+    "english": "loss by foul, disqualification loss",
+    "page": 59,
+    "notes": null
+  },
+  {
+    "kanji": "文句",
+    "kana": "もんく",
+    "english": "complaint, objection",
+    "page": 59,
+    "notes": "text: それで文句ないだろ? — no complaints with that, right?"
+  },
+  {
+    "kanji": "変更する",
+    "kana": "へんこうする",
+    "english": "to change, alter",
+    "page": 59,
+    "notes": null
+  },
+  {
+    "kanji": "放す",
+    "kana": "はなす",
+    "english": "to let go of, release",
+    "page": 59,
+    "notes": "text: 放すなっ!! — don't let go!!"
+  },
+  {
+    "kanji": "尻尾を出す",
+    "kana": "しっぽをだす",
+    "english": "to reveal one's true colors, slip up and expose oneself",
+    "page": 59,
+    "notes": "Idiom, lit. 'to show one's tail'; text writes it in katakana (シッポ出しやがったな)"
+  },
+  {
+    "kanji": "女狐",
+    "kana": "めぎつね",
+    "english": "vixen, sly/cunning woman (derogatory)",
+    "page": 59,
+    "notes": null
+  },
+  {
+    "kanji": "お互い様",
+    "kana": "おたがいさま",
+    "english": "it's mutual, same to you, we're even",
+    "page": 60,
+    "notes": "Idiom"
+  },
+  {
+    "kanji": "刑務所",
+    "kana": "けいむしょ",
+    "english": "prison",
+    "page": 60,
+    "notes": "text: 刑務所の方がよっぽど安全だぜ — prison would be way safer"
+  },
+  {
+    "kanji": "余程",
+    "kana": "よほど",
+    "english": "to a great extent, very much so",
+    "page": 60,
+    "notes": "text uses the colloquial variant よっぽど"
+  },
+  {
+    "kanji": "恩恵",
+    "kana": "おんけい",
+    "english": "benefit, grace, favor",
+    "page": 60,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "くそくらえ",
+    "english": "to hell with that, screw that (vulgar idiom)",
+    "page": 60,
+    "notes": "text: 恩恵なんざクソくらえだぜ"
+  },
+  {
+    "kanji": "志望",
+    "kana": "しぼう",
+    "english": "aspiration, wish (to become something)",
+    "page": 60,
+    "notes": "text: 医者志望だったんでな — I was aiming to become a doctor"
+  },
+  {
+    "kanji": "調べる",
+    "kana": "しらべる",
+    "english": "to investigate, check, look into",
+    "page": 60,
+    "notes": null
+  },
+  {
+    "kanji": "親",
+    "kana": "おや",
+    "english": "dealer, banker (in a card/betting game); (lit.) parent",
+    "page": 60,
+    "notes": "text: そっちが親だ — you're the dealer this time"
+  },
+  {
+    "kanji": null,
+    "kana": "リーチ",
+    "english": "one step from winning, on the verge of victory",
+    "page": 60,
+    "notes": "Borrowed from mahjong terminology, used generally for games; text: 2勝1敗でこっちがリーチだ"
+  },
+  {
+    "kanji": "気が済む",
+    "kana": "きがすむ",
+    "english": "to be satisfied, feel at ease",
+    "page": 61,
+    "notes": "Idiom; text: あなたの気が済むまで調べていいわよ"
+  },
+  {
+    "kanji": null,
+    "kana": "オカマ",
+    "english": "effeminate man, cross-dresser (colloquial, sometimes derogatory)",
+    "page": 61,
+    "notes": "text: まさかオカマちゃん!? — could you be an okama!?"
+  },
+  {
+    "kanji": "構う",
+    "kana": "かまう",
+    "english": "to mind, care about, be bothered by",
+    "page": 61,
+    "notes": null
+  },
+  {
+    "kanji": "場合",
+    "kana": "ばあい",
+    "english": "case, situation",
+    "page": 61,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "スケベ",
+    "english": "lecherous, perverted (slang)",
+    "page": 62,
+    "notes": "text: あのスケベオヤジ — that perverted old man"
+  },
+  {
+    "kanji": "選択",
+    "kana": "せんたく",
+    "english": "choice, selection",
+    "page": 62,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "おいしい",
+    "english": "(fig.) advantageous, profitable, favorable; (lit.) delicious",
+    "page": 62,
+    "notes": "text: オレにとってはおいしい選択!! — for me, it's an advantageous choice!!"
+  },
+  {
+    "kanji": "残念",
+    "kana": "ざんねん",
+    "english": "too bad, unfortunate, a pity",
+    "page": 62,
+    "notes": null
+  },
+  {
+    "kanji": "悔いなし",
+    "kana": "くいなし",
+    "english": "no regrets",
+    "page": 63,
+    "notes": "text: はずれて悔いなし!! — wrong, but no regrets!!"
+  },
+  {
+    "kanji": "ダメージを受ける",
+    "kana": "ダメージをうける",
+    "english": "to take damage",
+    "page": 63,
+    "notes": null
+  },
+  {
+    "kanji": "才能",
+    "kana": "さいのう",
+    "english": "talent, aptitude",
+    "page": 63,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "バクチ",
+    "english": "gambling (colloquial; also written 博打)",
+    "page": 63,
+    "notes": "text writes it in katakana"
+  },
+  {
+    "kanji": "読み通り",
+    "kana": "よみどおり",
+    "english": "just as expected/predicted, as read",
+    "page": 63,
+    "notes": null
+  },
+  {
+    "kanji": "浮かぶ",
+    "kana": "うかぶ",
+    "english": "(of an idea) to come to mind, occur to one; to float",
+    "page": 63,
+    "notes": "text: 確実に勝てる問題なんてすぐには浮かばねーし — a question I'm sure to win at doesn't come to mind right away"
+  },
+  {
+    "kanji": "運任せ",
+    "kana": "うんまかせ",
+    "english": "leaving it to luck/chance",
+    "page": 64,
+    "notes": "text: こーなりゃ運まかせだ!!"
+  },
+  {
+    "kanji": null,
+    "kana": "ジャンケン",
+    "english": "rock-paper-scissors",
+    "page": 64,
+    "notes": null
+  },
+  {
+    "kanji": "自信",
+    "kana": "じしん",
+    "english": "confidence, self-confidence",
+    "page": 64,
+    "notes": null
+  },
+  {
+    "kanji": "統計",
+    "kana": "とうけい",
+    "english": "statistics",
+    "page": 64,
+    "notes": null
+  },
+  {
+    "kanji": "確率",
+    "kana": "かくりつ",
+    "english": "probability",
+    "page": 64,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "チョキ",
+    "english": "scissors (hand shape in rock-paper-scissors)",
+    "page": 64,
+    "notes": null
+  },
+  {
+    "kanji": "心理",
+    "kana": "しんり",
+    "english": "psychology, mentality, state of mind",
+    "page": 64,
+    "notes": "text: ジャンケンは確率と心理の勝負 — rock-paper-scissors is a contest of probability and psychology"
+  },
+  {
+    "kanji": "裏をかく",
+    "kana": "うらをかく",
+    "english": "to outwit, to counter someone's expectations",
+    "page": 65,
+    "notes": "Idiom; text: さらにその裏をかいて — and further outguessing that"
+  },
+  {
+    "kanji": "安定",
+    "kana": "あんてい",
+    "english": "stability",
+    "page": 65,
+    "notes": null
+  },
+  {
+    "kanji": "望む",
+    "kana": "のぞむ",
+    "english": "to wish for, desire, hope for",
+    "page": 65,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "グー",
+    "english": "rock (hand shape in rock-paper-scissors)",
+    "page": 65,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "パー",
+    "english": "paper (hand shape in rock-paper-scissors)",
+    "page": 65,
+    "notes": null
+  },
+  {
+    "kanji": null,
+    "kana": "あいこ",
+    "english": "a tie, a draw (in rock-paper-scissors)",
+    "page": 65,
+    "notes": null
+  }
+]
