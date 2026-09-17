@@ -2,7 +2,7 @@
  * One-time (repeatable) import of the legacy spreadsheet into the database.
  *
  * Usage:
- *   npx tsx scripts/import-vocab.ts <path-to-xlsx>
+ *   npx tsx scripts/import-vocab.ts [path-to-xlsx]
  *
  * Reads DATABASE_URL / DATABASE_AUTH_TOKEN from the environment the same way
  * the app does (see src/lib/db.ts), so it can target either the local
@@ -17,6 +17,7 @@
  * matches how the spreadsheet's contributors left repeated page numbers
  * blank rather than retyping them.
  */
+import path from "node:path";
 import ExcelJS from "exceljs";
 import { ready } from "../src/lib/db";
 import { findOrCreateChapter } from "../src/lib/vocab";
@@ -95,10 +96,7 @@ function parseSheet(worksheet: ExcelJS.Worksheet): {
 }
 
 async function main() {
-  const filePath = process.argv[2];
-  if (!filePath) {
-    throw new Error("Usage: npm run import-vocab -- <path-to-xlsx>");
-  }
+  const filePath = process.argv[2] ?? path.join(process.cwd(), "sample", "Hunter × Hunter Vocab.xlsx");
 
   const db = await ready();
 
