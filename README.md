@@ -1,12 +1,11 @@
 # Hunter x Hunter Vocab
 
-A personal web app for browsing and adding Japanese vocab while reading Hunter x Hunter, replacing the old shared spreadsheet (`sample/Hunter × Hunter Vocab.xlsx`).
+A personal web app for browsing and adding Japanese vocab while reading Hunter x Hunter, replacing the old shared spreadsheet.
 
 ## Getting started
 
 ```bash
 npm install
-npm run import-vocab   # one-time: loads the legacy spreadsheet into a local SQLite db
 npm run dev
 ```
 
@@ -20,5 +19,5 @@ The database layer (`@libsql/client`) runs the same code against local SQLite (d
 
 - `npm run dev` — start the dev server
 - `npm run build` / `npm run start` — production build/serve
-- `npm run import-vocab` — (re-)import the spreadsheet; safe to re-run, it skips chapters that already have data
+- `npm run import-vocab -- "/path/to/workbook.xlsx"` — optionally import your own copy of the legacy spreadsheet; no workbook is bundled. Supply a path because the script's default still points to the removed sample file. Safe to re-run: it skips chapters that already have data.
 - `npm run lint` — eslint
