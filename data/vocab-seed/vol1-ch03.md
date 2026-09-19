@@ -7,7 +7,6 @@
 - Kana: きゅうきょく
 - English: Ultimate
 - Notes:
-- WK level: 27
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: せんたく
 - English: Choice
 - Notes:
-- WK level: 38
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: しけん
 - English: Exam
 - Notes:
-- WK level: 9
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: かいじょう
 - English: Venue
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: あんない
 - English: Guide
 - Notes:
-- WK level: 22
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: しぼうしゃ
 - English: Applicant
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: くばられる
 - English: To be distributed
 - Notes:
-- WK level: 10
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: つうち
 - English: Notice
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: かいし
 - English: Start
 - Notes:
-- WK level: 10
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: にちじ
 - English: Date and time
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: おおざっぱ
 - English: Rough \(as in not precise\)
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: ばしょ
 - English: Location
 - Notes:
-- WK level: 8
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: だけしか
 - English: Only\, nothing but
 - Notes: emphatic form of しか used with negative verb
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: しるされる
 - English: To be written
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: わずか
 - English: A little
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: じょうほう
 - English: Information
 - Notes:
-- WK level: 18
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: たよる
 - English: To rely on
 - Notes:
-- WK level: 38
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: たどりつく
 - English: To finally reach
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: しぼりこむ
 - English: To narrow down
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: しれん
 - English: Test\, trial
 - Notes:
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: ドールこう
 - English: Dolle Harbor
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: すげぇ
 - English: Incredible
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: えーと
 - English: Let me see…\.
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: ザバンし
 - English: Zaban City
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: むかう
 - English: To head towards
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: のりもの
 - English: Vehicle
 - Notes:
-- WK level: 11
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: おそらく
 - English: Probably
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: かれら
 - English: They
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: ほとんど
 - English: Mostly
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: われわれ
 - English: Us
 - Notes:
-- WK level: 28
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: おなじ
 - English: Same
 - Notes:
-- WK level: 5
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: もくてき
 - English: Goal
 - Notes:
-- WK level: 14
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: せんちょう
 - English: Captain
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: いろいろありがとう
 - English: Thank you for everything
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: げんき
 - English: Here\: \"Take care\"
 - Notes:
-- WK level: 4
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: うむ
 - English: Yes
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: たっしゃ
 - English: Here\: \"Take care\"
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: さいご
 - English: Last
 - Notes: 最後に\: lastly
-- WK level: 10
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: わし
 - English: Me \(used by older people\)
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: アドバイス
 - English: Advice
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: あの
 - English: That
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: 山
 - English: Mountain
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: いっぽんすぎ
 - English: Solitary Japanese cedar
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: めざす
 - English: To head toward
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: それ
 - English: That
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: たどりつく
 - English: To get there
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: ちかみち
 - English: Shortcut
 - Notes:
-- WK level: 10
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: わかる
 - English: To understand
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: あんしん
 - English: Relief
 - Notes:
-- WK level: 6
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: おまえ
 - English: You
 - Notes:
-- WK level: 8
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: むすこ
 - English: Son
 - Notes:
-- WK level: 12
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: いいこ
 - English: Good boy
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: そだつ
 - English: To be raised
 - Notes:
-- WK level: 11
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: おかしい
 - English: Here\: strange
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: みる
 - English: To see
 - Notes:
-- WK level: 4
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: ある
 - English: To be
 - Notes:
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: ちく
 - English: District
 - Notes:
-- WK level: 15
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: ちず
 - English: Map
 - Notes:
-- WK level: 6
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: ちゃんと
 - English: Properly
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: のる
 - English: Here\: to print
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: でかい
 - English: Huge
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: とし
 - English: City
 - Notes:
-- WK level: 12
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: わざわざ
 - English: Going out of one\'s way \(to do\)
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: はんたい
 - English: Opposite
 - Notes:
-- WK level: 8
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: ほうこう
 - English: Direction
 - Notes:
-- WK level: 6
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: いく
 - English: To go
 - Notes:
-- WK level: 5
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: ちょっこうびん
 - English: Direct \(non\-stop\) service
 - Notes:
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: バス
 - English: Bus
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: でる
 - English: To depart
 - Notes:
-- WK level: 2
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: ちかみち
 - English: Shortcut
 - Notes:
-- WK level: 10
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: どころか
 - English: Anything but
 - Notes:
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: へたすりゃ
 - English: If things don\'t go well
 - Notes:
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: むだあし
 - English: Waste of time
 - Notes:
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: かれ
 - English: He
 - Notes:
-- WK level: 35
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: かんちがい
 - English: Mistaken idea
 - Notes:
-- WK level: 49
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: とりあえず
 - English: For the time being
 - Notes:
-- WK level: 59
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: オレ
 - English: I
 - Notes:
-- WK level: 44
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: きっと
 - English: Surely
 - Notes:
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: なにか
 - English: Here\: some
 - Notes:
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: りゆう
 - English: Reason
 - Notes:
-- WK level: 7
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: すこし
 - English: A little
 - Notes:
-- WK level: 3
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: うたがう
 - English: To doubt
 - Notes:
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: おぼえる
 - English: To learn
 - Notes:
-- WK level: 19
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: ほうがいい
 - English: Had better \(after past tense\)
 - Notes:
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: すすめる
 - English: To recommend
 - Notes:
-- WK level: 39
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: ことば
 - English: Words
 - Notes:
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: こうどう
 - English: Action
 - Notes:
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: きょうみ
 - English: Interest
 - Notes:
-- WK level:
 
 ## e0089
 
@@ -799,7 +711,6 @@
 - Kana: しばらく
 - English: A while
 - Notes:
-- WK level:
 
 ## e0090
 
@@ -808,7 +719,6 @@
 - Kana: つきあう
 - English: Associate with
 - Notes:
-- WK level:
 
 ## e0091
 
@@ -817,7 +727,6 @@
 - Kana: いがい
 - English: Unexpected\, exception
 - Notes:
-- WK level:
 
 ## e0092
 
@@ -826,7 +735,6 @@
 - Kana: しゅたいせい
 - English: Indiivdual\, separate
 - Notes:
-- WK level:
 
 ## e0093
 
@@ -835,7 +743,6 @@
 - Kana: やつ
 - English: You guys
 - Notes:
-- WK level:
 
 ## e0094
 
@@ -844,7 +751,6 @@
 - Kana: じみち
 - English: Steady\, sober\, honest
 - Notes:
-- WK level:
 
 ## e0095
 
@@ -853,7 +759,6 @@
 - Kana: みじかい
 - English: Short
 - Notes:
-- WK level:
 
 ## e0096
 
@@ -862,7 +767,6 @@
 - Kana: つきあい
 - English: Association\, socializing
 - Notes:
-- WK level:
 
 ## e0097
 
@@ -871,7 +775,6 @@
 - Kana: おそい
 - English: Late \(in time\)
 - Notes:
-- WK level:
 
 ## e0098
 
@@ -880,7 +783,6 @@
 - Kana: いちだい
 - English: One machine \(here\: one bus\)
 - Notes:
-- WK level:
 
 ## e0099
 
@@ -889,7 +791,6 @@
 - Kana: もくてきち
 - English: Destination
 - Notes:
-- WK level:
 
 ## e0100
 
@@ -898,7 +799,6 @@
 - Kana: らしい
 - English: like a \(preceding word\)
 - Notes:
-- WK level:
 
 ## e0101
 
@@ -907,7 +807,6 @@
 - Kana: やはり
 - English: Also
 - Notes:
-- WK level:
 
 ## e0102
 
@@ -916,7 +815,6 @@
 - Kana: トラップ
 - English: Trap
 - Notes: 罠　わな  trap
-- WK level:
 
 ## e0103
 
@@ -925,7 +823,6 @@
 - Kana: ルーキー
 - English: Rookie
 - Notes: 初受験者　しょじゅけんしゃ Beginner Examinee
-- WK level:
 
 ## e0104
 
@@ -934,7 +831,6 @@
 - Kana: バカしょうじき
 - English: Honest idiot
 - Notes:
-- WK level:
 
 ## e0105
 
@@ -943,7 +839,6 @@
 - Kana: だから
 - English: But
 - Notes:
-- WK level:
 
 ## e0106
 
@@ -952,7 +847,6 @@
 - Kana: たいがい
 - English: In general
 - Notes:
-- WK level:
 
 ## e0107
 
@@ -961,7 +855,6 @@
 - Kana: だつらくする
 - English: To dropout
 - Notes:
-- WK level:
 
 ## e0108
 
@@ -970,7 +863,6 @@
 - Kana: まて
 - English: Wait
 - Notes:
-- WK level:
 
 ## e0109
 
@@ -979,7 +871,6 @@
 - Kana: ふたりきり
 - English: Here\: Just you 2
 - Notes:
-- WK level:
 
 ## e0110
 
@@ -988,7 +879,6 @@
 - Kana: さびしい
 - English: Lonely
 - Notes:
-- WK level:
 
 ## e0111
 
@@ -997,7 +887,6 @@
 - Kana: つきあう
 - English: Keep company with
 - Notes:
-- WK level:
 
 ## e0112
 
@@ -1006,7 +895,6 @@
 - Kana: うすきみわるい
 - English: Eerie
 - Notes:
-- WK level:
 
 ## e0113
 
@@ -1015,7 +903,6 @@
 - Kana: ところ
 - English: Place
 - Notes:
-- WK level:
 
 ## e0114
 
@@ -1024,7 +911,6 @@
 - Kana: ひとっこひとり
 - English: \(Not\) a single person
 - Notes:
-- WK level:
 
 ## e0115
 
@@ -1033,7 +919,6 @@
 - Kana: みあたらない
 - English: Not found
 - Notes:
-- WK level:
 
 ## e0116
 
@@ -1042,7 +927,6 @@
 - Kana: いっぱい
 - English: Alot
 - Notes:
-- WK level:
 
 ## e0117
 
@@ -1051,7 +935,6 @@
 - Kana: ゆだんするな
 - English: Be alert
 - Notes:
-- WK level:
 
 ## e0118
 
@@ -1060,7 +943,6 @@
 - Kana: いきづかい
 - English: Respiration\/ Breathing
 - Notes:
-- WK level:
 
 ## e0119
 
@@ -1069,7 +951,6 @@
 - Kana: そこらじゅう
 - English: All over the place
 - Notes:
-- WK level:
 
 ## e0120
 
@@ -1078,7 +959,6 @@
 - Kana: きこえる
 - English: To be heard \(audible\?\)
 - Notes:
-- WK level:
 
 ## e0121
 
@@ -1087,7 +967,6 @@
 - Kana: じゃないか
 - English: Questioning something
 - Notes:
-- WK level:
 
 ## e0122
 
@@ -1096,7 +975,6 @@
 - Kana: きぬずれ
 - English: Here\: rustling clothes
 - Notes:
-- WK level:
 
 ## e0123
 
@@ -1105,7 +983,6 @@
 - Kana: おと
 - English: Sound
 - Notes:
-- WK level:
 
 ## e0124
 
@@ -1114,7 +991,6 @@
 - Kana: かくれる
 - English: Hidden
 - Notes:
-- WK level:
 
 ## e0125
 
@@ -1123,7 +999,6 @@
 - Kana: つもり
 - English: Intention
 - Notes:
-- WK level:
 
 ## e0126
 
@@ -1132,7 +1007,6 @@
 - Kana: あいにく
 - English: Unfortunately
 - Notes:
-- WK level:
 
 ## e0127
 
@@ -1141,7 +1015,6 @@
 - Kana: ふつう
 - English: Average
 - Notes:
-- WK level:
 
 ## e0128
 
@@ -1150,7 +1023,6 @@
 - Kana: にんげん
 - English: Human being
 - Notes:
-- WK level:
 
 ## e0129
 
@@ -1159,7 +1031,6 @@
 - Kana: どきどき
 - English: Exciting \(sound of heart fluttering\)
 - Notes:
-- WK level:
 
 ## e0130
 
@@ -1168,7 +1039,6 @@
 - Kana: にたく
 - English: Two choice
 - Notes:
-- WK level:
 
 ## e0131
 
@@ -1177,7 +1047,6 @@
 - Kana: クイズ
 - English: Quiz
 - Notes:
-- WK level:
 
 ## e0132
 
@@ -1186,7 +1055,6 @@
 - Kana: まち
 - English: Town
 - Notes:
-- WK level:
 
 ## e0133
 
@@ -1195,7 +1063,6 @@
 - Kana: いっぽんすき
 - English: One cedar tree \(that lone cedar tree\)
 - Notes:
-- WK level:
 
 ## e0134
 
@@ -1204,7 +1071,6 @@
 - Kana: めざしてんだろ
 - English: Aiming for
 - Notes:
-- WK level:
 
 ## e0135
 
@@ -1213,7 +1079,6 @@
 - Kana: ぬける
 - English: To be able to make it through
 - Notes:
-- WK level:
 
 ## e0136
 
@@ -1222,7 +1087,6 @@
 - Kana: ぜったい
 - English: Absolute
 - Notes:
-- WK level:
 
 ## e0137
 
@@ -1231,7 +1095,6 @@
 - Kana: ほか
 - English: Other
 - Notes:
-- WK level:
 
 ## e0138
 
@@ -1240,7 +1103,6 @@
 - Kana: やまみち
 - English: Mountain road
 - Notes:
-- WK level:
 
 ## e0139
 
@@ -1249,7 +1111,6 @@
 - Kana: めいろ
 - English: Maze
 - Notes:
-- WK level:
 
 ## e0140
 
@@ -1258,7 +1119,6 @@
 - Kana: うえに
 - English: In addition
 - Notes:
-- WK level:
 
 ## e0141
 
@@ -1267,7 +1127,6 @@
 - Kana: きょうぼう
 - English: Ferocious
 - Notes:
-- WK level:
 
 ## e0142
 
@@ -1276,7 +1135,6 @@
 - Kana: まじゅう
 - English: Magical beast
 - Notes:
-- WK level:
 
 ## e0143
 
@@ -1285,7 +1143,6 @@
 - Kana: ナワバリ
 - English: Territory
 - Notes:
-- WK level:
 
 ## e0144
 
@@ -1294,7 +1151,6 @@
 - Kana: これから
 - English: From here
 - Notes:
-- WK level:
 
 ## e0145
 
@@ -1303,7 +1159,6 @@
 - Kana: いちもん
 - English: One question
 - Notes:
-- WK level:
 
 ## e0146
 
@@ -1312,7 +1167,6 @@
 - Kana: しゅつだい
 - English: Setting a question
 - Notes:
-- WK level:
 
 ## e0147
 
@@ -1321,7 +1175,6 @@
 - Kana: かんがえる
 - English: To think about
 - Notes:
-- WK level:
 
 ## e0148
 
@@ -1330,7 +1183,6 @@
 - Kana: じかん
 - English: Time
 - Notes:
-- WK level:
 
 ## e0149
 
@@ -1339,7 +1191,6 @@
 - Kana: びょうかん
 - English: Seconds
 - Notes:
-- WK level:
 
 ## e0150
 
@@ -1348,7 +1199,6 @@
 - Kana: まちがえる
 - English: To make a mistake
 - Notes:
-- WK level:
 
 ## e0151
 
@@ -1357,7 +1207,6 @@
 - Kana: そく
 - English: Immediate
 - Notes:
-- WK level:
 
 ## e0152
 
@@ -1366,7 +1215,6 @@
 - Kana: しっかく
 - English: Disqualification
 - Notes:
-- WK level:
 
 ## e0153
 
@@ -1375,7 +1223,6 @@
 - Kana: ことし
 - English: This year
 - Notes:
-- WK level:
 
 ## e0154
 
@@ -1384,7 +1231,6 @@
 - Kana: しかくしゅとく
 - English: Acquiring qualifications
 - Notes:
-- WK level:
 
 ## e0155
 
@@ -1393,7 +1239,6 @@
 - Kana: あきらめる
 - English: Give up
 - Notes:
-- WK level:
 
 ## e0156
 
@@ -1402,7 +1247,6 @@
 - Kana: なるほど
 - English: Here\: \"I see\.\.\.\"
 - Notes:
-- WK level:
 
 ## e0157
 
@@ -1411,7 +1255,6 @@
 - Kana: かんもん
 - English: Here\: Trial
 - Notes:
-- WK level:
 
 ## e0158
 
@@ -1420,7 +1263,6 @@
 - Kana: 1か2で
 - English: \(Number one or two\)
 - Notes:
-- WK level:
 
 ## e0159
 
@@ -1429,7 +1271,6 @@
 - Kana: こたえる
 - English: To answer
 - Notes:
-- WK level:
 
 ## e0160
 
@@ -1438,7 +1279,6 @@
 - Kana: いがい
 - English: Except\, outside
 - Notes:
-- WK level:
 
 ## e0161
 
@@ -1447,7 +1287,6 @@
 - Kana: あいまい
 - English: Vague
 - Notes:
-- WK level:
 
 ## e0162
 
@@ -1456,7 +1295,6 @@
 - Kana: へんじ
 - English: Reply
 - Notes:
-- WK level:
 
 ## e0163
 
@@ -1465,7 +1303,6 @@
 - Kana: すべて
 - English: All
 - Notes:
-- WK level:
 
 ## e0164
 
@@ -1474,7 +1311,6 @@
 - Kana: まちがい
 - English: Mistake
 - Notes:
-- WK level:
 
 ## e0165
 
@@ -1483,7 +1319,6 @@
 - Kana: みなす
 - English: To consider as
 - Notes:
-- WK level:
 
 ## e0166
 
@@ -1492,7 +1327,6 @@
 - Kana: ありえない
 - English: Unlikely
 - Notes:
-- WK level:
 
 ## e0167
 
@@ -1501,7 +1335,6 @@
 - Kana: むしろ
 - English: Rather
 - Notes:
-- WK level:
 
 ## e0168
 
@@ -1510,7 +1343,6 @@
 - Kana: ぎゃく
 - English: The reverse
 - Notes:
-- WK level:
 
 ## e0169
 
@@ -1519,7 +1351,6 @@
 - Kana: かのうせい
 - English: Possible
 - Notes:
-- WK level:
 
 ## e0170
 
@@ -1528,7 +1359,6 @@
 - Kana: あまりに
 - English: Not very
 - Notes:
-- WK level:
 
 ## e0171
 
@@ -1537,7 +1367,6 @@
 - Kana: たかい
 - English: High\, expensive\, tall
 - Notes:
-- WK level:
 
 ## e0172
 
@@ -1546,7 +1375,6 @@
 - Kana: なく
 - English: To cry
 - Notes:
-- WK level:
 
 ## e0173
 
@@ -1555,7 +1383,6 @@
 - Kana: さんにんのうちひとり
 - English: One out of three
 - Notes:
-- WK level:
 
 ## e0174
 
@@ -1564,7 +1391,6 @@
 - Kana: こたえ
 - English: Answer
 - Notes:
-- WK level:
 
 ## e0175
 
@@ -1573,7 +1399,6 @@
 - Kana: しる
 - English: To know
 - Notes:
-- WK level:
 
 ## e0176
 
@@ -1582,7 +1407,6 @@
 - Kana: らく
 - English: Ease
 - Notes:
-- WK level:
 
 ## e0177
 
@@ -1591,7 +1415,6 @@
 - Kana: にがて
 - English: Poor At
 - Notes:
-- WK level:
 
 ## e0178
 
@@ -1600,7 +1423,6 @@
 - Kana: たしかに
 - English: Certainly
 - Notes:
-- WK level:
 
 ## e0179
 
@@ -1609,7 +1431,6 @@
 - Kana: だけど
 - English: However
 - Notes:
-- WK level:
 
 ## e0180
 
@@ -1618,7 +1439,6 @@
 - Kana: はやく
 - English: Quickly
 - Notes:
-- WK level:
 
 ## e0181
 
@@ -1627,7 +1447,6 @@
 - Kana: なんなら
 - English: If you like
 - Notes:
-- WK level:
 
 ## e0182
 
@@ -1636,7 +1455,6 @@
 - Kana: オレ
 - English: I
 - Notes:
-- WK level: 44
 
 ## e0183
 
@@ -1645,7 +1463,6 @@
 - Kana: さきに
 - English: before
 - Notes:
-- WK level:
 
 ## e0184
 
@@ -1654,7 +1471,6 @@
 - Kana: こたえる
 - English: to answer
 - Notes:
-- WK level:
 
 ## e0185
 
@@ -1663,7 +1479,6 @@
 - Kana: わるい
 - English: bad
 - Notes:
-- WK level:
 
 ## e0186
 
@@ -1672,7 +1487,6 @@
 - Kana: みなと
 - English: harbor
 - Notes:
-- WK level:
 
 ## e0187
 
@@ -1681,7 +1495,6 @@
 - Kana: ちょいと
 - English: a little
 - Notes:
-- WK level:
 
 ## e0188
 
@@ -1690,7 +1503,6 @@
 - Kana: たちぎき
 - English: eavesdropping
 - Notes:
-- WK level:
 
 ## e0189
 
@@ -1699,7 +1511,6 @@
 - Kana: ゆずる
 - English: to concede
 - Notes:
-- WK level:
 
 ## e0190
 
@@ -1708,7 +1519,6 @@
 - Kana: もんだい
 - English: question
 - Notes:
-- WK level:
 
 ## e0191
 
@@ -1717,7 +1527,6 @@
 - Kana: けいこう
 - English: tendency\, inclination
 - Notes:
-- WK level:
 
 ## e0192
 
@@ -1726,7 +1535,6 @@
 - Kana: ワナ
 - English: trap
 - Notes:
-- WK level:
 
 ## e0193
 
@@ -1735,7 +1543,6 @@
 - Kana: しかける
 - English: to set \(a trap\)
 - Notes:
-- WK level:
 
 ## e0194
 
@@ -1744,7 +1551,6 @@
 - Kana: それでは
 - English: In that case\.\.\.
 - Notes:
-- WK level:
 
 ## e0195
 
@@ -1753,7 +1559,6 @@
 - Kana: あくとう
 - English: villain
 - Notes:
-- WK level:
 
 ## e0196
 
@@ -1762,7 +1567,6 @@
 - Kana: つかまる
 - English: To be detained by
 - Notes:
-- WK level:
 
 ## e0197
 
@@ -1771,7 +1575,6 @@
 - Kana: たすける
 - English: To help
 - Notes:
-- WK level:
 
 ## e0198
 
@@ -1780,7 +1583,6 @@
 - Kana: ほんき
 - English: Serious
 - Notes:
-- WK level:
 
 ## e0199
 
@@ -1789,7 +1591,6 @@
 - Kana: ばんにん
 - English: Everybody
 - Notes:
-- WK level:
 
 ## e0200
 
@@ -1798,7 +1599,6 @@
 - Kana: きょうつう
 - English: Common\, mutual
 - Notes:
-- WK level:
 
 ## e0201
 
@@ -1807,7 +1607,6 @@
 - Kana: ろうば
 - English: Old Woman
 - Notes:
-- WK level:
 
 ## e0202
 
@@ -1816,7 +1615,6 @@
 - Kana: このみ
 - English: liking
 - Notes:
-- WK level:
 
 ## e0203
 
@@ -1825,7 +1623,6 @@
 - Kana: よそう
 - English: Expectation
 - Notes:
-- WK level:
 
 ## e0204
 
@@ -1834,7 +1631,6 @@
 - Kana: たったひとり
 - English: Just one person
 - Notes:
-- WK level:
 
 ## e0205
 
@@ -1843,7 +1639,6 @@
 - Kana: による
 - English: According to
 - Notes:
-- WK level:
 
 ## e0206
 
@@ -1852,7 +1647,6 @@
 - Kana: せいかい
 - English: correct answer
 - Notes:
-- WK level:
 
 ## e0207
 
@@ -1861,7 +1655,6 @@
 - Kana: くくれる
 - English: Here\: to summarie
 - Notes:
-- WK level:
 
 ## e0208
 
@@ -1870,7 +1663,6 @@
 - Kana: しんさいん
 - English: examiner
 - Notes:
-- WK level:
 
 ## e0209
 
@@ -1879,7 +1671,6 @@
 - Kana: ごうかくしゃ
 - English: Successful Applicant
 - Notes:
-- WK level:
 
 ## e0210
 
@@ -1888,7 +1679,6 @@
 - Kana: ぜんぶ
 - English: All
 - Notes:
-- WK level:
 
 ## e0211
 
@@ -1897,7 +1687,6 @@
 - Kana: くそのやま
 - English: Pile of feces \(ahem\.\.\.\)
 - Notes:
-- WK level:
 
 ## e0212
 
@@ -1906,7 +1695,6 @@
 - Kana: みとめる
 - English: To approve
 - Notes:
-- WK level:
 
 ## e0213
 
@@ -1915,7 +1703,6 @@
 - Kana: ひきかえす
 - English: To go back
 - Notes:
-- WK level:
 
 ## e0214
 
@@ -1924,7 +1711,6 @@
 - Kana: べつ
 - English: Different
 - Notes:
-- WK level:
 
 ## e0215
 
@@ -1933,7 +1719,6 @@
 - Kana: おそい
 - English: Late
 - Notes:
-- WK level:
 
 ## e0216
 
@@ -1942,7 +1727,6 @@
 - Kana: じたいする
 - English: withdrawal of candidacy
 - Notes:
-- WK level:
 
 ## e0217
 
@@ -1951,7 +1735,6 @@
 - Kana: そく
 - English: Instant
 - Notes:
-- WK level:
 
 ## e0218
 
@@ -1960,7 +1743,6 @@
 - Kana: しっかく
 - English: Disqualification
 - Notes:
-- WK level:
 
 ## e0219
 
@@ -1969,7 +1751,6 @@
 - Kana: しかく
 - English: Qualifications
 - Notes:
-- WK level:
 
 ## e0220
 
@@ -1978,7 +1759,6 @@
 - Kana: ねこめ
 - English: Cat Eyes
 - Notes:
-- WK level:
 
 ## e0221
 
@@ -1987,7 +1767,6 @@
 - Kana: きづく
 - English: To notice
 - Notes:
-- WK level:
 
 ## e0222
 
@@ -1996,7 +1775,6 @@
 - Kana: いじょう
 - English: More
 - Notes:
-- WK level:
 
 ## e0223
 
@@ -2005,7 +1783,6 @@
 - Kana: おしゃべり
 - English: Chatting
 - Notes:
-- WK level:
 
 ## e0224
 
@@ -2014,7 +1791,6 @@
 - Kana: ゆるす
 - English: To permit
 - Notes:
-- WK level:
 
 ## e0225
 
@@ -2023,7 +1799,6 @@
 - Kana: よけい
 - English: Needless
 - Notes:
-- WK level:
 
 ## e0226
 
@@ -2032,7 +1807,6 @@
 - Kana: はつげん
 - English: Remark
 - Notes:
-- WK level:
 
 ## e0227
 
@@ -2041,7 +1815,6 @@
 - Kana: かんたん
 - English: Simple
 - Notes:
-- WK level:
 
 ## e0228
 
@@ -2050,7 +1823,6 @@
 - Kana: からくり
 - English: Trick
 - Notes:
-- WK level:
 
 ## e0229
 
@@ -2059,7 +1831,6 @@
 - Kana: むすこ
 - English: Son
 - Notes:
-- WK level:
 
 ## e0230
 
@@ -2068,7 +1839,6 @@
 - Kana: むすめ
 - English: Daughter
 - Notes:
-- WK level:
 
 ## e0231
 
@@ -2077,7 +1847,6 @@
 - Kana: ゆうかいする
 - English: To kidnap
 - Notes:
-- WK level:
 
 ## e0232
 
@@ -2086,7 +1855,6 @@
 - Kana: とりもどす
 - English: To get back
 - Notes:
-- WK level:
 
 ## e0233
 
@@ -2095,7 +1863,6 @@
 - Kana: ババア
 - English: Old Woman
 - Notes:
-- WK level:
 
 ## e0234
 
@@ -2104,7 +1871,6 @@
 - Kana: いいきになる
 - English: To be full of oneself
 - Notes:
-- WK level:
 
 ## e0235
 
@@ -2113,7 +1879,6 @@
 - Kana: びょうよみ
 - English: Countdown
 - Notes:
-- WK level:
 
 ## e0236
 
@@ -2122,7 +1887,6 @@
 - Kana: よめい
 - English: Remainder of one\'s life
 - Notes:
-- WK level:
 
 ## e0237
 
@@ -2131,7 +1895,6 @@
 - Kana: おちつける
 - English: to calm down
 - Notes:
-- WK level:
 
 ## e0238
 
@@ -2140,7 +1903,6 @@
 - Kana: げっこうする
 - English: To be agitated
 - Notes:
-- WK level:
 
 ## e0239
 
@@ -2149,7 +1911,6 @@
 - Kana: てみやげ
 - English: Present \(gift\)
 - Notes:
-- WK level:
 
 ## e0240
 
@@ -2158,7 +1919,6 @@
 - Kana: そっくび
 - English: Head
 - Notes:
-- WK level:
 
 ## e0241
 
@@ -2167,7 +1927,6 @@
 - Kana: もつ
 - English: To carry
 - Notes:
-- WK level:
 
 ## e0242
 
@@ -2176,7 +1935,6 @@
 - Kana: のりこむ
 - English: Here\: To march into
 - Notes:
-- WK level:
 
 ## e0243
 
@@ -2185,7 +1943,6 @@
 - Kana: ぜんいん
 - English: Everyone
 - Notes:
-- WK level:
 
 ## e0244
 
@@ -2194,7 +1951,6 @@
 - Kana: ぶっとばす
 - English: To knock down
 - Notes:
-- WK level:
 
 ## e0245
 
@@ -2203,7 +1959,6 @@
 - Kana: せっきょうする
 - English: To lecture
 - Notes:
-- WK level:
 
 ## e0246
 
@@ -2212,7 +1967,6 @@
 - Kana: くさる
 - English: To rot
 - Notes:
-- WK level:
 
 ## e0247
 
@@ -2221,7 +1975,6 @@
 - Kana: しょうばい
 - English: Business
 - Notes:
-- WK level:
 
 ## e0248
 
@@ -2230,7 +1983,6 @@
 - Kana: なくす
 - English: To get rid of
 - Notes:
-- WK level:
 
 ## e0249
 
@@ -2239,7 +1991,6 @@
 - Kana: せっかく
 - English: With trouble
 - Notes:
-- WK level:
 
 ## e0250
 
@@ -2248,7 +1999,6 @@
 - Kana: ぼうにふる
 - English: To sacrifice
 - Notes:
-- WK level:
 
 ## e0251
 
@@ -2257,7 +2007,6 @@
 - Kana: ちんもく
 - English: Silence
 - Notes:
-- WK level:
 
 ## e0252
 
@@ -2266,7 +2015,6 @@
 - Kana: ただしい
 - English: Correct
 - Notes:
-- WK level:
 
 ## e0253
 
@@ -2275,7 +2023,6 @@
 - Kana: いみじくも
 - English: Aptly
 - Notes:
-- WK level:
 
 ## e0254
 
@@ -2284,7 +2031,6 @@
 - Kana: かいとう
 - English: Answer
 - Notes:
-- WK level:
 
 ## e0255
 
@@ -2293,7 +2039,6 @@
 - Kana: つまり
 - English: In other words
 - Notes:
-- WK level:
 
 ## e0256
 
@@ -2302,7 +2047,6 @@
 - Kana: ひめい
 - English: Scream
 - Notes:
-- WK level:
 
 ## e0257
 
@@ -2311,7 +2055,6 @@
 - Kana: おそわれる
 - English: To be tormented
 - Notes:
-- WK level:
 
 ## e0258
 
@@ -2320,7 +2063,6 @@
 - Kana: いっぽんみち
 - English: Straight Path
 - Notes:
-- WK level:
 
 ## e0259
 
@@ -2329,7 +2071,6 @@
 - Kana: あるく
 - English: To walk
 - Notes:
-- WK level:
 
 ## e0260
 
@@ -2338,7 +2079,6 @@
 - Kana: ちょうじょう
 - English: Summit
 - Notes:
-- WK level:
 
 ## e0261
 
@@ -2347,7 +2087,6 @@
 - Kana: つく
 - English: To arrive
 - Notes:
-- WK level:
 
 ## e0262
 
@@ -2356,7 +2095,6 @@
 - Kana: すまない
 - English: Sorry
 - Notes: すまなかった\: my bad\; sorry \(familiar language\)
-- WK level:
 
 ## e0263
 
@@ -2365,7 +2103,6 @@
 - Kana: あやまる
 - English: To apologize
 - Notes:
-- WK level:
 
 ## e0264
 
@@ -2374,7 +2111,6 @@
 - Kana: それこそ
 - English: especially\; particularly
 - Notes:
-- WK level:
 
 ## e0265
 
@@ -2383,7 +2119,6 @@
 - Kana: しんの
 - English: true\; real
 - Notes:
-- WK level:
 
 ## e0266
 
@@ -2392,7 +2127,6 @@
 - Kana: いと
 - English: intention\; aim\;
 - Notes:
-- WK level:
 
 ## e0267
 
@@ -2401,7 +2135,6 @@
 - Kana: あらゆる
 - English: all\; every
 - Notes:
-- WK level:
 
 ## e0268
 
@@ -2410,7 +2143,6 @@
 - Kana: ざんこく
 - English: cruel\; brutal
 - Notes:
-- WK level:
 
 ## e0269
 
@@ -2419,7 +2151,6 @@
 - Kana: くうそう
 - English: fantasy
 - Notes:
-- WK level:
 
 ## e0270
 
@@ -2428,7 +2159,6 @@
 - Kana: たえる
 - English: to endure\; to bear
 - Notes:
-- WK level:
 
 ## e0271
 
@@ -2437,7 +2167,6 @@
 - Kana: げんじつ
 - English: reality
 - Notes:
-- WK level:
 
 ## e0272
 
@@ -2446,7 +2175,6 @@
 - Kana: むじひ
 - English: merciless\; ruthless
 - Notes:
-- WK level:
 
 ## e0273
 
@@ -2455,7 +2183,6 @@
 - Kana: わかれみち
 - English: turning point\; parting of the ways​
 - Notes: literally\, crossroads
-- WK level:
 
 ## e0274
 
@@ -2464,4 +2191,3 @@
 - Kana: そなえる
 - English: to prepare for
 - Notes:
-- WK level:

@@ -7,7 +7,6 @@
 - Kana: とっくん
 - English: special training\, intensive training
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: うばう
 - English: to steal\, to snatch\, to take \(something\) by force
 - Notes: text\: あのヒソカからプレートを奪えるだろう — how can I steal the plate from that Hisoka
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: まっこうしょうぶ
 - English: a head\-on confrontation\, a direct challenge
 - Notes: text\: やっぱりとても真っ向勝負じゃ奪えそうもないよな — yeah\, a straight\-up head\-on fight probably won\'t let me steal it
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: じゅけんせい
 - English: examinee\, exam candidate\, test\-taker
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: ねらう
 - English: to aim at\, to target
 - Notes: text\: 前の人を狙ってるんだ — he\'s targeting the person ahead
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: うつ
 - English: to shoot\, to fire \(a weapon\)
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: しくじる
 - English: to fail\, to blunder\, to botch \(something\)
 - Notes: text\: しくじった — I messed up
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: みずば
 - English: watering hole\, water source \(where animals drink\)
 - Notes: text\: 水場はすぐ側にある — there\'s a water source right nearby
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: そっこうせい
 - English: fast\-acting \(of a drug or effect\)
 - Notes: text\: 矢には速効性のしびれ薬がぬってある — the arrows are coated with a fast\-acting paralysis drug
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: しびれぐすり
 - English: paralysis drug\, numbing drug
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: まとも
 - English: properly\, decently\, in a normal state
 - Notes: text\: 1週間はまともに歩くこともできないよ — for a week you won\'t even be able to walk properly
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: けはい
 - English: presence\, sign\, indication \(of someone or something nearby\)
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: さっき
 - English: killing intent\, bloodlust\, a murderous aura
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: うかがう
 - English: to watch for \(a chance\)\, to wait for an opening
 - Notes: text\: 機をうかがう — watching for the right moment
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: そげきしゅ
 - English: sniper\, marksman
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: あらかじめ
 - English: in advance\, beforehand
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: ばんぜんをきす
 - English: to take every possible precaution\, to leave nothing to chance
 - Notes: Idiom\; text\: 薬をぬって万全を期している — coated it with the drug to leave nothing to chance
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: きづく
 - English: to notice\, to become aware\, to realize
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: すき
 - English: an opening\, an unguarded moment\, a chance
 - Notes: Text writes it in katakana \(スキ\)\; スキを見て — watching for an opening
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: まと
 - English: target
 - Notes:
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: ふいうち
 - English: surprise attack\, sneak attack
 - Notes: Text writes it in hiragana \(ふいうち\)
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: たおす
 - English: to knock down\, to defeat
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: かといって
 - English: that said\, but then again \(introduces a contrasting point\)
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: いっぱつしょうぶ
 - English: an all\-or\-nothing gamble\, a do\-or\-die attempt
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: はり
 - English: needle
 - Notes: Text writes it in katakana \(ハリ\)
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: ひゃっぱつひゃくちゅう
 - English: hitting the mark every time\, unerring accuracy \(lit\. \"100 shots\, 100 hits\"\)
 - Notes: Idiom
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: とらえる
 - English: to catch\, to capture \(prey or a target\)
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: きそくただしい
 - English: regular\, orderly\, following a set pattern
 - Notes: text\: 規則正しく揺れてるだけの的 — a target that just swings back and forth in a regular rhythm
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: ゆれる
 - English: to sway\, to shake\, to swing
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: よける
 - English: to dodge\, to avoid\, to evade
 - Notes: text\: 相手がよけることも考えなきゃ — I have to think about the opponent dodging too
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: くそ
 - English: damn it\, dammit \(expletive of frustration\)
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: うごきをよむ
 - English: to read\/anticipate someone\'s movements
 - Notes: text\: 相手の動きが読めればな — if only I could read the opponent\'s movements
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: とびまわる
 - English: to fly around\, to flutter about
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: むり
 - English: impossible\, unreasonable\, no good
 - Notes: Text writes it in katakana \(ムリ\) for emphasis
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: えもの
 - English: prey\, quarry\, catch
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: ぎゃくに
 - English: conversely\, on the contrary\, the other way around
 - Notes: text\: そこを逆に狙うんだ — that\'s the moment I aim for instead
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: よし
 - English: alright\!\, good\! \(exclamation of resolve or satisfaction\)
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,4 +303,3 @@
 - Kana: かめい
 - English: an assumed name\, a pseudonym \(here\: a placeholder\/tentative name\)
 - Notes: Unusual reading — same kanji as かな \(the kana syllabary\)\, but read かめい here\; caption under a character sketch reads ギタラクル\(仮名\) \= \"Gittarackur \(tentative name\)\"
-- WK level:

@@ -7,7 +7,6 @@
 - Kana: だつらく
 - English: to drop out\, be eliminated
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: かなう
 - English: to be a match for\, to rival
 - Notes: often used in negative form \(かなわない\) to mean \'no match for\'
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: おちこぼれ
 - English: a dropout\, someone who falls behind
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: らくごしゃ
 - English: straggler\, washout
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: まけいぬ
 - English: loser
 - Notes: lit\. \"losing dog\"
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: げんかい
 - English: limit
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: へばる
 - English: to be exhausted\, to collapse from fatigue
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: のうなし
 - English: good\-for\-nothing\, incompetent
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: つうか
 - English: to pass through\, passage \(e\.g\. a checkpoint\)
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: じょうでき
 - English: well done\, an excellent result
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: いきがい
 - English: reason for living\, sense of purpose
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: じゃくてん
 - English: weak point\, weakness
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: えぐる
 - English: to gouge\, to probe deeply
 - Notes: used metaphorically here for ruthlessly exploiting someone\'s weakness
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: リタイヤ
 - English: to retire\, to drop out \(of a race\/exam\)
 - Notes: loanword from English \"retire\"
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: とばす
 - English: to skip
 - Notes: here in 2段とばし\, \"two steps at a time\"
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: なりふりかまわず
 - English: without regard for one\'s appearance or dignity
 - Notes: idiom — doing whatever it takes\, propriety be damned
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: みならう
 - English: to learn from\, to emulate
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: ふりをする
 - English: to pretend\, to act as if
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: しょうもう
 - English: to use up\, to wear out \(stamina\)
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: むだぐち
 - English: idle talk\, pointless chatter
 - Notes:
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: かねめあて
 - English: being after money\, money\-motivated
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: そこがあさい
 - English: shallow\, superficial
 - Notes: idiom\, lit\. \"the bottom is shallow\"
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: りくつっぽい
 - English: overly logical\, argumentative
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: ひのめ
 - English: scarlet eyes
 - Notes: the Kurta clan\'s signature trait
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: ねらわれる
 - English: to be targeted\, to be aimed at
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: こゆう
 - English: inherent\, peculiar to
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: たかぶる
 - English: to become intense\, to be aroused \(emotions\)
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: げんえいりょだん
 - English: Phantom Troupe
 - Notes: the criminal group that massacred Kurapika\'s clan
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: どうほう
 - English: brethren\, kin\, compatriots
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: なきがら
 - English: remains\, corpse
 - Notes:
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: うばいさる
 - English: to steal away\, to snatch away
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: むねん
 - English: regret\, chagrin
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: とりもどす
 - English: to take back\, to regain
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: けいやく
 - English: contract
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: やみいちば
 - English: black market
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: けんりょくしゃ
 - English: powerful person\, person of authority
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: ふごう
 - English: wealthy person\, tycoon
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: ほこり
 - English: pride
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: おかかえ
 - English: kept\, retained \(privately employed\)
 - Notes: e\.g\. お抱えハンター\, a hunter on retainer rather than independent
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: しぼうどうき
 - English: motive for applying\, reason for aspiring
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: しだい
 - English: depending on\, contingent upon
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: てっかい
 - English: retraction\, withdrawal \(of a statement\)
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: ほうがい
 - English: outrageous\, exorbitant
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: しゅじゅつだい
 - English: surgery cost\, operation fee
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: たんじゅん
 - English: simple\, simple\-minded
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: うそをつく
 - English: to tell a lie
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: わらいばなし
 - English: a laughable story\, a joke
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ちゅうかんちてん
 - English: midpoint\, halfway point
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: らくしょう
 - English: easy win\, walk in the park
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: なんかん
 - English: difficult barrier\, obstacle
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: ひょうしぬけ
 - English: anticlimax\, letdown
 - Notes:
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: けっこう
 - English: quite\, fairly
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: おやじ
 - English: dad\, old man
 - Notes: colloquial
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: もくひょう
 - English: goal\, target
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: であう
 - English: to meet\, to encounter
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: いぎょう
 - English: great achievement\, feat
 - Notes:
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: なしとげる
 - English: to accomplish\, to achieve
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: そんしょくがない
 - English: to be not inferior\, to be comparable
 - Notes: idiom
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: かくりつ
 - English: establishment
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: はっくつ
 - English: excavation\, discovery
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: かいめつ
 - English: annihilation\, destruction
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: じまんげ
 - English: looking proud\, boastfully
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: でぐち
 - English: exit
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: うすぐらい
 - English: dim\, dimly lit
 - Notes:
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: ちか
 - English: underground
 - Notes:
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: おさらば
 - English: farewell\, goodbye
 - Notes: dated\/casual slang
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: ちんき
 - English: strange and rare\, bizarre
 - Notes:
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: あざむく
 - English: to deceive\, to trick
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: こうかつ
 - English: cunning\, sly
 - Notes:
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: どんよく
 - English: greedy\, avaricious
 - Notes:
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: しつげん
 - English: wetland\, marsh
 - Notes:
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: つうしょう
 - English: commonly known as\, aka
 - Notes:
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: さぎし
 - English: swindler\, con artist
 - Notes:
-- WK level:
 
 ## e0074
 
@@ -664,4 +591,3 @@
 - Kana: だまされる
 - English: to be deceived\, to be fooled
 - Notes:
-- WK level:

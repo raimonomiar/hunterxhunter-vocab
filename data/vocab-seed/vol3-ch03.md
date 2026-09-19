@@ -7,7 +7,6 @@
 - Kana: しぬ
 - English: to die
 - Notes: text\: 死んでる\? — Is he dead\?
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: うすぐらい
 - English: dim\, dusky\, half\-dark
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: くそ
 - English: damn\, crap \(mild expletive\)
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: きぜつする
 - English: to faint\, lose consciousness
 - Notes: text\: 彼は気絶してるだけよ — he\'s just unconscious
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: せいし
 - English: life or death
 - Notes: text\: そいつの生死を確認させてもらおうか — let us confirm whether he\'s alive or dead
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: しんよう
 - English: trust\, credibility
 - Notes: text\: 言葉だけじゃ信用出来ねーな — can\'t trust just words
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: かける
 - English: to bet\, wager
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: しょうぶ
 - English: match\, contest\, game
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: きしょうせいぶつ
 - English: rare creature\, rare species
 - Notes: From a sign listing crimes\: 希少生物売買 — trafficking in rare creatures
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: ばいばい
 - English: buying and selling\, trade
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: とばく
 - English: gambling
 - Notes: text\: 賭博法違反 — violation of gambling law
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: ちょうえき
 - English: prison sentence \(with hard labor\)\, penal servitude
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: こうごに
 - English: alternately\, in turn
 - Notes: text\: 賭けの問題は交互に出題すること — the betting questions are to be posed alternately
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: しゅつだいする
 - English: to set\/pose a question \(e\.g\. on a test\)
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: だっしゅつ
 - English: escape
 - Notes: text\: タワー脱出のリミットが50時間短くなる — the tower\-escape time limit shortens by 50 hours
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: しんちょうに
 - English: carefully\, cautiously
 - Notes: text\: 慎重に考えろよ — think carefully
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: けいき
 - English: prison term\, length of sentence
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: とどめをさす
 - English: to finish off\, deliver the coup de grace
 - Notes: Idiom\; text\: とどめを刺さないから悪いんじゃねーか — isn\'t it your fault for not finishing him off
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: なかまわれ
 - English: falling out among allies\, infighting
 - Notes: text\: 仲間割れはよそでやれ — take your infighting elsewhere
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: イカれる
 - English: to go crazy\, be messed up\, be broken \(slang\)
 - Notes: text uses past tense イカれた女だぜ — she\'s one crazy woman
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: いきる
 - English: to live\, be alive
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: とうぜん
 - English: naturally\, of course\, obviously
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: けっこう
 - English: fairly\, quite\, rather
 - Notes: text\: けっこう慎重だな — pretty cautious\, aren\'t you
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: かりに
 - English: hypothetically\, suppose that\, even if
 - Notes: text\: 仮にこれではずれても — even if this guess turns out wrong
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: はずれる
 - English: to miss\, be wrong\, come off
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: かくていする
 - English: to be confirmed\, finalized\, settled
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: りょうかい
 - English: understood\, roger
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: はしをかける
 - English: to set up a bridge
 - Notes: text\: 橋をかけてもらえますか — could you set up a bridge for us
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: くすくす
 - English: giggling\, snickering \(onomatopoeia\)
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: めざめる
 - English: to wake up
 - Notes:
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: リードする
 - English: to take the lead
 - Notes: text\: レオリオがリードしたね — Leorio\'s taken the lead
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: まずい
 - English: bad\, in trouble\, not good \(colloquial\)
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: たおれる
 - English: to collapse\, fall down\, keel over
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: つごうがいい
 - English: convenient \(for oneself\)
 - Notes: Idiom\; text\: あいつらにしてみりゃ都合がいいんだよね — it works out conveniently for them
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: ちぢまる
 - English: to shrink\, be shortened
 - Notes: text\: 72年分の刑期が縮まるんだから — their sentence gets shortened by 72 years
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: ないよう
 - English: content\, substance\, details
 - Notes: text\: 賭けの内容を決めてちょうだい — decide the terms of the bet
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: なるほど
 - English: I see\, indeed\, so that\'s it
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: フリをする
 - English: to pretend\, act as if
 - Notes: Idiom\; text\: 気絶したフリを続けろ — keep up the pretense of being unconscious
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: かくす
 - English: to hide\, conceal
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: たぬきねいり
 - English: feigning sleep\, playing possum
 - Notes: Idiom\, lit\. \'raccoon\-dog sleep\'\; text\: このままタヌキ寝入りで時間を潰せば — if we just keep feigning sleep to kill time
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: つぶす
 - English: to crush\; \(of time\) to kill\, while away
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: ちょうけしになる
 - English: to be canceled out\, written off\, wiped clean
 - Notes: text\: 72年分の懲役が帳消しになる — 72 years of the sentence would be wiped clean
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: たしかめる
 - English: to confirm\, make sure of\, verify
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: おもい
 - English: heavy
 - Notes: text uses the colloquial contraction 重てーな for 重いな
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: おとす
 - English: to drop
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: すんなり
 - English: smoothly\, easily\, without a hitch
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: みとめる
 - English: to approve\, acknowledge\, accept
 - Notes: text\: そんな方法は認められないわ — that method can\'t be accepted
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: きはたしかか
 - English: are you out of your mind\? \(rhetorical\, questioning someone\'s sanity\)
 - Notes: Idiom\; text\: 気は確かなの\?
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: あんしんする
 - English: to relax\, feel relieved\, be at ease
 - Notes: text\: 安心しなよ — relax\, don\'t worry
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: はんそくまけ
 - English: loss by foul\, disqualification loss
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: もんく
 - English: complaint\, objection
 - Notes: text\: それで文句ないだろ\? — no complaints with that\, right\?
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: へんこうする
 - English: to change\, alter
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: はなす
 - English: to let go of\, release
 - Notes: text\: 放すなっ\!\! — don\'t let go\!\!
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: しっぽをだす
 - English: to reveal one\'s true colors\, slip up and expose oneself
 - Notes: Idiom\, lit\. \'to show one\'s tail\'\; text writes it in katakana \(シッポ出しやがったな\)
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: めぎつね
 - English: vixen\, sly\/cunning woman \(derogatory\)
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: おたがいさま
 - English: it\'s mutual\, same to you\, we\'re even
 - Notes: Idiom
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: けいむしょ
 - English: prison
 - Notes: text\: 刑務所の方がよっぽど安全だぜ — prison would be way safer
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: よほど
 - English: to a great extent\, very much so
 - Notes: text uses the colloquial variant よっぽど
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: おんけい
 - English: benefit\, grace\, favor
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: くそくらえ
 - English: to hell with that\, screw that \(vulgar idiom\)
 - Notes: text\: 恩恵なんざクソくらえだぜ
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: しぼう
 - English: aspiration\, wish \(to become something\)
 - Notes: text\: 医者志望だったんでな — I was aiming to become a doctor
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: しらべる
 - English: to investigate\, check\, look into
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: おや
 - English: dealer\, banker \(in a card\/betting game\)\; \(lit\.\) parent
 - Notes: text\: そっちが親だ — you\'re the dealer this time
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: リーチ
 - English: one step from winning\, on the verge of victory
 - Notes: Borrowed from mahjong terminology\, used generally for games\; text\: 2勝1敗でこっちがリーチだ
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: きがすむ
 - English: to be satisfied\, feel at ease
 - Notes: Idiom\; text\: あなたの気が済むまで調べていいわよ
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: オカマ
 - English: effeminate man\, cross\-dresser \(colloquial\, sometimes derogatory\)
 - Notes: text\: まさかオカマちゃん\!\? — could you be an okama\!\?
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: かまう
 - English: to mind\, care about\, be bothered by
 - Notes:
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: ばあい
 - English: case\, situation
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: スケベ
 - English: lecherous\, perverted \(slang\)
 - Notes: text\: あのスケベオヤジ — that perverted old man
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: せんたく
 - English: choice\, selection
 - Notes:
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: おいしい
 - English: \(fig\.\) advantageous\, profitable\, favorable\; \(lit\.\) delicious
 - Notes: text\: オレにとってはおいしい選択\!\! — for me\, it\'s an advantageous choice\!\!
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: ざんねん
 - English: too bad\, unfortunate\, a pity
 - Notes:
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: くいなし
 - English: no regrets
 - Notes: text\: はずれて悔いなし\!\! — wrong\, but no regrets\!\!
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: ダメージをうける
 - English: to take damage
 - Notes:
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: さいのう
 - English: talent\, aptitude
 - Notes:
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: バクチ
 - English: gambling \(colloquial\; also written 博打\)
 - Notes: text writes it in katakana
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: よみどおり
 - English: just as expected\/predicted\, as read
 - Notes:
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: うかぶ
 - English: \(of an idea\) to come to mind\, occur to one\; to float
 - Notes: text\: 確実に勝てる問題なんてすぐには浮かばねーし — a question I\'m sure to win at doesn\'t come to mind right away
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: うんまかせ
 - English: leaving it to luck\/chance
 - Notes: text\: こーなりゃ運まかせだ\!\!
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: ジャンケン
 - English: rock\-paper\-scissors
 - Notes:
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: じしん
 - English: confidence\, self\-confidence
 - Notes:
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: とうけい
 - English: statistics
 - Notes:
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: かくりつ
 - English: probability
 - Notes:
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: チョキ
 - English: scissors \(hand shape in rock\-paper\-scissors\)
 - Notes:
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: しんり
 - English: psychology\, mentality\, state of mind
 - Notes: text\: ジャンケンは確率と心理の勝負 — rock\-paper\-scissors is a contest of probability and psychology
-- WK level:
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: うらをかく
 - English: to outwit\, to counter someone\'s expectations
 - Notes: Idiom\; text\: さらにその裏をかいて — and further outguessing that
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: あんてい
 - English: stability
 - Notes:
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: のぞむ
 - English: to wish for\, desire\, hope for
 - Notes:
-- WK level:
 
 ## e0089
 
@@ -799,7 +711,6 @@
 - Kana: グー
 - English: rock \(hand shape in rock\-paper\-scissors\)
 - Notes:
-- WK level:
 
 ## e0090
 
@@ -808,7 +719,6 @@
 - Kana: パー
 - English: paper \(hand shape in rock\-paper\-scissors\)
 - Notes:
-- WK level:
 
 ## e0091
 
@@ -817,4 +727,3 @@
 - Kana: あいこ
 - English: a tie\, a draw \(in rock\-paper\-scissors\)
 - Notes:
-- WK level:

@@ -7,7 +7,6 @@
 - Kana: にんきとうひょう
 - English: popularity poll
 - Notes: heading\: 『H×H』人気投票\!\! — the Hunter x Hunter popularity poll
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: けっかはっぴょう
 - English: results announcement
 - Notes: heading\: 結果発表\!\! — announcement of the results
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: ひょう
 - English: vote\; ballot
 - Notes: the character rankings give each candidate\'s number of 票
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: じてん
 - English: runner\-up\; next highest
 - Notes: 次点（第11位）ウイング — runner\-up \(11th place\)\, Wing
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: いがい
 - English: unexpected\, surprising
 - Notes: comment on Illumi\: 意外に目がかわいい — unexpectedly\, his eyes are cute
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: すてき
 - English: lovely\, wonderful\, splendid
 - Notes: the poll comments call Satotsu 素敵なおじさま — a wonderful gentleman
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: ともに
 - English: together\, along with
 - Notes: text\: 今日から2人がズシと共に修行をすることになります — from today the two of them will train together with Zushi
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: しゅぎょうする
 - English: to train\, to practice\; to undergo disciplined study
 - Notes: text\: 2人がズシと共に修行をすることになります — the two will train with Zushi
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: やくそくをまもる
 - English: to keep a promise
 - Notes: text\: この2ヶ月よく約束を守りましたね — you kept your promise well these two months
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: ちかい
 - English: vow\, oath\, pledge
 - Notes: text refers to 誓いの糸 — the thread of the vow
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: ねん
 - English: thought\, feeling\, or spiritual energy\; Nen
 - Notes: text\: そういう念を込めておきましたから — I put that kind of thought\/energy into it
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: こめる
 - English: to put into\; to imbue with \(a feeling or force\)
 - Notes: text\: 念を込めておきました — I imbued it with my thoughts\/energy
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: おちつく
 - English: to calm down\, to settle\, to regain composure
 - Notes: text\: 少し心が落ち着いてくるんです — my heart starts to calm down a little
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: こっそり
 - English: secretly\, stealthily\, without being noticed
 - Notes: text\: コイツこっそりズルしてるかもしれない — this guy might be secretly cheating
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: ズルする
 - English: to cheat\, to cut corners
 - Notes: text\: こっそりズルしてるかもしれない — might be secretly cheating
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: ひさびさ
 - English: after a long time\, for the first time in a while
 - Notes: text\: 本当に久しぶりだし — it really has been a long time
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: テン
 - English: Ten\; the Nen technique of containing aura around the body
 - Notes: text\: 纏をやってみてくれませんか — would you try Ten\?
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: ぜんしん
 - English: the whole body
 - Notes: text\: 全身のオーラがよどみなく流れている — the aura is flowing smoothly through the whole body
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: よどむ
 - English: to stagnate\, to become sluggish or obstructed \(of a flow\)
 - Notes: text uses よどみなく\: the aura flows without stagnating
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: なだらか
 - English: gentle\, gradual\, smoothly sloping
 - Notes: text\: 静かでなだらかですごく力強い — quiet\, smooth\, and very powerful
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: ちからづよい
 - English: powerful\, forceful\, reassuring
 - Notes: text\: すごく力強いっす — it is really powerful
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: ぎょう
 - English: Gyo\; concentrating aura in the eyes or another body part
 - Notes: the lesson and the hand close\-up refer to 凝
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: こうど
 - English: high\-level\, advanced\; altitude
 - Notes: Wing explains that using the technique at a 高度 level requires effort
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: それなりに
 - English: to a corresponding degree\, appropriately\, in its own way
 - Notes: text\: それなりに努力が必要 — a corresponding amount of effort is necessary
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: どりょく
 - English: effort\, exertion
 - Notes: text\: それなりに努力が必要だけどね — although it requires a corresponding amount of effort
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: せいか
 - English: result\, fruit\, achievement
 - Notes: text\: 毎日纏を続けた成果です — it is the result of continuing Ten every day
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: つづける
 - English: to continue\, to keep doing
 - Notes: text\: 毎日纏を続けた — continued Ten every day
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: やぶる
 - English: to break\, to violate \(a promise or rule\)
 - Notes: Wing explains that the Nen was put in place so Gon could break his promise
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: たいせん
 - English: match\, bout\, contest between opponents
 - Notes: text\: ヒソカとカストロの試合 — Hisoka and Castro\'s match
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: のうりょく
 - English: ability\, capability\, power
 - Notes: text asks what Hisoka\'s ability is
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: もとどおり
 - English: back to the original state\, restored
 - Notes: text asks whether a severed arm can be made 元通り — restored
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: きょか
 - English: permission\, authorization
 - Notes: text\: ウイングさんから許可をもらって — after getting permission from Wing
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: もらう
 - English: to receive\, to get \(something from someone\)
 - Notes: text\: 許可をもらって — get permission
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: せつめいする
 - English: to explain\, to give an explanation
 - Notes: text\: 見ながら説明しようか — shall I explain while we watch it\?
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: うで
 - English: arm\; skill\, ability \(figurative\)
 - Notes: the discussion includes cutting off an arm and restoring it
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: ひだりて
 - English: left hand
 - Notes: text\: ヒソカの左手からオーラが出てんの\!\? — is aura coming from Hisoka\'s left hand\!\?
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: たいこうする
 - English: to oppose\, to counter\, to compete against
 - Notes: Wing explains what is effective for countering this technique
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: しゅうちゅうする
 - English: to concentrate\, to focus
 - Notes: text\: 目に集中させる — concentrate it in the eyes
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: ゆうこう
 - English: effective\, valid
 - Notes: text calls focusing aura in the eyes the most effective method
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: いん
 - English: In\; concealing one\'s aura so it cannot be seen
 - Notes: text\: 『隠』を使えばオーラを強いまま見えなくする — using In makes aura invisible while keeping it strong
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: みえなくなる
 - English: to become invisible\, to become unable to be seen
 - Notes: text\: オーラを強いまま見えなくなる — the aura becomes unseen while remaining strong
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: はんげき
 - English: counterattack\, retaliation
 - Notes: Wing warns that the alternative leaves no safe way to counterattack
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: たりる
 - English: to be enough\, to suffice
 - Notes: text\: 命がいくつあっても足りません — however many lives you had\, it would not be enough
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: かだい
 - English: task\, assignment\, challenge
 - Notes: text\: 君達2人の課題は — the task for you two is
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: しゅうとくする
 - English: to acquire\, learn\, or master \(a skill\)
 - Notes: text\: 『練』を習得し — master Ren
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: みやぶる
 - English: to see through\, detect\, expose
 - Notes: text\: ヒソカの『隠』を見破ること — seeing through Hisoka\'s In
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: しはんだい
 - English: assistant instructor\, acting master
 - Notes: Zushi addresses Wing as あの…師範代 — um\, assistant instructor
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: みつける
 - English: to find\, to discover
 - Notes: text\: ヒソカの能力は自分達で見つけなさい — find Hisoka\'s ability yourselves
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: ちからづよさ
 - English: strength\, forcefulness
 - Notes: text\: すごいっす 力強さだ — amazing\, it is sheer forcefulness
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: じゅうまんする
 - English: to be full of\, to be saturated with
 - Notes: text\: オーラが充満してるのがわかる — you can tell the aura is filling him
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: おす
 - English: oss\; a martial\-arts greeting or acknowledgment
 - Notes: Zushi repeatedly shouts 押忍\!\! during the training
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: ばめん
 - English: scene\, situation\, moment
 - Notes: Wing asks whether Hisoka\'s aura can be seen in this scene
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: ざんねん
 - English: regrettable\, unfortunate\; too bad
 - Notes: Wing responds 残念 — unfortunately
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: いいせん
 - English: a good approximation\; being on the right track
 - Notes: text\: だがいい線いっているよ — but you are on the right track
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: じょうたつぶり
 - English: degree or evidence of improvement
 - Notes: Wing praises their improvement while discussing their training
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: そそぐ
 - English: to pour into\; to devote or concentrate \(effort or attention\)
 - Notes: text\: 持てる力の全てを注いで — pouring in all the power one possesses
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: しゅうれん
 - English: training\, discipline\, practice
 - Notes: text\: さっきの修練の成果を復習しよう — let\'s review the results of the training just now
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: つむ
 - English: to pile up\, accumulate\; to undergo \(training or experience\)
 - Notes: text\: 修練を積めば — if you accumulate training
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: じょうとうしゅだん
 - English: standard tactic\, usual method
 - Notes: text\: 『凝』は未知の相手と戦う時の常套手段です — Gyo is the standard tactic when fighting an unknown opponent
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: せんとうじょうたい
 - English: state of combat\, combat readiness
 - Notes: text discusses being in a constant 戦闘状態 with an unknown opponent
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: みち
 - English: unknown\, unfamiliar
 - Notes: text\: 未知の相手 — an unknown opponent
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: きゅうち
 - English: predicament\, desperate situation
 - Notes: text warns that refusing to learn an opponent\'s ability leaves one in a 窮地
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: おちいる
 - English: to fall into\, to become trapped in
 - Notes: text\: 常に窮地に陥る — always fall into a predicament
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: ていど
 - English: degree\, extent\, level
 - Notes: text describes the level at which they can currently see through In
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: こせい
 - English: individuality\, personality\, distinctive character
 - Notes: text\: 念の能力はその人の個性に大きく影響されます — Nen abilities are greatly influenced by a person\'s individuality
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: えいきょうされる
 - English: to be influenced\, to be affected
 - Notes: text\: 個性に大きく影響されます — are greatly influenced by individuality
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: せんさばんべつ
 - English: diverse\, varied in countless ways
 - Notes: text explains that Nen abilities differ from person to person
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: とくい
 - English: one\'s forte\; something one is good at
 - Notes: text\: 一人一人が好きなことや得意なことが違うように — just as everyone\'s likes and strengths differ
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: しゅうとくする
 - English: to master\, to acquire through study or practice
 - Notes: text says that a technique might take ten years or a lifetime to 修得する
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: しんけん
 - English: serious\, earnest\; wholehearted
 - Notes: text\: もしも真剣に念を極めたいなら — if you seriously want to master Nen
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: きわめる
 - English: to master completely\, to take to the extreme
 - Notes: text\: 念を極めたい — want to master Nen
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: ししつ
 - English: aptitude\, inherent qualities\, disposition
 - Notes: text\: まず自分の資質を見極めることが大切です — first it is important to discern your own aptitude
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: みきわめる
 - English: to ascertain\, discern\, or assess accurately
 - Notes: text\: 自分の資質を見極める — discern one\'s own aptitude
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: かのうせい
 - English: possibility\, potential
 - Notes: Wing says copying another person\'s ability only means the possibility is not zero
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: はってんさせる
 - English: to develop\, expand\, or advance
 - Notes: text\: 君達はまだ念を発展させてはいない — you have not yet developed your Nen
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: うつわ
 - English: vessel\; capacity\, one\'s potential \(figurative\)
 - Notes: text\: できるだけ自分の器を大きく育てなさい — develop your own capacity as much as possible
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: そだてる
 - English: to raise\, bring up\, cultivate\, develop
 - Notes: text\: 自分の器を大きく育てなさい — cultivate your own capacity
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: もとめる
 - English: to seek\, desire\, or pursue
 - Notes: text asks what each person seeks\: 何を求めるか
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: たびする
 - English: to travel\, to journey
 - Notes: text asks where they will travel\: 何処を旅し
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: であう
 - English: to encounter\, to meet
 - Notes: text asks whom they will meet\: 誰と出会い
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: けいけん
 - English: experience\, to experience
 - Notes: text\: どんな経験をするのか — what experiences they will have
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: かたちづくる
 - English: to shape\, form\, or mold
 - Notes: text\: それら全てが君達の念を形づくる — all of that shapes your Nen
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: たんれん
 - English: rigorous training\, discipline
 - Notes: text\: ガンガン鍛錬に励みなさい — devote yourselves vigorously to training
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: はげむ
 - English: to strive\, work hard at\, devote oneself to
 - Notes: text\: 鍛錬に励みなさい — devote yourself to training
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: たのしむ
 - English: to enjoy
 - Notes: text\: 遊んで人生を楽しみなさい — play and enjoy your life
-- WK level:
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: せんとうじゅんびきかん
 - English: combat preparation period
 - Notes: text asks how much of the 戦闘準備期間 remains
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: せいかく
 - English: accurate\, precise
 - Notes: text\: 正確には62日です — precisely\, it is 62 days
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: のこる
 - English: to remain\, be left over
 - Notes: text asks how many days of the preparation period remain
-- WK level:
 
 ## e0089
 
@@ -799,7 +711,6 @@
 - Kana: ずれる
 - English: to shift\, be off\, be out of alignment
 - Notes: text\: オレはずれてるから27日かな — mine is shifted\/off\, so maybe 27 days
-- WK level:
 
 ## e0090
 
@@ -808,7 +719,6 @@
 - Kana: さいしゅうび
 - English: final day\, last day
 - Notes: text\: それぞれ最終日ギリギリに登録して下さい — register each as late on the final day as possible
-- WK level:
 
 ## e0091
 
@@ -817,7 +727,6 @@
 - Kana: ギリギリ
 - English: at the last possible moment\; barely\, just barely
 - Notes: text\: 最終日ギリギリに — right at the last possible moment on the final day
-- WK level:
 
 ## e0092
 
@@ -826,7 +735,6 @@
 - Kana: とうろくする
 - English: to register\, enroll\, or sign up
 - Notes: text instructs them to register at the last possible moment
-- WK level:
 
 ## e0093
 
@@ -835,7 +743,6 @@
 - Kana: クリアする
 - English: to clear\, complete\, or pass
 - Notes: text\: それまでに『凝』をクリアすること — clear\/pass Gyo by then
-- WK level:
 
 ## e0094
 
@@ -844,7 +751,6 @@
 - Kana: びっくりする
 - English: to be surprised\, startled
 - Notes: text\: いやーびっくりした — wow\, that surprised me
-- WK level:
 
 ## e0095
 
@@ -853,7 +759,6 @@
 - Kana: おいつく
 - English: to catch up with\, overtake
 - Notes: text\: しばらく休んでるうちに追いつかれたね — they caught up while we were resting
-- WK level:
 
 ## e0096
 
@@ -862,7 +767,6 @@
 - Kana: ウロウロする
 - English: to wander around aimlessly\, mill about
 - Notes: text\: まだ90階でウロウロしてる程度だから — we are still just wandering around the 90th floor
-- WK level:
 
 ## e0097
 
@@ -871,7 +775,6 @@
 - Kana: ふくしゅうする
 - English: to review\, revise\, go over again
 - Notes: text\: さっきの修行の成果を復習しよう — let\'s review the results of the training just now
-- WK level:
 
 ## e0098
 
@@ -880,7 +783,6 @@
 - Kana: へや
 - English: room
 - Notes: text\: オレの部屋へ行こうぜ — let\'s go to my room
-- WK level:
 
 ## e0099
 
@@ -889,7 +791,6 @@
 - Kana: しつこい
 - English: persistent\, insistent\, annoying
 - Notes: text\: あんたらもしつこいな — you guys are persistent
-- WK level:
 
 ## e0100
 
@@ -898,7 +799,6 @@
 - Kana: きらわれる
 - English: to be disliked\, be hated
 - Notes: text\: 嫌われるよそんなこと — people will dislike you for that
-- WK level:
 
 ## e0101
 
@@ -907,7 +807,6 @@
 - Kana: とうし
 - English: fighter\, combatant
 - Notes: the three are described as fighters in the same 200th\-floor class
-- WK level:
 
 ## e0102
 
@@ -916,7 +815,6 @@
 - Kana: しんいり
 - English: newcomer\, new arrival
 - Notes: text\: 新入り狙い専門の連中 — a bunch specializing in targeting newcomers
-- WK level:
 
 ## e0103
 
@@ -925,7 +823,6 @@
 - Kana: ねらい
 - English: aim\, target\, intention
 - Notes: text\: 新入り狙い — targeting newcomers
-- WK level:
 
 ## e0104
 
@@ -934,7 +831,6 @@
 - Kana: せんもん
 - English: specialty\, specialization
 - Notes: text\: 新入り狙い専門 — specializing in targeting newcomers
-- WK level:
 
 ## e0105
 
@@ -943,7 +839,6 @@
 - Kana: れんちゅう
 - English: those people\, bunch\, lot \(often derogatory\)
 - Notes: text\: 〜専門の連中らしい — apparently a bunch specializing in it
-- WK level:
 
 ## e0106
 
@@ -952,7 +847,6 @@
 - Kana: あせる
 - English: to become impatient\, panic\, or feel pressed
 - Notes: text\: あせってんだよ — he is getting impatient
-- WK level:
 
 ## e0107
 
@@ -961,7 +855,6 @@
 - Kana: そろそろ
 - English: soon\, before long\; it is about time
 - Notes: text\: そろそろ切っておけ — it is about time to cut it off
-- WK level:
 
 ## e0108
 
@@ -970,7 +863,6 @@
 - Kana: きる
 - English: to cut\; to cut off or dismiss \(someone\)
 - Notes: text\: そろそろ切っておけ — it is about time to cut him off
-- WK level:
 
 ## e0109
 
@@ -979,7 +871,6 @@
 - Kana: サービス
 - English: service\; a free extra\, bonus\, or favor
 - Notes: text\: サービスでオレの能力見せちゃう — as a bonus\, I might show you my ability
-- WK level:
 
 ## e0110
 
@@ -988,7 +879,6 @@
 - Kana: していする
 - English: to specify\, designate
 - Notes: text\: 6月10日に戦闘日を指定する — designate June 10 as the fight date
-- WK level:
 
 ## e0111
 
@@ -997,7 +887,6 @@
 - Kana: じゅんびきかん
 - English: preparation period
 - Notes: text refers to waiting until the preparation period is nearly over
-- WK level:
 
 ## e0112
 
@@ -1006,7 +895,6 @@
 - Kana: きれる
 - English: to expire\, run out\, come to an end
 - Notes: used in the discussion of waiting until the preparation period is almost over
-- WK level:
 
 ## e0113
 
@@ -1015,7 +903,6 @@
 - Kana: つごう
 - English: convenience\, circumstances\, schedule
 - Notes: dialogue discusses the inconvenience of their differing schedules
-- WK level:
 
 ## e0114
 
@@ -1024,7 +911,6 @@
 - Kana: ばらばら
 - English: scattered\, separate\, all different
 - Notes: used to describe their schedules as separate and mismatched
-- WK level:
 
 ## e0115
 
@@ -1033,7 +919,6 @@
 - Kana: ぜったい
 - English: absolutely\, definitely\; absolute
 - Notes: dialogue uses 絶対 to make a strong promise about fighting
-- WK level:
 
 ## e0116
 
@@ -1042,4 +927,3 @@
 - Kana: しあい
 - English: match\, game\, bout
 - Notes: text\: オレの試合が5月29日なんだ — my match is on May 29
-- WK level:

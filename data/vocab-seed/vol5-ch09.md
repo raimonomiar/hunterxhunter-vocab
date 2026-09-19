@@ -7,7 +7,6 @@
 - Kana: たねあかし
 - English: revealing the trick behind something\, explaining how a trick was done
 - Notes: text\: タネあかしされるとハラたつくらいカンタンだぜ — once the trick\'s revealed\, it\'s simple enough to be annoying
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: だます
 - English: to trick\, to deceive\, to fool
 - Notes: text\: オレもそれだまされたよ — I got fooled by that too
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: ようするに
 - English: in short\, to put it simply\, in other words
 - Notes: text\: 要するに — to sum it up \(before asking how the trick worked\)
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: かくしもつ
 - English: to hold\/carry concealed\, to conceal on one\'s person
 - Notes: text\: 一枚を右手にかくし持ちもう一枚のコインを上げて — hiding one coin in his right hand\, he raised the other coin
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: コツ
 - English: a knack\, the trick to doing something well
 - Notes: text\: この時少しコツがいる — at this point you need a bit of a knack
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: すき
 - English: a gap\, an opening\, an unguarded moment
 - Notes: text\: 「どっちだ\?」と聞く隙に相手の目よりやや高いところにあげて — in the gap while asking \"which one\?\"\, raise it slightly higher than the opponent\'s eyes
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: さりげなく
 - English: casually\, nonchalantly\, as if it were nothing
 - Notes: text\: 拳を握った状態でさりげなくコインをそでの中に落とす — while keeping the fist clenched\, casually drop the coin into the sleeve
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: はらだつ
 - English: to get angry\, to be irritated
 - Notes: text\: ハラたつ — \(Kurapika\, annoyed the trick worked on him too\) it\'s irritating
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: ズル
 - English: cheating\, an unfair trick \(colloquial\)
 - Notes: text\: たとえゲームでもズルはきらいだからゴトーは — because even in a game\, Goto hates cheating\, so\.\.\.
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: たいざいする
 - English: to stay\, to reside \(temporarily\, esp\. abroad\)
 - Notes: text\: 観光ビザなんてなくてもずっと外国滞在できるんだぜ — you can stay abroad indefinitely without even needing a tourist visa
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: がんこ
 - English: stubborn\, obstinate
 - Notes: text\: お前本当にガンコだな — you\'re really stubborn
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: おとしもの
 - English: a lost item\, something dropped
 - Notes: text\: なんとかカイトと連絡とって落とし物を返したいし… — somehow I want to get in touch with Kaito and return the item he lost
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: かんじん
 - English: essential\, crucial\, of chief importance
 - Notes: text\: そして一番肝心なのは — and the most important thing is\.\.\.
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: おせわになる
 - English: to be indebted to\, to receive someone\'s help\/care
 - Notes: text\: まずはお世話になった人達にあいさつに行って… — first\, go greet the people who looked after us
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: かくかくしかじか
 - English: such and such\, so and so \(abbreviates a story already told\/understood\)
 - Notes: text\: かくかくしかじかで渡されたこのプレートをヒソカに顔面パンチのおまけつきでたたき返す\!\! — \[after explaining\] such and such\, and I\'ll smack this plate right back at Hisoka\'s face with a bonus punch\!\!
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: たたきかえす
 - English: to strike back\, to hit\/slap back
 - Notes: text\: プレートをヒソカに顔面パンチのおまけつきでたたき返す\!\! — smack this plate back at Hisoka\'s face with a bonus punch\!\!
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: いばしょ
 - English: one\'s whereabouts\, one\'s location
 - Notes: text\: ヒソカの居場所は\? — where is Hisoka\?
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: ほんにん
 - English: the person themselves\, the person in question
 - Notes: text\: 本人に直接聞いたからだ — because I heard it directly from the person himself
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: ちょくせつ
 - English: directly\, firsthand
 - Notes: text\: 本人に直接聞いたからだ — because I heard it directly from the person himself
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: こうしゅう
 - English: a training session\, a course\, a lecture
 - Notes: text\: 講習が終わった後だ — it\'s after the training session ends
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: おぼえ
 - English: a memory\, a recollection
 - Notes: text\: ヤツに旅団のことを話した覚えはないから — because I don\'t recall telling that guy about the Troupe
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: ゆえに
 - English: therefore\, hence\, that is why \(formal connector\)
 - Notes: text\: クモは旅団のシンボルだゆえに旅団に近い者はヤツらをそう呼ぶ — the spider is the Troupe\'s symbol\, hence those close to the Troupe call them that
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: プライドがたかい
 - English: to be very proud\, to have a strong sense of pride
 - Notes: text\: プライドの高いお前が敵の試合放棄を受け入れた理由がわかったぜ — now I understand why someone as prideful as you accepted your opponent\'s forfeit
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: ほうき
 - English: abandonment\, forfeiture\, relinquishment
 - Notes: text\: 敵の試合放棄を受け入れた理由がわかったぜ — I understand why you accepted the opponent\'s forfeit
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: うけいれる
 - English: to accept\, to take in
 - Notes: text\: 敵の試合放棄を受け入れた理由がわかったぜ — I understand why you accepted the opponent\'s forfeit
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: といただす
 - English: to press for an answer\, to question closely
 - Notes: text\: 講習の後ヒソカに問いただした — after the training session\, I pressed Hisoka for an answer
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: ちんぴん
 - English: a rare item\, a curiosity
 - Notes: text\: 世界中から珍品希少品国宝級の貴重品集まる — rare items\, scarce items\, national\-treasure\-class valuables gather from all over the world
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: うみせんやません
 - English: a shrewd\, worldly\-wise veteran \(idiom\, lit\. \"a thousand years in the sea\, a thousand in the mountains\"\)
 - Notes: text\: 海千山千の亡者達が欲望を満たすためやってくる — worldly\-wise old hands come to satisfy their greed
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: もうじゃ
 - English: a person consumed by desire\/greed \(lit\. a departed soul\)
 - Notes: text\: 海千山千の亡者達が欲望を満たすためやってくる — worldly\-wise old hands\, consumed by greed\, come here to satisfy their desires
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: よくぼう
 - English: desire\, greed\, craving
 - Notes: text\: 欲望を満たすためやってくる — they come to satisfy their greed
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: ごまんと
 - English: a great many\, tons of \(colloquial\)
 - Notes: text\: 関わりの深い連中はごまんと来るだろう — a huge number of people deeply connected to them will probably come
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: やといぬし
 - English: an employer
 - Notes: text\: オークションに参加するためには金が必要だし雇い主を探す — to take part in the auction I\'ll need money\, so I need to find an employer
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: くぎり
 - English: a break\, a stopping point\, a sense of closure
 - Notes: text\: キルアとも再会できたし私は区切りがついた — I\'ve reunited with Killua too\, so I\'ve reached a stopping point
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: ほんかくてきに
 - English: in earnest\, properly\, seriously
 - Notes: text\: これからは本格的にハンターとして — from now on\, in earnest\, as a proper Hunter\.\.\.
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: こきょう
 - English: one\'s hometown\, birthplace
 - Notes: text\: オレも故郷へ戻るぜ — I\'m heading back to my hometown too
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: もうべんきょう
 - English: intense studying\, cramming
 - Notes: text\: これから帰って猛勉強しねーとな — I have to go home now and cram\-study
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: じゅぎょうりょう
 - English: tuition fee
 - Notes: text\: バカ高い授業料は免除されるからな — because that ridiculously expensive tuition gets waived
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: めんじょされる
 - English: to be exempted\, to be waived \(from a fee or duty\)
 - Notes: text\: バカ高い授業料は免除されるからな — because that ridiculously expensive tuition gets waived
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: すてきれない
 - English: unable to fully give up\, can\'t completely abandon \(a dream\, feeling\)
 - Notes: text\: やっぱり医者の夢は捨てきれねェ — after all\, I can\'t give up on my dream of being a doctor
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: あっというまに
 - English: in an instant\, in the blink of an eye
 - Notes: text\: あっという間に2人になっちゃったね — in the blink of an eye\, it\'s down to just the two of us
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: とっくん
 - English: intensive\/special training
 - Notes: text\: どーするって特訓に決まってんだろ — what do you mean \"what should we do\"\, it\'s obviously special training
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: なぐる
 - English: to punch\, to hit\, to strike
 - Notes: text\: ほんとにヒソカを一発でも殴れると思ってんのか\!\? — do you really think you could land even one punch on Hisoka\!\?
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: どころか
 - English: far from being just \~\, let alone \~ \(contrastive pattern\)
 - Notes: text\: 半年どころか10年たってもムリだっつーの — forget half a year\, even after 10 years it\'d be impossible\, I\'m telling you
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: さ
 - English: a difference\, a gap
 - Notes: text\: お前との差は…このぐらいだ — the difference between you \(and him\) is\.\.\. about this much
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: ムカつく
 - English: to be annoyed\, irritated\, ticked off
 - Notes: text\: ちょっとムカつく — that\'s kind of annoying
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: けっきょく
 - English: in the end\, ultimately
 - Notes: text\: うーんオレってばけっきょく… — hmm\, well as for me\, in the end\.\.\.
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: はずい
 - English: embarrassing \(casual slang contraction of 恥ずかしい\)
 - Notes: text\: 恥ずいだろ — it\'s embarrassing\, right
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: まがお
 - English: a straight face\, a serious expression
 - Notes: text\: キルアってやっぱりすごいなー真顔で言うな — Killua really is amazing — don\'t say it with a straight face
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: たよる
 - English: to rely on\, to depend on
 - Notes: text\: あんまりこれに頼るのもよくねーよ — relying on this too much isn\'t good either
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: けいけんをつむ
 - English: to accumulate experience
 - Notes: text\: 経験つむとその精度が少し良くなるだけ — accumulating experience only makes its precision a little better
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: せいど
 - English: precision\, accuracy
 - Notes: text\: 経験つむとその精度が少し良くなるだけ — accumulating experience only makes its precision a little better
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: てきとう
 - English: approximate\, rough\, imprecise
 - Notes: text\: こいつもてきとーなんだからオレ自身と相手の強さの差がはっきりわかんないよ — this thing is imprecise too\, so I can\'t clearly tell the difference in strength between me and my opponent
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: なみたいてい
 - English: ordinary\, average \(usu\. negated\: \"no ordinary\.\.\.\"\)
 - Notes: text\: 並大抵のことじゃ半年で一矢報いるのはムリだ — by ordinary means\, it\'d be impossible to land a counterblow in half a year
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: いっしむくいる
 - English: to strike back\, to get in a counterblow \(idiom\)
 - Notes: text\: 並大抵のことじゃ半年で一矢報いるのはムリだ — by ordinary means\, it\'d be impossible to land a counterblow in half a year
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: そうとう
 - English: considerably\, quite\, fairly
 - Notes: text\: まあなんにしてもヒソカは相当強い\! — well\, in any case\, Hisoka is considerably strong\!
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: やばい
 - English: risky\, dicey\, in a bad way \(colloquial\)
 - Notes: text\: 実はそろそろやばい — actually\, things are getting pretty dicey \(running low on money\)
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: いっせきにちょう
 - English: killing two birds with one stone \(idiom\)
 - Notes: text\: そこで一石二鳥の場所がある — so there\'s a place that kills two birds with one stone
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: ほこる
 - English: to boast\, to take pride in
 - Notes: text\: 世界第4位の高さを誇る建物だ — a building that boasts the world\'s 4th\-tallest height
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: はるか
 - English: far away\, distant \(in space or time\)
 - Notes: text\: ヨークシンはそのはるか下の大陸にある — Yorkshin is on the continent far below there
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: おりる
 - English: to get off\, to disembark
 - Notes: text\: 船を降りたらゼロから出発だな — once we get off the ship\, it\'s a fresh start from zero
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: ひこうせん
 - English: an airship
 - Notes: text\: この飛行船の乗船賃で金は全部使っちまった — we used up all our money on this airship\'s fare
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: じょうせんちん
 - English: a boat\/ship fare
 - Notes: text\: この飛行船の乗船賃で金は全部使っちまった — we used up all our money on this airship\'s fare
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: かせぐ
 - English: to earn \(money\)\, to make a living
 - Notes: text\: あとは稼ぐしかない — all that\'s left is to earn money
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: ぎょうれつ
 - English: a line\, a queue \(of people\)
 - Notes: text\: すごい行列だね — what an amazing line
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: やばんじん
 - English: a barbarian\, a savage
 - Notes: text\: 野蛮人の聖地なのさ — it\'s the sacred ground of barbarians
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: せいち
 - English: sacred ground\, holy land
 - Notes: text\: 野蛮人の聖地なのさ — it\'s the sacred ground of barbarians
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: いっさい
 - English: entirely\, \(not\) at all \(used with negatives\)
 - Notes: text\: ハンター試験と違って条件は一切なし\! — unlike the Hunter Exam\, there are no conditions at all\!
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: ぶったおす
 - English: to knock down\, to defeat \(emphatic\/rough form of 倒す\)
 - Notes: text\: 相手をぶっ倒せばいいだけだからな — all you have to do is knock down your opponent
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: かくとうぎ
 - English: martial arts\, combat sports
 - Notes: text\: 格闘技経験10年って書いとけ — just write \"10 years of martial arts experience\"
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: ひつようじこう
 - English: required information\, necessary items \(on a form\)
 - Notes: text\: こちらに必要事項をお書き下さい — please write the necessary information here
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: なつかしい
 - English: nostalgic\, dear \(evoking fond memories\)
 - Notes: text\: なつかしいちっとも変わってねーや — nostalgic\, it hasn\'t changed one bit
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: ちっとも
 - English: not even a little\, not at all \(used with negative\)
 - Notes: text\: なつかしいちっとも変わってねーや — nostalgic\, it hasn\'t changed one bit
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: むいちもん
 - English: penniless\, without a cent
 - Notes: text\: 6才の頃かな無一文で親父に放りこまれた — I think I was 6\, thrown in penniless by my dad
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: ほうりこむ
 - English: to throw into\, to fling\/toss into
 - Notes: text\: 無一文で親父に放りこまれた — I was thrown in penniless by my dad
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: いそぐ
 - English: to hurry\, to rush
 - Notes: text\: 急ぐぜ — let\'s hurry
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: きんちょうする
 - English: to be nervous\, to be tense
 - Notes: text\: うーんキンチョーしてきた — hmm\, I\'m getting nervous
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: おもいっきり
 - English: with all one\'s might\, to the fullest extent
 - Notes: text\: ならもうきた…ただ思いっきり… — then it\'s already here\.\.\. just go all out\.\.\.
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: ガキ
 - English: a kid\, a brat \(derogatory\/casual\)
 - Notes: text\: ガキだぜ — it\'s just a brat
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: じょうがい
 - English: outside the arena\/ring\, off the field
 - Notes: text\: 一発で場外へたたき出してやれやー\!\!\! — knock him clean out of the ring with one punch\!\!\!
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: たたきだす
 - English: to knock out\, to drive\/kick out
 - Notes: text\: 一発で場外へたたき出してやれやー\!\!\! — knock him clean out of the ring with one punch\!\!\!
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: うんがいい
 - English: to be lucky
 - Notes: text\: でかいのに運がいいな\!\! — lucky to get such a big guy\!\!
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: せいげんじかん
 - English: a time limit
 - Notes: text\: 制限時間3分以内に自らの力を発揮して下さい — please demonstrate your own strength within the 3\-minute time limit
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: はっきする
 - English: to display\, to exhibit\, to demonstrate \(an ability\)
 - Notes: text\: 自らの力を発揮して下さい — please demonstrate your own strength
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: ちからがつく
 - English: to gain strength\, to build up power
 - Notes: text\: こんなに力がついてたのか — so I\'d gained this much strength\, huh
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: のぼる
 - English: to climb\, to ascend
 - Notes: text\: キミは今度200階まで登ってるね — you\'re climbing up to floor 200 this time\, huh
-- WK level:
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: すばらしい
 - English: splendid\, wonderful\, magnificent
 - Notes: text\: 今の動きもすばらしかった — that move just now was splendid too
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: ばけもの
 - English: a monster\, an apparition
 - Notes: text\: もう一人バケモンみてーなガキが現れたぞオイ — hey\, another monster\-like kid has shown up
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: あらわれる
 - English: to appear\, to show up
 - Notes: text\: もう一人バケモンみてーなガキが現れたぞオイ — hey\, another monster\-like kid has shown up
-- WK level:
 
 ## e0089
 
@@ -799,4 +711,3 @@
 - Kana: にゅうじょうきょか
 - English: entry permission\, admission permit
 - Notes: text\: 50階への入場許可をします — I\'ll grant entry permission to floor 50
-- WK level:

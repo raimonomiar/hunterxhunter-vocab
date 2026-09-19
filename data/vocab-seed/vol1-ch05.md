@@ -7,7 +7,6 @@
 - Kana: たてもの
 - English: building
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: かいじょう
 - English: venue
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: もさ
 - English: formidable person\, tough veteran
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: はつちょうせん
 - English: first attempt\, first challenge
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: ていしょくや
 - English: set\-meal restaurant\, diner
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: じょうだん
 - English: joke
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: あんないしゃ
 - English: guide \(person\)
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: おうぼしゃ
 - English: applicant
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: やきかた
 - English: how something\'s cooked\/grilled
 - Notes: asked as \"how would you like it done\?\"
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: よわび
 - English: low heat\, low flame
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: ばいりつ
 - English: \(competition\) ratio\, odds
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: ルーキー
 - English: rookie
 - Notes: Literally \"first\-time examinee\"\, but the furigana reads it as the loanword ルーキー \(rookie\) — wordplay
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: ごうかく
 - English: to pass \(an exam\)
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: かくりつ
 - English: probability
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: かこく
 - English: harsh\, severe
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: しつれい
 - English: rude\, impolite
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: つぶす
 - English: to crush\, to destroy
 - Notes: 潰す\; here as つぶし — veteran examinees breaking newcomers\' bodies so they can never retake the test
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: たいへんなめにあう
 - English: to go through a terrible\/hard experience
 - Notes: 大変な目に遭う \(Expression\)
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: けだかい
 - English: noble\, lofty
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: もうかる
 - English: to be profitable
 - Notes: 儲かる\; written in kana in the text
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: せいしき
 - English: official\, formal
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: ちつじょ
 - English: order \(of nature\/society\)
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: きちょう
 - English: precious\, valuable
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: きしょう
 - English: rare\, scarce
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: しめいてはい
 - English: wanted \(by the law\)
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: とりしまる
 - English: to control\, to crack down on
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: ふごう
 - English: wealthy person\, tycoon
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: しょうちょう
 - English: symbol
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: そうぞうず
 - English: artist\'s impression\, imagined diagram
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: やりがい
 - English: sense of purpose\, being worth doing
 - Notes: やりがいのある仕事\: a job worth doing
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: つづき
 - English: continuation\, sequel
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: みなと
 - English: harbor\, port
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: すれちがう
 - English: to pass by each other
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: ふんいき
 - English: atmosphere\, mood
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: いしつ
 - English: heterogeneous\, different in nature
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: あきらか
 - English: obvious\, clear
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: しぼうしゃ
 - English: hopeful\, aspirant
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: たつじん
 - English: master\, expert
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: ちかどう
 - English: underground passage\, tunnel
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: ばんごうふだ
 - English: numbered tag
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: しんがお
 - English: newcomer\, new face
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: いばる
 - English: to boast\, to be arrogant
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: とうぜん
 - English: naturally\, of course
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: だんとつ
 - English: by far\, overwhelmingly \(the best\/most\)
 - Notes: 断トツ\; written ダントツ in katakana in the text
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: あたまがきれる
 - English: to be sharp\-witted\, quick\-witted
 - Notes: 頭が切れる\; written 頭もキレる in the text \(Expression\)
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: しゅうねんぶかい
 - English: tenacious\, obsessive\, vindictive
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: やっかい
 - English: troublesome\, burdensome
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: みぎにでるものなし
 - English: to be unrivaled\, unsurpassed
 - Notes: 体術において右に出るものなし \(Expression\)
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: ぜつみょう
 - English: exquisite\, superb
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: しとめる
 - English: to bring down \(prey\)\, to kill
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: すごうで
 - English: highly skilled\, formidable talent
 - Notes: 凄腕\; written スゴ腕 \(katakana \+ kanji mix\) in the text
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: じょうれん
 - English: regular \(customer\/attendee\)
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: れんちゅう
 - English: group\, bunch \(of people\)
 - Notes:
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: たねもしかけもない
 - English: no tricks up my sleeve
 - Notes: 種も仕掛けもない\; text renders it タネもしかけもございません — a magician\'s stock phrase \(Expression\)
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: ぶつかる
 - English: to bump into\, to collide
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: あやまる
 - English: to apologize
 - Notes:
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: きじゅつし
 - English: magician\, conjurer
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: はんごろし
 - English: beaten half to death
 - Notes: 半殺しにする\: to beat someone within an inch of their life
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: しっかく
 - English: disqualification
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: さいきふのう
 - English: unable to recover\, incapacitated
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: きょくりょく
 - English: as much as possible
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: ちかよる
 - English: to approach\, to get close
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: しんじん
 - English: newcomer\, rookie
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: たち
 - English: nature\, disposition
 - Notes: 性質が悪い \(たちがわるい\)\: to have a nasty\/bad nature — read たち here\, not せいしつ
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: けんとう
 - English: hard fight\, good effort
 - Notes: 健闘を祈る\: to wish someone a good fight \(Expression\)
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: おちかづきのしるし
 - English: as a token of getting acquainted
 - Notes: お近づきのしるし \(Expression\)
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: かんぱい
 - English: cheers\, toast
 - Notes: 乾杯\; written カンパイ in katakana in the text
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: げざい
 - English: laxative
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: ひとくち
 - English: one mouthful\, one sip
 - Notes:
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: どせきりゅう
 - English: mudslide\, debris flow
 - Notes: used metaphorically here in a crude joke about diarrhea
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: みかく
 - English: sense of taste
 - Notes:
-- WK level:
 
 ## e0072
 
@@ -646,4 +575,3 @@
 - Kana: がき
 - English: brat\, kid
 - Notes: ガキ \(slang\, derogatory\)\; from 餓鬼 \(hungry ghost\)
-- WK level:

@@ -11,7 +11,6 @@ export type EntryFormValues = {
   english: string;
   page: string;
   notes: string;
-  wkLevel: string;
 };
 
 function toFormValues(
@@ -28,7 +27,6 @@ function toFormValues(
     english: entry?.english ?? "",
     page: entry ? String(entry.page) : defaultPage ? String(defaultPage) : "",
     notes: entry?.notes ?? "",
-    wkLevel: entry?.wkLevel ?? "",
   };
 }
 
@@ -53,7 +51,7 @@ export default function EntryForm({
     toFormValues(volume, chapter, entry, defaultPage),
   );
   const [showMore, setShowMore] = useState(
-    Boolean(entry?.notes || entry?.wkLevel),
+    Boolean(entry?.notes),
   );
   const [submitting, setSubmitting] = useState(false);
   const [confirmingDelete, setConfirmingDelete] = useState(false);
@@ -62,7 +60,7 @@ export default function EntryForm({
 
   useEffect(() => {
     setValues(toFormValues(volume, chapter, entry, defaultPage));
-    setShowMore(Boolean(entry?.notes || entry?.wkLevel));
+    setShowMore(Boolean(entry?.notes));
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [entry?.id]);
 
@@ -225,7 +223,7 @@ export default function EntryForm({
             onClick={() => setShowMore(true)}
             className="mb-3 self-start text-sm font-medium text-blue-600 dark:text-blue-400"
           >
-            + Notes / WK level
+            + Notes
           </button>
         )}
 
@@ -240,18 +238,6 @@ export default function EntryForm({
                 value={values.notes}
                 onChange={(e) => set("notes", e.target.value)}
                 rows={2}
-                className="w-full rounded-lg border border-neutral-300 px-3 py-2 text-base dark:border-neutral-700 dark:bg-neutral-800"
-              />
-            </div>
-            <div className="mb-3">
-              <label htmlFor={`${formId}-wk`} className="mb-1 block text-sm font-medium text-neutral-600 dark:text-neutral-300">
-                WK Level <span className="font-normal text-neutral-400">(optional)</span>
-              </label>
-              <input
-                id={`${formId}-wk`}
-                type="text"
-                value={values.wkLevel}
-                onChange={(e) => set("wkLevel", e.target.value)}
                 className="w-full rounded-lg border border-neutral-300 px-3 py-2 text-base dark:border-neutral-700 dark:bg-neutral-800"
               />
             </div>

@@ -7,7 +7,6 @@
 - Kana: しつげん
 - English: wetland\, marsh
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: えもの
 - English: prey\, quarry
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: あざむく
 - English: to deceive\, to trick
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: ほしょく
 - English: to prey on\, predation
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: ひょうてき
 - English: target
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: くいものにする
 - English: to exploit\, to prey on \(someone\)
 - Notes: Expression\; lit\. \"to make food of\" — describes predators\/con artists exploiting victims
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: せいたいけい
 - English: ecosystem
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: さぎし
 - English: con artist\, swindler
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: ゆえん
 - English: the reason why\, the very reason \(something is called X\)
 - Notes: 所以\; formal — …とよばれるゆえん\: \"that\'s the reason \(they\'re\) called\.\.\.\"
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: だます
 - English: to trick\, to deceive
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: ちゅういぶかい
 - English: careful\, cautious
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: うそをつく
 - English: to tell a lie
 - Notes: Expression\; text writes 嘘 as ウソ
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: にせもの
 - English: fake\, impostor
 - Notes: written ニセ者 \(katakana \+ kanji mix\) in the text
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: せいそく
 - English: to inhabit\, to live \(of an animal\)
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: しんせん
 - English: fresh
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: このむ
 - English: to prefer\, to like
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: たくみ
 - English: skillful\, deft
 - Notes: 言葉巧みに\: with clever\, skillful words — describing glib deception
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: れんけい
 - English: to cooperate\, to work together
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: いけどり
 - English: capturing alive\, live capture
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: いちもうだじん
 - English: catching everyone in one sweep
 - Notes: 四字熟語 \(four\-character idiom\)\, lit\. \"one net\, all caught\"
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: しんだふりをする
 - English: to play dead\, to pretend to be dead
 - Notes: Expression
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: けってい
 - English: decision\, determination
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: いらい
 - English: to request\, to commission
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: むしょう
 - English: free of charge\, unpaid
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: はしくれ
 - English: a mere\/lowly member \(of a group\)
 - Notes: self\-deprecating\: \"even a lowly member of X\"\; here ハンターの端くれ \= \"even an aspiring Hunter like us\"
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: ほめことば
 - English: compliment\, words of praise
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: いかなる
 - English: whatever\, any kind of
 - Notes: formal\; いかなる理由でも\: \"for whatever reason\"
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: はんぎゃく
 - English: rebellion\, treason
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: みなす
 - English: to regard as\, to deem
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: はいしゃ
 - English: loser\, the defeated
 - Notes:
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: おきて
 - English: law\, rule\, code \(esp\. of nature or a group\)
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: あつかう
 - English: to treat\, to handle
 - Notes: ニセ者扱いして\: treating \(him\) as an impostor
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: こんらん
 - English: confusion\, chaos
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: つれさる
 - English: to take away\, to abduct
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: いのちがけ
 - English: risking one\'s life\, life\-or\-death
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: だましあい
 - English: mutual deception\, a battle of lies
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: にちや
 - English: day and night\, constantly
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: うたがう
 - English: to doubt\, to suspect
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: とつにゅう
 - English: to rush into\, to storm into
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: ぬかるみ
 - English: mud\, mire\, muddy ground
 - Notes: written in kana in the text\; 泥濘み in kanji
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: みうしなう
 - English: to lose sight of
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: うずうずする
 - English: to be itching to \(do something\)\, impatient
 - Notes: written ウズウズ in the text\; mimetic word
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: じょうじる
 - English: to take advantage of\, to exploit \(an opportunity\)
 - Notes: 霧に乗じて\: taking advantage of the fog
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: どうるい
 - English: the same kind\, fellow\, of the same type
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: ねこをかぶる
 - English: to feign innocence\, to play docile
 - Notes: idiom\, lit\. \"to wear a cat\"\; text has the casual contraction 猫かぶってる
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: きんちょうかん
 - English: sense of tension
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: こい
 - English: thick\, dense \(fog\, color\, etc\.\)
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ぜんぽう
 - English: ahead\, the front\, forward
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: たより
 - English: reliance\, something to depend on
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: ひめい
 - English: scream\, shriek
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: ぐんせい
 - English: to grow in a cluster\/colony \(of plants\)
 - Notes:
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: さそう
 - English: to invite\, to lure\, to tempt
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: おそう
 - English: to attack\, to assault
 - Notes:
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: のろい
 - English: slow\-moving\, sluggish
 - Notes: written in kana in the text\; describes slow movement
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: ひたすら
 - English: single\-mindedly\, intently
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: わな
 - English: trap
 - Notes:
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: ならべたてる
 - English: to reel off\, to rattle off \(a list\, e\.g\. of lies\)
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: うそはっぴゃく
 - English: a pack of lies\, a huge pile of nonsense
 - Notes: idiom\, lit\. \"800 lies\"\; written ウソ八百 in the text
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: しにく
 - English: carrion\, corpse flesh
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: あさる
 - English: to scavenge\, to forage for
 - Notes: 漁る\; written in kana in the text
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: ようちゅう
 - English: larva
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: ほうし
 - English: spore
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: はんしょく
 - English: to breed\, to reproduce\, to proliferate
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: うかつ
 - English: careless\, thoughtless
 - Notes:
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: まきこむ
 - English: to get swept up in\, to involve
 - Notes: text uses the passive まきこまれちまった\: \"got caught up in\"
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: ゆうどう
 - English: to guide\, to lead\, to induce
 - Notes:
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: ぼやっとする
 - English: to space out\, to be absent\-minded
 - Notes: written ボヤッと in the text
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: かすむ
 - English: to become blurry\, hazy
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: はぐれる
 - English: to get separated \(from a group\)
 - Notes:
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: せいぜい
 - English: at most\, the best one can do
 - Notes: used sarcastically here\: \"the best you can do is pray you don\'t hear it\"
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: てめえ
 - English: you \(rude\, contemptuous\)
 - Notes: 手前\; vulgar\/aggressive term of address\, common in shounen manga dialogue
-- WK level:
 
 ## e0072
 
@@ -646,4 +575,3 @@
 - Kana: ごっこ
 - English: pretend play \(suffix\)
 - Notes: attaches to nouns\, e\.g\. 試験官ごっこ \= \"playing pretend examiner\"
-- WK level:

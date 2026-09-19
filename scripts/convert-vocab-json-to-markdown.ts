@@ -1,7 +1,9 @@
 /**
  * One-time mechanical conversion of the legacy chapter JSON into the
  * canonical Markdown source. It intentionally preserves array order and all
- * source fields; stable IDs are allocated once from that original order.
+ * Markdown source fields; stable IDs are allocated once from that original
+ * order. Legacy WK metadata is validated for a readable error but is
+ * intentionally not carried forward.
  *
  * Usage:
  *   npm run convert-vocab-json -- [json-dir] [markdown-dir]
@@ -25,7 +27,8 @@ type LegacyEntry = {
   english: string;
   page: number;
   notes: string | null;
-  wkLevel: string | null;
+  /** Accepted only while reading legacy JSON; never emitted to Markdown. */
+  wkLevel?: string | null;
 };
 
 function readEntries(file: string): LegacyEntry[] {
@@ -55,7 +58,6 @@ function readEntries(file: string): LegacyEntry[] {
       english: entry.english,
       page: entry.page,
       notes: entry.notes as string | null,
-      wkLevel: (entry.wkLevel as string | null | undefined) ?? null,
     };
   });
 }

@@ -7,7 +7,6 @@
 - Kana: しょくん
 - English: everyone\, gentlemen \(formal address to a group\)
 - Notes: old\-fashioned\/authoritative way of addressing a crowd\; Netero uses it addressing the examinees
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: せきにんしゃ
 - English: person in charge\, the one responsible
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: ほんらい
 - English: originally\, properly speaking
 - Notes: 本来なら〜\: \"normally\/originally it would be\.\.\.\"
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: とうじょうする
 - English: to appear\, to make an entrance
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: げんば
 - English: the scene\, the site \(of an event\)
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: つたわる
 - English: to be conveyed\, to come through \(of a feeling\)
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: とうちゃくよてい
 - English: expected arrival \(time\)
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: たんけんする
 - English: to explore
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: きになる
 - English: to be on one\'s mind\, to be curious\/concerned about
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: こうりょする
 - English: to take into consideration
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: きをぬく
 - English: to let one\'s guard down\, to relax one\'s attention
 - Notes: 気を抜かない方がいい\: \"better not let your guard down\"
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: かねない
 - English: could easily result in\, might well \(do something undesirable\)
 - Notes: attaches to a verb stem\; \.\.\.なりかねない\: \"could even end up being\.\.\.\"
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: とはかぎらない
 - English: isn\'t necessarily the case that\, not always true that
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: しだい
 - English: depending on \~
 - Notes: 試験内容次第\: \"depending on the exam content\"
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: きづく
 - English: to notice\, to realize
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: ごうかくしゃ
 - English: successful candidate\, person who passed
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: だんぜん
 - English: decisively\, by far
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: なまいき
 - English: cheeky\, impudent\, insolent
 - Notes: written ナマイキ in katakana in the text
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: さっき
 - English: killing intent\, a murderous aura
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: はなつ
 - English: to emit\, to give off\, to release
 - Notes: 殺気を放つ\: to give off killing intent
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: おさえきれない
 - English: unable to hold back\/contain \(oneself\)
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: すがたをみせる
 - English: to show oneself\, to appear
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: ようちゅういじんぶつ
 - English: a person to watch out for\, someone requiring caution
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: みとめる
 - English: to admit\, to acknowledge
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: おなじあなのむじな
 - English: two of a kind\, birds of a feather \(usually pejorative\)
 - Notes: idiom\, lit\. \"badgers of the same hole\"\; text writes 狢 as ムジナ
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: いたんじ
 - English: maverick\, black sheep\, unconventional one
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: こうてきしゅ
 - English: a worthy rival\, good match
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: はどめ
 - English: a brake\, a check\, a restraint
 - Notes: 歯止めなく\: \"without restraint\"
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: ほうせき
 - English: jewel\, gem
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: さつじんき
 - English: murderer\, serial killer
 - Notes: lit\. \"murder demon\"
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: ききかえす
 - English: to ask again\, to ask back
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: あんさつかぎょう
 - English: the assassination trade\/business
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: レールをしかれる
 - English: to have one\'s path\/course laid out \(by someone else\)
 - Notes: レールを敷かれる人生\: \"a life whose rails are laid out for you\" — idiom for a predetermined life path
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: ちまなこになる
 - English: to become frantic\/desperate \(lit\. bloodshot\-eyed\)
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: ひとごろし
 - English: murder\, a murderer
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: そしつ
 - English: aptitude\, natural quality\/talent
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: なみだながらに
 - English: while in tears\, tearfully
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: りきせつする
 - English: to argue emphatically\, to stress \(a point\)
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: とっつかまえる
 - English: to catch\, to nab
 - Notes: emphatic\/colloquial form of 捕まえる
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: すばやい
 - English: quick\, nimble\, agile
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: としのわりに
 - English: for one\'s age\, considering one\'s age
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: ちかづく
 - English: to approach\, to get close
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: かんそう
 - English: impression\, one\'s thoughts \(on something\)
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: じゃけんにする
 - English: to treat coldly\/harshly
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: てごたえ
 - English: a sense of resistance\/response\; a worthy challenge
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: なんかん
 - English: a difficult barrier\, obstacle
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: ひょうしぬけ
 - English: anticlimax\, letdown
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ぎだい
 - English: topic of discussion\, agenda item
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: うばう
 - English: to snatch\, to take by force
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: こうげき
 - English: attack
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: てをだす
 - English: to make a move against\, to interfere\, to get involved
 - Notes:
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: ごじゆうに
 - English: feel free \(to do as you like\)
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: なめる
 - English: to underestimate\, to look down on
 - Notes: なめやがって\: rude\/contemptuous form\, \"the nerve\, underestimating \(me\)\"
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: すえおそろしい
 - English: showing frighteningly great promise \(esp\. of a child\)
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: ざんぞう
 - English: afterimage
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: かんきゅうをつける
 - English: to vary the tempo\/pace
 - Notes:
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: おうようする
 - English: to apply \(a technique\/principle\)
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: ちょこまか
 - English: scurrying\/moving restlessly about
 - Notes: mimetic word
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: じくあし
 - English: pivot foot\, the weight\-bearing foot
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: えんりょのない
 - English: unreserved\, without holding back
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: こなごな
 - English: smashed to bits\, into pieces
 - Notes: written コナゴナ in the text
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: じょうじん
 - English: an ordinary person
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: まっこうしょうぶ
 - English: a head\-on confrontation\, direct match
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: じゅうねんはやい
 - English: \"you\'re ten years too early\" — not experienced\/ready enough yet
 - Notes: idiom used to belittle someone as too inexperienced to compete
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: ジャンプりょく
 - English: jumping ability\/power
 - Notes:
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: ゆだんする
 - English: to be off guard\, to let one\'s guard down
 - Notes:
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: とぼける
 - English: to play dumb\, to feign ignorance
 - Notes: とぼけた顔してる\: \"wearing an innocent\/feigned\-ignorance face\"
-- WK level:
 
 ## e0068
 
@@ -610,4 +543,3 @@
 - Kana: それなりに
 - English: to a certain extent\, in one\'s own way
 - Notes:
-- WK level:

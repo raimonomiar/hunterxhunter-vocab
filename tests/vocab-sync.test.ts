@@ -28,7 +28,6 @@ function entry(
     kana: "ご",
     english,
     notes,
-    wkLevel: null,
     file: "data/vocab-seed/vol1-ch01.md",
     line: page + 1,
   };
@@ -96,6 +95,37 @@ test("accepted shared correction updates an unchanged local row", async () => {
   await applyVocabSync(db, plan, changed);
   const rows = await entryRows(db);
   assert.equal(rows[0].english, "corrected gloss");
+});
+
+test("synchronization preserves legacy WK metadata outside canonical fields", async () => {
+  const db = await isolatedDb();
+  await applyClean(db);
+  const sourceKey = sourceEntryKey(1, 1, "e0001");
+  await db.execute({
+    sql: "UPDATE vocab_entries SET wk_level = ? WHERE id = 1",
+    args: ["legacy level"],
+  });
+  await db.execute({
+    sql: "UPDATE vocab_source_entries SET base_wk_level = ? WHERE source_key = ?",
+    args: ["legacy level", sourceKey],
+  });
+
+  const changed = corpus([
+    entry("e0001", 1, "corrected gloss"),
+    entry("e0002", 2, "second"),
+  ]);
+  const plan = await planVocabSync(db, changed);
+  assert.equal(plan.summary.update, 1);
+  await applyVocabSync(db, plan, changed);
+
+  assert.equal((await entryRows(db))[0].wk_level, "legacy level");
+  assert.equal(
+    (await db.execute({
+      sql: "SELECT base_wk_level FROM vocab_source_entries WHERE source_key = ?",
+      args: [sourceKey],
+    })).rows[0].base_wk_level,
+    "legacy level",
+  );
 });
 
 test("personal edit is preserved when source is unchanged and conflicts when both change", async () => {

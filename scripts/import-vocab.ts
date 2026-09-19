@@ -15,7 +15,8 @@
  * since the app's data model has no way to represent them. A missing page
  * number is forward-filled from the previous row in the same sheet, which
  * matches how the spreadsheet's contributors left repeated page numbers
- * blank rather than retyping them.
+ * blank rather than retyping them. The workbook's legacy sixth WK column is
+ * intentionally ignored because it is not part of the canonical source.
  */
 import path from "node:path";
 import ExcelJS from "exceljs";
@@ -31,7 +32,6 @@ type ParsedRow = {
   english: string;
   page: number;
   notes: string | null;
-  wkLevel: string | null;
 };
 
 function cellToString(value: ExcelJS.CellValue): string | null {
@@ -65,9 +65,8 @@ function parseSheet(worksheet: ExcelJS.Worksheet): {
     const english = cellToString(row.getCell(3).value);
     const pageRaw = row.getCell(4).value;
     const notes = cellToString(row.getCell(5).value);
-    const wkLevel = cellToString(row.getCell(6).value);
 
-    const isFullyEmpty = !kanji && !kana && !english && pageRaw == null && !notes && !wkLevel;
+    const isFullyEmpty = !kanji && !kana && !english && pageRaw == null && !notes;
     if (isFullyEmpty) return; // formatting-only row Excel leaves behind
 
     if (!kana || !english) {
@@ -89,7 +88,7 @@ function parseSheet(worksheet: ExcelJS.Worksheet): {
       return;
     }
 
-    rows.push({ kanji, kana, english, page, notes, wkLevel });
+    rows.push({ kanji, kana, english, page, notes });
   });
 
   return { rows, skipped };
@@ -137,9 +136,9 @@ async function main() {
       const { rows, skipped } = parseSheet(worksheet);
       for (const entry of rows) {
         await db.execute({
-          sql: `INSERT INTO vocab_entries (chapter_id, kanji, kana, english, page, notes, wk_level)
-                VALUES (?, ?, ?, ?, ?, ?, ?)`,
-          args: [chapterId, entry.kanji, entry.kana, entry.english, entry.page, entry.notes, entry.wkLevel],
+          sql: `INSERT INTO vocab_entries (chapter_id, kanji, kana, english, page, notes)
+                VALUES (?, ?, ?, ?, ?, ?)`,
+          args: [chapterId, entry.kanji, entry.kana, entry.english, entry.page, entry.notes],
         });
       }
       chapterInserted += rows.length;

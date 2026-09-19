@@ -51,7 +51,6 @@ export async function POST(request: NextRequest) {
   const page = Number(body.page);
   const kanji = normalizeOptionalString(body.kanji);
   const notes = normalizeOptionalString(body.notes);
-  const wkLevel = normalizeOptionalString(body.wkLevel);
 
   const errors: string[] = [];
   if (!Number.isInteger(volume) || volume < 1) errors.push("volume must be a positive integer");
@@ -72,7 +71,6 @@ export async function POST(request: NextRequest) {
     english,
     page,
     notes,
-    wkLevel,
   });
   return NextResponse.json(entry, { status: 201 });
 }

@@ -7,7 +7,6 @@
 - Kana: いがい
 - English: unexpected\, surprising
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: かだい
 - English: task\, assignment\, problem
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: みちしるべ
 - English: trail marker\, signpost
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: したい
 - English: corpse\, dead body
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: ころがる
 - English: to roll\; to lie scattered about
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: どくとく
 - English: unique\, distinctive
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: ねらう
 - English: to aim at\, to target
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: ごうかく
 - English: to pass \(an exam\)
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: しけんかん
 - English: examiner
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: しんさ
 - English: to examine\, to screen\, to judge
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: くらわす
 - English: to land \(a blow\)\, to deal someone a hit
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: なぐりかかる
 - English: to strike at\, to lunge and attack
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: たおす
 - English: to knock down\, to defeat
 - Notes: text uses the passive 倒される\: \"got knocked down\"
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: かんじとる
 - English: to sense\, to perceive\, to pick up on
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: みごと
 - English: splendid\, admirable
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: みとめる
 - English: to admit\, to acknowledge
 - Notes: seen in the 〜ざるを得ない construction\: \"cannot help but admit\"
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: てんさいてき
 - English: genius\-like\, prodigious
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: しょうらいせい
 - English: future prospects\, potential
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: ししつ
 - English: qualities\, aptitude\, disposition
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: とくい
 - English: peculiar\, singular\, unusual
 - Notes: not to be confused with 得意 \(also とくい\, \"good at\"\) — different kanji and meaning\, same reading
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: はっくつ
 - English: to discover\, to unearth \(talent\)
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: かん
 - English: intuition\, hunch
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: むしんけい
 - English: insensitive\, thoughtless\, lacking tact
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: あっぱくかん
 - English: sense of pressure\, oppressive feeling
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: にげだす
 - English: to run away\, to flee
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: せをむける
 - English: to turn one\'s back \(on\)
 - Notes: expression\; here about not being able to turn away from danger
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: かちめ
 - English: chance of winning
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: きょくげん
 - English: extreme limit\, the utmost
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: はんめん
 - English: on the other hand\, conversely
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: ちょうほんにん
 - English: the culprit\, the one responsible\, the ringleader
 - Notes:
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: わくわくする
 - English: to be excited\, thrilled
 - Notes: mimetic word\; written ワクワク \(katakana\) in the text
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: ぶじ
 - English: safely\, without incident
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: ぬける
 - English: to pass through\, to get through
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: かいじょう
 - English: venue\, site
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: けんとう
 - English: fighting well\, a valiant effort
 - Notes: seen in the set phrase 健闘を祈ります\, \"I wish you good luck \(in the contest\)\"
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: へる
 - English: to decrease\, to diminish
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: じゅけんせい
 - English: examinee\, exam candidate
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: ほうさく
 - English: bumper crop\, abundant harvest
 - Notes: lit\. an abundant harvest\; used here figuratively for an unusually strong pool of exam candidates
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: しだい
 - English: depending on\, contingent upon
 - Notes: here in the pattern 〜次第では\, \"depending on \~\"
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: おしい
 - English: regrettable\, a pity\, close but not quite
 - Notes: written in kana in the text
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: きになる
 - English: to be curious about\, to be on one\'s mind
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: ようすをみる
 - English: to see how things go\, to wait and see
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: まにあう
 - English: to make it in time\, to be in time
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: けが
 - English: injury\, wound
 - Notes: written ケガ \(katakana\) in the text
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: きおく
 - English: memory
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: こうすい
 - English: perfume
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: たどる
 - English: to follow\, to trace \(a scent\, path\, memory\, etc\.\)
 - Notes: written in kana in the text
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: そうとう
 - English: considerably\, quite a lot
 - Notes: used adverbially here\: \"quite strange\"
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: うなりごえ
 - English: growl\, groan
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: けはい
 - English: sign\, indication\, hint \(of something\)
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: しょうご
 - English: noon
 - Notes:
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: いきなり
 - English: suddenly\, all of a sudden
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: じゅうぶん
 - English: sufficiently\, enough\, adequately
 - Notes: same kanji read じゅっぷん means \"ten minutes\" — different reading\, different meaning
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: きんちょう
 - English: tension\, nervousness
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: だいぶ
 - English: considerably\, quite
 - Notes: same kanji as the city Ōita\, but read おおいた there — different reading here
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: ぺこぺこ
 - English: very hungry\, famished
 - Notes: written ペコペコ \(katakana\) in the text\; mimetic word\, as in お腹がペコペコ
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: びしょく
 - English: gourmet food\, fine cuisine
 - Notes: part of the compound 美食ハンター \(\"Gourmet Hunter\"\)\, an in\-universe Hunter License category focused on food
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: たんきゅう
 - English: to investigate thoroughly\, to pursue research into
 - Notes:
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: そうぞう
 - English: creation
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: いちりゅう
 - English: first\-rate\, top\-class
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: まんぞく
 - English: satisfaction\, to satisfy
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: してい
 - English: to specify\, to designate
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: はれて
 - English: officially\, formally
 - Notes: adverbial idiom\, as in 晴れて合格 \"officially pass\"\; distinct from 晴れ \"clear weather\"
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: まんぷく
 - English: full stomach\, satiation
 - Notes:
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: じてん
 - English: point in time\, moment
 - Notes:
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: しゅうりょう
 - English: end\, conclusion\, termination
 - Notes:
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: かぎる
 - English: to limit\, to restrict
 - Notes:
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: まるやき
 - English: whole roasting \(of an animal\)\, roasted whole
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: だいこうぶつ
 - English: favorite food
 - Notes:
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: しゅるい
 - English: kind\, type\, species
 - Notes:
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: さんか
 - English: to participate\, participation
 - Notes:
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: しょうじき
 - English: honestly\, frankly
 - Notes:
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: ほっとする
 - English: to feel relieved
 - Notes:
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: たいかく
 - English: physique\, build
 - Notes:
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: げんかい
 - English: limit
 - Notes:
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: せいかく
 - English: personality\, character
 - Notes:
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: つかまえる
 - English: to catch\, to capture
 - Notes:
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: きょうぼう
 - English: ferocious\, violently savage
 - Notes:
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: にげおくれる
 - English: to be late in fleeing\, to fail to escape in time
 - Notes:
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: しょくりょう
 - English: food\, provisions
 - Notes:
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: がんじょう
 - English: sturdy\, robust
 - Notes:
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: つぶす
 - English: to crush\, to smash
 - Notes:
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: むきあう
 - English: to face\, to confront
 - Notes:
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: スリル
 - English: thrill
 - Notes: loanword from English \"thrill\"
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: ぞくぞくする
 - English: to shiver with excitement\, to get a thrill
 - Notes: mimetic word\; written ゾクゾク \(katakana\) in the text
-- WK level:
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: とうぶ
 - English: head \(as a body part\)
 - Notes:
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: じゃくてん
 - English: weak point\, weakness
 - Notes:
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: きょだい
 - English: huge\, gigantic
 - Notes:
-- WK level:
 
 ## e0089
 
@@ -799,7 +711,6 @@
 - Kana: かたい
 - English: hard\, solid \(physically\)
 - Notes:
-- WK level:
 
 ## e0090
 
@@ -808,7 +719,6 @@
 - Kana: もろい
 - English: fragile\, brittle
 - Notes: written in kana in the text
-- WK level:
 
 ## e0091
 
@@ -817,7 +727,6 @@
 - Kana: ひたい
 - English: forehead
 - Notes: same kanji read がく means \"amount\, sum\" — different reading here
-- WK level:
 
 ## e0092
 
@@ -826,7 +735,6 @@
 - Kana: しんか
 - English: evolution
 - Notes:
-- WK level:
 
 ## e0093
 
@@ -835,4 +743,3 @@
 - Kana: たいりょう
 - English: large catch\, bumper catch \(of fish\)
 - Notes: fishing term used here jokingly for the haul of captured pigs
-- WK level:

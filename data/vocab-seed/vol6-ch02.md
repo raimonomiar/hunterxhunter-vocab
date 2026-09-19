@@ -7,7 +7,6 @@
 - Kana: かいしんげき
 - English: a rapid winning streak\, an unstoppable advance
 - Notes: text\: 2人の快進撃はどこまで続くのでしょうか\!\? — just how far will these two\'s winning streak continue\!\?
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: しゅとう
 - English: a knife\-hand strike\, a karate chop
 - Notes: text\: 手刀のキルアと — Killua of the knife\-hand strike\, and…
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: れんぞく
 - English: consecutive\, in a row\, continuous
 - Notes: text\: 3日前に参加以来6戦連続無傷の勝利です\! — 6 consecutive wins without a scratch since joining 3 days ago\!
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: ししゅする
 - English: to defend to the death\, to guard desperately
 - Notes: text\: 皆このクラスを死守しようとするだろ\? — everyone will try to defend this class to the death\, right\?
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: くすぶる
 - English: to smolder\; \(fig\.\) to linger without making progress\, to stagnate
 - Notes: text\: 長くここらへんにくすぶってる奴ほどそれに長ける — the longer a guy lingers stagnating around here\, the more skilled he gets at it
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: たける
 - English: to be skilled at\, to excel in
 - Notes: text\: 長くここらへんにくすぶってる奴ほどそれに長ける — the longer a guy lingers around here\, the more skilled he gets at it
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: つまずく
 - English: to stumble\, to trip up\; \(fig\.\) to be tripped up by someone\/something
 - Notes: text\: そんな連中につまずくと結構ここで時間食うぜ — get tripped up by guys like that and you\'ll waste a lot of time here
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: むいちもん
 - English: penniless\, without a cent
 - Notes: text\: つい1週間前まで無一文だったのに — and to think\, just a week ago I was penniless
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: ふりこむ
 - English: to transfer \(money\) into an account\, to pay in
 - Notes: text\: ファイトマネーは指定口座にふりこみました — the prize money has been transferred into the designated account
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: けた
 - English: a digit\; an order of magnitude
 - Notes: text\: 数字が見たこともないケタになってる — the numbers have turned into digits I\'ve never even seen
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: くやしい
 - English: frustrating\, vexing\, regrettable
 - Notes: text\: ちょっとくやしいな — that\'s a little frustrating
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: うつる
 - English: to be shown\/displayed \(on a screen\)\, to be reflected
 - Notes: text\: さっきTVにズシが映ってた — Zushi was just showing on TV
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: つうじる
 - English: to be common to\, to lead to\, to apply to
 - Notes: text\: 全ての格闘技に通じる基本っす — the fundamentals common to every martial art
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: なまびょうほう
 - English: a little\/superficial knowledge \(idiom\: \"生兵法は大怪我のもと\" — a little learning is a dangerous thing\)
 - Notes: text\: 生兵法は大怪我の元ってやつね — as they say\, half\-baked skill is the root of serious injury
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: おさめる
 - English: to master\, to complete one\'s study of
 - Notes: text\: 人に物を教えられる程物を修めたのかな — have you mastered things enough to be able to teach others\?
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: ちゅうとはんぱ
 - English: half\-done\, incomplete\, halfway
 - Notes: text\: 物事とは中途半端に知ることは… — when things are known only halfway…
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: つかいこなす
 - English: to master the use of\, to use fluently\/skillfully
 - Notes: text\: あんたが教えなくてもオレは必ず使いこなす — even if you don\'t teach me\, I\'ll definitely master how to use it
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: がりゅう
 - English: one\'s own self\-taught style\/method
 - Notes: text\: オレも下手に我流で覚えようとはしない — I also won\'t try to learn it poorly in my own self\-taught way
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: もやす
 - English: to burn\, to kindle \(one\'s heart\/spirit\)
 - Notes: text\: 心を燃やす「燃」のこと — すなわち意志の強さ — \"the burning of the heart\" — that is\, the strength of one\'s will \(wordplay explaining 念\/Nen via the homophone 燃\, \"to burn\"\)
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: たかめる
 - English: to heighten\, to raise \(a level\/quality\)
 - Notes: text\: 「錬」でその意志を高め — with \"Ren\,\" that will is heightened
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: みつめる
 - English: to gaze at\, to look intently at
 - Notes: text\: 心を1つに集中し自己を見つめ目標を定める — focus the heart into one point\, look inward at yourself\, and set a goal
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: けおされる
 - English: to be overwhelmed\, overawed\, cowed \(by someone\'s presence\/spirit\)
 - Notes: text\: キルア君はズシの\"負けない\"という意気に気圧されたのです — Killua was overwhelmed by Zushi\'s spirit of \"I won\'t lose\"
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: じゅんじょ
 - English: order\, sequence
 - Notes: text\: 順序よくいきましょう — let\'s go in the proper order
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: けっこう
 - English: fine\, all right\, acceptable \(here a permissive sense\, not the common \"no thank you\" refusal\)
 - Notes: text\: 頭で想ってもいいけど口にしても結構です — you can think it in your head\, but it\'s also fine to say it out loud
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: たる
 - English: to be sufficient\, to be enough \(literary form of 足りる\)
 - Notes: text\: 意志が強ければ発\(行動\)に足る — if the will is strong\, it\'s enough to fuel Hatsu \(action\)
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: きあい
 - English: fighting spirit\, mental energy\, force of will
 - Notes: text\: 気合で勝てば動かずとも敵が退く — win through sheer fighting spirit and the enemy retreats even without you moving
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: ハッタリ
 - English: a bluff\, bluster\, an empty threat\/boast
 - Notes: text\: ハッタリの語源と言われています — it\'s said to be the origin of the word \"hattari\" \(bluff\)
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: がんこ
 - English: stubborn\, obstinate
 - Notes: text\: 頑固に間違った考えを正そうとする柔軟性を失ってしまいます — you become stubborn and lose the flexibility to correct mistaken thinking
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: ひかえる
 - English: to refrain from\, to hold back on
 - Notes: text\: 心が充実しないうちはひかえた方がいい — it\'s best to hold off while your resolve isn\'t yet fully steeled
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: きがい
 - English: backbone\, fighting spirit\, resolve
 - Notes: text\: 点を修めれば相手の気概に圧されることもなくなりますよ — master Ten and you won\'t be overwhelmed by an opponent\'s fighting spirit anymore
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: きわめる
 - English: to master completely\, to take to the extreme
 - Notes: text\: 今は点を極めることのみに励みなさい — for now\, devote yourself solely to mastering Ten
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: はげむ
 - English: to strive\, to work hard at\, to make an effort toward
 - Notes: text\: 今は点を極めることのみに励みなさい — for now\, devote yourself solely to striving at mastering Ten
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: まとう
 - English: to wrap oneself in\, to wear\, to be enveloped by
 - Notes: text\: まずは「纏\(テン\)」から — \"First\, starting with \'Ten\' \(纏\)\" — the Nen technique\'s name is this verb\'s on\-reading
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: もっともらしい
 - English: plausible\-sounding\, seemingly reasonable
 - Notes: text\: 話はもっともらしいし — the explanation does sound plausible
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: うたれづよい
 - English: resilient\, able to take a beating\/tough against blows
 - Notes: text\: ズシの打たれ強さだ — it\'s Zushi\'s toughness\, his ability to take hits
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: うっかり
 - English: carelessly\, inadvertently\, without thinking
 - Notes: text\: 最後についうっかり本気出しちゃったんだ — in the end I accidentally ended up going all out
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: いじになる
 - English: to become stubborn\, to dig one\'s heels in \(out of pride\/competitiveness\)
 - Notes: text\: ちょっと意地になっちゃってさ — I got a little stubborn\/competitive about it
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: やべっ
 - English: \"uh\-oh\!\"\, this is bad \(casual slang contraction of やばい\)
 - Notes: text\: やべっ — uh\-oh\! \(Killua reacting to trouble\)
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: ふっとぶ
 - English: to be blown away\, to get sent flying
 - Notes: text\: 場外までふっとんだァ\!\! — he got blown clean out of the ring\!\!
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: しろうとめ
 - English: to an amateur\'s\/layman\'s eye
 - Notes: text\: 楽々素人目に見てもカンペキ病院送りコース直行オオ\!\! — even to an amateur\'s eye\, easily a dead\-straight ticket to the hospital\!\!
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: やっちまった
 - English: \"I really messed up\" \(casual contraction of やってしまった\)
 - Notes: text\: やっちまった…\!\! — I really did it now…\!\! \(Killua realizing he overdid it\)
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: かんだい
 - English: generous\, magnanimous\, lenient
 - Notes: text\: しかし審判は寛大にもクリティカルダウンを宣言 — however\, the referee generously declared a Critical Down
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: みだれる
 - English: to be disturbed\, disordered\, thrown into disarray
 - Notes: text\: どうした\?纏が乱れているぞ — what\'s wrong\? Your Ten is in disarray
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: もんかせい
 - English: a disciple\, a student under a master
 - Notes: text\: 門下生じゃないからウソついたんすか\!\? — is it because they\'re not your students that you lied\!\?
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: ほうべん
 - English: an expedient means\, a convenient device\/pretext used to guide or teach
 - Notes: text\: それ故方便で説くのが「燃」なんだ — that\'s why \"the burning\-heart explanation\" is the expedient means I use to teach it
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: とく
 - English: to explain\, to preach\, to expound \(a teaching\)
 - Notes: text\: 方便で説くのが「燃」なんだ — \"moyasu\" is what I use to expound it as an expedient
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: おそろしい
 - English: dreadful\, terrifying\, fearsome
 - Notes: text\: 使い方を間違えればおそろしい武器になってしまう — used the wrong way\, it becomes a terrifying weapon
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: かす
 - English: to turn into\, to transform into
 - Notes: text\: 紙きれを刃と化し人を傷つけることも… — turning a mere scrap of paper into a blade and wounding someone…
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: はがね
 - English: steel
 - Notes: text\: 自らの体を鋼につつみ守ることも可能 — also possible to wrap and protect one\'s own body in steel
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: しだい
 - English: depending on\, contingent upon \(suffix\)
 - Notes: text\: 念は努力次第で誰でもできる — Nen is something anyone can do\, depending on effort
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: ねばならない
 - English: must \~\, have to \~ \(literary form of なければならない\)
 - Notes: text\: 教える者は相手を選ばねばならない — one who teaches must choose their students carefully
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: ゆらい
 - English: the origin\, the derivation \(of a name\/thing\)
 - Notes: bonus page \"タイトルのはなし\"\; text\: ハンターハンターのタイトルの由来は前記の通りである — the origin of the Hunter x Hunter title is as described earlier
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: すんなり
 - English: smoothly\, readily\, without a hitch
 - Notes: bonus page\; text\: 幽☆遊☆白書はすんなり決まったわけではなかった — \"YuYu Hakusho\" wasn\'t decided on smoothly either
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: もじる
 - English: to parody\, to make a pun\/play on \(a name or work\)
 - Notes: bonus page\; text\: 西遊記をもじったのであるが — it was a play on \"Journey to the West\" \(西遊記\)
-- WK level:
 
 ## e0055
 
@@ -493,4 +439,3 @@
 - Kana: かり
 - English: tentative\, provisional
 - Notes: bonus page\; text\: 「ユーレイ入門\(仮\)」と書いておいた — I wrote \"Introduction to Ghosts \(tentative\)\"
-- WK level:

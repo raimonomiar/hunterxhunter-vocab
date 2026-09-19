@@ -7,7 +7,6 @@
 - Kana: けっか
 - English: result
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: やりなおす
 - English: to redo\, to start over
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: ほうこく
 - English: report \(to report\)
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: しんさきてい
 - English: examination regulations
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: みのがす
 - English: to overlook\, to miss\, to let slip by
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: ちゅういりょく
 - English: attentiveness\, power of attention
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: けつろん
 - English: conclusion
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: じじょう
 - English: circumstances\, situation
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: ばらす
 - English: to blab\, to expose \(a secret\)
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: にじしけん
 - English: second \(phase\) exam
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: こうはん
 - English: second half\, latter half
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: りょうりしんさ
 - English: cooking examination
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: ごうかくしゃ
 - English: successful examinee\, those who passed
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: らんぼう
 - English: rude\, violent\, rough
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: かいちょう
 - English: chairman\, president \(of an association\)
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: でんげん
 - English: power source
 - Notes: used as 電源オフ\, \"power off\"
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: ごうじょう
 - English: stubborn\, obstinate
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: まげる
 - English: to bend\; to compromise or change \(one\'s opinion\)
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: かんさつりょく
 - English: power of observation
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: でかける
 - English: to go out\, to set off\, to depart
 - Notes:
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: わずらわす
 - English: to trouble\, to bother \(someone\)
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: せきにんしゃ
 - English: person in charge\, the one responsible
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: とうぜん
 - English: natural\, of course\, obviously
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: じっさい
 - English: actual\, in reality
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: しけんかん
 - English: examiner
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: いいんかい
 - English: committee
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: はんだん
 - English: judgment\, decision
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: したがう
 - English: to follow\, to obey\, to comply with
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: がんこもの
 - English: stubborn person
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: かわりもの
 - English: eccentric person
 - Notes:
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: おのずと
 - English: naturally\, spontaneously\, of itself
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: なっとく
 - English: to be convinced\, to accept \(mentally\)
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: ブラックリスト
 - English: Blacklist Hunter \(bounty\-head hunter\)
 - Notes: Literally \"bounty head\"\, but the furigana reads it as ブラックリスト \(\"Blacklist\"\) — the in\-universe official Hunter license type\, same wordplay pattern as ルーキー in ch\.5
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: しぼう
 - English: aspiration\, wish \(to become something\)
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: ごうひ
 - English: pass or fail \(result\)
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: ざんねん
 - English: regrettable\, a pity\, too bad
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: ふざける
 - English: to joke around\, to mess around
 - Notes: used as ふざけんじゃねー\, \"don\'t mess with me\"
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: てだす
 - English: to lay a hand on\, to interfere\, to meddle
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: わらわせる
 - English: to make \(someone\) laugh
 - Notes: sarcastic use here\: \"don\'t make me laugh\"
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: ぶげい
 - English: martial arts\, military arts
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: めざす
 - English: to aim for\, to set one\'s sights on
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: ぶじゅつ
 - English: martial arts
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: こころえ
 - English: basic knowledge\, know\-how \(of a skill\)
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: しょくざい
 - English: ingredients\, cooking materials
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: もうじゅう
 - English: fierce beast\, wild animal
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: す
 - English: nest\, den
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: みつりょうしゃ
 - English: poacher
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: とらえる
 - English: to catch\, to capture
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: みち
 - English: the unknown
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: ちょうせん
 - English: challenge \(to challenge\)
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: きがい
 - English: spirit\, backbone\, mettle
 - Notes:
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: きょうかい
 - English: association
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: さいこうせきにんしゃ
 - English: person with the highest responsibility\, chief authority
 - Notes:
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: しょせん
 - English: in the end\, ultimately \(nothing more than\)
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: きんちょう
 - English: nervousness\, tension
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: ふごうかく
 - English: failure\, not passing
 - Notes:
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: はつげん
 - English: remark\, statement\, utterance
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: かろんじる
 - English: to make light of\, to treat lightly
 - Notes:
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: かっとなる
 - English: to suddenly fly into a rage\, to lose one\'s temper
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: かさなる
 - English: to overlap\, to pile up \(of troubles\/events\)
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: われをわすれる
 - English: to lose oneself\, to forget oneself \(in something\)
 - Notes: idiom
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: あたまにちがのぼる
 - English: to get worked up\, blood rushes to one\'s head
 - Notes: idiom\, similar to \"to see red\"
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: おりる
 - English: to step down \(from a position\)\, to resign
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: むこう
 - English: invalid\, null and void
 - Notes:
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: ぞっこう
 - English: to continue\, continuation
 - Notes:
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: なんど
 - English: degree of difficulty
 - Notes:
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: じつえん
 - English: live demonstration
 - Notes:
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: かだい
 - English: task\, assignment\, topic
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: みとめる
 - English: to admit\, to acknowledge\, to recognize
 - Notes:
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: ゆでたまご
 - English: boiled egg
 - Notes:
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: いったい
 - English: \(for emphasis\) on earth\, what\/why in the world
 - Notes:
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: あんしん
 - English: relief\, peace of mind
 - Notes:
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: ながれ
 - English: current\, flow \(of water\)
 - Notes:
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: せいそくする
 - English: to inhabit\, to live \(of an animal\)
 - Notes:
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: りく
 - English: land \(as opposed to sea\)
 - Notes:
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: けもの
 - English: beast\, wild animal
 - Notes:
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: まもる
 - English: to protect\, to guard
 - Notes:
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: じょうぶ
 - English: sturdy\, robust\, durable
 - Notes:
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: はる
 - English: to stretch\, to string \(a thread\/net\)
 - Notes:
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: つるす
 - English: to hang\, to suspend
 - Notes:
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: がんぺき
 - English: rock face\, cliff face
 - Notes:
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: よじのぼる
 - English: to climb up\, to scramble\/scale
 - Notes:
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: つかまる
 - English: to grab hold of\, to hang onto
 - Notes:
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: みんぞくりょうり
 - English: ethnic cuisine\, traditional cuisine \(of a people\)
 - Notes:
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: ゆうき
 - English: courage
 - Notes:
-- WK level:
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: しはん
 - English: commercially sold\, off\-the\-shelf
 - Notes:
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: くらべる
 - English: to compare
 - Notes:
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: のうこう
 - English: rich\, thick \(in flavor\)
 - Notes:
-- WK level:
 
 ## e0089
 
@@ -799,7 +711,6 @@
 - Kana: とろける
 - English: to melt\, to become soft\/tender
 - Notes:
-- WK level:
 
 ## e0090
 
@@ -808,7 +719,6 @@
 - Kana: だんちがい
 - English: a class apart\, in a different league
 - Notes:
-- WK level:
 
 ## e0091
 
@@ -817,7 +727,6 @@
 - Kana: はっけん
 - English: discovery
 - Notes:
-- WK level:
 
 ## e0092
 
@@ -826,7 +735,6 @@
 - Kana: よろこび
 - English: joy\, delight
 - Notes:
-- WK level:
 
 ## e0093
 
@@ -835,7 +743,6 @@
 - Kana: あじわう
 - English: to taste\, to savor
 - Notes:
-- WK level:
 
 ## e0094
 
@@ -844,7 +751,6 @@
 - Kana: いのちをかける
 - English: to risk one\'s life\, to stake one\'s life \(on something\)
 - Notes: idiom
-- WK level:
 
 ## e0095
 
@@ -853,4 +759,3 @@
 - Kana: かんぱい
 - English: total defeat\, complete loss
 - Notes:
-- WK level:

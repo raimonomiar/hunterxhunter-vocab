@@ -7,7 +7,6 @@
 - Kana: むだ
 - English: waste\, futile\, pointless
 - Notes: text\: 時間のムダだぜ — it\'s a waste of time \(text uses katakana ムダ\)
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: すき
 - English: an opening\, a weak point\, a chance to catch someone off guard
 - Notes: text\: オレはスキなんかみせないよ — I won\'t show you any opening \(text writes 隙 in katakana\, スキ\, as in vol4\-ch01\)
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: びこう
 - English: tailing\, shadowing \(someone\)
 - Notes: text\: いくら尾行まわしたって — no matter how much you tail me
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: しんちょう
 - English: cautious\, careful\, prudent
 - Notes: text\: オレは慎重な男 — I\'m a careful man \(Killua\'s internal refrain through this scene\)
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: おびえる
 - English: to be frightened\, to be scared
 - Notes: text\: もっとおびえろ — be more scared \(imperative おびえろ\)
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: しょうそう
 - English: impatience\, fretfulness\, restlessness
 - Notes: text\: もっと焦燥しろ — get more anxious\/impatient \(imperative of 焦燥する\)
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: ばんぜんをつくす
 - English: to do everything possible\, to leave nothing to chance
 - Notes: text\: たとえ相手が子供であろうと万全をつくす — even if the opponent is a child\, I take every precaution
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: ひろう
 - English: fatigue\, exhaustion
 - Notes: text\: 完全に疲労し眠りにおちた時 — when he\'d become completely exhausted and fallen asleep
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: ねむりにおちる
 - English: to fall asleep\, to drift off to sleep
 - Notes: text\: 疲労し眠りにおちた時… — when he\'d tired himself out and fallen asleep\.\.\.
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: びびり
 - English: a coward\, a chicken \(slang\)
 - Notes: text\: てゆーか彼はびびりだった — or rather\, he was a scaredy\-cat \(from slang verb びびる\, to be intimidated\/scared\)
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: たおす
 - English: to knock down\, to defeat
 - Notes: text\: どうせ倒したって1点だろーしさぁ — even if I beat him\, it\'s only worth one point anyway
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: たたかう
 - English: to fight\, to battle
 - Notes: text\: 戦うか\!\? — should we fight\!\?
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: まける
 - English: to lose \(a match\, contest\)
 - Notes: text\: 負けないだろいくらなんでもガキだ — \(they\) won\'t lose\, no matter what — he\'s just a kid
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: ガキ
 - English: kid\, brat \(casual\/derogatory\)
 - Notes: text\: 相手はガキだ — the opponent\'s just a brat
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: えもの
 - English: prey\, quarry\, one\'s target
 - Notes: text\: 別の獲物始末して — finish off another target \(Hunter Exam term for a rival examinee\, as in vol4\-ch01\)
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: しまつする
 - English: to deal with\, to finish off\, to dispose of
 - Notes: text\: 別の獲物始末して戻ってくるまでに — by the time they finish off another target and come back
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: しかられる
 - English: to get scolded\, to be told off
 - Notes: text\: そんなことしたら兄ちゃん達にしかられる\!\! — if I do that\, my brothers will yell at me\!\! \(passive of 叱る\)
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: うばう
 - English: to steal\, to snatch away
 - Notes: text\: こいつから『プレート』奪っておかなきゃ — I have to snatch the \"Plate\" from this guy
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: てまどる
 - English: to take longer than expected\, to have trouble \(doing something\)
 - Notes: text\: ちょいと手間どっちまった — that took a bit more doing than expected
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: こわい
 - English: scary\, frightening\; to be scared\/afraid
 - Notes: text\: あんなガキまでオレ達がいなきゃ怖くて戦えねーのか\!\! — can\'t you even fight a brat like that without us because you\'re scared\!\?
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: うそをつく
 - English: to tell a lie
 - Notes: text\: うそつけ — liar\!\/don\'t lie to me\! \(colloquial retort\, imperative\-style\)
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: ぬすむ
 - English: to steal
 - Notes: text\: 寝てるスキにでも盗んであげようかと思ってさ — I figured I\'d steal it or something while he\'s asleep
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: しかたない
 - English: it can\'t be helped\, there\'s no other way
 - Notes: text\: 兄ちゃん達がそんなん言うならしかたないぜ — if my brothers say so\, I guess there\'s no choice
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: おとなしい
 - English: quiet\, docile\, well\-behaved
 - Notes: text\: おとなしくよこせば何もしない — if you hand it over quietly\, I won\'t do anything
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: よこす
 - English: to hand over\, to give \(something toward the speaker\)
 - Notes: text\: プレートをくれねーか \/ おとなしくよこせば — how about handing over the plate \/ if you quietly hand it over
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: じごく
 - English: hell
 - Notes: text\: ありゃ地獄だぜ — that\'s brutal\/that\'s gonna hurt \(lit\. \"that\'s hell\"\, said of a solid hit\)
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: みぞおち
 - English: solar plexus\, the pit of the stomach
 - Notes: text\: バッチリみぞおち — a clean hit right in the solar plexus
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: バッチリ
 - English: perfectly\, exactly\, right on target
 - Notes: text\: バッチリみぞおち — square in the solar plexus\, dead on
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: あーあ
 - English: oh boy\, geez \(sigh of resignation or disappointment\)
 - Notes: text\: あーあ — \(said watching the fight going badly\)
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: てかげん
 - English: holding back\, going easy \(on an opponent\)
 - Notes: text\: なんだ手加減やったのか — what\, were you holding back\?
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: いっち
 - English: a match\, agreement\, coincidence
 - Notes: text\: オレの欲しい番号と一致ってことは — the fact that it matches the number I want means\.\.\.
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: もしかして
 - English: by any chance\, perhaps\, could it be that
 - Notes: text\: もしかして199番はそっちの2人のどっちかな\? — by any chance\, is number 199 one of you two\?
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: じんけい
 - English: a \(tactical\) formation
 - Notes: text\: ウモリ陣形だ — it\'s the \"Umori\" formation \(part of a coined technique name\; 陣形 itself is the ordinary word for a battle formation\)
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: マジで
 - English: seriously\, for real
 - Notes: text\: マジでいく — I\'m going all out\, for real
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: きれる
 - English: to be sharp\, to cut well \(of a blade\)
 - Notes: text\: オレの指ナイフより切れるから — my finger cuts better than a knife
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: うごく
 - English: to move
 - Notes: text\: 動かないでね — don\'t move\, okay\?
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: かんがにぶい
 - English: to have poor intuition\, to be slow on the uptake
 - Notes: text\: オレってこういうカンはすげー鈍いんだよな — my instincts are really dull about this kind of thing
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: ちょうだい
 - English: please give \(me that\)\, gimme
 - Notes: text\: ちょーだい — gimme \(that\)
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: さて
 - English: well then\, now then \(shifting to a new topic\)
 - Notes: text\: さてこっちのいらないのは — well then\, this one here that I don\'t need\.\.\.
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: サンキュ
 - English: thanks \(casual\, from English \"thank you\"\)
 - Notes: text\: サンキュ — thanks
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: こんど
 - English: this time\; next time
 - Notes: text\: 今度はあっち\! — this time it\'s that way\!
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: あと
 - English: remaining\, \(time\/amount\) left
 - Notes: text\: あと5日あるしがんばって探しなよ — you\'ve still got 5 days left\, so go search hard
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: さがす
 - English: to search for\, to look for
 - Notes: text\: がんばって探しなよ — go search hard \(for it\)
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: こぞう
 - English: brat\, young punk \(derogatory for a boy\)
 - Notes: text\: まさかあの小僧が片付けてくれるとは思わなかったが — never thought that brat would actually take care of it for us
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: かたづける
 - English: to deal with\, to finish off\; to clean up\, to tidy
 - Notes: text\: あの小僧が片付けてくれるとは — that brat taking care of it \(for us\)
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: おかげで
 - English: thanks to\, owing to\, because of
 - Notes: text\: おかげで楽にプレートを手に — thanks to that\, we got the plate easily
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: らく
 - English: easy\, comfortable\, without trouble
 - Notes: text\: おかげで楽にプレートを手に — thanks to that\, we got the plate with ease
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ようすをみる
 - English: to wait and see\, to see how things go
 - Notes: text\: しばらく様子をみようとしたのが正解だったな — waiting a while to see how things played out was the right call
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: せいかい
 - English: the correct answer\, the right call
 - Notes: text\: 様子をみようとしたのが正解だったな — waiting was the right call
-- WK level:
 
 ## e0050
 
@@ -448,4 +399,3 @@
 - Kana: こうどうする
 - English: to act\, to take action
 - Notes: text\: 199番といっしょに行動してたから — because he\'d been acting together with number 199
-- WK level:

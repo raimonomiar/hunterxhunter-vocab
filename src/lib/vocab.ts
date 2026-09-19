@@ -10,7 +10,6 @@ export type VocabEntry = {
   english: string;
   page: number;
   notes: string | null;
-  wkLevel: string | null;
 };
 
 export type ChapterSummary = {
@@ -31,7 +30,6 @@ export type NewEntryInput = {
   english: string;
   page: number;
   notes: string | null;
-  wkLevel: string | null;
 };
 
 export type UpdateEntryInput = Partial<
@@ -51,7 +49,6 @@ function mapRow(row: Record<string, unknown>): VocabEntry {
     english: row.english as string,
     page: Number(row.page),
     notes: (row.notes as string | null) ?? null,
-    wkLevel: (row.wk_level as string | null) ?? null,
   };
 }
 
@@ -140,7 +137,7 @@ export async function getChapterEntries(
   const result = await db.execute({
     sql: `
       SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
-             e.kanji, e.kana, e.english, e.page, e.notes, e.wk_level
+             e.kanji, e.kana, e.english, e.page, e.notes
       FROM vocab_entries e
       JOIN chapters c ON c.id = e.chapter_id
       JOIN volumes v ON v.id = c.volume_id
@@ -158,7 +155,7 @@ export async function searchEntries(query: string): Promise<VocabEntry[]> {
   const result = await db.execute({
     sql: `
       SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
-             e.kanji, e.kana, e.english, e.page, e.notes, e.wk_level
+             e.kanji, e.kana, e.english, e.page, e.notes
       FROM vocab_entries e
       JOIN chapters c ON c.id = e.chapter_id
       JOIN volumes v ON v.id = c.volume_id
@@ -175,8 +172,8 @@ export async function createEntry(input: NewEntryInput): Promise<VocabEntry> {
   const chapterId = await findOrCreateChapter(input.volume, input.chapter);
   const result = await db.execute({
     sql: `
-      INSERT INTO vocab_entries (chapter_id, kanji, kana, english, page, notes, wk_level)
-      VALUES (?, ?, ?, ?, ?, ?, ?)
+      INSERT INTO vocab_entries (chapter_id, kanji, kana, english, page, notes)
+      VALUES (?, ?, ?, ?, ?, ?)
       RETURNING id
     `,
     args: [
@@ -186,7 +183,6 @@ export async function createEntry(input: NewEntryInput): Promise<VocabEntry> {
       input.english,
       input.page,
       input.notes,
-      input.wkLevel,
     ],
   });
   const id = result.rows[0].id as number;
@@ -199,7 +195,6 @@ export async function createEntry(input: NewEntryInput): Promise<VocabEntry> {
     english: input.english,
     page: input.page,
     notes: input.notes,
-    wkLevel: input.wkLevel,
   };
 }
 
@@ -240,16 +235,11 @@ export async function updateEntry(
     fields.push("notes = ?");
     args.push(input.notes);
   }
-  if (input.wkLevel !== undefined) {
-    fields.push("wk_level = ?");
-    args.push(input.wkLevel);
-  }
-
   if (fields.length === 0) {
     const existing = await db.execute({
       sql: `
         SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
-               e.kanji, e.kana, e.english, e.page, e.notes, e.wk_level
+               e.kanji, e.kana, e.english, e.page, e.notes
         FROM vocab_entries e
         JOIN chapters c ON c.id = e.chapter_id
         JOIN volumes v ON v.id = c.volume_id
@@ -270,7 +260,7 @@ export async function updateEntry(
   const result = await db.execute({
     sql: `
       SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
-             e.kanji, e.kana, e.english, e.page, e.notes, e.wk_level
+             e.kanji, e.kana, e.english, e.page, e.notes
       FROM vocab_entries e
       JOIN chapters c ON c.id = e.chapter_id
       JOIN volumes v ON v.id = c.volume_id
