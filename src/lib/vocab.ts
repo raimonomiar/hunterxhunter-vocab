@@ -1,4 +1,5 @@
 import { ready } from "@/lib/db";
+import type { Client, Transaction } from "@libsql/client";
 
 export type VocabEntry = {
   id: number;
@@ -54,13 +55,14 @@ function mapRow(row: Record<string, unknown>): VocabEntry {
   };
 }
 
+type DbExecutor = Pick<Client | Transaction, "execute">;
+
 /** Finds the volume+chapter row, creating either as needed. */
-export async function findOrCreateChapter(
+export async function findOrCreateChapterWithExecutor(
+  db: DbExecutor,
   volume: number,
   chapter: number,
 ): Promise<number> {
-  const db = await ready();
-
   await db.execute({
     sql: `INSERT INTO volumes (number) VALUES (?) ON CONFLICT(number) DO NOTHING`,
     args: [volume],
@@ -80,6 +82,14 @@ export async function findOrCreateChapter(
     args: [volumeId, chapter],
   });
   return chapterRow.rows[0].id as number;
+}
+
+/** Finds the volume+chapter row, creating either as needed. */
+export async function findOrCreateChapter(
+  volume: number,
+  chapter: number,
+): Promise<number> {
+  return findOrCreateChapterWithExecutor(await ready(), volume, chapter);
 }
 
 export async function ensureVolume(volume: number): Promise<void> {
@@ -274,9 +284,22 @@ export async function updateEntry(
 
 export async function deleteEntry(id: number): Promise<boolean> {
   const db = await ready();
-  const result = await db.execute({
-    sql: `DELETE FROM vocab_entries WHERE id = ?`,
-    args: [id],
-  });
-  return result.rowsAffected > 0;
+  const transaction = await db.transaction("write");
+  try {
+    await transaction.execute({
+      sql: `UPDATE vocab_source_entries
+            SET local_entry_id = NULL, local_deleted = 1
+            WHERE local_entry_id = ?`,
+      args: [id],
+    });
+    const result = await transaction.execute({
+      sql: `DELETE FROM vocab_entries WHERE id = ?`,
+      args: [id],
+    });
+    await transaction.commit();
+    return result.rowsAffected > 0;
+  } catch (error) {
+    await transaction.rollback();
+    throw error;
+  }
 }

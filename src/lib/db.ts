@@ -23,7 +23,8 @@ function createDb(): Client {
   return createClient({ url, authToken });
 }
 
-const SCHEMA_STATEMENTS = [
+const BASE_SCHEMA_STATEMENTS = [
+  `PRAGMA foreign_keys = ON`,
   `CREATE TABLE IF NOT EXISTS volumes (
     id INTEGER PRIMARY KEY,
     number INTEGER NOT NULL UNIQUE
@@ -46,6 +47,41 @@ const SCHEMA_STATEMENTS = [
   )`,
   `CREATE INDEX IF NOT EXISTS idx_chapters_volume ON chapters(volume_id)`,
   `CREATE INDEX IF NOT EXISTS idx_entries_chapter_page ON vocab_entries(chapter_id, page)`,
+  `CREATE TABLE IF NOT EXISTS schema_migrations (
+    version INTEGER PRIMARY KEY,
+    applied_at TEXT NOT NULL
+  )`,
+];
+
+const PROVENANCE_MIGRATION_VERSION = 1;
+const PROVENANCE_MIGRATION_STATEMENTS = [
+  `CREATE TABLE IF NOT EXISTS vocab_source_entries (
+    source_key TEXT PRIMARY KEY,
+    local_entry_id INTEGER UNIQUE REFERENCES vocab_entries(id) ON DELETE SET NULL,
+    volume INTEGER NOT NULL,
+    chapter INTEGER NOT NULL,
+    source_order INTEGER NOT NULL,
+    source_file TEXT NOT NULL,
+    source_hash TEXT NOT NULL,
+    source_revision TEXT NOT NULL,
+    source_present INTEGER NOT NULL DEFAULT 1,
+    local_deleted INTEGER NOT NULL DEFAULT 0,
+    base_kanji TEXT,
+    base_kana TEXT NOT NULL,
+    base_english TEXT NOT NULL,
+    base_page INTEGER NOT NULL,
+    base_notes TEXT,
+    base_wk_level TEXT
+  )`,
+  `CREATE INDEX IF NOT EXISTS idx_vocab_source_local_entry
+    ON vocab_source_entries(local_entry_id)`,
+  `CREATE INDEX IF NOT EXISTS idx_vocab_source_chapter
+    ON vocab_source_entries(volume, chapter)`,
+  `CREATE TABLE IF NOT EXISTS vocab_source_state (
+    id INTEGER PRIMARY KEY CHECK (id = 1),
+    source_revision TEXT NOT NULL,
+    applied_at TEXT NOT NULL
+  )`,
 ];
 
 // The captain currently owns physical volumes 1-8, so these are seeded up
@@ -53,9 +89,26 @@ const SCHEMA_STATEMENTS = [
 // Volumes beyond this are created on demand when an entry is first added.
 const OWNED_VOLUMES = 8;
 
-async function ensureSchema(client: Client): Promise<void> {
-  for (const statement of SCHEMA_STATEMENTS) {
+export async function ensureSchema(client: Client): Promise<void> {
+  for (const statement of BASE_SCHEMA_STATEMENTS) {
     await client.execute(statement);
+  }
+  const migration = await client.execute({
+    sql: `SELECT version FROM schema_migrations WHERE version = ?`,
+    args: [PROVENANCE_MIGRATION_VERSION],
+  });
+  if (migration.rows.length === 0) {
+    const now = new Date().toISOString();
+    await client.batch(
+      [
+        ...PROVENANCE_MIGRATION_STATEMENTS,
+        {
+          sql: `INSERT INTO schema_migrations (version, applied_at) VALUES (?, ?)`,
+          args: [PROVENANCE_MIGRATION_VERSION, now],
+        },
+      ],
+      "write",
+    );
   }
   for (let number = 1; number <= OWNED_VOLUMES; number++) {
     await client.execute({
