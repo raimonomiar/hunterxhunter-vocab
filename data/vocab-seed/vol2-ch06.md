@@ -7,7 +7,6 @@
 - Kana: まよなか
 - English: midnight
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: いっぺんに
 - English: all at once\, simultaneously
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: かかる
 - English: to come at\, attack\, pounce on \(someone\)
 - Notes: here as 2人がかりでかかってきても — \"even if two of them come at me together\"
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: こんどこそ
 - English: this time for sure\, this time will be different
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: あせびっしょり
 - English: drenched in sweat
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: いきぎれ
 - English: getting out of breath\, breathlessness
 - Notes: here negated\: 息ひとつ切れてない — \"not even slightly out of breath\"
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: せいこうほう
 - English: straightforward method\, head\-on\/legitimate tactic
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: かなわない
 - English: to be no match for\, unable to compete with
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: たんちょう
 - English: monotonous\, repetitive
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: きたない
 - English: dirty\, underhanded\, foul \(of a trick or tactic\)
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: まあい
 - English: distance\, spacing \(esp\. combat timing\/range\)
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: のばす
 - English: to extend\, stretch out
 - Notes: shown in dialectal speech as のばしよる
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: こしゃく
 - English: impudent\, cocky\, insolent
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: むきになる
 - English: to fly off the handle\, get worked up over something trivial
 - Notes: the sound effect ムキー here represents this reaction
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: もらう
 - English: to receive\, to get
 - Notes: here as もらったァ\!\! — a triumphant \"got it\!\"\/\"that\'s mine\!\" on securing a play
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: どりょくしょう
 - English: consolation prize for effort \(not actual victory\)
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: まけ
 - English: loss\, defeat
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: おいかけまわす
 - English: to chase around
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: うばう
 - English: to steal\, snatch\, take by force
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: ばれる
 - English: to be found out\, discovered\, exposed
 - Notes: usually written in kana
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: とことん
 - English: thoroughly\, to the utmost
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: むかつく
 - English: to be annoyed\, irritated\, ticked off
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: むだ
 - English: useless\, pointless\, a waste
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: おぬし
 - English: you \(archaic\/dialectal second\-person pronoun\)
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: ひつよう
 - English: necessity\, need
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: むしろ
 - English: rather\, on the contrary
 - Notes: 寧ろ\; usually written in kana
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: やみしょうばい
 - English: black\-market dealing\, illicit trade
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: せんばいとっきょ
 - English: exclusive patent\; \(figuratively\) one\'s own special forte
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: あまい
 - English: naive\, soft\, not strict enough
 - Notes: contextual meaning\, not the literal \"sweet\"
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: ちのにじむ
 - English: blood\-oozing\; \(of effort\) grueling\, hard\-won
 - Notes: part of the set phrase 血のにじむような\(努力\) — \"blood\, sweat\, and tears\" effort
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: たんれん
 - English: training\, forging \(of skill or character\) through practice
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: いがい
 - English: unexpected\, surprising
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: ゆだん
 - English: carelessness\, being off guard
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: すき
 - English: opening\, weak point\, gap in one\'s guard
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: ぼうず
 - English: \(colloquial\) kid\, boy
 - Notes: lit\. \"monk\, shaven head\"
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: あやまる
 - English: to apologize
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: あせだく
 - English: drenched in sweat
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: ころす
 - English: to kill
 - Notes: here as 殺してでも — \"even if I have to kill \(for it\)\"\, hyperbole for how badly Killua wants the ball
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: いじょう
 - English: or more\, beyond \(that point\)
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: みせかける
 - English: to pretend\, feign\, fake
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: にげる
 - English: to run away\, escape
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: しゅし
 - English: main point\, gist\, purpose
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: きちょう
 - English: \(aircraft\) captain\, pilot in command
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: じゅんちょう
 - English: smooth\, favorable\, going well
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: もくてきち
 - English: destination
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: とうちゃく
 - English: arrival
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: おまたせいたしました
 - English: sorry to keep you waiting
 - Notes: polite\/formal set phrase\; humble form of 待たせる \(to keep someone waiting\)
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: いったい
 - English: what on earth\, the heck \(emphatic in questions\)
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: しけんないよう
 - English: exam content\, what an exam covers
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: でんごん
 - English: a \(relayed\) message
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: ちてん
 - English: point\, spot\, location
 - Notes: here as スタート地点 — starting point
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: せいげんじかん
 - English: time limit
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,4 +423,3 @@
 - Kana: でばん
 - English: one\'s turn\, one\'s cue to step up\/appear
 - Notes:
-- WK level:

@@ -7,7 +7,6 @@
 - Kana: あにき
 - English: older brother\; an older male acquaintance
 - Notes: text\: 兄貴からアドレスだ — it\'s an address from my older brother
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: アドレス
 - English: an address \(especially an email address\)
 - Notes: text\: 兄貴からアドレスだ — it\'s an address from my older brother
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: オークション
 - English: an auction
 - Notes: chapter title\: オークションへ — to the auction
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: せんよう
 - English: exclusive\, special\-purpose\, dedicated
 - Notes: text\: ハンター専用サイト — a site exclusively for Hunters
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: かりうど
 - English: a hunter
 - Notes: text\: 狩人の酒場 — hunters\' tavern
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: さかば
 - English: a tavern\, a bar
 - Notes: text\: 狩人の酒場 — hunters\' tavern
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: さしこむ
 - English: to insert\, to plug in
 - Notes: text\: ハンター証を差し込んで下さい — please insert your Hunter license
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: しょう
 - English: proof\, certification\, a license
 - Notes: text\: ハンター証を差し込んで下さい — please insert your Hunter license
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: じょうほうや
 - English: an information broker
 - Notes: text\: 右のカウンターが情報屋だぜ — the counter on the right is the information broker
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: じょうほう
 - English: information\, news
 - Notes: text\: どんな情報がのぞみだ\? — what kind of information do you want\?
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: こうもく
 - English: an item\, an entry\, a menu category
 - Notes: text\: ゲームの項目を — the game entry\/menu item
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: たのむ
 - English: to ask\, to request\; to rely on
 - Notes: text\: いい情報頼むぜ — get me some good information
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: りょう
 - English: quantity\, amount\, volume
 - Notes: text\: すごい量だな — that\'s a huge amount
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: じょうほうていきょうりょう
 - English: an information\-provision fee
 - Notes: text\: 情報提供料として2000万必要ですが — an information fee of twenty million is required
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: ひつよう
 - English: necessary\, needed
 - Notes: text\: 2000万必要ですが — twenty million is necessary
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: いただく
 - English: to receive\; to take \(humble\/polite\)
 - Notes: text\: グリードアイランドが2000万いただく — Greed Island will cost twenty million
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: タダ
 - English: free of charge\; for nothing
 - Notes: text\: さすがにタダじゃ教えてくれねーな — of course they won\'t tell us for free
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: おしえる
 - English: to tell\, to teach
 - Notes: text\: タダじゃ教えてくれねーな — they won\'t tell us for free
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: きんせんかんかく
 - English: a sense of money\, financial perspective
 - Notes: text\: なんか金銭感覚マヒしてくるな — somehow my sense of money is getting numb
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: まひする
 - English: to become numb\, to be paralyzed
 - Notes: text\: 金銭感覚マヒしてくるな — my sense of money is getting numb
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: きく
 - English: to listen\, to hear\; to ask
 - Notes: text\: それじゃよく聞きな — then listen carefully
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: ねんのうりょくしゃ
 - English: a Nen user
 - Notes: text\: 念能力者が作ったゲームだ — it is a game made by Nen users
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: とくしつけい
 - English: Specialist type \(Nen category\)
 - Notes: text\: 特質系の能力者\? — a Specialist\-type ability user\?
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: せいさくしゃ
 - English: a creator\, a producer\, a maker
 - Notes: text\: 制作者の真の目的は不明 — the creators\' true purpose is unknown
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: しんの
 - English: true\, real\, genuine
 - Notes: text\: 制作者の真の目的 — the creators\' true purpose
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: もくてき
 - English: a purpose\, an objective
 - Notes: text\: 制作者の真の目的は不明 — the creators\' true purpose is unknown
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: こめる
 - English: to put into\, to pour into\; to imbue
 - Notes: text\: 100本のゲームソフト全てに念を込めた — they imbued all one hundred game discs with Nen
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: はつどうする
 - English: to activate\, to go into effect
 - Notes: text\: ゲームをスタートすると念が発動 — when the game starts\, the Nen activates
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: ひきずりこむ
 - English: to drag into\, to pull into
 - Notes: text\: ゲームの中にひきずりこむ — drag \[the player\] into the game
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: プレイヤー
 - English: a player
 - Notes: text\: プレイヤーがゲームの中で生きている限り — as long as the player is alive inside the game
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: かぎり
 - English: as long as\; limit\, extent
 - Notes: text\: 生きている限り — as long as \[the player\] is alive
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: いきる
 - English: to live\, to be alive
 - Notes: text\: プレイヤーがゲームの中で生きている限り — as long as the player is alive in the game
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: ぬく
 - English: to pull out\, to unplug
 - Notes: text\: コンセントを抜いても — even if \[someone\] unplugs the power cord
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: うごきつづける
 - English: to keep moving\, to continue operating
 - Notes: text\: ゲーム機は動き続ける — the game console keeps operating
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: やとう
 - English: to employ\, to hire
 - Notes: text\: 50名のハンターを雇い — hiring fifty Hunters
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: めい
 - English: counter for people \(formal\)
 - Notes: text\: 50名のハンター — fifty Hunters
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: クリアする
 - English: to clear\, to complete \(a game or task\)
 - Notes: text\: ゲームのクリアを試みた — attempted to clear the game
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: こころみる
 - English: to try\, to attempt
 - Notes: text\: ゲームのクリアを試みた — attempted to clear the game
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: かえる
 - English: to return\, to come back
 - Notes: text\: 還ってきた者はいない — no one has come back
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: セーブポイント
 - English: a save point
 - Notes: text\: セーブポイントさえ見つかれば戻れるらしいが — supposedly one can return if they find even a save point
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: もどる
 - English: to return\, to go back
 - Notes: text\: セーブポイントさえ見つかれば戻れるらしい — supposedly one can return from a save point
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: しぬ
 - English: to die
 - Notes: text\: 死ねば止まる — if \[the player\] dies\, it stops
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: とまる
 - English: to stop\, to come to a halt
 - Notes: text\: 死ねば止まる — if \[the player\] dies\, it stops
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: まちがいない
 - English: certain\, without a doubt
 - Notes: text\: まず間違いない — there is no doubt about it
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: ほんとう
 - English: truth\, reality\; real
 - Notes: text\: 本当か — is that true\?
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: かいさいする
 - English: to hold\, to host \(an event\)
 - Notes: text\: ヨークシンシティで開催されるオークション — the auction held in York Shin City
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: げんざい
 - English: currently\, at present\; the present
 - Notes: text\: 8月14日現在までに — as of August 14
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: とうろくする
 - English: to register\, to record
 - Notes: text\: 7本のグリードアイランドが競売申請登録されている — seven copies of Greed Island are registered for auction
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: きょうばい
 - English: an auction\, a public sale
 - Notes: text\: 競売申請登録されている模様 — apparently registered for auction
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: しんせい
 - English: an application\, a request
 - Notes: text\: 競売申請登録 — auction application registration
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: さいていらくさつかかく
 - English: the minimum winning bid\, reserve price
 - Notes: text\: 最低落札価格 89億ジェニー — minimum winning bid\: 8\.9 billion Jenny
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: さんかする
 - English: to participate\, to take part
 - Notes: text\: オレ達も参加できるのかな\? — I wonder if we can participate too
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: うる
 - English: to sell
 - Notes: text\: 買う方じゃなく売る方だよ — not the buying side\, the selling side
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: おたから
 - English: treasure\, a valuable thing
 - Notes: text\: オレ達も何かお宝を探して売りに出すんだよ — we will find some treasure and put it up for sale
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: さがす
 - English: to search for\, to look for
 - Notes: text\: 何かお宝を探して — search for some treasure
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: うりにだす
 - English: to put up for sale\, to offer for sale
 - Notes: text\: お宝を探して売りに出す — find treasure and put it up for sale
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: おおもうけする
 - English: to make a big profit\, to strike it rich
 - Notes: text\: うまくいけば大もうけできるかもな — if it works out\, we might make a huge profit
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: うまくいく
 - English: to go well\, to work out
 - Notes: text\: うまくいけば — if it works out
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: よち
 - English: room\, leeway\, possibility
 - Notes: text\: オレらの入りこむ余地ねーよ — there is no room for us to get in
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: もとで
 - English: capital\, starting money
 - Notes: text\: 8億を元手に — using 800 million as starting capital
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: ふやす
 - English: to increase\, to multiply\, to grow
 - Notes: text\: 元手に増やしてみるか — shall we try to increase it from our starting capital\?
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: そうごう
 - English: overall\, comprehensive\; total
 - Notes: text\: 総合入手難易度 — overall acquisition difficulty
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: にゅうしゅ
 - English: obtaining\, acquisition
 - Notes: text\: 総合入手難易度 — overall acquisition difficulty
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: なんいど
 - English: degree of difficulty
 - Notes: text\: 総合入手難易度G（易しい） — overall acquisition difficulty\: G \(easy\)
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: まぼろし
 - English: a phantom\, a legend\; something elusive
 - Notes: text\: 幻のゲームと呼ばれている — it is called a legendary game
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: いっぱんじん
 - English: an ordinary person\, the general public
 - Notes: text\: あくまで一般人レベルでの話 — this is only at the level of ordinary people
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: おおやけ
 - English: the public\, public knowledge
 - Notes: text\: 公の競売にも姿を見せ始めた — it has begun appearing in public auctions too
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: すがたをみせる
 - English: to show up\, to appear
 - Notes: text\: 公の競売にも姿を見せ始めた — it has begun appearing in public auctions
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: こうりょする
 - English: to take into consideration\, to account for
 - Notes: text\: 金額面を考慮に入れ — taking the price aspect into consideration
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: げんぞんする
 - English: to exist\, to be extant
 - Notes: text\: 現存するプロハンター — professional Hunters currently in existence
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: きちょうひん
 - English: a valuable\, a precious item
 - Notes: text\: 100本というソフト数は貴重品というには多すぎる — one hundred copies is too many to call them precious items
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: しょゆうする
 - English: to own\, to possess
 - Notes: text\: プロハンターの約6人に一人が所有できる — about one in six professional Hunters could own one
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: おもしろい
 - English: interesting\, entertaining
 - Notes: text\: ふん…面白いじゃん — huh\.\.\. that sounds interesting
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: ぜったい
 - English: absolutely\, definitely
 - Notes: text\: ゼッタイ手に入れてやろうぜ — let\'s definitely get our hands on it
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: オークションサイト
 - English: an auction site
 - Notes: text\: まず一般ネットのオークションサイト — first\, an ordinary internet auction site
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: ほりだしもの
 - English: a bargain\, a rare find\, a hidden treasure
 - Notes: text\: そこで掘り出し物を見つけよう — let\'s find a rare bargain there
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: みつける
 - English: to find\, to discover
 - Notes: text\: 掘り出し物を見つけよう — let\'s find a rare bargain
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: のこる
 - English: to remain\, to be left
 - Notes: text\: 残りいくら\? — how much is left\?
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: しんようする
 - English: to trust\, to have confidence in
 - Notes: text\: 信用できる公共サイトだけにしろ — use only public sites we can trust
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: こうきょう
 - English: public\, community\, civic
 - Notes: text\: 信用できる公共サイト — public sites that can be trusted
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: サイト
 - English: a website\, an online site
 - Notes: text\: 公共サイトだけにしろ — use only public sites
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: さぎし
 - English: a swindler\, a con artist
 - Notes: text\: 詐欺師の常套手段だもんな — that\'s a swindler\'s standard trick
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: じょうとうしゅだん
 - English: a standard tactic\, a stock method
 - Notes: text\: 詐欺師の常套手段 — a swindler\'s standard trick
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: よびちしき
 - English: prior knowledge\, background knowledge
 - Notes: text\: 十分な予備知識もなく — without sufficient background knowledge
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: じゅうぶん
 - English: sufficient\, ample\, enough
 - Notes: text\: 十分な予備知識もなく — without sufficient background knowledge
-- WK level:
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: はんだんする
 - English: to judge\, to decide\, to assess
 - Notes: text\: 画面のみで判断し — judging based only on the screen
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: こうか
 - English: expensive\, high\-priced
 - Notes: text\: 高価な買い物をするのは危険です — making an expensive purchase is dangerous
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: かいもの
 - English: shopping\; a purchase
 - Notes: text\: 高価な買い物をする — make an expensive purchase
-- WK level:
 
 ## e0089
 
@@ -799,7 +711,6 @@
 - Kana: きけん
 - English: danger\, dangerous
 - Notes: text\: 高価な買い物をするのは危険です — making an expensive purchase is dangerous
-- WK level:
 
 ## e0090
 
@@ -808,7 +719,6 @@
 - Kana: ひかえる
 - English: to refrain from\, to hold back
 - Notes: text\: ひかえましょう — please refrain
-- WK level:
 
 ## e0091
 
@@ -817,7 +727,6 @@
 - Kana: のこり
 - English: the remainder\, what is left
 - Notes: text\: オークションまでの残り2週間 — two weeks remaining until the auction
-- WK level:
 
 ## e0092
 
@@ -826,7 +735,6 @@
 - Kana: かせぐ
 - English: to earn\, to make money
 - Notes: text\: いったいいくらお金を稼げるか — how much money can we actually earn\?
-- WK level:
 
 ## e0093
 
@@ -835,7 +743,6 @@
 - Kana: しょうぶ
 - English: a match\, a contest\, a wager
 - Notes: text\: よーし勝負だ — all right\, it\'s a contest
-- WK level:
 
 ## e0094
 
@@ -844,7 +751,6 @@
 - Kana: おおい
 - English: many\, much\; larger in amount
 - Notes: text\: どっちが多い方の勝ち — whoever has more wins
-- WK level:
 
 ## e0095
 
@@ -853,7 +759,6 @@
 - Kana: かつ
 - English: to win\, to defeat
 - Notes: text\: どっちが多い方の勝ち — whoever has more wins
-- WK level:
 
 ## e0096
 
@@ -862,7 +767,6 @@
 - Kana: まける
 - English: to lose\, to be defeated
 - Notes: text\: もし負けたら — if \[I\] lose
-- WK level:
 
 ## e0097
 
@@ -871,7 +775,6 @@
 - Kana: かったほう
 - English: the winner\, the winning side
 - Notes: text\: 勝った方の言うことを何でもやる — the winner gets to make the loser do anything
-- WK level:
 
 ## e0098
 
@@ -880,7 +783,6 @@
 - Kana: いうこと
 - English: what someone says\; one\'s instructions
 - Notes: text\: 勝った方の言うことを何でもやる — do whatever the winner says
-- WK level:
 
 ## e0099
 
@@ -889,7 +791,6 @@
 - Kana: のる
 - English: to accept \(an offer or proposal\)\; to ride
 - Notes: text\: 乗ったぜ — I\'m in\; I accept the bet
-- WK level:
 
 ## e0100
 
@@ -898,7 +799,6 @@
 - Kana: なんでも
 - English: anything\, everything
 - Notes: text\: 言うことを何でもやる — do anything \[the winner says\]
-- WK level:
 
 ## e0101
 
@@ -907,7 +807,6 @@
 - Kana: かんていしょ
 - English: an appraisal certificate\, a certificate of authenticity
 - Notes: text\: 毛髪鑑定書付き — with a hair appraisal certificate
-- WK level:
 
 ## e0102
 
@@ -916,7 +815,6 @@
 - Kana: もうはつ
 - English: hair \(as a specimen\)
 - Notes: text\: 名女優セーラの毛髪鑑定書付き — with an appraisal certificate for actress Sarah\'s hair
-- WK level:
 
 ## e0103
 
@@ -925,7 +823,6 @@
 - Kana: ディーエヌエーかんてい
 - English: DNA testing\, DNA identification
 - Notes: text\: DNA鑑定書付き — with a DNA identification certificate
-- WK level:
 
 ## e0104
 
@@ -934,7 +831,6 @@
 - Kana: ミイラ
 - English: a mummy
 - Notes: text\: ミイラ右腕 — a mummy\'s right arm
-- WK level:
 
 ## e0105
 
@@ -943,7 +839,6 @@
 - Kana: みぎうで
 - English: right arm\; right\-hand person
 - Notes: text\: ミイラ右腕 — a mummy\'s right arm
-- WK level:
 
 ## e0106
 
@@ -952,7 +847,6 @@
 - Kana: ひふ
 - English: skin
 - Notes: text\: 竜皮病患者の皮膚 — the skin of a patient with dragon\-skin disease
-- WK level:
 
 ## e0107
 
@@ -961,7 +855,6 @@
 - Kana: かんじゃ
 - English: a patient\, a sufferer
 - Notes: text\: 竜皮病患者の皮膚 — the skin of a patient with dragon\-skin disease
-- WK level:
 
 ## e0108
 
@@ -970,7 +863,6 @@
 - Kana: いっかくじゅう
 - English: a unicorn
 - Notes: text\: 一角獣の頭蓋骨 — a unicorn skull
-- WK level:
 
 ## e0109
 
@@ -979,7 +871,6 @@
 - Kana: ずがいこつ
 - English: a skull\, a cranium
 - Notes: text\: 一角獣の頭蓋骨 — a unicorn skull
-- WK level:
 
 ## e0110
 
@@ -988,7 +879,6 @@
 - Kana: ごえいだん
 - English: an escort team\, a bodyguard unit
 - Notes: text\: オレが護衛団ダルツォルネ — I\'m Dalzollene of the escort team
-- WK level:
 
 ## e0111
 
@@ -997,7 +887,6 @@
 - Kana: せいしきに
 - English: officially\, formally
 - Notes: text\: 4人とも正式に採用だ — all four of you are officially hired
-- WK level:
 
 ## e0112
 
@@ -1006,7 +895,6 @@
 - Kana: さいようする
 - English: to hire\, to adopt\, to accept
 - Notes: text\: 4人とも正式に採用だ — all four of you are officially hired
-- WK level:
 
 ## e0113
 
@@ -1015,7 +903,6 @@
 - Kana: にんむ
 - English: a duty\, a mission\, an assignment
 - Notes: text\: 早速任務についてもらう — you will take on your assignment at once
-- WK level:
 
 ## e0114
 
@@ -1024,7 +911,6 @@
 - Kana: つく
 - English: to take up \(a post or duty\)\, to assume
 - Notes: text\: 任務についてもらう — you will take up your assignment
-- WK level:
 
 ## e0115
 
@@ -1033,7 +919,6 @@
 - Kana: ガード
 - English: a guard\, protection
 - Notes: text\: ヨークシンまでのボスのガードだ — it is the boss\'s guard detail to York Shin
-- WK level:
 
 ## e0116
 
@@ -1042,7 +927,6 @@
 - Kana: ぶじに
 - English: safely\, without incident
 - Notes: text\: 無事にボスをホテルの一部屋まで送る — get the boss safely to a hotel room
-- WK level:
 
 ## e0117
 
@@ -1051,7 +935,6 @@
 - Kana: おくる
 - English: to send\; to escort\, to see someone off
 - Notes: text\: ボスをホテルの一部屋まで送ること — escort the boss to a hotel room
-- WK level:
 
 ## e0118
 
@@ -1060,7 +943,6 @@
 - Kana: ひとへや
 - English: one room
 - Notes: text\: ホテルの一部屋まで — as far as one room in the hotel
-- WK level:
 
 ## e0119
 
@@ -1069,7 +951,6 @@
 - Kana: こうがい
 - English: the suburbs\, outskirts
 - Notes: text\: ヨークシン郊外のリンゴーン空港 — Lingon Airport on the outskirts of York Shin
-- WK level:
 
 ## e0120
 
@@ -1078,7 +959,6 @@
 - Kana: ひこうせん
 - English: an airship\, a dirigible
 - Notes: text\: 専用飛行船で行きます — we will go by a dedicated airship
-- WK level:
 
 ## e0121
 
@@ -1087,7 +967,6 @@
 - Kana: じんけい
 - English: a formation\, a battle array
 - Notes: text\: 新入り4人は陣形の一番外を囲む — the four newcomers will surround the outermost part of the formation
-- WK level:
 
 ## e0122
 
@@ -1096,7 +975,6 @@
 - Kana: かこむ
 - English: to surround\, to enclose
 - Notes: text\: 陣形の一番外を囲む — surround the outside of the formation
-- WK level:
 
 ## e0123
 
@@ -1105,7 +983,6 @@
 - Kana: しんいり
 - English: a newcomer\, a rookie
 - Notes: text\: 新入り4人 — the four newcomers
-- WK level:
 
 ## e0124
 
@@ -1114,7 +991,6 @@
 - Kana: ねらう
 - English: to aim at\, to target
 - Notes: text\: ボスを狙う人物 — people targeting the boss
-- WK level:
 
 ## e0125
 
@@ -1123,7 +999,6 @@
 - Kana: こころあたり
 - English: an idea\, a person or thing one has in mind
 - Notes: text\: ボスを狙う人物の心当たりは\? — do you have any idea who might target the boss\?
-- WK level:
 
 ## e0126
 
@@ -1132,7 +1007,6 @@
 - Kana: しつもん
 - English: a question
 - Notes: text\: 何か質問は\? — any questions\?
-- WK level:
 
 ## e0127
 
@@ -1141,7 +1015,6 @@
 - Kana: こたえる
 - English: to answer\, to reply
 - Notes: text\: 答える価値のない愚問だな — that is a foolish question not worth answering
-- WK level:
 
 ## e0128
 
@@ -1150,7 +1023,6 @@
 - Kana: かち
 - English: value\, worth\, merit
 - Notes: text\: 答える価値のない — not worth answering
-- WK level:
 
 ## e0129
 
@@ -1159,7 +1031,6 @@
 - Kana: ぐもん
 - English: a foolish question
 - Notes: text\: 答える価値のない愚問だな — that is a foolish question not worth answering
-- WK level:
 
 ## e0130
 
@@ -1168,7 +1039,6 @@
 - Kana: こたえきる
 - English: to answer completely\, to answer all of
 - Notes: text\: ありすぎて答え切れないと言っておこう — let us say there are too many to answer completely
-- WK level:
 
 ## e0131
 
@@ -1177,7 +1047,6 @@
 - Kana: くろしゃかい
 - English: the underworld\, organized crime
 - Notes: text\: ボスは黒社会の要人だ — the boss is an important figure in the underworld
-- WK level:
 
 ## e0132
 
@@ -1186,7 +1055,6 @@
 - Kana: ようじん
 - English: an important person\, a VIP
 - Notes: text\: 黒社会の要人 — an important figure in the underworld
-- WK level:
 
 ## e0133
 
@@ -1195,7 +1063,6 @@
 - Kana: うらむ
 - English: to resent\, to bear a grudge against
 - Notes: text\: 恨んでる人間は売るほどいる — there are people who resent him by the dozen
-- WK level:
 
 ## e0134
 
@@ -1204,7 +1071,6 @@
 - Kana: うるほどいる
 - English: to be abundant\, to be more than one can count
 - Notes: text\: 恨んでる人間は売るほどいる — there are people who resent him by the dozen
-- WK level:
 
 ## e0135
 
@@ -1213,7 +1079,6 @@
 - Kana: いいなおす
 - English: to say again\, to rephrase
 - Notes: text\: わかってないようなので言い直そう — since you do not seem to understand\, let me rephrase
-- WK level:
 
 ## e0136
 
@@ -1222,7 +1087,6 @@
 - Kana: こうどうをおこす
 - English: to take action\, to make a move
 - Notes: text\: 行動を起こすかもしれない人物 — people who might take action
-- WK level:
 
 ## e0137
 
@@ -1231,7 +1095,6 @@
 - Kana: しぼる
 - English: to narrow down\, to tighten\, to squeeze
 - Notes: text\: 敵が絞れれば — if we can narrow down the enemies
-- WK level:
 
 ## e0138
 
@@ -1240,7 +1103,6 @@
 - Kana: うごき
 - English: movement\, activity\, behavior
 - Notes: text\: 敵の動き・性格・環境がわかり — understand the enemies\' movements\, personalities\, and circumstances
-- WK level:
 
 ## e0139
 
@@ -1249,7 +1111,6 @@
 - Kana: せいかく
 - English: personality\, character\, disposition
 - Notes: text\: 敵の動き・性格・環境 — the enemies\' movements\, personalities\, and circumstances
-- WK level:
 
 ## e0140
 
@@ -1258,7 +1119,6 @@
 - Kana: かんきょう
 - English: environment\, circumstances\, surroundings
 - Notes: text\: 敵の動き・性格・環境がわかり — understand the enemies\' movements\, personalities\, and circumstances
-- WK level:
 
 ## e0141
 
@@ -1267,7 +1127,6 @@
 - Kana: たいさく
 - English: a countermeasure\, a plan of action
 - Notes: text\: 対策が立つ — countermeasures can be devised
-- WK level:
 
 ## e0142
 
@@ -1276,7 +1135,6 @@
 - Kana: たつ
 - English: to stand\; to be established or devised
 - Notes: text\: 対策が立つ — countermeasures can be devised
-- WK level:
 
 ## e0143
 
@@ -1285,7 +1143,6 @@
 - Kana: あんぜんど
 - English: degree of safety
 - Notes: text\: 護衛の安全度が増すだろう — the escort\'s safety will increase
-- WK level:
 
 ## e0144
 
@@ -1294,7 +1151,6 @@
 - Kana: ます
 - English: to increase\, to grow
 - Notes: text\: 護衛の安全度が増すだろう — the escort\'s safety will increase
-- WK level:
 
 ## e0145
 
@@ -1303,7 +1159,6 @@
 - Kana: てき
 - English: an enemy\, an opponent
 - Notes: text\: 近づく者全てが敵だ — everyone who approaches is an enemy
-- WK level:
 
 ## e0146
 
@@ -1312,7 +1167,6 @@
 - Kana: かってに
 - English: arbitrarily\, without permission\; on one\'s own
 - Notes: text\: 敵の姿を勝手に想像するな — do not imagine the enemy\'s appearance on your own
-- WK level:
 
 ## e0147
 
@@ -1321,7 +1175,6 @@
 - Kana: そうぞうする
 - English: to imagine\, to picture
 - Notes: text\: 敵の姿を勝手に想像するな — do not imagine the enemy\'s appearance on your own
-- WK level:
 
 ## e0148
 
@@ -1330,7 +1183,6 @@
 - Kana: すがた
 - English: figure\, appearance\, form
 - Notes: text\: 敵の姿 — the enemy\'s appearance
-- WK level:
 
 ## e0149
 
@@ -1339,7 +1191,6 @@
 - Kana: ちかづく
 - English: to approach\, to draw near
 - Notes: text\: 近づく者全てが敵だ — everyone who approaches is an enemy
-- WK level:
 
 ## e0150
 
@@ -1348,7 +1199,6 @@
 - Kana: すべて
 - English: all\, everything\, entirely
 - Notes: text\: 近づく者全てが敵だ — everyone who approaches is an enemy
-- WK level:
 
 ## e0151
 
@@ -1357,7 +1207,6 @@
 - Kana: しょうかいする
 - English: to introduce\, to present
 - Notes: text\: ボスを紹介しよう — I will introduce the boss
-- WK level:
 
 ## e0152
 
@@ -1366,7 +1215,6 @@
 - Kana: ほんもの
 - English: the real thing\, genuine article
 - Notes: text\: 本物の人間だ — he is a real human
-- WK level:
 
 ## e0153
 
@@ -1375,7 +1223,6 @@
 - Kana: なかま
 - English: a companion\, comrade\, associate
 - Notes: text\: かつての仕事仲間だが — he was once a work colleague
-- WK level:
 
 ## e0154
 
@@ -1384,7 +1231,6 @@
 - Kana: かつて
 - English: once\, formerly\, in the past
 - Notes: text\: かつての仕事仲間 — a former work colleague
-- WK level:
 
 ## e0155
 
@@ -1393,7 +1239,6 @@
 - Kana: おしえ
 - English: a teaching\, lesson\, instruction
 - Notes: text\: オレの教えを守らず — without following my instructions
-- WK level:
 
 ## e0156
 
@@ -1402,7 +1247,6 @@
 - Kana: まもる
 - English: to protect\; to obey\, to keep \(a rule\)
 - Notes: text\: オレの教えを守らず — without following my instructions
-- WK level:
 
 ## e0157
 
@@ -1411,7 +1255,6 @@
 - Kana: おどらされる
 - English: to be manipulated\, to be made to dance to someone\'s tune
 - Notes: text\: 敵の情報に踊らされ — manipulated by information about the enemy
-- WK level:
 
 ## e0158
 
@@ -1420,7 +1263,6 @@
 - Kana: けっきょく
 - English: in the end\, after all
 - Notes: text\: 結局は護衛団はおろかボスを危険にさらした — in the end\, they endangered not only the escort team but the boss
-- WK level:
 
 ## e0159
 
@@ -1429,7 +1271,6 @@
 - Kana: きけんにさらす
 - English: to expose to danger\, to endanger
 - Notes: text\: ボスを危険にさらした — they endangered the boss
-- WK level:
 
 ## e0160
 
@@ -1438,7 +1279,6 @@
 - Kana: おろか
 - English: let alone\, not to mention\; foolish
 - Notes: text\: 護衛団はおろかボスを危険にさらした — they endangered not only the escort team but the boss
-- WK level:
 
 ## e0161
 
@@ -1447,7 +1287,6 @@
 - Kana: かわり
 - English: a substitute\, replacement\, stand\-in
 - Notes: text\: 諸君ら4人は彼の替わりだよ — you four are his replacements
-- WK level:
 
 ## e0162
 
@@ -1456,7 +1295,6 @@
 - Kana: しょぶんする
 - English: to dispose of\, to deal with\, to eliminate
 - Notes: text\: したがって処分した — therefore I disposed of them
-- WK level:
 
 ## e0163
 
@@ -1465,4 +1303,3 @@
 - Kana: つれてくる
 - English: to bring someone along
 - Notes: text\: ボス 新入りを連れて来ました — boss\, I have brought the newcomers
-- WK level:

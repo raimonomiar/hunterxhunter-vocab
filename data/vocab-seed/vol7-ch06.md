@@ -7,7 +7,6 @@
 - Kana: ごうかく
 - English: to pass \(an exam\)\; to qualify\, to be accepted
 - Notes: text\: No\.060 合格 — chapter title\, ‘Passing’
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: おさめる
 - English: to complete\, to master \(a course of study or discipline\)
 - Notes: text\: 念の基礎は全て修めたことになります — you will have mastered all the fundamentals of Nen
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: きそ
 - English: basis\, foundation\, fundamentals
 - Notes: text\: 念の基礎は全て修めたことになります — you will have mastered all the fundamentals of Nen
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: そういくふう
 - English: creative ingenuity\, inventive effort
 - Notes: text\: 創意工夫をもって独自の念を構築していく — building your own unique Nen through creative ingenuity
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: どくじ
 - English: one’s own\; original\, unique
 - Notes: text\: 独自の念を構築していくだけです — it’s just a matter of building your own unique Nen
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: こうちくする
 - English: to construct\, to build up
 - Notes: text\: 独自の念を構築していく — building your own unique Nen
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: はつ
 - English: ‘Hatsu’\; freely manipulating one’s aura at will\, the culmination of Nen ability \(Hunter x Hunter term\)
 - Notes: text\: 「発」とはオーラを自在に操る技術 つまり念能力の集大成といえます — ‘Hatsu’ is the technique of freely manipulating aura — in other words\, it can be called the culmination of Nen ability
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: しゅうたいせい
 - English: a culmination\, a crowning compilation
 - Notes: text\: 念能力の集大成といえます — it can be called the culmination of Nen ability
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: たいべつする
 - English: to broadly classify\, to divide into rough categories
 - Notes: text\: 6つのタイプに大別されます — broadly classified into six types
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: こせい
 - English: individuality\, personal character
 - Notes: text\: 念能力はその人の個性と深くつながっています — Nen ability is deeply connected to a person’s individuality
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: つちかう
 - English: to cultivate\, to nurture
 - Notes: text\: 大自然を遊び場にして培われたもの — something cultivated by using nature itself as a playground
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: うまれつき
 - English: by birth\; innate\, congenital
 - Notes: text\: その人が生まれつき持っているオーラの性質 — the innate nature of aura a person is born with
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: きょうかけい
 - English: Enhancement type — strengthens the function or power something already has
 - Notes: text\: 強化系 ものの持つ働きや力を強くする — Enhancement type\: strengthens the function or power something has
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: ほうしゅつけい
 - English: Emission type — projects one’s aura outward
 - Notes: text\: 放出系 オーラを飛ばす — Emission type\: sends aura flying outward
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: へんかけい
 - English: Transmutation type — changes the nature of one’s aura
 - Notes: text\: 変化系 オーラの性質を変える — Transmutation type\: changes the nature of aura
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: ぐげんかけい
 - English: Conjuration type — materializes aura into substance
 - Notes: text\: 具現化系 オーラを物質化する — Conjuration type\: turns aura into physical matter
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: そうさけい
 - English: Manipulation type — controls matter or living things
 - Notes: text\: 操作系 物質や生物を操る — Manipulation type\: controls matter or living things
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: とくしつけい
 - English: Specialization type — a special aura unlike any other
 - Notes: text\: 特質系 他に類のない特殊なオーラ — Specialization type\: a special aura with nothing else like it
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: あいしょう
 - English: compatibility\, affinity \(between two things or people\)
 - Notes: text\: これが相性を示す六性図です — this is the hexagon chart showing compatibility
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: となりあう
 - English: to be adjacent to\, next to each other
 - Notes: text\: 隣り合うものほど相性がいい — the ones adjacent to each other have better compatibility
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: おぼえる
 - English: to learn\, to acquire \(a skill\)\; to memorize
 - Notes: text\: 強化系の能力は覚えやすく…特質系の能力は非常に覚えにくい — Enhancement\-type abilities are easy to acquire…Specialization\-type abilities are extremely hard to acquire
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: つかいて
 - English: a user\, a wielder \(of a skill or weapon\)
 - Notes: text\: 隨一の使い手といえたはずです — he could have been called a foremost user
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: てんせい
 - English: natural disposition\, inborn nature
 - Notes: text\: 彼の天性の資質は強化系に属していたはずです — his natural aptitude must have belonged to the Enhancement type
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: ししつ
 - English: qualities\, aptitude
 - Notes: text\: 天性の資質は強化系に属していたはずです — his innate qualities must have belonged to the Enhancement type
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: たゆまぬどりょく
 - English: unceasing effort\, untiring perseverance
 - Notes: text\: 会得できたのは弛まぬ努力と武才の賜物 — being able to master it was the fruit of unceasing effort and martial talent
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: たまもの
 - English: a gift\, a blessing\; the fruit \(of one’s efforts\)
 - Notes: text\: 弛まぬ努力と武才の賜物 — the fruit of unceasing effort and martial talent
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: ついやす
 - English: to spend\, to expend \(time\, effort\, or money\)
 - Notes: text\: 能力のほぼ全てをその能力に費やしてしまった — he ended up spending almost all his ability on that one power
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: ようするに
 - English: in short\, to sum up
 - Notes: text\: 要するに選択ミスってことだろ — in short\, it’s just a case of a wrong choice\, isn’t it
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: みずみしき
 - English: ‘Water Divination’\; a Nen\-type test using a glass of water and a leaf
 - Notes: text\: 水見式 心源流に伝わる選別法です — Water Divination\, a selection method handed down in the Shingen school
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: せんべつほう
 - English: a selection method\, a screening method
 - Notes: text\: 心源流に伝わる選別法です — a selection method handed down in the Shingen school
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: もちいる
 - English: to use\, to employ
 - Notes: text\: 「発」の修行としてもこれを用います — this is also used as training for ‘Hatsu’
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: みわける
 - English: to distinguish\, to tell apart
 - Notes: text\: その変化によって資質を見分けます — the aptitude is distinguished by that change
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: いきおい
 - English: momentum\, vigor\, force
 - Notes: text\: すごい勢いで増えてる\!\? — it’s increasing at a tremendous rate\!\?
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: ふえる
 - English: to increase\, to grow in number\/amount
 - Notes: text\: 水がすごい勢いで増えてる — the water is increasing at a tremendous rate
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: りょう
 - English: amount\, quantity
 - Notes: text\: 水の量が変わるのは強化系の証 — a change in the amount of water is proof of the Enhancement type
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: あかし
 - English: proof\, evidence
 - Notes: text\: 強化系の証を示しています — it shows proof of the Enhancement type
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: ためす
 - English: to try\, to test
 - Notes: text\: さあ3人とも試してみなさい — now\, all three of you try it
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: はっぱ
 - English: a leaf
 - Notes: text\: 葉っぱが動いてるっす\!\! — the leaf is moving\!\!
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: なめる
 - English: to lick
 - Notes: text\: 水を舐めてみて下さい — please try licking the water
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: あまい
 - English: sweet
 - Notes: text\: 少し甘い…かな\? — is it a little sweet\?
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: あじ
 - English: taste\, flavor
 - Notes: text\: 水の味が変わるのは変化系の証です — a change in the water’s taste is proof of the Transmutation type
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: せんねんする
 - English: to concentrate on\, to devote oneself to
 - Notes: text\: この修行に専念し — devoting yourselves to this training
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: けんちょ
 - English: marked\, pronounced\, noticeable
 - Notes: text\: 今の変化がより顕著になるよう — so that the current change becomes more pronounced
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: たんれん
 - English: training\, forging \(of skill or body\)
 - Notes: text\: 鍛練を続けなさい — continue your training
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: していする
 - English: to specify\, to designate
 - Notes: text\: 戦闘日を指定するから — because I’ll specify the day of battle
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: たたかう
 - English: to fight\, to do battle
 - Notes: text\: 天空闘技場で戦ろう\! — let’s fight at Heaven’s Arena\!
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: まつ
 - English: to wait
 - Notes: text\: やあ待ってたよ — hey\, I’ve been waiting
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: きめる
 - English: to decide\, to determine
 - Notes: text\: ボクといつ戦うか決めたかい\? — have you decided when you’ll fight me\?
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: たのしみにする
 - English: to look forward to
 - Notes: text\: 楽しみにしているよ — I’m looking forward to it
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: せいか
 - English: result\, fruits \(of one’s efforts\)
 - Notes: text\: 修行の成果を見せてもらいましょうか — shall I have you show me the fruits of your training\?
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: つぎ
 - English: next
 - Notes: text\: 次 キルア君 — next\, Killua
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: よろしい
 - English: all right\, very well \(formal acknowledgment\)
 - Notes: text\: よろしい — very well
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: はちみつ
 - English: honey
 - Notes: text\: ハチミツみたいだよ\!\! — it’s like honey\!\!
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: たいしたもの
 - English: something impressive\, no small feat
 - Notes: text\: たいしたものです — that’s quite impressive
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: そつぎょう
 - English: graduation
 - Notes: text\: 2人とも今日で卒業です — both of you graduate today
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: さいていじょうけん
 - English: the bare minimum requirement
 - Notes: text\: 念法の会得はハンターになるための最低条件 — mastering Nen is the bare minimum requirement to become a Hunter
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: そうおう
 - English: suitable\, commensurate
 - Notes: text\: プロのハンターには相応の強さが求められる — a professional Hunter is required to have commensurate strength
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: あくよう
 - English: misuse\, abuse \(of something\)
 - Notes: text\: 悪用されれば恐ろしい破壊力となる — if misused\, it becomes a terrifying destructive power
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: おそろしい
 - English: terrifying\, dreadful
 - Notes: text\: 悪用されれば恐ろしい破壊力となる — if misused\, it becomes a terrifying destructive power
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: はかいりょく
 - English: destructive power
 - Notes: text\: 恐ろしい破壊力となるこの能力 — this ability that becomes a terrifying destructive power
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: よくしりょく
 - English: deterrent force
 - Notes: text\: 犯罪抑止力としての強さがどうしても必要となる — strength as a deterrent to crime is absolutely necessary
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: みつりょうしゃ
 - English: a poacher
 - Notes: text\: 邪な密猟者や犯罪者を捕えること — capturing wicked poachers and criminals
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: はんざいしゃ
 - English: a criminal
 - Notes: text\: 犯罪者を捕えることはハンターの基本活動 — capturing criminals is a basic Hunter activity
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: どうしても
 - English: no matter what\, by all means
 - Notes: text\: 強さがどうしても必要となる — the strength is absolutely necessary no matter what
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: もういちど
 - English: once more\, one more time
 - Notes: text\: ぜひもう一度試験を受けて下さい — please\, take the exam one more time
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: きがむく
 - English: to feel inclined\, to feel like \(doing something\)
 - Notes: text\: 気が向いたらね — if you feel like it
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: しはん
 - English: a master\, an instructor \(martial arts\)
 - Notes: text\: 師範代の2人のことは色々聞きました — I’ve heard a lot about the two assistant instructors
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: ほしょうする
 - English: to guarantee
 - Notes: text\: 私が保証します — I guarantee it
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: しかく
 - English: qualification\, eligibility
 - Notes: text\: 今の君には十分資格がありますよ — you currently have more than enough qualification
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: がんばる
 - English: to do one’s best\, to persevere
 - Notes: text\: みんな頑張ってるんだね — everyone’s really working hard
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: みたす
 - English: to satisfy\, to fulfill \(a condition\)
 - Notes: text\: イルミとヒソカは初めから条件を満たしてます — Illumi and Hisoka have fulfilled the conditions from the very start
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: てこずる
 - English: to have a hard time with\, to be stumped by
 - Notes: text\: 「練」の習得にかなり手こずってるよう — seems to be having quite a hard time mastering ‘Ren’
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: しゅうとく
 - English: mastery\, acquisition \(of a skill\)
 - Notes: text\: 「練」の習得にかなり手こずってるよう — having a hard time mastering the acquisition of ‘Ren’
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: ちゅうこく
 - English: advice\, admonition
 - Notes: text\: 最後に一つ忠告です — one last piece of advice
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: くれぐれも
 - English: earnestly\; \(with a negative\) whatever you do\, be sure not to…
 - Notes: text\: くれぐれもムリをしないように\!\! — whatever you do\, don’t overexert yourself\!\!
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: しあい
 - English: a match\, a contest
 - Notes: text\: 明日の試合くれぐれもムリをしないように — for tomorrow’s match\, whatever you do don’t overexert yourself
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: じしんをもつ
 - English: to have confidence
 - Notes: text\: 自信を持ちなさい — have confidence
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: じょうたつ
 - English: improvement\, progress \(in skill\)
 - Notes: text\: あなたの上達の早さは並じゃない — the speed of your improvement is no ordinary thing
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: なみ
 - English: ordinary\, average
 - Notes: text\: 上達の早さは並じゃない — the speed of your improvement is no ordinary thing
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: おいつく
 - English: to catch up
 - Notes: text\: いつか絶対追いついてみせるっス\! — someday I’ll definitely catch up\!
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: けっせん
 - English: a decisive battle\, a showdown
 - Notes: text\: そして決戦当日 — and then\, the day of the decisive battle
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: たっぷり
 - English: plentifully\, amply
 - Notes: text\: グラスにたっぷりと水を入れて — fill a glass generously with water
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: うかべる
 - English: to float something\, to set something afloat
 - Notes: text\: 葉っぱを浮かべ「練」を行う — float a leaf and perform ‘Ren’
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: ふじゅんぶつ
 - English: an impurity\, foreign matter
 - Notes: text\: 水に不純物が出現→具現化系 — impurities appear in the water → Conjuration type
-- WK level:
 
 ## e0085
 
@@ -763,4 +679,3 @@
 - Kana: しゅつげんする
 - English: to appear\, to manifest
 - Notes: text\: 水に不純物が出現 — impurities appear in the water
-- WK level:

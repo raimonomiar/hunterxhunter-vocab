@@ -7,7 +7,6 @@
 - Kana: しかけ
 - English: device\, mechanism\, trick
 - Notes: ドアが現れる仕掛けか — \"a mechanism that makes the door appear\"
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: とうじょう
 - English: entrance\, appearance \(of a character\)
 - Notes: chapter title\: 試練官登場 \"The Examiner Appears\"
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: えらそう
 - English: acting high and mighty\, arrogant\-looking
 - Notes: 偉そう\; written えらそー in the text — \"look at this guy acting all high and mighty\"
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: たすうけつ
 - English: majority vote
 - Notes:
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: きまる
 - English: to be decided\, to be obvious
 - Notes: こんな答えは決まってんのにな — \"the answer to this is already obvious\"
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: まちがう
 - English: to make a mistake\, to get \(something\) wrong
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: ふざける
 - English: to joke around\, to mess around
 - Notes: ふざけんじゃねーぜ — rude\/casual \"don\'t screw around\"
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: イカれる
 - English: to be broken\, to have gone crazy \(slang\)
 - Notes: written in katakana\; 眼がイカれてんのか — \"are your eyes broken\?\"
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: あらそう
 - English: to argue\, to quarrel\, to dispute
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: おしい
 - English: regrettable\, a waste \(of time\/effort\)
 - Notes: 時間が惜しい — \"it\'s a waste of time \(to argue\)\"
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: かんじん
 - English: essential\, crucial
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: かりに
 - English: hypothetically\, suppose \(that\)
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: さからう
 - English: to defy\, to go against\, to disobey
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: まとまる
 - English: to come together\, to be unified\/settled
 - Notes: オレ達がまとまってりゃいいわけだろ — \"as long as we\'re united\, right\?\"
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: せつもん
 - English: a posed question\, a question \(in a quiz\/test\)
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: てまどる
 - English: to take longer than expected\, to be a hassle
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: おちつく
 - English: to calm down\, to settle down
 - Notes: negative なんか落ち着かねーんだよ — \"I just can\'t settle down\"
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: こうどうがく
 - English: behavioral science\, ethology
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: けんち
 - English: viewpoint\, standpoint
 - Notes: 行動学の見地から — \"from the standpoint of behavioral science\"
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: まよう
 - English: to lose one\'s way\, to be at a loss\, to hesitate
 - Notes:
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: みち
 - English: unknown
 - Notes: 未知の道 — \"an unknown path\"
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: むいしき
 - English: unconscious\(ly\)
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: せんたくする
 - English: to select\, to choose
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: ほうそく
 - English: law\, principle\, pattern
 - Notes: 左の法則を知っていたら — \"if he knew the pattern about choosing left\"
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: かだい
 - English: task\, challenge\, assignment
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: なんど
 - English: level\/degree of difficulty
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: もうける
 - English: to set up\, to establish \(a rule\, system\)
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: たんじゅん
 - English: simple\, simple\-minded
 - Notes: オレ達は単純だよ\!\! — self\-deprecating \"we\'re simple\(\-minded\)\"
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: てじょう
 - English: handcuffs
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: はずす
 - English: to take off\, to remove\, to unfasten
 - Notes: 外す\; 手錠をはずしてくれ — \"take off the handcuffs\"
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: かいほう
 - English: release\, being set free
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: しんさいいんかい
 - English: examination committee\, review board
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: やとう
 - English: to employ\, to hire
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: しれんかん
 - English: proctor\, examiner \(title used for this exam\'s officials\)
 - Notes: coined term for this arc\; also the chapter title 試練官登場
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: しょうぶ
 - English: a match\, contest\, bout
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: かくじ
 - English: each person\, individually
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: じゅんばん
 - English: order\, turn\, sequence
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: けっこう
 - English: fine\, all right \(granting permission\)
 - Notes: 決めて結構\!\! — \"you may decide it freely\"
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: つうかする
 - English: to pass through\, to get past \(a test\/stage\)
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: きわめて
 - English: extremely
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: たんじゅんめいかい
 - English: simple and clear\, straightforward
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: ひきわけ
 - English: a draw\, a tie
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: かたほう
 - English: one side\, one of the two \(parties\)
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: みとめる
 - English: to admit\, to acknowledge
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: しょうりしゃ
 - English: victor\, winner
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: さいけつ
 - English: a vote\, voting \(to decide something\)
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: ごうかくする
 - English: to pass \(a test\/exam\)
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ムダ
 - English: a waste\, pointless
 - Notes: 無駄\; written in katakana\; 時間のムダだぜ — \"a waste of time\"
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: まんじょういっち
 - English: unanimous
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: いちばんて
 - English: the first \(to go\)\, first turn\/position
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: あしなみがみだれる
 - English: to fall out of step\, to lack coordination
 - Notes: idiom\, lit\. \"the pace of one\'s steps becomes disordered\"\; text has the conjugated 足並み乱さなきゃ
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: マヌケ
 - English: fool\, idiot
 - Notes: 間抜け\; written in katakana
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: うらをかえせば
 - English: conversely\, to put it another way
 - Notes: idiom\, lit\. \"if you flip the reverse side\"\; text writes 裏 in kanji but かえせば in kana
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: どくみやく
 - English: food taster \(fig\.\: the one who tests the waters first\)
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: でかたをうかがう
 - English: to feel out \(someone\'s\) approach\/reaction
 - Notes: 相手の出方をうかがう — \"to see how the opponent will move\"
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: たいしょうやく
 - English: anchor position \(last\-up fighter in a team match\)
 - Notes: lit\. \"general\" role
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: まかせる
 - English: to entrust\, to leave \(something\) to someone
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: しんようする
 - English: to trust\, to have confidence in
 - Notes:
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: かねる
 - English: to serve double duty\, to combine \(two purposes\)
 - Notes: さっきのワビもかねてな — \"doubling as an apology for earlier\, too\"
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: ほうほう
 - English: method\, way
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: ていあんする
 - English: to propose\, to suggest
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: いっぽう
 - English: one side\, one of the two \(parties\)
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: かくご
 - English: resolve\, mental preparedness \(esp\. for something dire\)
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: みごと
 - English: splendid\, admirable\, masterful
 - Notes:
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: まいった
 - English: I give up\, I\'m beaten
 - Notes: 参った\; past tense of 参る used as an exclamation of defeat
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: すすむ
 - English: to advance\, to proceed
 - Notes:
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: ひきかえす
 - English: to turn back\, to go back
 - Notes:
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: じかんぎれ
 - English: time\'s up\, running out of time
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: たちつくす
 - English: to stand rooted to the spot\, to remain standing motionless
 - Notes:
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: めんぼくない
 - English: to be ashamed\, to have no face to show
 - Notes:
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: あしをひっぱる
 - English: to hold someone back\, to be a drag on someone
 - Notes: idiom\, lit\. \"to pull someone\'s leg\/foot\"\; text spells it 足を引っぱって with a hiragana ぱ
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: くずやろう
 - English: scumbag\, worthless bum
 - Notes:
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: そのとおり
 - English: that\'s right\, exactly so
 - Notes:
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: なかまわれ
 - English: falling\-out among allies\, internal strife
 - Notes:
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: いきのこる
 - English: to survive
 - Notes:
-- WK level:
 
 ## e0076
 
@@ -682,4 +607,3 @@
 - Kana: らくしょう
 - English: an easy win\, a cinch
 - Notes:
-- WK level:

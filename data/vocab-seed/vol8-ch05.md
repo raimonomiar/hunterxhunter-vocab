@@ -7,7 +7,6 @@
 - Kana: じゅうだん
 - English: a bullet
 - Notes: text\: 銃弾を止めるとは — to think you stopped the bullets
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: とめる
 - English: to stop
 - Notes: text\: 銃弾を止めるとは — to think you stopped the bullets
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: おどろく
 - English: to be surprised\, to be astonished
 - Notes: text\: 銃弾を止めるとは — surprised that someone stopped bullets
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: けん
 - English: a sword
 - Notes: text\: 剣3人 — three sword\-wielders in the attack count
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: じゅう
 - English: a gun
 - Notes: text\: 銃6人 — six gun\-users in the attack count
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: これなら
 - English: if it is like this\; in this case
 - Notes: text\: これなら念をくりだすまでもねー — if it is like this\, there is no need to unleash Nen
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: ねん
 - English: Nen\; mind\-force energy
 - Notes: text\: 念をくりだすまでもねー — there is no need to unleash Nen
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: くりだす
 - English: to unleash\, to bring out\; to send out
 - Notes: text\: 念をくりだすまでもねー — there is no need to unleash Nen
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: じつのところ
 - English: as a matter of fact\, to tell the truth
 - Notes: text\: 実のところ腕はたいしたことねーぜ — to tell the truth\, your strength is nothing special
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: うで
 - English: arm\; skill\, strength
 - Notes: text\: 実のところ腕はたいしたことねーぜ — to tell the truth\, your strength is nothing special
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: たいした
 - English: significant\, impressive\; much of a
 - Notes: text\: 腕はたいしたことねーぜ — your strength is nothing special
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: ころす
 - English: to kill
 - Notes: text\: お前達を殺さずに — without killing you all
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: なるほど
 - English: I see\; that makes sense
 - Notes: text\: なるほどな — I see
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: わかる
 - English: to understand\; to figure out
 - Notes: text\: そういうことがわかったぜ — I figured out what is going on
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: あいつ
 - English: that guy\, that person
 - Notes: text\: あいつだ — it is that guy
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: びょう
 - English: second \(unit of time\)
 - Notes: text\: 3秒待つ — wait three seconds
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: まつ
 - English: to wait
 - Notes: text\: 3秒待つ — wait three seconds
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: とめる
 - English: to stop\, to halt
 - Notes: text\: ヤツらを止めろ — stop them
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: わかる
 - English: to understand\, to get it
 - Notes: text\: わかったよ — got it
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: オーケー
 - English: okay
 - Notes: text\: オーケー\! — okay\!
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: ひとのかたち
 - English: human shape\, human form
 - Notes: text\: 人の形をしたオーラの塊 — clumps of aura in human shape
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: オーラ
 - English: aura
 - Notes: text\: 人の形をしたオーラの塊 — clumps of aura in human shape
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: かたまり
 - English: a lump\, a clump\, a mass
 - Notes: text\: オーラの塊だった — they were clumps of aura
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: なぐる
 - English: to punch\, to hit
 - Notes: text\: 殴った感触でわかったぜ — I could tell from the feel when I punched them
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: かんしょく
 - English: feel\, sensation\, touch
 - Notes: text\: 殴った感触でわかったぜ — I could tell from the feel when I punched them
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: やはり
 - English: as expected\, after all
 - Notes: text\: やはり念… — as expected\, Nen\.\.\.
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: きづく
 - English: to notice\, to realize
 - Notes: text\: だがそいつの念とは気づかなかった — but I did not realize it was that person\'s Nen
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: つねに
 - English: always\, constantly
 - Notes: text\: 常に人の側にいて — always staying by people\'s side
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: そば
 - English: side\, vicinity\, by the side of
 - Notes: text\: 人の側にいて — staying by people\'s side
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: かんさつする
 - English: to observe
 - Notes: text\: 上から観察しているとよくわかる — observing from above makes it easy to see
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: カモフラージュする
 - English: to camouflage\, to conceal
 - Notes: text\: うまくカモフラージュしていた — they had camouflaged themselves well
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: こうげき
 - English: an attack\; to attack
 - Notes: text\: お前だけが攻撃を受けていない — only you have not been attacked
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: うける
 - English: to receive\; to be subjected to
 - Notes: text\: 攻撃を受けていない — have not received an attack
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: いわかん
 - English: a feeling that something is off\; discomfort
 - Notes: text\: 違和感に気づいたきっかけ — the trigger for noticing something was off
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: きづく
 - English: to notice\, to become aware
 - Notes: text\: 違和感に気づいた — noticed something was off
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: きっかけ
 - English: a trigger\, a cue\, an opportunity
 - Notes: text\: 気づいたきっかけは — the trigger for noticing it was
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: かいか
 - English: downstairs\, the lower floor
 - Notes: text\: 階下へは行かず — without going downstairs
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: いま
 - English: living room\, sitting room
 - Notes: text\: 居間に向かって — heading toward the living room
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: むかう
 - English: to head toward\, to face
 - Notes: text\: 居間に向かって剣を振り続けた — kept swinging the sword toward the living room
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: ふりつづける
 - English: to keep swinging
 - Notes: text\: 剣を振り続けた — kept swinging the sword
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: こうげきしゃ
 - English: an attacker
 - Notes: text\: 2階から現れた攻撃者 — the attacker who appeared from the second floor
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: たんじゅん
 - English: simple\, straightforward\; simplistic
 - Notes: text\: 単純な命令しか与えられず — given only simple commands
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: めいれい
 - English: an order\, a command
 - Notes: text\: 単純な命令しか与えられず — given only simple commands
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: あたえる
 - English: to give\, to provide
 - Notes: text\: 命令しか与えられず — given only commands
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: こうげきぎじゅつ
 - English: attack technique\, combat skill
 - Notes: text\: その攻撃技術も未熟 — their attack technique is also immature
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: みじゅく
 - English: immature\, inexperienced\, unskilled
 - Notes: text\: 攻撃技術も未熟 — their attack technique is unskilled
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: じっちゅうはっく
 - English: nine times out of ten\; in all likelihood
 - Notes: text\: 十中八九放出系に属する — in all likelihood\, belonging to the Emission category
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ほうしゅつけい
 - English: Emission type \(Nen category\)
 - Notes: text\: 放出系に属する念能力者 — a Nen user belonging to the Emission category
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: ぞくする
 - English: to belong to\, to be affiliated with
 - Notes: text\: 放出系に属する — belonging to the Emission category
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: ねんのうりょくしゃ
 - English: a Nen user
 - Notes: text\: 念能力者 — a Nen user
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: くしする
 - English: to wield skillfully\, to make full use of
 - Notes: text\: 駆使するオーラの大きさから考えて — judging from the size of the aura he skillfully uses
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: げんかいきょり
 - English: maximum range\, limiting distance
 - Notes: text\: 操作可能な限界距離は数メートル — the controllable range is several meters
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: せいかい
 - English: correct answer\; correct
 - Notes: text\: うむ 正解だ — yes\, correct
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: いちおう
 - English: for the time being\; technically\, at least
 - Notes: text\: オレも一応ハンターだ — I am also technically a Hunter
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: せんぱい
 - English: senior\, upperclassman\, more experienced person
 - Notes: text\: 君達の先輩だ — I am your senior
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: かたな
 - English: a sword\, a katana
 - Notes: text\: 刀をおさめてくれねーか — would you put away your sword\?
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: おさめる
 - English: to put away\, to sheathe\; to store
 - Notes: text\: 刀をおさめてくれねーか — would you put away your sword\?
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: めいれいする
 - English: to order\, to command
 - Notes: text\: ボスに命令されてやった — I did it because the boss ordered me to
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: ためす
 - English: to test\, to try
 - Notes: text\: 殺すつもりで試させってな — he told me to test you as though intending to kill you
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: バレる
 - English: to be found out\, to be exposed
 - Notes: text\: こんなに早くバレるとは思わなかったぜ — I did not expect to be found out so quickly
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: だっしゅつする
 - English: to escape\, to break out
 - Notes: text\: 館から脱出できるだろ — you should be able to escape from the mansion
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: がんばる
 - English: to do one\'s best\, to hang in there
 - Notes: text\: がんばりな — do your best
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: まざる
 - English: to mix in\, to be mixed among
 - Notes: text\: もう一人ここに混ざってやがるのか — is one more person mixed in here\?
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: おれい
 - English: thanks\, gratitude\; a token of thanks
 - Notes: text\: お礼のつもりで言ったのだろうが — you probably meant it as thanks\, but
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: しつげん
 - English: a slip of the tongue\, an ill\-advised remark
 - Notes: text\: 失言だったな — that was a slip of the tongue
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: せんにゅうしゃ
 - English: an infiltrator\, an infiltrating person
 - Notes: text\: 他に潜入者がいるかどうかを調べよう — I will check whether there is another infiltrator
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: しらべる
 - English: to investigate\, to check\, to look up
 - Notes: text\: 潜入者がいるかどうかを調べよう — I will check whether there is an infiltrator
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: つもり
 - English: intention\; assumption\; the idea of doing
 - Notes: text\: お礼のつもりで — with the intention of thanking you
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: こんきょ
 - English: basis\, grounds\, evidence
 - Notes: text\: 何を根拠に言ってるんだ\? — on what basis are you saying that\?
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: しょうこ
 - English: evidence\, proof
 - Notes: text\: 何の証拠にもならんぞ — it does not prove anything
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: ダウジング
 - English: dowsing
 - Notes: text\: ダウジングってやつよ — it is called dowsing
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: あたる
 - English: to hit\; to be right\, to be correct
 - Notes: text\: おそらく当たってるわ — it is probably right
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: さす
 - English: to point at
 - Notes: text\: あなたが指をさされた時 — when you were pointed at
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: しんぞう
 - English: heart \(organ\)
 - Notes: text\: 心臓がすごい音で鳴った — your heart pounded with a tremendous sound
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: ジワジワ
 - English: gradually\, little by little
 - Notes: text\: ジワジワと心臓の音が早く大きくなる — the heartbeat gradually becomes faster and louder
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: ふあん
 - English: anxiety\, unease
 - Notes: text\: 誤解による不安と興奮でね — from anxiety and excitement caused by the misunderstanding
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: こうふん
 - English: excitement\, agitation
 - Notes: text\: 不安と興奮でね — from anxiety and excitement
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: てんけいてき
 - English: typical\, stereotypical
 - Notes: text\: 典型的な嘘つきの雄弁なのよ — it is the typical eloquence of a liar
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: うそつき
 - English: a liar
 - Notes: text\: 典型的な嘘つき — a typical liar
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: ゆうべん
 - English: eloquence\; eloquent
 - Notes: text\: 嘘つきの雄弁 — a liar\'s eloquence
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: さんかしゃ
 - English: a participant
 - Notes: text\: 本当は5人のうち参加者が3人で — actually\, three of the five may be participants
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: むだ
 - English: a waste\, uselessness\; futile
 - Notes: text\: 時間の無駄だぜ — it is a waste of time
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: けつろん
 - English: a conclusion
 - Notes: text\: ここでウダウダしてたって結論なんか出やしない — dithering here will not produce a conclusion
-- WK level:
 
 ## e0084
 
@@ -754,7 +671,6 @@
 - Kana: ウダウダする
 - English: to dither\, to waste time indecisively
 - Notes: text\: ここでウダウダしてたって — even if we dither here
-- WK level:
 
 ## e0085
 
@@ -763,7 +679,6 @@
 - Kana: しんようする
 - English: to trust\, to believe
 - Notes: text\: それが信用できねーって言ってんだよ — that is why I say I cannot trust it
-- WK level:
 
 ## e0086
 
@@ -772,7 +687,6 @@
 - Kana: しょうがない
 - English: it cannot be helped\; no choice
 - Notes: text\: しょうがねェ — cannot be helped
-- WK level:
 
 ## e0087
 
@@ -781,7 +695,6 @@
 - Kana: なぐる
 - English: to punch\, to hit
 - Notes: text\: オレ様が殴ったモノはみな燃える — everything I punch burns
-- WK level:
 
 ## e0088
 
@@ -790,7 +703,6 @@
 - Kana: もえる
 - English: to burn\, to catch fire
 - Notes: text\: 殴ったモノはみな燃える — everything punched burns
-- WK level:
 
 ## e0089
 
@@ -799,7 +711,6 @@
 - Kana: ださく
 - English: a poor work\, a bad piece of art
 - Notes: text\: 駄作だぜ — it is a poor work
-- WK level:
 
 ## e0090
 
@@ -808,7 +719,6 @@
 - Kana: はいく
 - English: haiku
 - Notes: text\: こいつは俳句というものだ — this is what is called haiku
-- WK level:
 
 ## e0091
 
@@ -817,7 +727,6 @@
 - Kana: そこく
 - English: one\'s homeland\, mother country
 - Notes: text\: オレの祖国が誇る文学だ — literature my homeland is proud of
-- WK level:
 
 ## e0092
 
@@ -826,7 +735,6 @@
 - Kana: ほこる
 - English: to boast of\, to be proud of
 - Notes: text\: 祖国が誇る文学 — literature my homeland is proud of
-- WK level:
 
 ## e0093
 
@@ -835,7 +743,6 @@
 - Kana: ぶんがく
 - English: literature
 - Notes: text\: オレの祖国が誇る文学 — literature my homeland is proud of
-- WK level:
 
 ## e0094
 
@@ -844,7 +751,6 @@
 - Kana: よむ
 - English: to compose \(a poem\)\, to recite
 - Notes: text\: オレが詠み記した句は実現する — verses I compose and write come true
-- WK level:
 
 ## e0095
 
@@ -853,7 +759,6 @@
 - Kana: じつげんする
 - English: to become reality\, to be realized
 - Notes: text\: 詠み記した句は実現する — the written verse becomes reality
-- WK level:
 
 ## e0096
 
@@ -862,7 +767,6 @@
 - Kana: せつめい
 - English: an explanation
 - Notes: text\: 説明終わり — explanation over
-- WK level:
 
 ## e0097
 
@@ -871,7 +775,6 @@
 - Kana: ほんばん
 - English: the real thing\; the main event
 - Notes: text\: ここからが本番だ — from here is the real thing
-- WK level:
 
 ## e0098
 
@@ -880,7 +783,6 @@
 - Kana: しょうねつじごく
 - English: a burning hell\, hell of scorching heat
 - Notes: text\: 焦熱地獄に落ちるわよ — you will fall into burning hell
-- WK level:
 
 ## e0099
 
@@ -889,7 +791,6 @@
 - Kana: おちる
 - English: to fall\; to drop into
 - Notes: text\: 焦熱地獄に落ちる — fall into burning hell
-- WK level:
 
 ## e0100
 
@@ -898,7 +799,6 @@
 - Kana: よみかえる
 - English: to rephrase as a poem\; to render differently
 - Notes: text\: って詠みかえてもよし — it is also fine to rephrase it as this verse
-- WK level:
 
 ## e0101
 
@@ -907,7 +807,6 @@
 - Kana: とう
 - English: to ask\, to question
 - Notes: text\: 我が問いに — in response to my question
-- WK level:
 
 ## e0102
 
@@ -916,7 +815,6 @@
 - Kana: ちがう
 - English: to differ\; to be wrong\; no
 - Notes: text\: 違うわ — no\, that is wrong
-- WK level:
 
 ## e0103
 
@@ -925,7 +823,6 @@
 - Kana: こころする
 - English: to take care\, to be prepared
 - Notes: text\: 心して — be prepared
-- WK level:
 
 ## e0104
 
@@ -934,7 +831,6 @@
 - Kana: みのため
 - English: for one\'s own sake
 - Notes: text\: 答えた方が身のためだ — you would do better to answer for your own sake
-- WK level:
 
 ## e0105
 
@@ -943,7 +839,6 @@
 - Kana: へんとう
 - English: a reply\, an answer
 - Notes: text\: さあ返答を\!\! — now\, answer\!
-- WK level:
 
 ## e0106
 
@@ -952,7 +847,6 @@
 - Kana: こたえる
 - English: to answer\, to reply
 - Notes: text\: 答えはイエスだ — the answer is yes
-- WK level:
 
 ## e0107
 
@@ -961,7 +855,6 @@
 - Kana: イエス
 - English: yes
 - Notes: text\: 答えはイエスだ — the answer is yes
-- WK level:
 
 ## e0108
 
@@ -970,7 +863,6 @@
 - Kana: みごと
 - English: splendid\, excellent\; skillful
 - Notes: text\: お見事 — splendid\; well done
-- WK level:
 
 ## e0109
 
@@ -979,7 +871,6 @@
 - Kana: ごほうび
 - English: a reward\, a prize
 - Notes: text\: ご褒美に教えてやるよ — I will tell you as a reward
-- WK level:
 
 ## e0110
 
@@ -988,7 +879,6 @@
 - Kana: せいしき
 - English: formal\, official
 - Notes: text\: 正式な証は持ってないが — I do not have an official license
-- WK level:
 
 ## e0111
 
@@ -997,7 +887,6 @@
 - Kana: しょう
 - English: proof\, certificate\, license
 - Notes: text\: 正式な証は持ってない — I do not have an official license
-- WK level:
 
 ## e0112
 
@@ -1006,7 +895,6 @@
 - Kana: そうさけい
 - English: Manipulation type \(Nen category\)
 - Notes: text\: 操作系に属する能力 — an ability belonging to the Manipulation category
-- WK level:
 
 ## e0113
 
@@ -1015,7 +903,6 @@
 - Kana: のうりょく
 - English: ability\, capability
 - Notes: text\: 操作系に属する能力を持っている — possess an ability belonging to Manipulation
-- WK level:
 
 ## e0114
 
@@ -1024,7 +911,6 @@
 - Kana: ねんじる
 - English: to concentrate one\'s thoughts on\; to invoke by thought
 - Notes: text\: すでにあの命令を念じてある — I have already invoked that command
-- WK level:
 
 ## e0115
 
@@ -1033,7 +919,6 @@
 - Kana: さいようしけん
 - English: selection test\, recruitment examination
 - Notes: text\: それを教えたら採用試験になんねーだろが — if I told you\, it would not be a selection test
-- WK level:
 
 ## e0116
 
@@ -1042,7 +927,6 @@
 - Kana: ごうもん
 - English: torture
 - Notes: text\: 拷問されても言わないぜ — I will not tell even if tortured
-- WK level:
 
 ## e0117
 
@@ -1051,7 +935,6 @@
 - Kana: そうさけい
 - English: Manipulation type \(Nen category\)
 - Notes: text\: アタシも操作系の能力者 — I am also a Manipulation\-type ability user
-- WK level:
 
 ## e0118
 
@@ -1060,7 +943,6 @@
 - Kana: のうりょくしゃ
 - English: an ability user\; a person with powers
 - Notes: text\: 操作系の能力者 — a Manipulation\-type ability user
-- WK level:
 
 ## e0119
 
@@ -1069,7 +951,6 @@
 - Kana: くちびる
 - English: lips
 - Notes: text\: アタシに唇を奪われた者 — those whose lips were taken by me
-- WK level:
 
 ## e0120
 
@@ -1078,7 +959,6 @@
 - Kana: うばう
 - English: to take by force\; to steal
 - Notes: text\: 唇を奪われた者 — those whose lips were taken
-- WK level:
 
 ## e0121
 
@@ -1087,7 +967,6 @@
 - Kana: げぼく
 - English: a servant\, a minion
 - Notes: text\: アタシの下僕に変える — turn them into my servants
-- WK level:
 
 ## e0122
 
@@ -1096,7 +975,6 @@
 - Kana: かえる
 - English: to change\, to turn into
 - Notes: text\: 下僕に変える — turn them into servants
-- WK level:
 
 ## e0123
 
@@ -1105,7 +983,6 @@
 - Kana: こいどれい
 - English: love slave
 - Notes: text\: 180分の恋奴隷 — 180\-minute love slave
-- WK level:
 
 ## e0124
 
@@ -1114,7 +991,6 @@
 - Kana: はずかしい
 - English: embarrassing\, shameful
 - Notes: text\: なんて恥ずかしいカッコかしら — what an embarrassing outfit
-- WK level:
 
 ## e0125
 
@@ -1123,7 +999,6 @@
 - Kana: かっこう
 - English: appearance\, outfit\, way of looking
 - Notes: text\: 恥ずかしいカッコ — embarrassing outfit
-- WK level:
 
 ## e0126
 
@@ -1132,7 +1007,6 @@
 - Kana: とる
 - English: to photograph\, to film
 - Notes: text\: 撮ってるよ — I am filming
-- WK level:
 
 ## e0127
 
@@ -1141,7 +1015,6 @@
 - Kana: ねんをこめる
 - English: to infuse with Nen\; to put one\'s intent into
 - Notes: text\: 何にどんな念を込めたか — what you infused Nen into and how
-- WK level:
 
 ## e0128
 
@@ -1150,7 +1023,6 @@
 - Kana: ふむ
 - English: to step on\, to tread
 - Notes: text\: 言わなきゃ踏むのをやめるわよ — if you do not tell me\, I will stop stepping on you
-- WK level:
 
 ## e0129
 
@@ -1159,7 +1031,6 @@
 - Kana: さまざま
 - English: various\, diverse
 - Notes: text\: 様々な犬が放たれ — various dogs were released
-- WK level:
 
 ## e0130
 
@@ -1168,7 +1039,6 @@
 - Kana: はなつ
 - English: to release\, to let loose
 - Notes: text\: 館の中には…犬が放たれ — dogs were released inside the mansion
-- WK level:
 
 ## e0131
 
@@ -1177,7 +1047,6 @@
 - Kana: ちゅうがくじだい
 - English: one\'s middle\-school years
 - Notes: text\: 中学時代、弟と私とで — when I was in middle school\, my younger brother and I
-- WK level:
 
 ## e0132
 
@@ -1186,7 +1055,6 @@
 - Kana: おとうと
 - English: younger brother
 - Notes: text\: 弟と私とで — my younger brother and I
-- WK level:
 
 ## e0133
 
@@ -1195,7 +1063,6 @@
 - Kana: かってに
 - English: on one\'s own\; without permission
 - Notes: text\: 勝手にボードゲームを作って — made a board game on our own
-- WK level:
 
 ## e0134
 
@@ -1204,7 +1071,6 @@
 - Kana: ボードゲーム
 - English: board game
 - Notes: text\: ボードゲームを作って遊んでいた — we made and played a board game
-- WK level:
 
 ## e0135
 
@@ -1213,7 +1079,6 @@
 - Kana: かいぶつ
 - English: monster\, creature
 - Notes: text\: 怪物をぶっ殺しながら — while killing monsters
-- WK level:
 
 ## e0136
 
@@ -1222,7 +1087,6 @@
 - Kana: みなごろし
 - English: massacre\; killing everyone
 - Notes: text\: 皆殺しぶっ殺しゲーム — a game of killing everyone
-- WK level:
 
 ## e0137
 
@@ -1231,7 +1095,6 @@
 - Kana: おたから
 - English: treasure
 - Notes: text\: お宝をいっぱい集める — collect lots of treasure
-- WK level:
 
 ## e0138
 
@@ -1240,7 +1103,6 @@
 - Kana: あつめる
 - English: to collect\, to gather
 - Notes: text\: お宝をいっぱい集める — collect lots of treasure
-- WK level:
 
 ## e0139
 
@@ -1249,7 +1111,6 @@
 - Kana: せんとう
 - English: combat\, battle
 - Notes: text\: サイコロを使った戦闘システム — a combat system using dice
-- WK level:
 
 ## e0140
 
@@ -1258,7 +1119,6 @@
 - Kana: あそぶ
 - English: to play
 - Notes: text\: 1人でも遊べるように — so that even one person can play
-- WK level:
 
 ## e0141
 
@@ -1267,4 +1127,3 @@
 - Kana: かんがえる
 - English: to think\; to devise
 - Notes: text\: 1人でも遊べるように考えた — devised it so that even one person could play
-- WK level:

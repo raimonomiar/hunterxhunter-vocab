@@ -19,7 +19,6 @@ function fixture(): ChapterSource {
         kana: "かな・カナ",
         english: "literal *asterisk* | pipe & entity",
         notes: 'A [note] with \\slashes\\ and "quotes"',
-        wkLevel: null,
       },
     ],
   };
@@ -39,10 +38,10 @@ test("canonical writer round-trips escaped punctuation, Unicode, and nulls", () 
       kana: entry.kana,
       english: entry.english,
       notes: entry.notes,
-      wkLevel: entry.wkLevel,
     })),
     source.entries,
   );
+  assert.doesNotMatch(markdown, /WK level/i);
 });
 
 test("parser decodes a supported entity but rejects formatting nodes", () => {
@@ -57,7 +56,6 @@ test("parser decodes a supported entity but rejects formatting nodes", () => {
       "- Kana: かな",
       "- English: word",
       "- Notes:",
-      "- WK level:",
       "",
     ].join("\n"),
     "entity.md",
@@ -76,7 +74,6 @@ test("parser decodes a supported entity but rejects formatting nodes", () => {
       "- Kana: かな",
       "- English: word",
       "- Notes:",
-      "- WK level:",
     ].join("\n"),
     "formatting.md",
   );
@@ -96,7 +93,6 @@ test("parser reports duplicate IDs, unknown fields, invalid pages, and multiline
       "- Kana: かな",
       "- English: word",
       "- Notes: first",
-      "- WK level:",
       "",
       "## e0001",
       "",
@@ -113,6 +109,7 @@ test("parser reports duplicate IDs, unknown fields, invalid pages, and multiline
   const messages = result.diagnostics.map((item) => item.message).join("\n");
   assert.match(messages, /positive integer/);
   assert.match(messages, /unknown field/);
+  assert.match(messages, /exactly 5 fields/);
   assert.match(messages, /duplicate entry ID/);
   assert.match(messages, /multiline values/);
   assert.ok(result.diagnostics.every((item) => item.file === "malformed.md"));
@@ -120,7 +117,7 @@ test("parser reports duplicate IDs, unknown fields, invalid pages, and multiline
 
 test("parser exposes the chapter mapping from the title", () => {
   const result = parseChapterMarkdown(
-    "# Volume 2 · Chapter 3\n\n## e0001\n\n- Page: 1\n- Kanji:\n- Kana: かな\n- English: word\n- Notes:\n- WK level:\n",
+    "# Volume 2 · Chapter 3\n\n## e0001\n\n- Page: 1\n- Kanji:\n- Kana: かな\n- English: word\n- Notes:\n",
     "data/vocab-seed/vol1-ch01.md",
   );
   assert.deepEqual(result.diagnostics, []);

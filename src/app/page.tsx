@@ -160,7 +160,6 @@ export default function Home() {
         english: values.english,
         page: Number(values.page),
         notes: values.notes,
-        wkLevel: values.wkLevel,
       }),
     });
     setSelectedVolume(values.volume);
@@ -181,7 +180,6 @@ export default function Home() {
         english: values.english,
         page: Number(values.page),
         notes: values.notes,
-        wkLevel: values.wkLevel,
       }),
     });
     setSelectedVolume(values.volume);

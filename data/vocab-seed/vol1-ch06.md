@@ -7,7 +7,6 @@
 - Kana: もうしわけない
 - English: I\'m terribly sorry\, I feel awful about it
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: ためしぐい
 - English: to try eating something to test it\, a taste\-test
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: まぬけ
 - English: fool\, scatterbrain\, dimwit
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: ボンボン
 - English: spoiled child of a wealthy family\, rich kid
 - Notes: from French bonbon\; used mockingly here
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: やせいじ
 - English: wild child\, feral kid
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: ベテラン
 - English: veteran\, old hand \(at something\)
 - Notes: loanword from English \"veteran\"
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: まぼろし
 - English: phantom\, illusion\; \(as 幻の〜\) legendary\, mythical
 - Notes: here as 幻の巻物\, \"the legendary scroll\"
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: いんじゃ
 - English: hermit\, recluse
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: いっぱんしょみん
 - English: ordinary people\, common folk
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: ひっかかる
 - English: to fall for \(a trick\)\, to be caught out
 - Notes:
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: しゅうせい
 - English: habit\, instinct \(of a person or species\)
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: おちかづきのしるし
 - English: a token of getting acquainted \(said when offering something to a new acquaintance\)
 - Notes: お近づきの印\/標 \(Expression\)
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: れんぞくしゅつじょう
 - English: consecutive appearances\, participating year after year
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: りっぱ
 - English: splendid\, admirable\, impressive
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: れきだい
 - English: successive generations\; all\-time \(ranking\)
 - Notes: used here as 歴代2位\, \"all\-time 2nd place\"
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: きをとられる
 - English: to have one\'s attention drawn away\, to get distracted
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: やばい
 - English: dangerous\, risky\; \(slang\) intense\, not to be messed with
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: けっきょく
 - English: in the end\, after all\, ultimately
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: きびしさ
 - English: harshness\, strictness\, severity
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: きんちょう
 - English: nervousness\, tension
 - Notes: written キンチョー in the text
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: のどがかわく
 - English: to become thirsty
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: だっすい
 - English: dehydration
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: へいき
 - English: fine\, unconcerned\, unbothered
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: どく
 - English: poison
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: うけつけ
 - English: reception\, registration \(desk\)
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: しゅうりょう
 - English: end\, conclusion\, completion
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: かいし
 - English: start\, commencement
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: かくにん
 - English: confirmation\, checking
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: とぼしい
 - English: scarce\, meager\, insufficient
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: どうし
 - English: fellow\, one another \(among people of the same kind\/situation\)
 - Notes: here as 受験生同士\, \"among fellow examinees\"
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: さいきふのう
 - English: unable to recover\, incapacitated
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: かまわない
 - English: I don\'t mind\, it makes no difference\, it\'s fine
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: しょうち
 - English: to acknowledge\, to consent\, to be aware of
 - Notes: seen here as 承知しました\, the polite \"understood\"
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: ぜんいんさんか
 - English: full attendance\, everyone participating
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: だんだん
 - English: gradually\, little by little
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: はしりだす
 - English: to break into a run\, to start running
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: しけんたんとうかん
 - English: exam official in charge
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: にじしけん
 - English: second exam\, phase two of the exam
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: とうちゃくじこく
 - English: arrival time
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: じきゅうりょく
 - English: endurance\, staying power\, stamina
 - Notes: as in 持久力試験\, the \"endurance test\"
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: しんりてきふか
 - English: psychological burden\, mental strain
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: せいしんりょく
 - English: mental strength\, willpower
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: はんそく
 - English: foul\, violation of the rules
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: しょうもう
 - English: consumption\, depletion\, exhaustion \(of energy\)
 - Notes:
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: げんそく
 - English: principle\; \(原則として\) as a general rule\, in principle
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: おないどし
 - English: the same age \(as someone\)
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: オッサン
 - English: \(slang\) middle\-aged\/older guy\, \"mister\"
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ぜっこう
 - English: breaking off a friendship\, cutting ties
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: だつらく
 - English: dropping out\, falling behind\, elimination
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: なめる
 - English: to underestimate\, to look down on
 - Notes: written なめてたぜ in the text \(casual speech\)
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: よびぐん
 - English: reserve corps\; \(fig\.\) pool of hopefuls\, up\-and\-comers
 - Notes: here as ハンター予備軍\, \"Hunter hopefuls\"
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: ばけもの
 - English: monster\, freak \(of talent\)
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: ふざけるな
 - English: cut it out\!\, don\'t mess with me\!\, don\'t be ridiculous\!
 - Notes: written ざけんなよ in the text — colloquial contraction \(Expression\)
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: ほうっておく
 - English: to leave \(someone\/something\) alone\, to not bother with
 - Notes: written ほっとけよ in the text — casual contraction of 放っておけ \(Expression\)
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: ぜったい
 - English: absolutely\, definitely\, without fail
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,4 +447,3 @@
 - Kana: つうか
 - English: passing \(a checkpoint\)\, transit
 - Notes:
-- WK level:

@@ -23,7 +23,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
       }),
   );
 });
-test("recovered Volume 1 chapters retain workbook row counts and fields", () => {
+test("recovered Volume 1 chapters retain workbook row counts and canonical fields", () => {
   const result = loadCorpus();
   assert.deepEqual(result.diagnostics, []);
   assert.deepEqual(
@@ -49,7 +49,6 @@ test("recovered Volume 1 chapters retain workbook row counts and fields", () => 
     kana: firstEntry.kana,
     english: firstEntry.english,
     notes: firstEntry.notes,
-    wkLevel: firstEntry.wkLevel,
   }, {
     id: "e0001",
     page: 5,
@@ -57,11 +56,10 @@ test("recovered Volume 1 chapters retain workbook row counts and fields", () => 
     kana: "ちから",
     english: "power",
     notes: null,
-    wkLevel: "1",
   });
   assert.equal(chapter1.entries.at(-1)?.id, "e0291");
   assert.equal(chapter1.entries[4].notes, 'Here it\'s most likely just a derogatory replacement for "people"');
-  assert.equal(chapter1.entries[4].wkLevel, "奴 34  等 18");
+  assert.equal("wkLevel" in firstEntry, false);
 });
 test("generated index is deterministic after corpus recovery", () => {
   const result = loadCorpus();

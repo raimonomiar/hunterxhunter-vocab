@@ -20,7 +20,6 @@ export const SOURCE_FIELDS = [
   "Kana",
   "English",
   "Notes",
-  "WK level",
 ] as const;
 
 export type SourceField = (typeof SOURCE_FIELDS)[number];
@@ -32,7 +31,6 @@ export type SourceEntry = {
   kana: string;
   english: string;
   notes: string | null;
-  wkLevel: string | null;
   /** Location in the source file, populated by the parser. */
   line?: number;
   file?: string;
@@ -228,8 +226,7 @@ function parseEntry(
 
   if (values.length !== SOURCE_FIELDS.length) return null;
 
-  const [pageText, kanjiText, kanaText, englishText, notesText, wkLevelText] =
-    values;
+  const [pageText, kanjiText, kanaText, englishText, notesText] = values;
   const page = Number(pageText);
   if (
     pageText === null ||
@@ -271,7 +268,6 @@ function parseEntry(
     kana: kanaText ?? "",
     english: englishText ?? "",
     notes: notesText === "" ? null : notesText,
-    wkLevel: wkLevelText === "" ? null : wkLevelText,
     line: heading.position?.start.line,
     file,
   };
@@ -441,7 +437,6 @@ function assertWritableEntry(entry: SourceEntry): void {
     ["Kana", entry.kana],
     ["English", entry.english],
     ["Notes", entry.notes],
-    ["WK level", entry.wkLevel],
   ] as const) {
     if (value !== null && /[\r\n]/.test(value)) {
       throw new Error(`${field} for ${entry.id} must be one logical line`);
@@ -473,9 +468,7 @@ export function writeChapterMarkdown(chapter: ChapterSource): string {
               ? entry.kana
               : field === "English"
                 ? entry.english
-                : field === "Notes"
-                  ? entry.notes
-                  : entry.wkLevel;
+                : entry.notes;
       return raw === null ? null : escapeMarkdownText(raw);
     };
     const fieldLine = (field: SourceField): string => {
@@ -491,7 +484,6 @@ export function writeChapterMarkdown(chapter: ChapterSource): string {
         fieldLine("Kana"),
         fieldLine("English"),
         fieldLine("Notes"),
-        fieldLine("WK level"),
       ].join("\n"),
     );
   }
@@ -510,7 +502,6 @@ export function semanticEntry(entry: SourceEntry): Omit<SourceEntry, "line" | "f
     kana: entry.kana,
     english: entry.english,
     notes: entry.notes,
-    wkLevel: entry.wkLevel,
   };
 }
 

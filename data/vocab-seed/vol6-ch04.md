@@ -7,7 +7,6 @@
 - Kana: ひめる
 - English: to hide\, to conceal \(something\) within oneself
 - Notes: text\: 誰もが本当は内に秘めている力 — everyone truly has a power hidden within them
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: つかいこなす
 - English: to make full use of\, to master \(a skill or tool\)
 - Notes: text\: この能力を一部でも使いこなせる者はごくわずか — very few can make use of even a part of this ability
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: めざめさせる
 - English: to awaken \(someone\/something\)\, to rouse
 - Notes: text\: 眠れるこの力を目覚めさせる方法は — the way to awaken this dormant power is
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: しはいしゃ
 - English: a ruler\, one who dominates or controls
 - Notes: text\: 天才・支配者・超能力者・仙人・超人などと呼ばれ特別視される — called things like genius\, ruler\, psychic\, sage\, and superhuman\, and regarded as special
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: ちょうのうりょくしゃ
 - English: a person with supernatural\/psychic powers
 - Notes: text\: 天才・支配者・超能力者・仙人・超人などと呼ばれ特別視される — called things like genius\, ruler\, psychic\, sage\, and superhuman
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: せんにん
 - English: a legendary mountain sage or hermit
 - Notes: text\: 天才・支配者・超能力者・仙人・超人などと呼ばれ特別視される — called things like genius\, ruler\, psychic\, sage\, and superhuman
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: とくべつしされる
 - English: to be regarded\/singled out as special
 - Notes: text\: …などと呼ばれ特別視される — called such things and regarded as special
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: おこす
 - English: to wake \(someone\) up
 - Notes: text\: ゆっくり起こすか \/ ムリヤリ起こすか — should we wake him gently\, or forcibly\?
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: むりやり
 - English: forcibly\, against one\'s will
 - Notes: text\: ムリヤリ起こすか — should we wake him forcibly\?
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: のみこみ
 - English: grasp\, uptake\, quickness at picking things up
 - Notes: text\: 彼はのみこみが早く努力家ですごいスピードで纏をマスターしました — he has a quick grasp and is hardworking\, so he mastered Ren at an amazing speed
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: どりょくか
 - English: a hard worker\, a diligent person
 - Notes: text\: 彼はのみこみが早く努力家です — he has a quick grasp and is a hard worker
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: かべをとっぱする
 - English: to break through a wall\/barrier \(fig\. a limit\)
 - Notes: text\: ヒソカの念の壁を突破したいんだ\! — I want to break through Hisoka\'s wall of Nen\!
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: まにあう
 - English: to make it in time
 - Notes: text\: それなら間に合うんだな\? — then we\'ll make it in time\, right\?
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: しだい
 - English: depending on\, up to \(someone\/something\)
 - Notes: text\: 君達次第です — it\'s up to you all
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: はつ
 - English: \"Hatsu\" — projecting one\'s aura outward as an attack \(HxH Nen\-technique term\)
 - Notes: text\: 発とよばれるやつです — it\'s something called \"Hatsu\"
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: あらっぽい
 - English: rough\, crude\, violent in manner
 - Notes: text\: 荒っぽい方法であることに変わりはない — it remains a rough method
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: てかげん
 - English: going easy on someone\, holding back one\'s force
 - Notes: text\: 目的ではないから手加減はするが — since that\'s not the goal\, I will go easy on you\, but
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: せいこう
 - English: a Nen pore \(the pores through which aura circulates\, HxH term\)
 - Notes: text\: 体中にある精孔という穴が閉じていて — the pores throughout the body called \"seiko\" are closed
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: こじあける
 - English: to pry open \(by force\)
 - Notes: text\: 精孔をこじあけます — I\'ll pry open your Nen pores
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: かんじとる
 - English: to sense\, to perceive\, to pick up on \(a feeling\)
 - Notes: text\: 自分のオーラを感じとり体中をオーラが包んでいることを実感した上で — sensing one\'s own aura and truly feeling that it envelops the whole body
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: じっかんする
 - English: to really feel\, to viscerally realize
 - Notes: text\: 体中をオーラが包んでいることを実感した上で — after truly feeling that aura envelops the whole body
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: てんせい
 - English: inborn nature\, innate quality
 - Notes: text\: 天性の才能を持つズシでさえ3か月必要としました — even Zushi\, who has natural\-born talent\, needed three months
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: ふほんい
 - English: reluctant\, against one\'s own wishes
 - Notes: text\: 不本意な方法しかとれないこの状況がそれだけに残念です — it\'s regrettable that this situation leaves me only able to take a method against my own wishes
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: うらわざ
 - English: a secret technique\/trick\, a shortcut method
 - Notes: text\: これは外法とよばれる裏ワザですよ — this is a secret technique known as a \"forbidden method\"
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: げほう
 - English: a heretical or forbidden technique \(lit\. \"outside the teaching\"\)
 - Notes: text\: これは外法とよばれる裏ワザですよ — this is a secret technique known as a \"forbidden method\"
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: じゅんじょをふむ
 - English: to go through the proper steps\/order
 - Notes: text\: 正しい順序をふんでいない — not going through the proper order
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: みじゅく
 - English: immature\, unskilled\, inexperienced
 - Notes: text\: 未熟な者悪意のある者が行えば死ぬことだってある\! — if performed by someone immature or malicious\, it can even be fatal\!
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: あくい
 - English: malice\, ill will
 - Notes: text\: 未熟な者悪意のある者が行えば死ぬことだってある\! — if performed by someone immature or malicious\, it can even be fatal\!
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: つかいて
 - English: a practitioner\, a skilled user\/wielder \(of something\)
 - Notes: text\: あのクラスにいるのは全員が念の使い手です — everyone in that class is a Nen user
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: せんれい
 - English: baptism\; \(fig\.\) a harsh initiation or trial by fire
 - Notes: text\: 念を知らない者が上がってくると必ず洗礼をします — when someone who doesn\'t know Nen comes up\, they always give them an initiation
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: たえる
 - English: to endure\, to withstand
 - Notes: text\: その攻撃に耐え生き残った者が… — those who endure that attack and survive…
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: いきのこる
 - English: to survive
 - Notes: text\: その攻撃に耐え生き残った者が… — those who endure that attack and survive…
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: えらばれたもの
 - English: a chosen one\, the chosen
 - Notes: text\: …その選ばれた者としてあそこに棲んでいます — …live there as the chosen ones
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: だいしょう
 - English: a price\, a cost paid \(for something\)
 - Notes: text\: しかしその代償は大きい — but the price for that is great
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: かまわない
 - English: to not mind\, to not care
 - Notes: text\: 別に死んだってかまわないというつもりで — with the mindset that it\'s fine even if they die
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: おどかす
 - English: to threaten\, to scare
 - Notes: text\: いろいろともったいつけておどかしもしましたが — I\'ve built up suspense and scared you in various ways\, but
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: もったいつける
 - English: to make a show of importance\, to build up suspense
 - Notes: text\: いろいろともったいつけておどかしもしましたが — I\'ve built up suspense and scared you in various ways\, but
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: そしつ
 - English: aptitude\, natural quality\/talent
 - Notes: text\: それだけの素質がある — you have just that much aptitude
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: しかく
 - English: qualification\, eligibility
 - Notes: text\: 資格も\! — and the qualification too\!
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: せをむける
 - English: to turn one\'s back \(on someone\)
 - Notes: text\: そして背を向けて下さい — and please turn your back
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: ぐんと
 - English: forcefully\, markedly \(more\)
 - Notes: text\: ぐんと押されてるような気がする — it feels like I\'m being pushed forcefully
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: はだざわり
 - English: the feel\/texture against the skin
 - Notes: text\: この肌ざわり — this texture \(against the skin\)
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: へだてる
 - English: to separate by \(a distance\/layer\)\, to be apart
 - Notes: text\: 皮一枚へだてたとこで — at a point separated by just one layer of skin
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: まとわりつく
 - English: to cling to\, to coil or wrap around
 - Notes: text\: まとわりついてるような — as if it\'s clinging\, wrapped around
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: ひらかれる
 - English: to be opened \(passive of 開く\)
 - Notes: text\: 今全身の精孔は開かれました — now the pores of your entire body have been opened
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: ゆげ
 - English: steam\, vapor
 - Notes: text\: 湯気だ\!\!そうだ蒸気みたいだ — it\'s steam\!\! Yeah\, it\'s like vapor
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: そそぎぐち
 - English: a spout \(of a kettle or container\)
 - Notes: text\: ヤカンの注ぎ口から吹き出す蒸気そっくりだ\!\! — it\'s just like the steam gushing out of a kettle\'s spout\!\!
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: ふきだす
 - English: to spout out\, to gush or burst forth
 - Notes: text\: ヤカンの注ぎ口から吹き出す蒸気そっくりだ\!\! — it\'s just like the steam gushing out of a kettle\'s spout\!\!
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: たちのぼる
 - English: to rise up \(of smoke\, steam\, etc\.\)
 - Notes: text\: 全身から思いっきり立ち上ってるぜ — it\'s rising up from his whole body with all its might
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: ほとばしる
 - English: to gush forth\, to spurt out
 - Notes: text\: ほとばしってるけどこれってやばくね\!\? — it\'s gushing out\, but isn\'t this dangerous\!\?
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: いきおい
 - English: momentum\, force\, vigor
 - Notes: text\: このままの勢いで出し続ければ当然疲労します — if you keep releasing it at this rate\, you\'ll naturally get fatigued
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: ひろう
 - English: fatigue\, exhaustion
 - Notes: text\: このままの勢いで出し続ければ当然疲労します — if you keep releasing it at this rate\, you\'ll naturally get fatigued
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: とどめる
 - English: to keep\, to retain \(something in place\)
 - Notes: text\: オーラを体にとどめようと念じながら — while focusing your intent on keeping the aura within your body
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: かまえる
 - English: to take a stance\, to ready oneself
 - Notes: text\: どんな型でも構えて下さい念じながら — please take whatever stance while focusing your intent
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: めぐる
 - English: to circulate\, to go around
 - Notes: text\: オーラが血液のように全身をめぐっているよう想像して下さい — please imagine the aura circulating through your whole body like blood
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: しだいに
 - English: gradually
 - Notes: text\: その流れが次第にゆっくりととまり — that flow gradually\, slowly coming to a stop
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: ゆらぐ
 - English: to sway\, to waver\, to flicker
 - Notes: text\: 体の周りでゆらいでいるイメージを思いうかべるのです — you picture the image of it wavering around your body
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: おもいうかべる
 - English: to call to mind\, to picture\, to visualize
 - Notes: text\: 体の周りでゆらいでいるイメージを思いうかべるのです — you picture the image of it wavering around your body
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: しぜんたい
 - English: a natural stance\, one\'s natural self
 - Notes: text\: 自然体が最も纏を行いやすいことを教えられずに理解している — understanding\, without being taught\, that a natural stance is easiest for performing Ren
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: ねんえき
 - English: a viscous fluid\, mucus or slime
 - Notes: text\: ぬるい粘液の中にいるみたいだ — it\'s like being inside lukewarm slime
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: なれる
 - English: to get used to\, to become accustomed
 - Notes: text\: 慣れれば寝ていても纏がつかえるようになります — once you get used to it\, you\'ll be able to use Ren even while asleep
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: つねに
 - English: always\, constantly
 - Notes: text\: そのイメージを常に持ち続けて下さい — please keep holding onto that image constantly
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: もちつづける
 - English: to keep holding onto\, to continue to hold
 - Notes: text\: そのイメージを常に持ち続けて下さい — please keep holding onto that image constantly
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: てきい
 - English: hostility\, ill intent
 - Notes: text\: これから今度は敵意をもって君達に念を飛ばします — this time I\'ll send Nen at you with hostility
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: ごっかん
 - English: intense\/extreme cold
 - Notes: text\: あんたの極寒の中裸でって例えた意味がよくわかった — I understood well what you meant by \"naked in the extreme cold\"
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: たとえる
 - English: to compare \(something to\)\, to describe metaphorically
 - Notes: text\: あんたの極寒の中裸でって例えた意味がよくわかった — I understood well what you meant by \"naked in the extreme cold\"
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: ぶじ
 - English: safety\, being unharmed
 - Notes: text\: 無事防げれば彼の壁もやぶれるでしょう — if you can defend against it safely\, his wall will probably break too
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: ふせぐ
 - English: to defend against\, to block\, to prevent
 - Notes: text\: 無事防げれば彼の壁もやぶれるでしょう — if you can defend against it safely\, his wall will probably break too
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: やぶれる
 - English: to be broken through\, torn\, defeated
 - Notes: text\: 無事防げれば彼の壁もやぶれるでしょう — if you can defend against it safely\, his wall will probably break too
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: てま
 - English: trouble\, time and effort
 - Notes: text\: 手間ははぶけた — that saved \(me\) the trouble
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: はぶく
 - English: to omit\, to save or cut out \(time or effort\)
 - Notes: text\: 手間ははぶけた — that saved \(me\) the trouble
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: きたえる
 - English: to train\, to toughen up\, to forge \(oneself\)
 - Notes: text\: ここで鍛えてからボクと戦うつもりだったんだろ\? — you were planning to train here before fighting me\, right\?
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: いいきになる
 - English: to get carried away\, to be full of oneself
 - Notes: text\: 纏を覚えたくらいでいい気になるなよ — don\'t get carried away just because you learned Ren
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: おくがふかい
 - English: to be profound\, to have great depth
 - Notes: text\: 念は奥が深い — Nen is profound
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: はっきりいって
 - English: frankly speaking\, to put it bluntly
 - Notes: text\: はっきり言って今のキミと戦う気は全くない — frankly speaking\, I have no intention at all of fighting you as you are now
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: あいてになる
 - English: to be someone\'s opponent\, to take \(someone\) on
 - Notes: text\: このクラスで一度でも勝つことができたら相手になろう — if you can win even once in this class\, I\'ll be your opponent
-- WK level:
 
 ## e0077
 
@@ -691,4 +615,3 @@
 - Kana: しんいり
 - English: a newcomer\, a new recruit
 - Notes: text\: 新入り\? — a newcomer\?
-- WK level:

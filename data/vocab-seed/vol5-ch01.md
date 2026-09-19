@@ -7,7 +7,6 @@
 - Kana: あにき
 - English: one\'s older brother \(informal register\)
 - Notes: text\: キルアの兄貴…\!\? — Killua\'s brother\?\!
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: さす
 - English: to stab\, to pierce
 - Notes: text\: 母さんと次男を刺したんだって\? — heard he stabbed his mother and the second son\?
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: かんげきする
 - English: to be deeply moved\, to be touched
 - Notes: text\: 感激してた — she was really moved \(that Killua had grown up so well\)
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: りっぱ
 - English: splendid\, admirable\, fine
 - Notes: text\: あのコが立派に成長してくれてて — that our kid grew up so splendidly
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: せいちょうする
 - English: to grow\, to grow up
 - Notes: text\: あのコが立派に成長してくれてて — that our kid grew up so splendidly
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: きぐう
 - English: a happy coincidence\, a chance encounter
 - Notes: text\: 奇遇だね — what a coincidence
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: しかく
 - English: a qualification\, a license
 - Notes: text\: 次の仕事の関係上資格をとりたくてさ — I want to get certified\, for reasons related to my next job
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: かんけいじょう
 - English: for reasons related to\, on account of
 - Notes: text\: 次の仕事の関係上資格をとりたくてさ — for reasons related to my next job
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: わけじゃない
 - English: grammar pattern\: it\'s not that \~\, doesn\'t mean that \~
 - Notes: text\: 別になりたかった訳じゃないよ — it\'s not like I especially wanted to become one
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: こころおきなく
 - English: without reservation\, freely\, with an easy mind
 - Notes: text\: 心おきなく忠告できる — I can advise you freely
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: ちゅうこくする
 - English: to advise\, to warn\, to counsel
 - Notes: text\: 心おきなく忠告できる — I can advise you freely
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: てんしょく
 - English: one\'s vocation\, true calling
 - Notes: text\: お前の天職は殺し屋なんだから — because your calling is an assassin
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: いっか
 - English: a family\, a household
 - Notes: text\: 話には聞いてたけどすごい一家だな — I\'d heard about it\, but what a family
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: やみにんぎょう
 - English: lit\. \"dark doll\" — a soulless puppet with no warmth of its own
 - Notes: Illumi\'s coined term for Killua\; text\: お前は熱をもたない闇人形だ — you\'re a soulless puppet with no warmth
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: かて
 - English: nourishment\, sustenance\; \(figurative\) fuel\, a source
 - Notes: text\: 陰を糧に動くお前 — you\, who moves fueled by the shadows
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: ゆいいつ
 - English: the only one\, sole
 - Notes: text\: 唯一歓びを抱くのは — the only thing that brings you joy is\.\.\.
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: よろこび
 - English: joy\, delight
 - Notes: text\: 唯一歓びを抱くのは人の死に触れたとき — the only thing that brings you joy is contact with someone\'s death
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: いだく
 - English: to hold\, to harbor \(a feeling\)
 - Notes: text\: 唯一歓びを抱くのは — the only thing that brings you joy
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: ふれる
 - English: to touch\, to come into contact with
 - Notes: text\: 人の死に触れたとき — when you come into contact with someone\'s death
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: もとめる
 - English: to seek\, to request\, to want
 - Notes: text\: お前が何を求めてハンターになると\? — what were you seeking when you became a hunter\?
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: そだてる
 - English: to raise\, to bring up
 - Notes: text\: お前は親父とオレにそう育てられた — you were raised that way by dad and me
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: のぞみ
 - English: a wish\, a hope\, a desire
 - Notes: text\: 何が望みか\? — what is it you want\?
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: うんざり
 - English: fed up\, sick and tired \(of something\)
 - Notes: text\: もう人殺しなんてうんざりだ — I\'m sick of killing people
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: ふつうに
 - English: normally\, like an ordinary person
 - Notes: text\: ゴンと友達になって普通に遊びたい — I want to become friends with Gon and just hang out normally
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: まぶしい
 - English: dazzling\, radiant\, too bright
 - Notes: text\: 今のお前にはゴンがまぶしすぎて — right now\, Gon is too dazzling for you
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: はかりきる
 - English: to fully measure\, to fully gauge
 - Notes: text\: 測り切れないでいるだけだ — you just can\'t fully gauge \(your own feelings\)
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: はんだんする
 - English: to judge\, to determine
 - Notes: text\: 殺せるか殺せないかでしか判断できない — you can only judge people by whether you can kill them or not
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: ねっから
 - English: by nature\, through and through\, born \(a certain way\)
 - Notes: text\: お前は根っからの人殺しだから — because you\'re a born killer
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: もうしあげる
 - English: to say\, to tell \(humble form\)
 - Notes: text\: 先程も申し上げましたが — as I mentioned just a moment ago
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: きくみみをもつ
 - English: idiom\: to be willing to listen\, to lend an ear
 - Notes: text\: クソ野郎だ 聞く耳持つな\!\! — he\'s trash\, don\'t listen to a word he says\!\!
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: ちょうし
 - English: condition\, mood\, pace\, tone
 - Notes: text\: いつもの調子でさっさとぶっとばして合格しちまえ — just knock him out in your usual style and pass already
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: ねぼける
 - English: to be half\-asleep\, to talk drowsy nonsense
 - Notes: text\: 寝ぼけんな\!\! — wake up\!\! \/ quit talking nonsense\!\!
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: ともだちどうし
 - English: being friends with each other
 - Notes: text\: とっくにお前ら友達同士だろーがよ — you two are already friends\, aren\'t you
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: あたりまえ
 - English: obvious\, natural\, of course
 - Notes: text\: たりめーだ バーカ — \'course it is\, idiot \(slurred あたりまえだ\)
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: すくなくとも
 - English: at least
 - Notes: text\: 少なくともゴンはそう思ってるはずだぜ — at the very least\, Gon must think so
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: じゃま
 - English: a nuisance\, an obstacle\, a hindrance
 - Notes: text\: 殺し屋に友達なんて邪魔なだけだから — for an assassin\, friends are nothing but a hindrance
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: ひかえしつ
 - English: a waiting room\, a green room
 - Notes: text\: となりの控え室に — in the waiting room next door
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: じどうてきに
 - English: automatically
 - Notes: text\: オレが落ちてキルが自動的に合格しちゃうね — if I fail\, Killua would pass automatically
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: おちる
 - English: to fail \(an exam\)\; to fall
 - Notes: text\: オレが落ちて — if I fail
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: かりに
 - English: hypothetically\, suppose that
 - Notes: text\: それなら仮にここの全員を殺しても — in that case\, even if I hypothetically killed everyone here
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: とりけす
 - English: to cancel\, to revoke\, to retract
 - Notes: text\: オレの合格が取り消されることはないよね — my passing wouldn\'t get revoked\, right\? \(passive form 取り消される\)
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: たすける
 - English: to help\, to save \(someone\)
 - Notes: text\: ゴンを助けられない — \(I\) can\'t save Gon
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: かつ
 - English: to win
 - Notes: text\: オレと戦って勝たないと — you have to fight and beat me
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: たたかう
 - English: to fight
 - Notes: text\: 友達のためにオレと戦えるかい\? — can you fight me for the sake of a friend\?
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: かちめ
 - English: a chance of winning
 - Notes: text\: 勝ち目のない敵とは戦うな — don\'t fight an enemy you have no chance against
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: くちをすっぱくする
 - English: idiom\: to say something over and over again
 - Notes: text\: オレが口をすっぱくして教えたよね\? — I told you again and again\, didn\'t I\?
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: あいず
 - English: a signal\, a sign\, a cue
 - Notes: text\: 少しでも動いたら戦い開始の合図とみなす — if you so much as move\, I\'ll take it as the signal to start fighting
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: とめる
 - English: to stop
 - Notes: text\: 止める方法は一つだけ — there\'s only one way to stop it
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: わすれる
 - English: to forget
 - Notes: text\: だが…忘れるな — but\.\.\. don\'t forget
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: まけ
 - English: a loss\, a defeat
 - Notes: text\: オレの負けだよ — it\'s my loss
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: せんとうかいじょ
 - English: stand\-down\, calling off a fight
 - Notes: text\: これで戦闘解除だね — that settles it\, the fight\'s off
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: ためす
 - English: to test\, to try out
 - Notes: text\: お前をちょっと試してみたのだよ — I was just testing you a little
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: ひつよう
 - English: necessary\, needed
 - Notes: text\: 必要もない — there\'s no need for that
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: じき
 - English: a time\, a period\, a season
 - Notes: text\: 必要な時期がくればオレが指示する — when the time comes that it\'s needed\, I\'ll give the instructions
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: しじする
 - English: to instruct\, to direct
 - Notes: text\: 必要な時期がくればオレが指示する — when the time comes\, I\'ll give the instructions
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: こなす
 - English: to handle\, to manage\, to get through \(a task\)
 - Notes: text\: 今まで通り…仕事をこなしていればそれでいい — just keep handling the work as you have been\, that\'s all you need
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: ぬけがら
 - English: an empty shell\, a husk\; \(figurative\) a listless\, vacant person
 - Notes: text\: その後はぬけがらの様でした — after that\, he was like an empty shell
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: とつぜん
 - English: suddenly
 - Notes: text\: それが突然 — but then\, suddenly\.\.\.
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: どうじ
 - English: at the same time\, simultaneous
 - Notes: text\: 試合開始と同時でした — it was at the same moment the match began
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: いいんかい
 - English: a committee
 - Notes: text\: 委員会は彼を不合格とみなしました — the committee judged him as having failed
-- WK level:
 
 ## e0061
 
@@ -547,4 +487,3 @@
 - Kana: ふごうかく
 - English: failing\, not passing
 - Notes: text\: 委員会は彼を不合格とみなしました — the committee judged him as having failed
-- WK level:

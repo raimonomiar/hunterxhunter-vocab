@@ -24,10 +24,11 @@ Each file is named `vol<V>-ch<two-digit C>.md` and begins with `# Volume V · Ch
 - Kana: たてもの
 - English: building
 - Notes:
-- WK level:
 ```
 
-Keep IDs permanent: do not renumber after a correction, reorder, or deletion. New IDs use the next unused chapter-scoped number. Values are one logical line. Kana and English are required; blank Kanji, Notes, and WK level values represent null. Literal Markdown punctuation must be escaped as shown by the canonical writer. Do not add YAML, tables, HTML, images, links, formatting, executable content, or maintained JSON files.
+Keep IDs permanent: do not renumber after a correction, reorder, or deletion. New IDs use the next unused chapter-scoped number. Values are one logical line. Kana and English are required; blank Kanji and Notes values represent null. Literal Markdown punctuation must be escaped as shown by the canonical writer. Do not add YAML, tables, HTML, images, links, formatting, executable content, or maintained JSON files.
+
+The canonical source owns these five fields. Nullable legacy metadata columns may remain in personal databases for compatibility, but they are not exposed in Markdown or modified by source synchronization.
 
 Run the checks locally when practical:
 
@@ -52,7 +53,7 @@ npm run sync-vocab -- --apply
 
 The dry run must be reviewed by source key and field. Apply validates the whole corpus first, verifies that the database and source revision have not changed since planning, then commits entry and provenance changes atomically. Unchanged local rows receive accepted shared corrections; locally edited rows are preserved when the source is unchanged and reported as conflicts when both sides changed. Personal-only entries remain untouched. Upstream deletions are planned explicitly and never remove a personal edit silently. Repeating synchronization is a no-op.
 
-The first run against a pre-migration database performs exact-match adoption only. It checks all six content fields, including null WK level, and refuses to guess for edited, duplicate, unmapped, or unexplained rows. Resolve those mappings explicitly before applying.
+The first run against a pre-migration database performs exact-match adoption only. It checks all five canonical content fields and refuses to guess for edited, duplicate, unmapped, or unexplained rows. Resolve those mappings explicitly before applying.
 
 ## Licensing and publication boundary
 

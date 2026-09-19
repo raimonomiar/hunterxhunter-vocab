@@ -7,7 +7,6 @@
 - Kana: とうぜん
 - English: natural\, obvious\, a matter of course
 - Notes: from the chapter title 当然の結果\, \"The Natural Outcome\"
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: けっか
 - English: result\, outcome
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: まるやき
 - English: whole roast \(of an animal\)
 - Notes:
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: ばけもの
 - English: monster
 - Notes: written バケモン in the text\, a casual slangy contraction
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: しゅうりょう
 - English: end\, completion\, conclusion
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: みょう
 - English: strange\, odd
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: たいせき
 - English: volume \(physical size\, bulk\)
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: しんさ
 - English: examination\, judging
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: しかたない
 - English: it can\'t be helped\, nothing to be done about it
 - Notes:
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: あまい
 - English: naive\, soft \(on someone\/something\)
 - Notes: figurative use — lit\. \"sweet\,\" here means being too lenient or naive
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: つうか
 - English: to pass \(an exam\/checkpoint\)\, passage
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: たんきゅうしん
 - English: spirit of inquiry\, inquisitiveness
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: しょくざい
 - English: ingredients\, food materials
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: あさる
 - English: to search for\, to scavenge\/rummage
 - Notes:
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: じゃっかん
 - English: at the tender\/young age of
 - Notes: traditionally \"age 20\,\" now used more loosely for \"surprisingly young\"
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: しょうごう
 - English: title\, designation
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: どきょう
 - English: courage\, nerve
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: みのこなし
 - English: physical agility\, way of moving one\'s body
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: にじしけん
 - English: second exam\, second phase \(of a test\)
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: こうはん
 - English: second half\, latter half
 - Notes:
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: けんとうもつかない
 - English: to have no idea\, no clue
 - Notes:
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: ふかのう
 - English: impossible
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: みんぞくりょうり
 - English: ethnic cuisine\, traditional national dish
 - Notes:
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: いったい
 - English: what on earth\, what in the world
 - Notes: adds emphasis to a question
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: ふかけつ
 - English: indispensable\, essential
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: さいていげん
 - English: bare minimum
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: ざいりょう
 - English: materials\, ingredients
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: まんぷく
 - English: full stomach\, satiated
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: みとめる
 - English: to acknowledge\, to recognize
 - Notes:
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: にぎりずし
 - English: hand\-pressed sushi
 - Notes: character insists real sushi only counts as this form
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: かだい
 - English: task\, assignment\, challenge
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: でんとうりょうり
 - English: traditional cuisine
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: さりげなく
 - English: casually\, nonchalantly
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: りこう
 - English: clever\, smart
 - Notes:
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: バレる
 - English: to be found out\, to be exposed \(of a secret\)
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: かんぺき
 - English: perfect\, flawless
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: ぐたいてき
 - English: concrete\, specific
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: ぶんけん
 - English: literature\, reference documents
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: ちょうみりょう
 - English: seasoning\, condiment
 - Notes:
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: しんせん
 - English: fresh
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: かんじん
 - English: essential\, crucial
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: ぬすみぎき
 - English: eavesdropping
 - Notes: text spells it 盗み聴き\, a variant of the standard 盗み聞き
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: きたない
 - English: dirty\, filthy
 - Notes: used here as an insult\, \"you dirty \_\_\_\"
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: すしだね
 - English: sushi topping\/ingredient
 - Notes: text writes it in katakana as スシダネ
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: かいすいぎょ
 - English: saltwater fish
 - Notes:
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: くいつくす
 - English: to eat up completely\, to devour entirely
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: まずい
 - English: bad\-tasting\, unpalatable
 - Notes:
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: きわもの
 - English: novelty item\, gimmicky thing
 - Notes: used disparagingly here to mean \"some oddball\"
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: しけんかん
 - English: examiner
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: じしん
 - English: confidence\, self\-confidence
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: くせ
 - English: habit\, quirk
 - Notes:
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: かんせい
 - English: completion
 - Notes:
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: くえる
 - English: edible\, fit to eat
 - Notes: potential form of 食う
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: しっかく
 - English: disqualification
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: さっする
 - English: to infer\, to sense \(someone\'s feelings\)
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: がし
 - English: death by starvation
 - Notes:
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: ししょく
 - English: taste testing\, tasting sample
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: ちゅういりょく
 - English: attentiveness\, power of observation
 - Notes:
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: ろんりてき
 - English: logical
 - Notes:
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: こうさつ
 - English: consideration\, analysis
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: ていばん
 - English: standard\, classic \(of a type\)
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: かんさつりょく
 - English: observation skill\, power of observation
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: でばん
 - English: one\'s turn\, cue to appear
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: ようやく
 - English: finally\, at last
 - Notes:
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: やりなおし
 - English: redo\, do\-over
 - Notes:
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: てがる
 - English: easy\, simple\, convenient
 - Notes:
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: ちょうほうけい
 - English: rectangle
 - Notes:
-- WK level:
 
 ## e0068
 
@@ -610,7 +543,6 @@
 - Kana: きりみ
 - English: fillet\, sliced piece \(of fish\/meat\)
 - Notes:
-- WK level:
 
 ## e0069
 
@@ -619,7 +551,6 @@
 - Kana: しろうと
 - English: amateur\, layperson
 - Notes:
-- WK level:
 
 ## e0070
 
@@ -628,7 +559,6 @@
 - Kana: しゅぎょう
 - English: training\, apprenticeship
 - Notes:
-- WK level:
 
 ## e0071
 
@@ -637,7 +567,6 @@
 - Kana: てんとち
 - English: poles apart\, utterly different
 - Notes: idiom\, 〜ほど違う \= \"as different as night and day\"
-- WK level:
 
 ## e0072
 
@@ -646,7 +575,6 @@
 - Kana: だきょう
 - English: compromise
 - Notes:
-- WK level:
 
 ## e0073
 
@@ -655,7 +583,6 @@
 - Kana: まんぞく
 - English: satisfaction
 - Notes:
-- WK level:
 
 ## e0074
 
@@ -664,7 +591,6 @@
 - Kana: ちょうせんしゃ
 - English: challenger
 - Notes:
-- WK level:
 
 ## e0075
 
@@ -673,7 +599,6 @@
 - Kana: かんぱい
 - English: complete defeat
 - Notes:
-- WK level:
 
 ## e0076
 
@@ -682,7 +607,6 @@
 - Kana: へる
 - English: to decrease\, to run low
 - Notes:
-- WK level:
 
 ## e0077
 
@@ -691,7 +615,6 @@
 - Kana: だまる
 - English: to be silent\, to shut up
 - Notes:
-- WK level:
 
 ## e0078
 
@@ -700,7 +623,6 @@
 - Kana: シャリ
 - English: sushi rice \(the vinegared rice base\)
 - Notes: distinct from plain ゴハン\; refers specifically to rice used in sushi
-- WK level:
 
 ## e0079
 
@@ -709,7 +631,6 @@
 - Kana: ふなぞこがた
 - English: boat\-bottom shape
 - Notes: refers to the classic shape of hand\-pressed nigiri sushi
-- WK level:
 
 ## e0080
 
@@ -718,7 +639,6 @@
 - Kana: すじめ
 - English: grain \(of fish or meat\)
 - Notes:
-- WK level:
 
 ## e0081
 
@@ -727,7 +647,6 @@
 - Kana: ちょっかく
 - English: right angle
 - Notes:
-- WK level:
 
 ## e0082
 
@@ -736,7 +655,6 @@
 - Kana: たいおん
 - English: body temperature
 - Notes:
-- WK level:
 
 ## e0083
 
@@ -745,7 +663,6 @@
 - Kana: くちざわり
 - English: mouthfeel\, texture in the mouth
 - Notes:
-- WK level:
 
 ## e0084
 
@@ -754,4 +671,3 @@
 - Kana: ごうかくしゃ
 - English: successful candidate\, one who passes \(a test\)
 - Notes:
-- WK level:

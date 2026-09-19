@@ -35,6 +35,10 @@ const BASE_SCHEMA_STATEMENTS = [
     number INTEGER NOT NULL,
     UNIQUE(volume_id, number)
   )`,
+  // These nullable legacy metadata columns remain for compatibility with
+  // existing personal databases. The canonical Markdown corpus no longer
+  // exposes or synchronizes them, and removing them would require a schema
+  // migration unrelated to the source-format change.
   `CREATE TABLE IF NOT EXISTS vocab_entries (
     id INTEGER PRIMARY KEY,
     chapter_id INTEGER NOT NULL REFERENCES chapters(id) ON DELETE CASCADE,
@@ -55,6 +59,8 @@ const BASE_SCHEMA_STATEMENTS = [
 
 const PROVENANCE_MIGRATION_VERSION = 1;
 const PROVENANCE_MIGRATION_STATEMENTS = [
+  // base_wk_level is likewise retained only for existing provenance rows;
+  // synchronization never reads or writes this retired metadata.
   `CREATE TABLE IF NOT EXISTS vocab_source_entries (
     source_key TEXT PRIMARY KEY,
     local_entry_id INTEGER UNIQUE REFERENCES vocab_entries(id) ON DELETE SET NULL,

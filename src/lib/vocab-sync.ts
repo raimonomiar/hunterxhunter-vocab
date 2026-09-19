@@ -12,6 +12,12 @@ import { findOrCreateChapterWithExecutor } from "@/lib/vocab";
 
 type DbExecutor = Pick<Client | Transaction, "execute">;
 
+/** Fields owned by the canonical Markdown corpus.
+ *
+ * The database still has nullable legacy WK columns, but they are deliberately
+ * excluded here so source revisions cannot erase or conflict with that old
+ * personal metadata.
+ */
 type EntryFields = {
   volume: number;
   chapter: number;
@@ -20,7 +26,6 @@ type EntryFields = {
   english: string;
   page: number;
   notes: string | null;
-  wkLevel: string | null;
 };
 
 type LocalEntry = EntryFields & { id: number };
@@ -134,7 +139,6 @@ function mapLocalEntry(row: Record<string, unknown>): LocalEntry {
     english: String(row.english),
     page: numberValue(row.page),
     notes: stringOrNull(row.notes),
-    wkLevel: stringOrNull(row.wk_level),
   };
 }
 
@@ -156,14 +160,13 @@ function mapProvenance(row: Record<string, unknown>): ProvenanceRow {
     english: String(row.base_english),
     page: numberValue(row.base_page),
     notes: stringOrNull(row.base_notes),
-    wkLevel: stringOrNull(row.base_wk_level),
   };
 }
 
 async function readLocalEntries(db: DbExecutor): Promise<LocalEntry[]> {
   const result = await db.execute(`
     SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
-           e.kanji, e.kana, e.english, e.page, e.notes, e.wk_level
+           e.kanji, e.kana, e.english, e.page, e.notes
     FROM vocab_entries e
     JOIN chapters c ON c.id = e.chapter_id
     JOIN volumes v ON v.id = c.volume_id
@@ -176,8 +179,7 @@ async function readProvenance(db: DbExecutor): Promise<ProvenanceRow[]> {
   const result = await db.execute(`
     SELECT source_key, local_entry_id, volume, chapter, source_order,
            source_file, source_hash, source_revision, source_present, local_deleted,
-           base_kanji, base_kana, base_english, base_page, base_notes,
-           base_wk_level
+           base_kanji, base_kana, base_english, base_page, base_notes
     FROM vocab_source_entries
     ORDER BY source_key ASC
   `);
@@ -269,8 +271,7 @@ function sameFields(a: EntryFields, b: EntryFields): boolean {
     a.kana === b.kana &&
     a.english === b.english &&
     a.page === b.page &&
-    a.notes === b.notes &&
-    a.wkLevel === b.wkLevel
+    a.notes === b.notes
   );
 }
 
@@ -283,7 +284,6 @@ function sourceFields(record: SyncSourceRecord): EntryFields {
     english: record.entry.english,
     page: record.entry.page,
     notes: record.entry.notes,
-    wkLevel: record.entry.wkLevel,
   };
 }
 
@@ -296,7 +296,6 @@ function provenanceFields(row: ProvenanceRow): EntryFields {
     english: row.english,
     page: row.page,
     notes: row.notes,
-    wkLevel: row.wkLevel,
   };
 }
 
@@ -577,7 +576,6 @@ async function writeProvenance(
     source.entry.english,
     source.entry.page,
     source.entry.notes,
-    source.entry.wkLevel,
     source.sourceKey,
   ] as (string | number | null)[];
   await tx.execute({
@@ -586,7 +584,7 @@ async function writeProvenance(
             source_file = ?, source_hash = ?, source_revision = ?,
             source_present = ?, local_deleted = ?,
             base_kanji = ?, base_kana = ?, base_english = ?, base_page = ?,
-            base_notes = ?, base_wk_level = ?
+            base_notes = ?
           WHERE source_key = ?`,
     args,
   });
@@ -603,8 +601,8 @@ async function insertProvenance(
     sql: `INSERT INTO vocab_source_entries (
             source_key, local_entry_id, volume, chapter, source_order, source_file,
             source_hash, source_revision, source_present, local_deleted, base_kanji, base_kana,
-            base_english, base_page, base_notes, base_wk_level
-          ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+            base_english, base_page, base_notes
+          ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
     args: [
       source.sourceKey,
       localEntryId,
@@ -621,7 +619,6 @@ async function insertProvenance(
       source.entry.english,
       source.entry.page,
       source.entry.notes,
-      source.entry.wkLevel,
     ],
   });
 }
@@ -656,8 +653,8 @@ export async function applyVocabSync(
         const chapterId = await findOrCreateChapterWithExecutor(tx, source.volume, source.chapter);
         const inserted = await tx.execute({
           sql: `INSERT INTO vocab_entries
-                  (chapter_id, kanji, kana, english, page, notes, wk_level)
-                VALUES (?, ?, ?, ?, ?, ?, ?)
+                  (chapter_id, kanji, kana, english, page, notes)
+                VALUES (?, ?, ?, ?, ?, ?)
                 RETURNING id`,
           args: [
             chapterId,
@@ -666,7 +663,6 @@ export async function applyVocabSync(
             source.entry.english,
             source.entry.page,
             source.entry.notes,
-            source.entry.wkLevel,
           ],
         });
         const insertedId = numberValue(inserted.rows[0].id);
@@ -682,7 +678,7 @@ export async function applyVocabSync(
         if (!source || !item.local) throw new Error("Update operation is incomplete");
         await tx.execute({
           sql: `UPDATE vocab_entries
-                SET kanji = ?, kana = ?, english = ?, page = ?, notes = ?, wk_level = ?
+                SET kanji = ?, kana = ?, english = ?, page = ?, notes = ?
                 WHERE id = ?`,
           args: [
             source.entry.kanji,
@@ -690,7 +686,6 @@ export async function applyVocabSync(
             source.entry.english,
             source.entry.page,
             source.entry.notes,
-            source.entry.wkLevel,
             item.local.id,
           ],
         });

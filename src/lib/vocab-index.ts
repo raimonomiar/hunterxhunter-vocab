@@ -31,7 +31,7 @@ export function renderCorpusIndex(corpus: CorpusSource): string {
   lines.push(
     "## Format",
     "",
-    "Each entry keeps a permanent heading such as `e0001`. Edit the six labeled fields in place; keep the ID and unrelated entries unchanged. Blank Kanji, Notes, and WK level fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.",
+    "Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID and unrelated entries unchanged. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.",
     "",
     `Corpus semantic revision: \`${corpus.revision}\``,
     "",

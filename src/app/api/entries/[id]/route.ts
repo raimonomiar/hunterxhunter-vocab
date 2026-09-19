@@ -53,7 +53,6 @@ export async function PATCH(
   }
   if (body.kanji !== undefined) update.kanji = normalizeOptionalString(body.kanji) ?? null;
   if (body.notes !== undefined) update.notes = normalizeOptionalString(body.notes) ?? null;
-  if (body.wkLevel !== undefined) update.wkLevel = normalizeOptionalString(body.wkLevel) ?? null;
 
   if (errors.length > 0) {
     return NextResponse.json({ error: errors.join("; ") }, { status: 400 });

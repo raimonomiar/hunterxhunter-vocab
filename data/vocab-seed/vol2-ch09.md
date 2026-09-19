@@ -7,7 +7,6 @@
 - Kana: ほどよい
 - English: moderate\, just the right amount
 - Notes:
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: しげき
 - English: stimulation\, a thrill
 - Notes:
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: めをくばる
 - English: to keep watch over\, to pay attention to \(several things at once\)
 - Notes: Expression
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: とぐ
 - English: to hone\, to sharpen
 - Notes: 感覚を研げば\: \"if you hone your senses\"
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: けんしゅ
 - English: to firmly guard\, to defend staunchly
 - Notes:
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: けんぶつ
 - English: to watch as a spectacle\, to view
 - Notes:
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: しゅらのば
 - English: scene of carnage\, a brutal life\-or\-death arena
 - Notes:
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: かたん
 - English: to take part in\, to be complicit in
 - Notes:
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: つみとる
 - English: to pluck off\, to nip in the bud
 - Notes: here\: \"to crush \(someone\'s\) dreams\"
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: はなから
 - English: from the very start\, from the outset \(often with negation\: \"never was\"\)
 - Notes: text writes it phonetically as ハナから
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: しおどき
 - English: the right time \(to stop or act\)\, opportune moment
 - Notes:
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: はんめん
 - English: on the other hand\, conversely
 - Notes:
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: たすうけつ
 - English: majority vote\, majority rule
 - Notes:
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: すてたもんじゃない
 - English: not so bad after all\, not to be dismissed
 - Notes: Expression
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: ふくえき
 - English: to serve a prison sentence
 - Notes:
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: しょうきんくび
 - English: wanted criminal with a bounty on their head
 - Notes:
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: けいむしょちょう
 - English: prison warden
 - Notes:
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: かわす
 - English: to exchange \(words\, an agreement\)
 - Notes:
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: あしどめ
 - English: to detain\, to hold someone up
 - Notes:
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: たんしゅく
 - English: shortening\, reduction \(of time\)
 - Notes:
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: くるう
 - English: to go wrong\, to go awry\, to malfunction
 - Notes: 少々予定が狂ったな\: \"the plan\'s gone a bit awry\"
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: こしぬけ
 - English: coward\, spineless person
 - Notes:
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: じわじわ
 - English: gradually\, slowly\, bit by bit
 - Notes: mimetic adverb\, often written じわじわと
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: いたぶる
 - English: to torment\, to bully
 - Notes:
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: くぎづけ
 - English: pinned down\, riveted in place
 - Notes:
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: おんしゃ
 - English: amnesty\, pardon
 - Notes:
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: らくしょう
 - English: an easy win\, a walk in the park
 - Notes:
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: うちわもめ
 - English: internal strife\, infighting
 - Notes:
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: おもうつぼ
 - English: playing right into someone\'s hands\, exactly as planned
 - Notes: Expression\; text writes 壺 as ツボ
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: だいせいかい
 - English: exactly right\, spot on
 - Notes:
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: ごうもん
 - English: torture
 - Notes:
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: ようへい
 - English: mercenary
 - Notes:
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: けいさんずみ
 - English: already factored in\, accounted for
 - Notes:
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: かおいろがわるい
 - English: looking pale\, having a bad complexion
 - Notes: text contracts this as slangy \"顔色ワリーぞ\" \(悪い → ワリー\)
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: どきょう
 - English: guts\, nerve
 - Notes:
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: はんざいしゃ
 - English: criminal
 - Notes:
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: にくたいは
 - English: the physical type \(relies on brawn over brains\)
 - Notes:
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: なぐりあい
 - English: fistfight\, brawl
 - Notes:
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: とんずら
 - English: bolting\, skipping out\, fleeing
 - Notes: slang\, usually とんずらする
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: れんぞくばくだんま
 - English: serial bomber
 - Notes:
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: ひをともす
 - English: to light \(a candle\, a flame\)
 - Notes:
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: わな
 - English: trap
 - Notes:
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: しかけ
 - English: trick\, device\, mechanism
 - Notes:
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: うらをかく
 - English: to outwit\, to catch someone off guard
 - Notes: Expression
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: きりがない
 - English: endless\, there\'s no end to it
 - Notes: Expression
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: けいかいしん
 - English: wariness\, vigilance
 - Notes:
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: せまる
 - English: to press\, to force\, to draw near threateningly
 - Notes: 選択を迫られる\: \"to be forced into a choice\"
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: そくだん
 - English: a snap decision\, immediate judgment
 - Notes:
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: しんりてき
 - English: psychological
 - Notes:
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: すうだん
 - English: by far\, considerably \(a matter of degree\)
 - Notes:
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: したがう
 - English: to obey\, to follow
 - Notes:
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: やせいのかん
 - English: wild instinct\, animal intuition
 - Notes: text uses katakana カン for \"intuition\/kan\"
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: じしんたっぷり
 - English: brimming with confidence
 - Notes:
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: どうせ
 - English: anyway\, in any case \(implies futility\)
 - Notes:
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: ふきあげる
 - English: to blow upward \(of wind\)
 - Notes:
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: よそみ
 - English: looking away\, looking elsewhere \(inattention\)
 - Notes: commonly written よそ見
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: もえつきる
 - English: to burn out\, to burn up completely
 - Notes:
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: いきおい
 - English: force\, momentum\, intensity
 - Notes: 炎の勢い\: \"the intensity of the flame\"
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: じく
 - English: core\, shaft\, axis
 - Notes: here\: a candle\'s wick\/core
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: かやく
 - English: gunpowder
 - Notes:
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: かりょく
 - English: fire power\, heat intensity
 - Notes:
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: ぞうだい
 - English: to increase\, to augment
 - Notes:
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: しょうもう
 - English: consumption\, depletion\, wear
 - Notes:
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: カムフラージュ
 - English: camouflage\, a cover\, a disguise
 - Notes: loanword from French \"camouflage\"
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: おもいこむ
 - English: to assume\, to become \(mistakenly\) convinced of something
 - Notes:
-- WK level:
 
 ## e0066
 
@@ -592,7 +527,6 @@
 - Kana: しみこむ
 - English: to soak into\, to permeate
 - Notes:
-- WK level:
 
 ## e0067
 
@@ -601,7 +535,6 @@
 - Kana: はやい
 - English: fast\, swift
 - Notes: uncommon kanji for \"fast\,\" emphasizing sudden speed
-- WK level:
 
 ## e0068
 
@@ -610,4 +543,3 @@
 - Kana: バネ
 - English: spring\; here\, spring in one\'s step\/legs \(agility\)
 - Notes: 「いいバネしてるね」\: a compliment on someone\'s jumping\/reflex ability
-- WK level:

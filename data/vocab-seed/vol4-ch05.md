@@ -7,7 +7,6 @@
 - Kana: きゅうしにいっしょうをえる
 - English: to have an extremely narrow escape from death
 - Notes: Chapter title \(No\.031\)\; the printed title itself is cut short as 九死に…\, trailing off from this yoji\-jukugo idiom
-- WK level:
 
 ## e0002
 
@@ -16,7 +15,6 @@
 - Kana: ちょうほんにん
 - English: the ringleader\, the person actually responsible \(for something bad\)
 - Notes: text\: 賭を張った張本人が死んでしまったというのか\? — you\'re saying the very person who made the bet has died\?
-- WK level:
 
 ## e0003
 
@@ -25,7 +23,6 @@
 - Kana: きぎょうひみつ
 - English: trade secret\, confidential \(business\) information
 - Notes: text\: 方法は企業ヒミツ — the method is a trade secret \(秘密 stylized in katakana as ヒミツ\)
-- WK level:
 
 ## e0004
 
@@ -34,7 +31,6 @@
 - Kana: たのむ
 - English: to ask a favor of\, to entrust \(someone with something\)
 - Notes: text\: ゴンレオリオをたのむ — Gon\, I\'m counting on you for Leorio\; also said by Kurapika on p96
-- WK level:
 
 ## e0005
 
@@ -43,7 +39,6 @@
 - Kana: いっせいに
 - English: all at once\, simultaneously
 - Notes: text\: 蛇が一斉に攻撃してくる — the snakes attack all at once
-- WK level:
 
 ## e0006
 
@@ -52,7 +47,6 @@
 - Kana: ふかのう
 - English: impossible
 - Notes: text\: 彼を調べることは不可能よ — investigating him is impossible
-- WK level:
 
 ## e0007
 
@@ -61,7 +55,6 @@
 - Kana: いずれか
 - English: either one\, any one \(of the given options\)
 - Notes: text\: このいずれかの条件を満たすと攻撃してくる — if either of these conditions is met\, they\'ll attack
-- WK level:
 
 ## e0008
 
@@ -70,7 +63,6 @@
 - Kana: みたす
 - English: to satisfy\, to fulfill \(a condition\)
 - Notes: text\: いずれかの条件を満たすと — if \(you\) satisfy either of the conditions
-- WK level:
 
 ## e0009
 
@@ -79,7 +71,6 @@
 - Kana: どくをもってどくをせいす
 - English: to fight poison with poison \(idiom\, roughly \"fight fire with fire\"\)
 - Notes: text\: 毒をもって毒を制す…か — fight poison with poison\, huh
-- WK level:
 
 ## e0010
 
@@ -88,7 +79,6 @@
 - Kana: きずぐち
 - English: wound\, cut\, gash
 - Notes: text\: 傷口からみて凶器はシビレヤリバチだろう — judging from the wound\, the weapon was probably a paralysis\-spear\-wasp
-- WK level:
 
 ## e0011
 
@@ -97,7 +87,6 @@
 - Kana: きょうき
 - English: a weapon \(used to injure or kill\)
 - Notes: text\: 傷口からみて凶器はシビレヤリバチだろう — judging from the wound\, the weapon was probably that wasp
-- WK level:
 
 ## e0012
 
@@ -106,7 +95,6 @@
 - Kana: しいん
 - English: cause of death
 - Notes: text\: 死因はおそらくアナフィラキシーショック — cause of death is probably anaphylactic shock
-- WK level:
 
 ## e0013
 
@@ -115,7 +103,6 @@
 - Kana: こうたい
 - English: antibody
 - Notes: text\: そのハチ毒に対する抗体ができる — the body develops antibodies against that wasp\'s venom
-- WK level:
 
 ## e0014
 
@@ -124,7 +111,6 @@
 - Kana: いたる
 - English: to lead to\, to result in\, to reach \(a state\)
 - Notes: text\: 場合によっては死に至る — depending on the case\, it can result in death
-- WK level:
 
 ## e0015
 
@@ -133,7 +119,6 @@
 - Kana: まいった
 - English: I give up\, you got me \(casual expression of being bested\)
 - Notes: text\: まいったわね — well\, you got me
-- WK level:
 
 ## e0016
 
@@ -142,7 +127,6 @@
 - Kana: ごめいとう
 - English: that\'s exactly right\! \(said to praise a correct guess\/deduction\)
 - Notes: text\: 御名答よ — that\'s exactly right
-- WK level:
 
 ## e0017
 
@@ -151,7 +135,6 @@
 - Kana: さいみんガス
 - English: sleeping gas\, anesthetic gas
 - Notes: text\: 入り口から催眠ガスを噴射して — spraying sleeping gas in from the entrance
-- WK level:
 
 ## e0018
 
@@ -160,7 +143,6 @@
 - Kana: ふんしゃする
 - English: to spray\, to jet\, to inject \(a gas or liquid under pressure\)
 - Notes: text\: 入り口から催眠ガスを噴射して — spraying sleeping gas in from the entrance
-- WK level:
 
 ## e0019
 
@@ -169,7 +151,6 @@
 - Kana: びこうする
 - English: to tail\, to follow \(someone\) covertly
 - Notes: text\: 彼を尾行して洞窟に入ったところを確認し — tailing him\, confirmed the moment he entered the cave
-- WK level:
 
 ## e0020
 
@@ -178,7 +159,6 @@
 - Kana: ころあい
 - English: the right moment\, a good time
 - Notes: text\: 頃合いをみて中に入った — waited for the right moment\, then went inside
-- WK level:
 
 ## e0021
 
@@ -187,7 +167,6 @@
 - Kana: ぐっすり
 - English: soundly\, deeply \(asleep\)
 - Notes: text\: 彼はぐっすり寝てたけど — he was sound asleep\, but\.\.\.
-- WK level:
 
 ## e0022
 
@@ -196,7 +175,6 @@
 - Kana: わなをはる
 - English: to set a trap
 - Notes: text\: この時すでに彼は罠を張ってたわけ — at this point he had already set a trap
-- WK level:
 
 ## e0023
 
@@ -205,7 +183,6 @@
 - Kana: われめ
 - English: a crack\, crevice\, fissure
 - Notes: text\: 岩の割れ目に隠れている蛇 — snakes hiding in the cracks of the rock
-- WK level:
 
 ## e0024
 
@@ -214,7 +191,6 @@
 - Kana: いきわたる
 - English: to spread throughout\, to reach everywhere\, to permeate
 - Notes: text\: ガスが大部分には十分にいきわたらなかった — the gas didn\'t sufficiently reach most \(of the snakes\)
-- WK level:
 
 ## e0025
 
@@ -223,7 +199,6 @@
 - Kana: かみつく
 - English: to bite\, to sink one\'s teeth in
 - Notes: text\: 蛇は咬みついてこなかったけど — the snakes didn\'t bite\, but\.\.\.
-- WK level:
 
 ## e0026
 
@@ -232,7 +207,6 @@
 - Kana: ひめいをあげる
 - English: to scream\, to shriek
 - Notes: text\: 私が悲鳴を上げたり倒れたりしてショックを受けると — when I scream\, fall down\, or otherwise go into shock
-- WK level:
 
 ## e0027
 
@@ -241,7 +215,6 @@
 - Kana: たおれる
 - English: to fall down\, to collapse
 - Notes: text\: 私が悲鳴を上げたり倒れたりして — when I scream or collapse
-- WK level:
 
 ## e0028
 
@@ -250,7 +223,6 @@
 - Kana: おそいかかる
 - English: to attack\, to pounce on\, to assail
 - Notes: text\: このコ達が近くの人間に襲いかかるの — these little guys attack any human nearby
-- WK level:
 
 ## e0029
 
@@ -259,7 +231,6 @@
 - Kana: てあてする
 - English: to give first aid\, to treat \(a wound\)
 - Notes: text\: 彼の罠のせいで手当てしてやれないし — because of his trap\, I can\'t even give him first aid
-- WK level:
 
 ## e0030
 
@@ -268,7 +239,6 @@
 - Kana: かいじょする
 - English: to release\, to cancel\, to deactivate
 - Notes: text\: 死んでもスイッチが攻撃解除されないってことよ — the problem is that even if he dies\, the attack switch won\'t deactivate
-- WK level:
 
 ## e0031
 
@@ -277,7 +247,6 @@
 - Kana: はっぽうふさがり
 - English: cornered on all sides\, at a complete impasse\, no way out
 - Notes: text\: 八方ふさがりよ — I\'m at a total impasse
-- WK level:
 
 ## e0032
 
@@ -286,7 +255,6 @@
 - Kana: あきらめる
 - English: to give up\, to abandon \(an effort or hope\)
 - Notes: text\: 彼のプレートをあきらめて外に出ることもできない — I can\'t give up on his plate\, but I can\'t go outside either
-- WK level:
 
 ## e0033
 
@@ -295,7 +263,6 @@
 - Kana: はっしんき
 - English: a transmitter\, a signaling device
 - Notes: text\: プレートには発信機が仕込まれてて — a transmitter is built into the plates
-- WK level:
 
 ## e0034
 
@@ -304,7 +271,6 @@
 - Kana: しこむ
 - English: to install\, to embed\, to build \(a device\) into something
 - Notes: text\: プレートには発信機が仕込まれてて — a transmitter is built into the plates
-- WK level:
 
 ## e0035
 
@@ -313,7 +279,6 @@
 - Kana: しんさいいんかい
 - English: examination committee\, judging panel
 - Notes: text\: 受験生の位置は審査委員会にチェックされてる — examinees\' positions are tracked by the examination committee
-- WK level:
 
 ## e0036
 
@@ -322,7 +287,6 @@
 - Kana: すぎる
 - English: to pass\, to go by\, to exceed \(here\: a deadline\)
 - Notes: text\: 受験生が期日を過ぎても戻らない場合は — if an examinee doesn\'t return even after the deadline has passed
-- WK level:
 
 ## e0037
 
@@ -331,7 +295,6 @@
 - Kana: さいわい
 - English: fortunately\, luckily
 - Notes: text\: 幸い期日はあと一日を切ってるし — fortunately the deadline is less than a day away
-- WK level:
 
 ## e0038
 
@@ -340,7 +303,6 @@
 - Kana: いっこくをあらそう
 - English: every second counts\, to be extremely urgent \(idiom\)
 - Notes: text\: レオリオの症状は一刻を争う\! — Leorio\'s condition is critical\, every second counts\!
-- WK level:
 
 ## e0039
 
@@ -349,7 +311,6 @@
 - Kana: ちゅうこくする
 - English: to warn\, to give \(someone\) earnest advice
 - Notes: text\: レオリオが悪いのよ 私は忠告した — it\'s Leorio\'s own fault\, I did warn him
-- WK level:
 
 ## e0040
 
@@ -358,7 +319,6 @@
 - Kana: むしする
 - English: to ignore\, to disregard
 - Notes: text\: それを無視して入り口に近づいた — he ignored it and got close to the entrance
-- WK level:
 
 ## e0041
 
@@ -367,7 +327,6 @@
 - Kana: さいりょう
 - English: discretion\, one\'s own judgment
 - Notes: text\: 受験生の裁量で処置すること — to be dealt with at the examinee\'s own discretion
-- WK level:
 
 ## e0042
 
@@ -376,7 +335,6 @@
 - Kana: みすてる
 - English: to abandon\, to forsake\, to give up on \(someone\)
 - Notes: text\: プレートを失くした者は見捨てる — anyone who loses their plate is abandoned
-- WK level:
 
 ## e0043
 
@@ -385,7 +343,6 @@
 - Kana: いのる
 - English: to pray\, to wish fervently
 - Notes: text\: いのるしかないわね — there\'s nothing to do but pray
-- WK level:
 
 ## e0044
 
@@ -394,7 +351,6 @@
 - Kana: かのうせい
 - English: possibility\, likelihood
 - Notes: text\: 成功する可能性もかなり高いはず — the chance of success should be quite high
-- WK level:
 
 ## e0045
 
@@ -403,7 +359,6 @@
 - Kana: ぎせい
 - English: a sacrifice\, a victim
 - Notes: text\: もう一人犠牲がでる — one more victim would result
-- WK level:
 
 ## e0046
 
@@ -412,7 +367,6 @@
 - Kana: きゅうじょ
 - English: rescue
 - Notes: text\: 救助が来るまで彼の体力がもつように — so his stamina holds out until rescue arrives
-- WK level:
 
 ## e0047
 
@@ -421,7 +375,6 @@
 - Kana: たいりょくがもつ
 - English: for one\'s stamina\/strength to hold out\, to endure physically
 - Notes: text\: 彼の体力がもつようにね — so that his stamina holds out
-- WK level:
 
 ## e0048
 
@@ -430,7 +383,6 @@
 - Kana: げどくざい
 - English: antidote
 - Notes: text\: 解毒剤…を探すため\!\?毒蛇の中に\!\? — to search for an antidote\!\? Inside the poisonous snakes\!\?
-- WK level:
 
 ## e0049
 
@@ -439,7 +391,6 @@
 - Kana: どくをもる
 - English: to poison \(someone\)\, to administer poison
 - Notes: text\: 相手に毒を盛る場合解毒剤がなければ駆け引きが成り立たない — if you poison your opponent\, without an antidote the bargaining doesn\'t hold up
-- WK level:
 
 ## e0050
 
@@ -448,7 +399,6 @@
 - Kana: かけひき
 - English: bargaining\, tactics\, maneuvering \(in a negotiation\)
 - Notes: text\: 解毒剤がなければ駆け引きが成り立たないから — without an antidote the bargaining wouldn\'t hold up
-- WK level:
 
 ## e0051
 
@@ -457,7 +407,6 @@
 - Kana: なりたつ
 - English: to hold up\, to be viable\, to be tenable
 - Notes: text\: 駆け引きが成り立たないから — because the bargaining wouldn\'t hold up
-- WK level:
 
 ## e0052
 
@@ -466,7 +415,6 @@
 - Kana: とびこむ
 - English: to jump into\, to leap in
 - Notes: text\: 毒蛇の群れにとびこむのは並みの度胸じゃできない — jumping into a swarm of poisonous snakes takes more than ordinary guts
-- WK level:
 
 ## e0053
 
@@ -475,7 +423,6 @@
 - Kana: どきょう
 - English: courage\, guts\, nerve
 - Notes: text\: 並みの度胸じゃできないがら — ordinary courage can\'t do it
-- WK level:
 
 ## e0054
 
@@ -484,7 +431,6 @@
 - Kana: こうかんする
 - English: to exchange\, to trade
 - Notes: text\: これと交換しない\? — won\'t you trade this\?
-- WK level:
 
 ## e0055
 
@@ -493,7 +439,6 @@
 - Kana: かくだんに
 - English: remarkably\, by a huge margin\, markedly
 - Notes: text\: 入り口付近から噴射するよりは格段に効くわよ — it\'s far more effective than spraying near the entrance
-- WK level:
 
 ## e0056
 
@@ -502,7 +447,6 @@
 - Kana: きく
 - English: to be effective\, to work \(a method\, medicine\, etc\.\)
 - Notes: text\: 格段に効くわよ — it\'s far more effective
-- WK level:
 
 ## e0057
 
@@ -511,7 +455,6 @@
 - Kana: じゅうまんする
 - English: to fill up\, to become full \(of gas\, smoke\, etc\.\)
 - Notes: text\: 5分あればガスが充満して — given 5 minutes the gas would fill the space
-- WK level:
 
 ## e0058
 
@@ -520,7 +463,6 @@
 - Kana: ねむらせる
 - English: to put to sleep
 - Notes: text\: 全ての蛇を眠らせることも可能だわ — it would even be possible to put all the snakes to sleep
-- WK level:
 
 ## e0059
 
@@ -529,7 +471,6 @@
 - Kana: いきをとめる
 - English: to hold one\'s breath
 - Notes: text\: その間ずっと息をとめてるつもりなの\!\? — do you intend to hold your breath the whole time\!\?
-- WK level:
 
 ## e0060
 
@@ -538,7 +479,6 @@
 - Kana: しんようする
 - English: to trust\, to believe in
 - Notes: text\: 信用して\! — trust me\!
-- WK level:
 
 ## e0061
 
@@ -547,7 +487,6 @@
 - Kana: つれだす
 - English: to take \(someone\) out\, to lead \(someone\) out
 - Notes: text\: 必ずキミもここから連れ出す\!\! — I will definitely get you out of here too\!\!
-- WK level:
 
 ## e0062
 
@@ -556,7 +495,6 @@
 - Kana: さいこうきろく
 - English: best\/personal record
 - Notes: text\: 9分44秒 オレの最高記録だよ — 9 minutes 44 seconds\, that\'s my personal best
-- WK level:
 
 ## e0063
 
@@ -565,7 +503,6 @@
 - Kana: あいず
 - English: a signal\, a sign\, a cue
 - Notes: text\: オレが合図したらガスを噴射してね — when I give the signal\, spray the gas\, okay\?
-- WK level:
 
 ## e0064
 
@@ -574,7 +511,6 @@
 - Kana: おいていく
 - English: to leave \(something\) behind
 - Notes: text\: 103番のプレートは置いていくから — I\'ll leave plate No\.103 behind
-- WK level:
 
 ## e0065
 
@@ -583,7 +519,6 @@
 - Kana: うんちん
 - English: fare\, fee \(for transport\) — here used jokingly as a \"toll\"
 - Notes: text\: 運賃ってことで — let\'s call it a \"fare\" \(handing over points as if paying a toll\)
-- WK level:
 
 ## e0066
 
@@ -592,4 +527,3 @@
 - Kana: よっしゃ
 - English: alright\!\, yes\! \(casual exclamation of triumph\)
 - Notes: text\: よっしゃーッ\!\!\! — alright\!\!\!
-- WK level:
