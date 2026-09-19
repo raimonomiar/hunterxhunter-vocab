@@ -2,13 +2,21 @@
   "name": "hunterxhunter-vocab",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "test": "tsx --test tests/**/*.test.ts",
+    "typecheck": "tsc --noEmit",
     "import-vocab": "tsx scripts/import-vocab.ts",
-    "seed-vocab": "tsx scripts/load-vocab-seed.ts"
+    "seed-vocab": "tsx scripts/load-vocab-seed.ts",
+    "validate-vocab": "tsx scripts/validate-vocab.ts",
+    "generate-vocab-index": "tsx scripts/generate-vocab-index.ts",
+    "sync-vocab": "tsx scripts/sync-vocab.ts",
+    "convert-vocab-json": "tsx scripts/convert-vocab-json-to-markdown.ts",
+    "verify-vocab-parity": "tsx scripts/verify-vocab-parity.ts"
   },
   "dependencies": {
     "@libsql/client": "^0.18.0",
@@ -24,8 +32,10 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.5",
     "exceljs": "^4.4.0",
+    "remark-parse": "^11.0.0",
     "tailwindcss": "^4",
     "tsx": "^4.23.13",
-    "typescript": "^5"
+    "typescript": "^5",
+    "unified": "^11.0.5"
   }
 }
