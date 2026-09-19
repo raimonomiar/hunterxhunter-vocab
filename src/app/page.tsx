@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import type { VocabEntry, VolumeSummary } from "@/lib/vocab";
 import EntryForm, { type EntryFormValues } from "@/components/EntryForm";
 import EntryRow from "@/components/EntryRow";
+import GoToTopButton from "@/components/GoToTopButton";
 
 async function fetchJson<T>(input: string, init?: RequestInit): Promise<T> {
   const res = await fetch(input, init);
@@ -198,9 +199,16 @@ export default function Home() {
   const lastPageInChapter = chapterEntries.at(-1)?.page;
 
   return (
-    <div className="mx-auto flex min-h-screen w-full max-w-2xl flex-col px-4 pb-28 sm:px-6">
+    <main
+      id="page-top"
+      tabIndex={-1}
+      aria-labelledby="page-title"
+      className="mx-auto flex min-h-screen w-full max-w-2xl flex-col px-4 pb-28 outline-none sm:px-6"
+    >
       <header className="sticky top-0 z-10 -mx-4 bg-white/90 px-4 pt-4 pb-3 backdrop-blur sm:-mx-6 sm:px-6 dark:bg-neutral-950/90">
-        <h1 className="mb-3 text-xl font-bold">HxH Vocab</h1>
+        <h1 id="page-title" className="mb-3 text-xl font-bold">
+          HxH Vocab
+        </h1>
         <input
           type="search"
           value={query}
@@ -325,13 +333,7 @@ export default function Home() {
         </section>
       )}
 
-      <button
-        onClick={() => setFormState({ mode: "add" })}
-        className="fixed right-5 bottom-6 z-20 flex h-16 w-16 items-center justify-center rounded-full bg-blue-600 text-3xl font-light text-white shadow-lg active:bg-blue-700"
-        aria-label="Add entry"
-      >
-        +
-      </button>
+      <GoToTopButton />
 
       {formState?.mode === "add" && (
         <EntryForm
@@ -352,6 +354,6 @@ export default function Home() {
           onDelete={() => handleDelete(formState.entry.id)}
         />
       )}
-    </div>
+    </main>
   );
 }
