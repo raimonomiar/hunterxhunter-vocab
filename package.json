@@ -15,8 +15,7 @@
     "validate-vocab": "tsx scripts/validate-vocab.ts",
     "generate-vocab-index": "tsx scripts/generate-vocab-index.ts",
     "sync-vocab": "tsx scripts/sync-vocab.ts",
-    "convert-vocab-json": "tsx scripts/convert-vocab-json-to-markdown.ts",
-    "verify-vocab-parity": "tsx scripts/verify-vocab-parity.ts"
+    "convert-vocab-json": "tsx scripts/convert-vocab-json-to-markdown.ts"
   },
   "dependencies": {
     "@libsql/client": "^0.18.0",

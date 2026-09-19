@@ -46,4 +46,4 @@ Apply refuses unresolved conflicts and refuses a stale plan if the source or dat
 - `npm run import-vocab` — legacy workbook recovery path only; it requires the uncommitted workbook and is not the normal setup path
 - `npm run lint` — eslint
 
-The committed corpus currently covers volumes 1–8, with Volume 1 chapters 1–4 explicitly missing pending trusted source recovery. Do not invent entries to fill that gap.
+The committed corpus currently covers volumes 1–8, including the recovered Volume 1 chapters 1–4 workbook rows.
