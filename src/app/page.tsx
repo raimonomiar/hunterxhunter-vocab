@@ -2,7 +2,6 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { VocabEntry, VolumeSummary } from "@/lib/vocab";
-import EntryForm, { type EntryFormValues } from "@/components/EntryForm";
 import EntryRow from "@/components/EntryRow";
 import GoToTopButton from "@/components/GoToTopButton";
 
@@ -19,7 +18,6 @@ export default function Home() {
   const [structure, setStructure] = useState<VolumeSummary[] | null>(null);
   const [selectedVolume, setSelectedVolume] = useState(1);
   const [selectedChapter, setSelectedChapter] = useState(1);
-  const [newChapterDraft, setNewChapterDraft] = useState<string | null>(null);
 
   const [chapterEntries, setChapterEntries] = useState<VocabEntry[]>([]);
   const [chapterLoading, setChapterLoading] = useState(true);
@@ -27,12 +25,6 @@ export default function Home() {
   const [query, setQuery] = useState("");
   const [searchResults, setSearchResults] = useState<VocabEntry[] | null>(null);
   const [searchLoading, setSearchLoading] = useState(false);
-
-  const [formState, setFormState] = useState<
-    | { mode: "add" }
-    | { mode: "edit"; entry: VocabEntry }
-    | null
-  >(null);
 
   const [error, setError] = useState<string | null>(null);
 
@@ -86,13 +78,10 @@ export default function Home() {
   );
 
   const chapterOptions = useMemo(() => {
-    const nums = currentVolumeChapters.map((c) => c.number);
-    if (newChapterDraft) {
-      const n = Number(newChapterDraft);
-      if (Number.isInteger(n) && !nums.includes(n)) nums.push(n);
-    }
-    return nums.sort((a, b) => a - b);
-  }, [currentVolumeChapters, newChapterDraft]);
+    return currentVolumeChapters
+      .map((c) => c.number)
+      .sort((a, b) => a - b);
+  }, [currentVolumeChapters]);
 
   const volumeOptions = useMemo(
     () => (structure ?? []).map((v) => v.number).sort((a, b) => a - b),
@@ -101,102 +90,11 @@ export default function Home() {
 
   function handleSelectVolume(volume: number) {
     setSelectedVolume(volume);
-    setNewChapterDraft(null);
     const chapters = structure?.find((v) => v.number === volume)?.chapters ?? [];
     setSelectedChapter(chapters[0]?.number ?? 1);
   }
 
-  function handleAddChapter() {
-    const suggested = String(
-      Math.max(0, ...currentVolumeChapters.map((c) => c.number)) + 1,
-    );
-    const input = window.prompt("New chapter number:", suggested);
-    if (!input) return;
-    const num = Number(input);
-    if (!Number.isInteger(num) || num < 1) {
-      setError("Chapter number must be a positive whole number.");
-      return;
-    }
-    setNewChapterDraft(String(num));
-    setSelectedChapter(num);
-  }
-
-  function handleAddVolume() {
-    const suggested = String(Math.max(0, ...volumeOptions) + 1);
-    const input = window.prompt("New volume number:", suggested);
-    if (!input) return;
-    const num = Number(input);
-    if (!Number.isInteger(num) || num < 1) {
-      setError("Volume number must be a positive whole number.");
-      return;
-    }
-    setSelectedVolume(num);
-    setSelectedChapter(1);
-  }
-
-  async function refreshAfterMutation() {
-    await Promise.all([
-      loadStructure(),
-      loadChapterEntries(selectedVolume, selectedChapter),
-    ]);
-    setNewChapterDraft(null);
-    const trimmed = query.trim();
-    if (trimmed.length > 0) {
-      const data = await fetchJson<VocabEntry[]>(
-        `/api/entries?q=${encodeURIComponent(trimmed)}`,
-      );
-      setSearchResults(data);
-    }
-  }
-
-  async function handleCreate(values: EntryFormValues) {
-    await fetchJson("/api/entries", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        volume: values.volume,
-        chapter: values.chapter,
-        kanji: values.kanji,
-        kana: values.kana,
-        english: values.english,
-        page: Number(values.page),
-        notes: values.notes,
-      }),
-    });
-    setSelectedVolume(values.volume);
-    setSelectedChapter(values.chapter);
-    setFormState(null);
-    await refreshAfterMutation();
-  }
-
-  async function handleUpdate(id: number, values: EntryFormValues) {
-    await fetchJson(`/api/entries/${id}`, {
-      method: "PATCH",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        volume: values.volume,
-        chapter: values.chapter,
-        kanji: values.kanji,
-        kana: values.kana,
-        english: values.english,
-        page: Number(values.page),
-        notes: values.notes,
-      }),
-    });
-    setSelectedVolume(values.volume);
-    setSelectedChapter(values.chapter);
-    setFormState(null);
-    await refreshAfterMutation();
-  }
-
-  async function handleDelete(id: number) {
-    await fetchJson(`/api/entries/${id}`, { method: "DELETE" });
-    setFormState(null);
-    await refreshAfterMutation();
-  }
-
   const isSearching = query.trim().length > 0;
-  const lastPageInChapter = chapterEntries.at(-1)?.page;
 
   return (
     <main
@@ -239,7 +137,6 @@ export default function Home() {
               key={entry.id}
               entry={entry}
               showLocation
-              onClick={() => setFormState({ mode: "edit", entry })}
             />
           ))}
         </section>
@@ -261,13 +158,6 @@ export default function Home() {
                   {v}
                 </button>
               ))}
-              <button
-                onClick={handleAddVolume}
-                className="min-w-11 rounded-full bg-neutral-100 px-4 py-2 text-base font-medium text-neutral-500 dark:bg-neutral-800"
-                aria-label="Add volume"
-              >
-                +
-              </button>
             </div>
           </div>
 
@@ -284,7 +174,6 @@ export default function Home() {
                   key={c}
                   onClick={() => {
                     setSelectedChapter(c);
-                    setNewChapterDraft(null);
                   }}
                   className={`min-w-11 rounded-full px-4 py-2 text-base font-medium ${
                     c === selectedChapter
@@ -295,13 +184,6 @@ export default function Home() {
                   {c}
                 </button>
               ))}
-              <button
-                onClick={handleAddChapter}
-                className="min-w-11 rounded-full bg-neutral-100 px-4 py-2 text-base font-medium text-neutral-500 dark:bg-neutral-800"
-                aria-label="Add chapter"
-              >
-                +
-              </button>
             </div>
           </div>
 
@@ -310,22 +192,15 @@ export default function Home() {
               <p className="text-sm text-neutral-500">Loading...</p>
             ) : chapterEntries.length === 0 ? (
               <div className="rounded-xl border border-dashed border-neutral-300 px-4 py-8 text-center text-neutral-500 dark:border-neutral-700">
-                <p className="mb-3">
-                  No entries yet in Volume {selectedVolume} Chapter {selectedChapter}.
+                <p>
+                  No entries in Volume {selectedVolume} Chapter {selectedChapter}.
                 </p>
-                <button
-                  onClick={() => setFormState({ mode: "add" })}
-                  className="rounded-lg bg-blue-600 px-4 py-2 font-medium text-white"
-                >
-                  Add first entry
-                </button>
               </div>
             ) : (
               chapterEntries.map((entry) => (
                 <EntryRow
                   key={entry.id}
                   entry={entry}
-                  onClick={() => setFormState({ mode: "edit", entry })}
                 />
               ))
             )}
@@ -334,26 +209,6 @@ export default function Home() {
       )}
 
       <GoToTopButton />
-
-      {formState?.mode === "add" && (
-        <EntryForm
-          volume={selectedVolume}
-          chapter={selectedChapter}
-          defaultPage={lastPageInChapter}
-          onCancel={() => setFormState(null)}
-          onSubmit={handleCreate}
-        />
-      )}
-      {formState?.mode === "edit" && (
-        <EntryForm
-          volume={formState.entry.volume}
-          chapter={formState.entry.chapter}
-          entry={formState.entry}
-          onCancel={() => setFormState(null)}
-          onSubmit={(values) => handleUpdate(formState.entry.id, values)}
-          onDelete={() => handleDelete(formState.entry.id)}
-        />
-      )}
     </main>
   );
 }

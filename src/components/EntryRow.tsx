@@ -5,17 +5,13 @@ import type { VocabEntry } from "@/lib/vocab";
 export default function EntryRow({
   entry,
   showLocation,
-  onClick,
 }: {
   entry: VocabEntry;
   showLocation?: boolean;
-  onClick: () => void;
 }) {
   return (
-    <button
-      type="button"
-      onClick={onClick}
-      className="w-full rounded-xl border border-neutral-200 bg-white px-4 py-3 text-left shadow-sm active:bg-neutral-50 dark:border-neutral-800 dark:bg-neutral-900 dark:active:bg-neutral-800"
+    <article
+      className="w-full rounded-xl border border-neutral-200 bg-white px-4 py-3 text-left shadow-sm dark:border-neutral-800 dark:bg-neutral-900"
     >
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
@@ -47,6 +43,6 @@ export default function EntryRow({
           </span>
         </div>
       </div>
-    </button>
+    </article>
   );
 }

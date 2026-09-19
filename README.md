@@ -1,6 +1,6 @@
 # Hunter × Hunter Vocab
 
-A personal web app for browsing and adding Japanese vocabulary while reading Hunter × Hunter. The shared, readable corpus lives in [one Markdown file per app chapter](data/vocab-seed/README.md), where readers can identify a stable entry ID and propose a focused correction.
+A read-only web app for browsing Japanese vocabulary while reading Hunter × Hunter. The shared, readable corpus lives in [one Markdown file per app chapter](data/vocab-seed/README.md), where readers can identify a stable entry ID and propose a focused correction.
 
 The repository's MIT license covers original project contributions. It does not claim ownership of the manga or other third-party material; review the publication notes in [CONTRIBUTING.md](CONTRIBUTING.md) before adding contextual quotations.
 
