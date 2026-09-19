@@ -8,8 +8,25 @@ permissions:
 
 jobs:
   checks:
+    name: ${{ matrix.name }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - id: vocabulary-validation
+            name: Vocabulary validation
+          - id: lint
+            name: Lint
+          - id: unit-coverage
+            name: Unit tests and coverage
+          - id: e2e
+            name: E2E
+          - id: package-vulnerability
+            name: Package vulnerability
+          - id: formatting
+            name: Formatting
     env:
       DATABASE_URL: file:./data/ci-vocab.db
     steps:
@@ -19,13 +36,33 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run format:check
-      - run: npm run validate-vocab
-      - run: npm run lint
-      - run: npm test
-      - run: npm run typecheck
-      - run: npm run build
-      - run: npm run audit
-      - run: npx playwright install --with-deps chromium
-      - run: npm run seed-vocab
-      - run: npm run test:e2e
+      - name: Validate vocabulary
+        if: matrix.id == 'vocabulary-validation'
+        run: npm run validate-vocab
+      - name: Lint
+        if: matrix.id == 'lint'
+        run: npm run lint
+      - name: Unit tests and coverage
+        if: matrix.id == 'unit-coverage'
+        run: npm test
+      - name: Typecheck
+        if: matrix.id == 'unit-coverage'
+        run: npm run typecheck
+      - name: Build application
+        if: matrix.id == 'e2e'
+        run: npm run build
+      - name: Install Playwright browser
+        if: matrix.id == 'e2e'
+        run: npx playwright install --with-deps chromium
+      - name: Seed vocabulary
+        if: matrix.id == 'e2e'
+        run: npm run seed-vocab
+      - name: Run E2E tests
+        if: matrix.id == 'e2e'
+        run: npm run test:e2e
+      - name: Package vulnerability audit
+        if: matrix.id == 'package-vulnerability'
+        run: npm run audit
+      - name: Check formatting
+        if: matrix.id == 'formatting'
+        run: npm run format:check
