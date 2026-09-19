@@ -22,23 +22,6 @@ export type VolumeSummary = {
   chapters: ChapterSummary[];
 };
 
-export type NewEntryInput = {
-  volume: number;
-  chapter: number;
-  kanji: string | null;
-  kana: string;
-  english: string;
-  page: number;
-  notes: string | null;
-};
-
-export type UpdateEntryInput = Partial<
-  Omit<NewEntryInput, "volume" | "chapter">
-> & {
-  volume?: number;
-  chapter?: number;
-};
-
 function mapRow(row: Record<string, unknown>): VocabEntry {
   return {
     id: Number(row.id),
@@ -87,14 +70,6 @@ export async function findOrCreateChapter(
   chapter: number,
 ): Promise<number> {
   return findOrCreateChapterWithExecutor(await ready(), volume, chapter);
-}
-
-export async function ensureVolume(volume: number): Promise<void> {
-  const db = await ready();
-  await db.execute({
-    sql: `INSERT INTO volumes (number) VALUES (?) ON CONFLICT(number) DO NOTHING`,
-    args: [volume],
-  });
 }
 
 export async function getStructure(): Promise<VolumeSummary[]> {
@@ -165,131 +140,4 @@ export async function searchEntries(query: string): Promise<VocabEntry[]> {
     args: [like, like, like],
   });
   return result.rows.map((r) => mapRow(r as Record<string, unknown>));
-}
-
-export async function createEntry(input: NewEntryInput): Promise<VocabEntry> {
-  const db = await ready();
-  const chapterId = await findOrCreateChapter(input.volume, input.chapter);
-  const result = await db.execute({
-    sql: `
-      INSERT INTO vocab_entries (chapter_id, kanji, kana, english, page, notes)
-      VALUES (?, ?, ?, ?, ?, ?)
-      RETURNING id
-    `,
-    args: [
-      chapterId,
-      input.kanji,
-      input.kana,
-      input.english,
-      input.page,
-      input.notes,
-    ],
-  });
-  const id = result.rows[0].id as number;
-  return {
-    id: Number(id),
-    volume: input.volume,
-    chapter: input.chapter,
-    kanji: input.kanji,
-    kana: input.kana,
-    english: input.english,
-    page: input.page,
-    notes: input.notes,
-  };
-}
-
-export async function updateEntry(
-  id: number,
-  input: UpdateEntryInput,
-): Promise<VocabEntry | null> {
-  const db = await ready();
-
-  let chapterId: number | undefined;
-  if (input.volume !== undefined && input.chapter !== undefined) {
-    chapterId = await findOrCreateChapter(input.volume, input.chapter);
-  }
-
-  const fields: string[] = [];
-  const args: (string | number | null)[] = [];
-  if (chapterId !== undefined) {
-    fields.push("chapter_id = ?");
-    args.push(chapterId);
-  }
-  if (input.kanji !== undefined) {
-    fields.push("kanji = ?");
-    args.push(input.kanji);
-  }
-  if (input.kana !== undefined) {
-    fields.push("kana = ?");
-    args.push(input.kana);
-  }
-  if (input.english !== undefined) {
-    fields.push("english = ?");
-    args.push(input.english);
-  }
-  if (input.page !== undefined) {
-    fields.push("page = ?");
-    args.push(input.page);
-  }
-  if (input.notes !== undefined) {
-    fields.push("notes = ?");
-    args.push(input.notes);
-  }
-  if (fields.length === 0) {
-    const existing = await db.execute({
-      sql: `
-        SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
-               e.kanji, e.kana, e.english, e.page, e.notes
-        FROM vocab_entries e
-        JOIN chapters c ON c.id = e.chapter_id
-        JOIN volumes v ON v.id = c.volume_id
-        WHERE e.id = ?
-      `,
-      args: [id],
-    });
-    if (existing.rows.length === 0) return null;
-    return mapRow(existing.rows[0] as Record<string, unknown>);
-  }
-
-  args.push(id);
-  await db.execute({
-    sql: `UPDATE vocab_entries SET ${fields.join(", ")} WHERE id = ?`,
-    args,
-  });
-
-  const result = await db.execute({
-    sql: `
-      SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
-             e.kanji, e.kana, e.english, e.page, e.notes
-      FROM vocab_entries e
-      JOIN chapters c ON c.id = e.chapter_id
-      JOIN volumes v ON v.id = c.volume_id
-      WHERE e.id = ?
-    `,
-    args: [id],
-  });
-  if (result.rows.length === 0) return null;
-  return mapRow(result.rows[0] as Record<string, unknown>);
-}
-
-export async function deleteEntry(id: number): Promise<boolean> {
-  const db = await ready();
-  const transaction = await db.transaction("write");
-  try {
-    await transaction.execute({
-      sql: `UPDATE vocab_source_entries
-            SET local_entry_id = NULL, local_deleted = 1
-            WHERE local_entry_id = ?`,
-      args: [id],
-    });
-    const result = await transaction.execute({
-      sql: `DELETE FROM vocab_entries WHERE id = ?`,
-      args: [id],
-    });
-    await transaction.commit();
-    return result.rowsAffected > 0;
-  } catch (error) {
-    await transaction.rollback();
-    throw error;
-  }
 }
