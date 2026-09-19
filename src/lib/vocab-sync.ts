@@ -105,8 +105,9 @@ export class SyncConflictError extends Error {
   constructor(public readonly conflicts: SyncOperation[]) {
     super(
       conflicts
-        .map((conflict) =>
-          `${conflict.sourceFile ?? "<database>"}:${conflict.sourceLine ?? 1}: ${conflict.message ?? "source conflict"}`,
+        .map(
+          (conflict) =>
+            `${conflict.sourceFile ?? "<database>"}:${conflict.sourceLine ?? 1}: ${conflict.message ?? "source conflict"}`,
         )
         .join("\n"),
     );
@@ -145,8 +146,7 @@ function mapLocalEntry(row: Record<string, unknown>): LocalEntry {
 function mapProvenance(row: Record<string, unknown>): ProvenanceRow {
   return {
     sourceKey: String(row.source_key),
-    localEntryId:
-      row.local_entry_id === null ? null : numberValue(row.local_entry_id),
+    localEntryId: row.local_entry_id === null ? null : numberValue(row.local_entry_id),
     volume: numberValue(row.volume),
     chapter: numberValue(row.chapter),
     sourceOrder: numberValue(row.source_order),
@@ -187,9 +187,7 @@ async function readProvenance(db: DbExecutor): Promise<ProvenanceRow[]> {
 }
 
 async function readSourceRevision(db: DbExecutor): Promise<string | null> {
-  const result = await db.execute(
-    `SELECT source_revision FROM vocab_source_state WHERE id = 1`,
-  );
+  const result = await db.execute(`SELECT source_revision FROM vocab_source_state WHERE id = 1`);
   return result.rows.length === 0 ? null : String(result.rows[0].source_revision);
 }
 
@@ -228,11 +226,7 @@ async function databaseSnapshot(db: DbExecutor): Promise<{
   return { fingerprint, localEntries, provenance, sourceRevision };
 }
 
-function sourceContentHash(
-  volume: number,
-  chapter: number,
-  entry: SourceEntry,
-): string {
+function sourceContentHash(volume: number, chapter: number, entry: SourceEntry): string {
   return crypto
     .createHash("sha256")
     .update(JSON.stringify({ volume, chapter, entry: semanticEntry(entry) }))
@@ -372,18 +366,13 @@ function formatLocal(local: LocalEntry): string {
   return `database entry ${local.id} (V${local.volume} Ch${local.chapter}, page ${local.page})`;
 }
 
-export async function planVocabSync(
-  db: Client,
-  corpus: CorpusSource,
-): Promise<SyncPlan> {
+export async function planVocabSync(db: Client, corpus: CorpusSource): Promise<SyncPlan> {
   await ensureSchema(db);
   const snapshot = await databaseSnapshot(db);
   const records = sourceRecords(corpus);
   const recordsByKey = new Map(records.map((record) => [record.sourceKey, record]));
   const localById = new Map(snapshot.localEntries.map((entry) => [entry.id, entry]));
-  const provenanceByKey = new Map(
-    snapshot.provenance.map((row) => [row.sourceKey, row]),
-  );
+  const provenanceByKey = new Map(snapshot.provenance.map((row) => [row.sourceKey, row]));
   const localByChapter = new Map<string, LocalEntry[]>();
   for (const local of snapshot.localEntries) {
     const key = chapterKey(local.volume, local.chapter);
@@ -393,18 +382,14 @@ export async function planVocabSync(
   }
   const matchedLocalIds = new Set<number>();
   const operations: SyncOperation[] = [];
-  const priorSource =
-    snapshot.sourceRevision !== null || snapshot.provenance.length > 0;
+  const priorSource = snapshot.sourceRevision !== null || snapshot.provenance.length > 0;
 
   for (const source of records) {
     const row = provenanceByKey.get(source.sourceKey);
     if (row) {
       if (row.localEntryId !== null) matchedLocalIds.add(row.localEntryId);
       const local = row.localEntryId === null ? undefined : localById.get(row.localEntryId);
-      const sourceMatchesBaseline = sameFields(
-        sourceFields(source),
-        provenanceFields(row),
-      );
+      const sourceMatchesBaseline = sameFields(sourceFields(source), provenanceFields(row));
 
       if (!row.sourcePresent && row.localEntryId === null && !row.localDeleted) {
         operations.push(operation("add", source, { provenance: row }));
@@ -441,11 +426,10 @@ export async function planVocabSync(
       const localMatchesSource = sameFields(local, sourceFields(source));
       if (localMatchesSource) {
         operations.push(
-          operation(
-            sourceMatchesBaseline ? "unchanged" : "advance-baseline",
-            source,
-            { provenance: row, local },
-          ),
+          operation(sourceMatchesBaseline ? "unchanged" : "advance-baseline", source, {
+            provenance: row,
+            local,
+          }),
         );
       } else if (sourceMatchesBaseline) {
         operations.push(operation("preserve-local", source, { provenance: row, local }));
@@ -464,9 +448,7 @@ export async function planVocabSync(
     }
 
     const chapterLocals = localByChapter.get(chapterKey(source.volume, source.chapter)) ?? [];
-    const candidates = chapterLocals.filter((local) =>
-      sameFields(local, sourceFields(source)),
-    );
+    const candidates = chapterLocals.filter((local) => sameFields(local, sourceFields(source)));
     if (candidates.length === 1) {
       matchedLocalIds.add(candidates[0].id);
       operations.push(operation("adopt", source, { local: candidates[0] }));
@@ -503,17 +485,23 @@ export async function planVocabSync(
       operations.push(operation("remove", undefined, { provenance: row, local }));
     } else {
       operations.push(
-        conflict(undefined, `${formatLocal(local)} maps to removed source ${row.sourceKey}; refusing to delete a personal edit`, {
-          sourceKey: row.sourceKey,
-          sourceFile: row.sourceFile,
-          provenance: row,
-          local,
-        }),
+        conflict(
+          undefined,
+          `${formatLocal(local)} maps to removed source ${row.sourceKey}; refusing to delete a personal edit`,
+          {
+            sourceKey: row.sourceKey,
+            sourceFile: row.sourceFile,
+            provenance: row,
+            local,
+          },
+        ),
       );
     }
   }
 
-  const sourceChapters = new Set(records.map((record) => chapterKey(record.volume, record.chapter)));
+  const sourceChapters = new Set(
+    records.map((record) => chapterKey(record.volume, record.chapter)),
+  );
   const unmatchedLocal = snapshot.localEntries.filter((local) => !matchedLocalIds.has(local.id));
   if (!priorSource) {
     for (const local of unmatchedLocal) {
@@ -771,7 +759,7 @@ export function formatSyncPlan(plan: SyncPlan): string {
     if (item.kind === "unchanged" || item.kind === "personal-only") continue;
     const location = item.sourceFile
       ? `${item.sourceFile}:${item.sourceLine ?? 1}`
-      : item.sourceKey ?? "<database>";
+      : (item.sourceKey ?? "<database>");
     lines.push(`- ${item.kind}: ${location}${item.message ? ` — ${item.message}` : ""}`);
   }
   return lines.join("\n");

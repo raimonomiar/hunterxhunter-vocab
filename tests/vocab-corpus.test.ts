@@ -42,23 +42,29 @@ test("recovered Volume 1 chapters retain workbook row counts and canonical field
   );
   assert.ok(chapter1);
   const firstEntry = chapter1.entries[0];
-  assert.deepEqual({
-    id: firstEntry.id,
-    page: firstEntry.page,
-    kanji: firstEntry.kanji,
-    kana: firstEntry.kana,
-    english: firstEntry.english,
-    notes: firstEntry.notes,
-  }, {
-    id: "e0001",
-    page: 5,
-    kanji: "力",
-    kana: "ちから",
-    english: "power",
-    notes: null,
-  });
+  assert.deepEqual(
+    {
+      id: firstEntry.id,
+      page: firstEntry.page,
+      kanji: firstEntry.kanji,
+      kana: firstEntry.kana,
+      english: firstEntry.english,
+      notes: firstEntry.notes,
+    },
+    {
+      id: "e0001",
+      page: 5,
+      kanji: "力",
+      kana: "ちから",
+      english: "power",
+      notes: null,
+    },
+  );
   assert.equal(chapter1.entries.at(-1)?.id, "e0291");
-  assert.equal(chapter1.entries[4].notes, 'Here it\'s most likely just a derogatory replacement for "people"');
+  assert.equal(
+    chapter1.entries[4].notes,
+    'Here it\'s most likely just a derogatory replacement for "people"',
+  );
   assert.equal("wkLevel" in firstEntry, false);
 });
 test("generated index is deterministic after corpus recovery", () => {
