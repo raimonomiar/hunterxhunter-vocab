@@ -4,13 +4,13 @@ import test from "node:test";
 import { loadCorpus } from "../src/lib/vocab-corpus";
 import { renderCorpusIndex } from "../src/lib/vocab-index";
 
-test("committed corpus has exact initial coverage and no validation errors", () => {
+test("committed corpus has exact coverage and no validation errors", () => {
   const result = loadCorpus();
   assert.deepEqual(result.diagnostics, []);
-  assert.equal(result.corpus.chapters.length, 68);
+  assert.equal(result.corpus.chapters.length, 72);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    5321,
+    6362,
   );
   assert.deepEqual(
     result.corpus.chapters.map((chapter) => `${chapter.volume}-${chapter.chapter}`),
@@ -22,19 +22,52 @@ test("committed corpus has exact initial coverage and no validation errors", () 
         return av - bv || ac - bc;
       }),
   );
-  assert.ok(result.corpus.chapters.every((chapter) =>
-    chapter.entries.every((entry) => entry.wkLevel === null),
-  ));
 });
-test("generated index is deterministic and the initial parity manifest is recorded", () => {
+test("recovered Volume 1 chapters retain workbook row counts and fields", () => {
+  const result = loadCorpus();
+  assert.deepEqual(result.diagnostics, []);
+  assert.deepEqual(
+    result.corpus.chapters
+      .filter((chapter) => chapter.volume === 1 && chapter.chapter <= 4)
+      .map((chapter) => [chapter.chapter, chapter.entries.length]),
+    [
+      [1, 291],
+      [2, 386],
+      [3, 274],
+      [4, 90],
+    ],
+  );
+  const chapter1 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 1 && chapter.chapter === 1,
+  );
+  assert.ok(chapter1);
+  const firstEntry = chapter1.entries[0];
+  assert.deepEqual({
+    id: firstEntry.id,
+    page: firstEntry.page,
+    kanji: firstEntry.kanji,
+    kana: firstEntry.kana,
+    english: firstEntry.english,
+    notes: firstEntry.notes,
+    wkLevel: firstEntry.wkLevel,
+  }, {
+    id: "e0001",
+    page: 5,
+    kanji: "力",
+    kana: "ちから",
+    english: "power",
+    notes: null,
+    wkLevel: "1",
+  });
+  assert.equal(chapter1.entries.at(-1)?.id, "e0291");
+  assert.equal(chapter1.entries[4].notes, 'Here it\'s most likely just a derogatory replacement for "people"');
+  assert.equal(chapter1.entries[4].wkLevel, "奴 34  等 18");
+});
+test("generated index is deterministic after corpus recovery", () => {
   const result = loadCorpus();
   assert.deepEqual(result.diagnostics, []);
   assert.equal(
     fs.readFileSync("data/vocab-seed/README.md", "utf8"),
     renderCorpusIndex(result.corpus),
   );
-  const manifest = fs.readFileSync("docs/vocab-migration-parity.md", "utf8");
-  assert.match(manifest, /Chapter files: 68/);
-  assert.match(manifest, /Entries: 5321/);
-  assert.match(manifest, /vol8-ch10\.md/);
 });

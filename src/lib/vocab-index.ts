@@ -12,8 +12,6 @@ export function renderCorpusIndex(corpus: CorpusSource): string {
     `- ${corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0).toLocaleString("en-US")} entries`,
     `- Volumes ${[...new Set(corpus.chapters.map((chapter) => chapter.volume))].sort((a, b) => a - b).join(", ")}`,
     "",
-    "Volume 1 chapters 1–4 are not yet represented. They remain an explicit coverage gap until the trusted workbook/source material is recovered; no placeholder translations are included.",
-    "",
     "## Chapter index",
     "",
   ];
