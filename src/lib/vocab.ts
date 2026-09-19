@@ -65,10 +65,7 @@ export async function findOrCreateChapterWithExecutor(
 }
 
 /** Finds the volume+chapter row, creating either as needed. */
-export async function findOrCreateChapter(
-  volume: number,
-  chapter: number,
-): Promise<number> {
+export async function findOrCreateChapter(volume: number, chapter: number): Promise<number> {
   return findOrCreateChapterWithExecutor(await ready(), volume, chapter);
 }
 
@@ -104,10 +101,7 @@ export async function getStructure(): Promise<VolumeSummary[]> {
     .map(([number, chapters]) => ({ number, chapters }));
 }
 
-export async function getChapterEntries(
-  volume: number,
-  chapter: number,
-): Promise<VocabEntry[]> {
+export async function getChapterEntries(volume: number, chapter: number): Promise<VocabEntry[]> {
   const db = await ready();
   const result = await db.execute({
     sql: `

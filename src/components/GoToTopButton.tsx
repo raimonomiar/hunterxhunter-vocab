@@ -29,9 +29,7 @@ export default function GoToTopButton() {
 
   function handleClick() {
     document.getElementById("page-top")?.focus({ preventScroll: true });
-    const prefersReducedMotion = window.matchMedia(
-      "(prefers-reduced-motion: reduce)",
-    ).matches;
+    const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     window.scrollTo({
       top: 0,
       left: 0,

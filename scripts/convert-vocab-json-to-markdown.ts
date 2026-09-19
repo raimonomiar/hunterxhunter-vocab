@@ -46,9 +46,7 @@ function readEntries(file: string): LegacyEntry[] {
       typeof entry.page !== "number" ||
       !Number.isSafeInteger(entry.page) ||
       (entry.notes !== null && typeof entry.notes !== "string") ||
-      (entry.wkLevel !== undefined &&
-        entry.wkLevel !== null &&
-        typeof entry.wkLevel !== "string")
+      (entry.wkLevel !== undefined && entry.wkLevel !== null && typeof entry.wkLevel !== "string")
     ) {
       throw new Error(`${file} entry ${index + 1} has an invalid legacy shape`);
     }

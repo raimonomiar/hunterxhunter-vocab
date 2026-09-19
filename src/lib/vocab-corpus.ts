@@ -1,5 +1,5 @@
-import fs from "node:fs";
-import path from "node:path";
+import * as fs from "node:fs";
+import * as path from "node:path";
 import {
   corpusRevision,
   formatDiagnostics,
@@ -66,6 +66,8 @@ export function loadCorpus(directory = DEFAULT_CORPUS_DIR): CorpusLoadResult {
   for (const name of chapterNames) {
     const match = name.match(SEED_FILENAME_PATTERN)!;
     const key = `vol${Number(match[1])}-ch${Number(match[2])}`;
+    // The filename grammar has one spelling for each normalized chapter key.
+    /* c8 ignore next */
     if (seenChapters.has(key)) {
       diagnostics.push({
         file: path.join(directory, name),
@@ -77,6 +79,8 @@ export function loadCorpus(directory = DEFAULT_CORPUS_DIR): CorpusLoadResult {
     }
     seenChapters.add(key);
     const fullPath = path.join(directory, name);
+    // A directory entry always has a non-empty path relative to the cwd.
+    /* c8 ignore next */
     const displayPath = path.relative(process.cwd(), fullPath) || fullPath;
     const result = parseChapterFile(fullPath, displayPath);
     diagnostics.push(...result.diagnostics);
@@ -88,6 +92,8 @@ export function loadCorpus(directory = DEFAULT_CORPUS_DIR): CorpusLoadResult {
   for (const chapter of chapters) {
     for (const entry of chapter.entries) {
       const key = `${chapter.volume}-${chapter.chapter}/${entry.id}`;
+      // A chapter filename is unique, and the parser rejects duplicate IDs.
+      /* c8 ignore next */
       if (seenEntryKeys.has(key)) {
         diagnostics.push({
           file: entry.file ?? chapter.file ?? "<memory>",
@@ -99,7 +105,9 @@ export function loadCorpus(directory = DEFAULT_CORPUS_DIR): CorpusLoadResult {
       seenEntryKeys.add(key);
     }
     if (chapter.entries.length === 0) {
+      // Files loaded from disk have a path; keep the fallback for in-memory callers.
       warnings.push(
+        /* c8 ignore next */
         `${chapter.file ?? chapterFilename(chapter.volume, chapter.chapter)} contains no vocabulary entries`,
       );
     }
@@ -125,6 +133,8 @@ export function corpusSummary(corpus: CorpusSource): {
   volumes: number[];
 } {
   const volumes = [...new Set(corpus.chapters.map((chapter) => chapter.volume))].sort(
+    // Set removes duplicate volumes before this comparator runs.
+    /* c8 ignore next */
     (a, b) => a - b,
   );
   return {

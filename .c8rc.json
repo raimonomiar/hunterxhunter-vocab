@@ -1,0 +1,11 @@
+{
+  "all": true,
+  "include": ["src/lib/vocab-markdown.ts", "src/lib/vocab-corpus.ts"],
+  "exclude-after-remap": true,
+  "reporter": ["text", "lcov"],
+  "check-coverage": true,
+  "lines": 95,
+  "statements": 95,
+  "functions": 95,
+  "branches": 95
+}

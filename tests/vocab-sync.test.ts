@@ -2,11 +2,7 @@ import assert from "node:assert/strict";
 import { createClient, type Client } from "@libsql/client";
 import test from "node:test";
 import { ensureSchema } from "../src/lib/db";
-import {
-  applyVocabSync,
-  planVocabSync,
-  type SyncPlan,
-} from "../src/lib/vocab-sync";
+import { applyVocabSync, planVocabSync, type SyncPlan } from "../src/lib/vocab-sync";
 import {
   corpusRevision,
   sourceEntryKey,
@@ -33,7 +29,9 @@ function entry(
   };
 }
 
-function corpus(entries: SourceEntry[] = [entry("e0001", 1, "word"), entry("e0002", 2, "second")]): CorpusSource {
+function corpus(
+  entries: SourceEntry[] = [entry("e0001", 1, "word"), entry("e0002", 2, "second")],
+): CorpusSource {
   const chapter: ChapterSource = {
     volume: 1,
     chapter: 1,
@@ -58,14 +56,16 @@ async function applyClean(db: Client, source = corpus()): Promise<SyncPlan> {
 }
 
 async function entryRows(db: Client): Promise<Array<Record<string, unknown>>> {
-  return (await db.execute(`
+  return (
+    await db.execute(`
     SELECT e.id, v.number volume, c.number chapter, e.kanji, e.kana,
            e.english, e.page, e.notes, e.wk_level
     FROM vocab_entries e
     JOIN chapters c ON c.id = e.chapter_id
     JOIN volumes v ON v.id = c.volume_id
     ORDER BY e.id
-  `)).rows as Array<Record<string, unknown>>;
+  `)
+  ).rows as Array<Record<string, unknown>>;
 }
 
 test("fresh adoption adds entries, and a repeated plan is a no-op", async () => {
@@ -85,10 +85,7 @@ test("fresh adoption adds entries, and a repeated plan is a no-op", async () => 
 test("accepted shared correction updates an unchanged local row", async () => {
   const db = await isolatedDb();
   await applyClean(db);
-  const changed = corpus([
-    entry("e0001", 1, "corrected gloss"),
-    entry("e0002", 2, "second"),
-  ]);
+  const changed = corpus([entry("e0001", 1, "corrected gloss"), entry("e0002", 2, "second")]);
   const plan = await planVocabSync(db, changed);
   assert.equal(plan.summary.update, 1);
   assert.equal(plan.conflicts.length, 0);
@@ -110,20 +107,19 @@ test("synchronization preserves legacy WK metadata outside canonical fields", as
     args: ["legacy level", sourceKey],
   });
 
-  const changed = corpus([
-    entry("e0001", 1, "corrected gloss"),
-    entry("e0002", 2, "second"),
-  ]);
+  const changed = corpus([entry("e0001", 1, "corrected gloss"), entry("e0002", 2, "second")]);
   const plan = await planVocabSync(db, changed);
   assert.equal(plan.summary.update, 1);
   await applyVocabSync(db, plan, changed);
 
   assert.equal((await entryRows(db))[0].wk_level, "legacy level");
   assert.equal(
-    (await db.execute({
-      sql: "SELECT base_wk_level FROM vocab_source_entries WHERE source_key = ?",
-      args: [sourceKey],
-    })).rows[0].base_wk_level,
+    (
+      await db.execute({
+        sql: "SELECT base_wk_level FROM vocab_source_entries WHERE source_key = ?",
+        args: [sourceKey],
+      })
+    ).rows[0].base_wk_level,
     "legacy level",
   );
 });
@@ -170,10 +166,7 @@ test("personal deletion becomes a tombstone and is protected from a changed sour
   await applyVocabSync(db, same, corpus());
   assert.equal((await entryRows(db)).length, 1);
 
-  const changed = corpus([
-    entry("e0001", 1, "new shared meaning"),
-    entry("e0002", 2, "second"),
-  ]);
+  const changed = corpus([entry("e0001", 1, "new shared meaning"), entry("e0002", 2, "second")]);
   const conflictPlan = await planVocabSync(db, changed);
   assert.equal(conflictPlan.conflicts.length, 1);
   assert.match(conflictPlan.conflicts[0].message ?? "", /personally deleted/);
@@ -196,18 +189,17 @@ test("upstream deletion is explicit and repeat synchronization does not delete a
 test("personal-only rows survive shared updates", async () => {
   const db = await isolatedDb();
   await applyClean(db);
-  const chapter = (await db.execute({
-    sql: "SELECT id FROM chapters WHERE volume_id = (SELECT id FROM volumes WHERE number = 1) AND number = 1",
-  })).rows[0].id;
+  const chapter = (
+    await db.execute({
+      sql: "SELECT id FROM chapters WHERE volume_id = (SELECT id FROM volumes WHERE number = 1) AND number = 1",
+    })
+  ).rows[0].id;
   await db.execute({
     sql: `INSERT INTO vocab_entries (chapter_id, kanji, kana, english, page, notes, wk_level)
           VALUES (?, ?, ?, ?, ?, ?, ?)`,
     args: [chapter, "私", "わたし", "personal", 99, null, null],
   });
-  const changed = corpus([
-    entry("e0001", 1, "corrected"),
-    entry("e0002", 2, "second"),
-  ]);
+  const changed = corpus([entry("e0001", 1, "corrected"), entry("e0002", 2, "second")]);
   const plan = await planVocabSync(db, changed);
   assert.equal(plan.summary.update, 1);
   assert.equal(plan.summary.personalOnly, 1);
@@ -223,9 +215,11 @@ test("pre-migration adoption refuses ambiguous exact matches", async () => {
     sql: `INSERT INTO chapters (volume_id, number)
           VALUES ((SELECT id FROM volumes WHERE number = 1), 1)`,
   });
-  const chapter = (await db.execute({
-    sql: "SELECT id FROM chapters WHERE volume_id = (SELECT id FROM volumes WHERE number = 1) AND number = 1",
-  })).rows[0].id;
+  const chapter = (
+    await db.execute({
+      sql: "SELECT id FROM chapters WHERE volume_id = (SELECT id FROM volumes WHERE number = 1) AND number = 1",
+    })
+  ).rows[0].id;
   for (let index = 0; index < 2; index++) {
     await db.execute({
       sql: `INSERT INTO vocab_entries (chapter_id, kanji, kana, english, page, notes, wk_level)

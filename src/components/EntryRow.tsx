@@ -10,26 +10,18 @@ export default function EntryRow({
   showLocation?: boolean;
 }) {
   return (
-    <article
-      className="w-full rounded-xl border border-neutral-200 bg-white px-4 py-3 text-left shadow-sm dark:border-neutral-800 dark:bg-neutral-900"
-    >
+    <article className="w-full rounded-xl border border-neutral-200 bg-white px-4 py-3 text-left shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           <div className="flex flex-wrap items-baseline gap-x-2">
-            {entry.kanji && (
-              <span className="text-xl font-semibold">{entry.kanji}</span>
-            )}
-            <span className="text-lg text-neutral-700 dark:text-neutral-300">
-              {entry.kana}
-            </span>
+            {entry.kanji && <span className="text-xl font-semibold">{entry.kanji}</span>}
+            <span className="text-lg text-neutral-700 dark:text-neutral-300">{entry.kana}</span>
           </div>
           <div className="mt-0.5 text-base text-neutral-600 dark:text-neutral-400">
             {entry.english}
           </div>
           {entry.notes && (
-            <div className="mt-1 text-sm text-neutral-500 dark:text-neutral-500">
-              {entry.notes}
-            </div>
+            <div className="mt-1 text-sm text-neutral-500 dark:text-neutral-500">{entry.notes}</div>
           )}
         </div>
         <div className="flex shrink-0 flex-col items-end gap-1">

@@ -25,10 +25,7 @@ export async function GET(request: NextRequest) {
   const volume = Number(volumeParam);
   const chapter = Number(chapterParam);
   if (!Number.isInteger(volume) || !Number.isInteger(chapter)) {
-    return NextResponse.json(
-      { error: "volume and chapter must be integers" },
-      { status: 400 },
-    );
+    return NextResponse.json({ error: "volume and chapter must be integers" }, { status: 400 });
   }
 
   const entries = await getChapterEntries(volume, chapter);

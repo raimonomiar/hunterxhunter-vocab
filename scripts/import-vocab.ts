@@ -72,7 +72,12 @@ function parseSheet(worksheet: ExcelJS.Worksheet): {
     if (!kana || !english) {
       skipped.push({
         row: rowNumber,
-        reason: !kana && !english ? "missing kana and english" : !kana ? "missing kana" : "missing english",
+        reason:
+          !kana && !english
+            ? "missing kana and english"
+            : !kana
+              ? "missing kana"
+              : "missing english",
       });
       return;
     }
@@ -95,7 +100,8 @@ function parseSheet(worksheet: ExcelJS.Worksheet): {
 }
 
 async function main() {
-  const filePath = process.argv[2] ?? path.join(process.cwd(), "sample", "Hunter × Hunter Vocab.xlsx");
+  const filePath =
+    process.argv[2] ?? path.join(process.cwd(), "sample", "Hunter × Hunter Vocab.xlsx");
 
   const db = await ready();
 
@@ -127,7 +133,9 @@ async function main() {
       args: [chapterId],
     });
     if (Number(existingCount.rows[0].c) > 0) {
-      console.log(`Volume ${VOLUME} Chapter ${chapterNumber}: already has entries, skipping re-import.`);
+      console.log(
+        `Volume ${VOLUME} Chapter ${chapterNumber}: already has entries, skipping re-import.`,
+      );
       continue;
     }
 
@@ -151,7 +159,9 @@ async function main() {
     totalInserted += chapterInserted;
   }
 
-  console.log(`\nDone. Imported ${totalInserted} entries across ${chapterNumbers.length} chapters. Skipped ${totalSkipped} incomplete rows.`);
+  console.log(
+    `\nDone. Imported ${totalInserted} entries across ${chapterNumbers.length} chapters. Skipped ${totalSkipped} incomplete rows.`,
+  );
 }
 
 main().catch((err) => {

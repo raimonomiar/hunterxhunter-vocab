@@ -22,16 +22,11 @@ if (!fs.existsSync(indexPath)) {
 const expectedIndex = renderCorpusIndex(corpus);
 const actualIndex = fs.readFileSync(indexPath, "utf8");
 if (expectedIndex !== actualIndex) {
-  console.error(
-    `${indexPath}: generated corpus index is stale; run npm run generate-vocab-index`,
-  );
+  console.error(`${indexPath}: generated corpus index is stale; run npm run generate-vocab-index`);
   process.exit(1);
 }
 
-const entryCount = corpus.chapters.reduce(
-  (total, chapter) => total + chapter.entries.length,
-  0,
-);
+const entryCount = corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0);
 console.log(
   `Vocabulary source is valid: ${corpus.chapters.length} chapter files, ${entryCount} entries, revision ${corpus.revision}`,
 );

@@ -42,7 +42,10 @@ Apply refuses unresolved conflicts and refuses a stale plan if the source or dat
 - `npm run seed-vocab` — load the canonical Markdown corpus using safe synchronization (`--dry-run` previews only)
 - `npm run sync-vocab -- --dry-run|--apply` — preview or apply provenance-aware source updates
 - `npm run validate-vocab` — strict Markdown and generated-index validation
-- `npm test` — parser, corpus, adoption, and synchronization regression tests
+- `npm test` — unit tests with an enforced 95% c8 threshold for canonical Markdown parsing and corpus loading
+- `npm run test:e2e` — Playwright browser coverage for the read-only search and go-to-top flow (run after `npm run build` and `npm run seed-vocab`)
+- `npm run format:check` — Prettier formatting verification
+- `npm run audit` — npm vulnerability audit for high-severity and above findings
 - `npm run import-vocab` — legacy workbook recovery path only; it requires the uncommitted workbook and is not the normal setup path
 - `npm run lint` — eslint
 

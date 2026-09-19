@@ -78,9 +78,7 @@ export default function Home() {
   );
 
   const chapterOptions = useMemo(() => {
-    return currentVolumeChapters
-      .map((c) => c.number)
-      .sort((a, b) => a - b);
+    return currentVolumeChapters.map((c) => c.number).sort((a, b) => a - b);
   }, [currentVolumeChapters]);
 
   const volumeOptions = useMemo(
@@ -133,11 +131,7 @@ export default function Home() {
               : `${searchResults?.length ?? 0} result${searchResults?.length === 1 ? "" : "s"}`}
           </p>
           {(searchResults ?? []).map((entry) => (
-            <EntryRow
-              key={entry.id}
-              entry={entry}
-              showLocation
-            />
+            <EntryRow key={entry.id} entry={entry} showLocation />
           ))}
         </section>
       ) : (
@@ -165,9 +159,7 @@ export default function Home() {
             <div className="mb-1 text-sm font-medium text-neutral-500">Chapter</div>
             <div className="flex flex-wrap gap-2" role="group" aria-label="Chapter">
               {chapterOptions.length === 0 && (
-                <span className="py-2 text-sm text-neutral-400">
-                  No chapters yet
-                </span>
+                <span className="py-2 text-sm text-neutral-400">No chapters yet</span>
               )}
               {chapterOptions.map((c) => (
                 <button
@@ -197,12 +189,7 @@ export default function Home() {
                 </p>
               </div>
             ) : (
-              chapterEntries.map((entry) => (
-                <EntryRow
-                  key={entry.id}
-                  entry={entry}
-                />
-              ))
+              chapterEntries.map((entry) => <EntryRow key={entry.id} entry={entry} />)
             )}
           </div>
         </section>
