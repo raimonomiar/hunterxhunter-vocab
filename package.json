@@ -9,7 +9,6 @@
     "start": "next start",
     "lint": "eslint",
     "test": "c8 --config=.c8rc.json tsx --test --test-concurrency=1 tests/**/*.test.ts",
-    "test:unit": "tsx --test --test-concurrency=1 tests/**/*.test.ts",
     "test:e2e": "playwright test",
     "typecheck": "tsc --noEmit",
     "import-vocab": "tsx scripts/import-vocab.ts",
@@ -17,7 +16,6 @@
     "validate-vocab": "tsx scripts/validate-vocab.ts",
     "generate-vocab-index": "tsx scripts/generate-vocab-index.ts",
     "sync-vocab": "tsx scripts/sync-vocab.ts",
-    "convert-vocab-json": "tsx scripts/convert-vocab-json-to-markdown.ts",
     "audit": "npm audit --audit-level=high",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
