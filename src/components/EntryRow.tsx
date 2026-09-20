@@ -1,5 +1,6 @@
 "use client";
 
+import { getEntryAnchorId } from "@/lib/page-navigation";
 import type { VocabEntry } from "@/lib/vocab";
 
 export default function EntryRow({
@@ -10,7 +11,10 @@ export default function EntryRow({
   showLocation?: boolean;
 }) {
   return (
-    <article className="w-full rounded-xl border border-neutral-200 bg-white px-4 py-3 text-left shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
+    <article
+      id={getEntryAnchorId(entry.id)}
+      className="w-full scroll-mt-32 rounded-xl border border-neutral-200 bg-white px-4 py-3 text-left shadow-sm dark:border-neutral-800 dark:bg-neutral-900"
+    >
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           <div className="flex flex-wrap items-baseline gap-x-2">
@@ -30,9 +34,15 @@ export default function EntryRow({
               V{entry.volume} · Ch{entry.chapter}
             </span>
           )}
-          <span className="rounded-full bg-blue-50 px-2 py-0.5 text-xs font-medium text-blue-700 dark:bg-blue-950 dark:text-blue-300">
-            p.{entry.page}
-          </span>
+          {entry.page === null ? (
+            <span className="rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-500 dark:bg-neutral-800 dark:text-neutral-400">
+              page unavailable
+            </span>
+          ) : (
+            <span className="rounded-full bg-blue-50 px-2 py-0.5 text-xs font-medium text-blue-700 dark:bg-blue-950 dark:text-blue-300">
+              p.{entry.page}
+            </span>
+          )}
         </div>
       </div>
     </article>

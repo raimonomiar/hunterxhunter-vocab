@@ -2,8 +2,10 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { VocabEntry, VolumeSummary } from "@/lib/vocab";
+import { getPageNavigationItems } from "@/lib/page-navigation";
 import EntryRow from "@/components/EntryRow";
 import GoToTopButton from "@/components/GoToTopButton";
+import PageNavigator from "@/components/PageNavigator";
 
 async function fetchJson<T>(input: string, init?: RequestInit): Promise<T> {
   const res = await fetch(input, init);
@@ -21,6 +23,7 @@ export default function Home() {
 
   const [chapterEntries, setChapterEntries] = useState<VocabEntry[]>([]);
   const [chapterLoading, setChapterLoading] = useState(true);
+  const [currentPage, setCurrentPage] = useState<number | null>(null);
 
   const [query, setQuery] = useState("");
   const [searchResults, setSearchResults] = useState<VocabEntry[] | null>(null);
@@ -40,6 +43,7 @@ export default function Home() {
 
   const loadChapterEntries = useCallback(async (volume: number, chapter: number) => {
     setChapterLoading(true);
+    setCurrentPage(null);
     try {
       const data = await fetchJson<VocabEntry[]>(
         `/api/entries?volume=${volume}&chapter=${chapter}`,
@@ -86,11 +90,20 @@ export default function Home() {
     [structure],
   );
 
+  const pageNavigationItems = useMemo(
+    () => getPageNavigationItems(chapterEntries),
+    [chapterEntries],
+  );
+
   function handleSelectVolume(volume: number) {
     setSelectedVolume(volume);
     const chapters = structure?.find((v) => v.number === volume)?.chapters ?? [];
     setSelectedChapter(chapters[0]?.number ?? 1);
   }
+
+  const handleCurrentPageChange = useCallback((page: number) => {
+    setCurrentPage((current) => (current === page ? current : page));
+  }, []);
 
   const isSearching = query.trim().length > 0;
 
@@ -99,7 +112,7 @@ export default function Home() {
       id="page-top"
       tabIndex={-1}
       aria-labelledby="page-title"
-      className="mx-auto flex min-h-screen w-full max-w-2xl flex-col px-4 pb-28 outline-none sm:px-6"
+      className="mx-auto flex min-h-screen w-full max-w-2xl flex-col px-4 pb-28 outline-none min-[360px]:pr-28 sm:px-6 lg:pr-0"
     >
       <header className="sticky top-0 z-10 -mx-4 bg-white/90 px-4 pt-4 pb-3 backdrop-blur sm:-mx-6 sm:px-6 dark:bg-neutral-950/90">
         <h1 id="page-title" className="mb-3 text-xl font-bold">
@@ -189,7 +202,16 @@ export default function Home() {
                 </p>
               </div>
             ) : (
-              chapterEntries.map((entry) => <EntryRow key={entry.id} entry={entry} />)
+              <>
+                <PageNavigator
+                  items={pageNavigationItems}
+                  currentPage={currentPage}
+                  onCurrentPageChange={handleCurrentPageChange}
+                />
+                {chapterEntries.map((entry) => (
+                  <EntryRow key={entry.id} entry={entry} />
+                ))}
+              </>
             )}
           </div>
         </section>
