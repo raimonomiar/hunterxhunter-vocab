@@ -8,7 +8,7 @@ export type VocabEntry = {
   kanji: string | null;
   kana: string;
   english: string;
-  page: number;
+  page: number | null;
   notes: string | null;
 };
 
@@ -23,6 +23,7 @@ export type VolumeSummary = {
 };
 
 function mapRow(row: Record<string, unknown>): VocabEntry {
+  const page = row.page === null || row.page === undefined ? Number.NaN : Number(row.page);
   return {
     id: Number(row.id),
     volume: Number(row.volume_number),
@@ -30,7 +31,7 @@ function mapRow(row: Record<string, unknown>): VocabEntry {
     kanji: (row.kanji as string | null) ?? null,
     kana: row.kana as string,
     english: row.english as string,
-    page: Number(row.page),
+    page: Number.isSafeInteger(page) && page > 0 ? page : null,
     notes: (row.notes as string | null) ?? null,
   };
 }

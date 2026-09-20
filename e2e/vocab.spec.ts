@@ -26,3 +26,18 @@ test("reader can search the corpus and return to the top while writes stay disab
   await expect.poll(() => page.evaluate(() => window.scrollY)).toBe(0);
   await expect(page.locator("#page-top")).toBeFocused();
 });
+
+test("chapter page navigation jumps to the first entry for a page", async ({ page }) => {
+  await page.emulateMedia({ reducedMotion: "reduce" });
+  await page.goto("/");
+
+  const navigation = page.getByRole("navigation", { name: "Chapter page navigation" });
+  await expect(navigation).toBeVisible();
+  const pageButtons = navigation.getByRole("button");
+  await expect(pageButtons.nth(1)).toBeVisible();
+  await expect(pageButtons.first()).toHaveAttribute("aria-current", "page");
+
+  await pageButtons.nth(1).click();
+  await expect(pageButtons.nth(1)).toHaveAttribute("aria-current", "page");
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(0);
+});
