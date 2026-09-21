@@ -15,6 +15,9 @@ test("reader can search the corpus and return to the top while writes stay disab
   await expect(supportLink).toHaveAttribute("href", "https://buymeacoffee.com/ayushkarki");
   await expect(supportLink).toHaveAttribute("target", "_blank");
   await expect(supportLink).toHaveAttribute("rel", "noopener noreferrer");
+  const supportIcon = supportLink.locator("svg");
+  await expect(supportIcon).toHaveAttribute("aria-hidden", "true");
+  await expect(supportIcon).toHaveAttribute("focusable", "false");
 
   const search = page.getByPlaceholder("Search kanji, kana, or English...");
   await search.fill("power");
