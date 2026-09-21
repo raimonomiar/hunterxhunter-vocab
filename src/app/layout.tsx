@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hypostomato",
+  title: "HxH Vocab",
   description: "Hunter x Hunter reading vocab tracker",
 };
 
