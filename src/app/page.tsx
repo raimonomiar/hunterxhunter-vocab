@@ -126,8 +126,23 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Support HxH Vocab on Buy Me a Coffee (opens in a new tab)"
-            className="inline-flex min-h-11 shrink-0 items-center rounded-lg px-2 py-1 text-sm font-medium text-blue-700 hover:bg-blue-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-700 dark:text-blue-300 dark:hover:bg-blue-950 dark:focus-visible:outline-blue-400"
+            className="inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-lg px-2 py-1 text-sm font-medium text-blue-700 hover:bg-blue-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-700 dark:text-blue-300 dark:hover:bg-blue-950 dark:focus-visible:outline-blue-400"
           >
+            <svg
+              aria-hidden="true"
+              focusable="false"
+              viewBox="0 0 24 24"
+              className="size-4"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.8"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <path d="M5 8h10v5a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4V8Z" />
+              <path d="M15 10h1.5a2.5 2.5 0 0 1 0 5H15" />
+              <path d="M8 4.5c0 1 .75 1 .75 2M11.5 4.5c0 1 .75 1 .75 2M4 20h14" />
+            </svg>
             <span className="sm:hidden">Support</span>
             <span className="hidden sm:inline">Buy me a coffee</span>
           </a>
