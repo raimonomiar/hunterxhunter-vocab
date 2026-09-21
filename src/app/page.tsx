@@ -7,6 +7,8 @@ import EntryRow from "@/components/EntryRow";
 import GoToTopButton from "@/components/GoToTopButton";
 import PageNavigator from "@/components/PageNavigator";
 
+const SUPPORT_URL = "https://buymeacoffee.com/ayushkarki";
+
 async function fetchJson<T>(input: string, init?: RequestInit): Promise<T> {
   const res = await fetch(input, init);
   if (!res.ok) {
@@ -115,9 +117,21 @@ export default function Home() {
       className="mx-auto flex min-h-screen w-full max-w-2xl flex-col px-4 pb-28 outline-none min-[360px]:pr-28 sm:px-6 lg:pr-0"
     >
       <header className="sticky top-0 z-10 -mx-4 bg-white/90 px-4 pt-4 pb-3 backdrop-blur sm:-mx-6 sm:px-6 dark:bg-neutral-950/90">
-        <h1 id="page-title" className="mb-3 text-xl font-bold">
-          HxH Vocab
-        </h1>
+        <div className="mb-3 flex items-center justify-between gap-2">
+          <h1 id="page-title" className="text-xl font-bold">
+            HxH Vocab
+          </h1>
+          <a
+            href={SUPPORT_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Support HxH Vocab on Buy Me a Coffee (opens in a new tab)"
+            className="inline-flex min-h-11 shrink-0 items-center rounded-lg px-2 py-1 text-sm font-medium text-blue-700 hover:bg-blue-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-700 dark:text-blue-300 dark:hover:bg-blue-950 dark:focus-visible:outline-blue-400"
+          >
+            <span className="sm:hidden">Support</span>
+            <span className="hidden sm:inline">Buy me a coffee</span>
+          </a>
+        </div>
         <input
           type="search"
           value={query}
