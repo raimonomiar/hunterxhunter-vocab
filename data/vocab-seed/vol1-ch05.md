@@ -1415,3 +1415,507 @@
 - Kana: おかしい
 - English: strange\, funny\, something is off
 - Notes: 可笑しい\; written in kana\; あれ？おかしいな — huh\? that\'s strange
+
+## e0178
+
+- Page: 106
+- Kanji: 市
+- Kana: し
+- English: city
+- Notes: ザバン市 — Zaban City\; the 市 suffix marks a city\/municipality
+
+## e0179
+
+- Page: 107
+- Kanji:
+- Kana: こっち
+- English: this way\, this direction\; over here
+- Notes: こっちだよ — it\'s this way\; casual form of こちら
+
+## e0180
+
+- Page: 107
+- Kanji:
+- Kana: そっち
+- English: that way\, that direction\; over there
+- Notes: そっちじゃないよ — not that way\; casual form of そちら
+
+## e0181
+
+- Page: 108
+- Kanji:
+- Kana: どうみても
+- English: no matter how you look at it\, any way you look at it
+- Notes: どう見ても\; どう見てもただの定食屋 — however you look at it\, just an ordinary diner \(Expression\)
+
+## e0182
+
+- Page: 108
+- Kanji:
+- Kana: きつい
+- English: harsh\, severe\, tough\, demanding
+- Notes: 冗談きついぜ — that\'s a harsh joke \/ you must be kidding
+
+## e0183
+
+- Page: 108
+- Kanji: 定食
+- Kana: ていしょく
+- English: set meal\, set\-course meal
+- Notes: ステーキ定食 — steak set meal\; distinct from 定食屋 \(e0005\)
+
+## e0184
+
+- Page: 108
+- Kanji: 誰も
+- Kana: だれも
+- English: \(with negative\) no one\; anyone
+- Notes: 誰も…とは思わないだろ — no one would think that
+
+## e0185
+
+- Page: 108
+- Kanji:
+- Kana: いらっしゃい
+- English: welcome \(greeting to a customer\)
+- Notes: いらっしゃーい — a shopkeeper\'s greeting\; from いらっしゃる
+
+## e0186
+
+- Page: 109
+- Kanji: 奥
+- Kana: おく
+- English: back\, interior\, inner part\, depths
+- Notes: 奥の部屋 — the back room
+
+## e0187
+
+- Page: 109
+- Kanji: 部屋
+- Kana: へや
+- English: room
+- Notes: 奥の部屋へどうぞ — this way to the back room
+
+## e0188
+
+- Page: 109
+- Kanji:
+- Kana: どうぞ
+- English: please\; go ahead\; here you are
+- Notes: 奥の部屋へどうぞ — please go through to the back room
+
+## e0189
+
+- Page: 109
+- Kanji:
+- Kana: がんばる
+- English: to do one\'s best\, to persevere\, to hang in there
+- Notes: 頑張る\; written in kana\; がんばりなルーキー達 — hang in there\, rookies
+
+## e0190
+
+- Page: 109
+- Kanji: 案内
+- Kana: あんない
+- English: to guide\, to show around\; guidance
+- Notes: 来年も案内してやる — I\'ll show you around next year too\; distinct from 案内者 \(e0007\)
+
+## e0191
+
+- Page: 109
+- Kanji: お前
+- Kana: おまえ
+- English: you \(rough or familiar\)
+- Notes: お前ら \/ お前達 — you lot\; blunt register\, cf 奴 \(e0083\)
+
+## e0192
+
+- Page: 110
+- Kanji: 余りに
+- Kana: あまりに
+- English: excessively\, too \(much\)\, overly
+- Notes: 余りに過酷なテスト — an excessively harsh test
+
+## e0193
+
+- Page: 110
+- Kanji: 体
+- Kana: からだ
+- English: body
+- Notes: 受けられない体になってしまう — their bodies become unable to take \(the test\)
+
+## e0194
+
+- Page: 110
+- Kanji:
+- Kana: ざら
+- English: common\, commonplace\, not unusual
+- Notes: ざららしい — it seems to be commonplace
+
+## e0195
+
+- Page: 111
+- Kanji: 何も
+- Kana: なにも
+- English: \(with negative\) nothing\; not anything
+- Notes: 何も知らねーで — without knowing anything
+
+## e0196
+
+- Page: 111
+- Kanji: 何で
+- Kana: なんで
+- English: why\, how come
+- Notes: 何でみんなはそんな大変な目にあってまで — why does everyone go so far
+
+## e0197
+
+- Page: 112
+- Kanji:
+- Kana: ほとんど
+- English: almost\, mostly\, nearly all\; \(with neg\) hardly
+- Notes: 殆ど\; written in kana\; ほとんどの国はフリーパス — almost every country is a free pass
+
+## e0198
+
+- Page: 112
+- Kanji: 国
+- Kana: くに
+- English: country\, nation\; homeland
+- Notes: ほとんどの国はフリーパス — nearly every country
+
+## e0199
+
+- Page: 112
+- Kanji: 公共施設
+- Kana: こうきょうしせつ
+- English: public facility\, public facilities
+- Notes: たいがいの公共施設はタダで使える — most public facilities can be used for free
+
+## e0200
+
+- Page: 112
+- Kanji: 富
+- Kana: とみ
+- English: wealth\, riches\, fortune
+- Notes: 富と名声の象徴 — a symbol of wealth and fame\; cf 名声 \(e0091\)\, 富豪 \(e0027\)
+
+## e0201
+
+- Page: 112
+- Kanji:
+- Kana: つらねる
+- English: to line up\, to put in a row\; to add \(one\'s name\)
+- Notes: 連ねる\; written in kana\; 名をつらねる — to have one\'s name listed among
+
+## e0202
+
+- Page: 112
+- Kanji: 守る
+- Kana: まもる
+- English: to protect\, to defend\, to guard\, to keep
+- Notes: 人と自然の秩序を守る — to protect the order of people and nature
+
+## e0203
+
+- Page: 112
+- Kanji: 本当
+- Kana: ほんとう
+- English: truth\, reality\; real\, true
+- Notes: 本当の仕事 — the true work\; 本当に — really\, truly
+
+## e0204
+
+- Page: 112
+- Kanji: 動物
+- Kana: どうぶつ
+- English: animal
+- Notes: 動物を狩り宝を漁る — hunting animals and scavenging treasure\; cf 動植物 \(e0095\)
+
+## e0205
+
+- Page: 112
+- Kanji: 場合
+- Kana: ばあい
+- English: case\, situation\, occasion
+- Notes: 発見した場合 — in the case of discovering \(something\)
+
+## e0206
+
+- Page: 112
+- Kanji: 第一
+- Kana: だいいち
+- English: first\, foremost\, primary\; number one
+- Notes: その保護を第一に考える — to place its protection first
+
+## e0207
+
+- Page: 112
+- Kanji: 全て
+- Kana: すべて
+- English: all\, everything\, the whole
+- Notes: これら全てをこなす — to handle all of this
+
+## e0208
+
+- Page: 112
+- Kanji: 強い
+- Kana: つよい
+- English: strong\, powerful\, tough
+- Notes: 強い信念が必要 — strong conviction is necessary
+
+## e0209
+
+- Page: 112
+- Kanji: 必要
+- Kana: ひつよう
+- English: necessary\, needed\, essential\; need
+- Notes: 強い信念が必要なのだ — strong conviction is essential
+
+## e0210
+
+- Page: 112
+- Kanji:
+- Kana: いうまでもない
+- English: it goes without saying\, needless to say
+- Notes: 言うまでもない\; 必要なのは言うまでもない — needless to say it is required \(Expression\)
+
+## e0211
+
+- Page: 112
+- Kanji:
+- Kana: プロ
+- English: professional\, pro
+- Notes: loanword \(from プロフェッショナル\)\; プロのハンター — a pro Hunter
+
+## e0212
+
+- Page: 112
+- Kanji:
+- Kana: イメージ
+- English: image\, impression\, mental picture
+- Notes: loanword from English\; 宝を漁るというイメージ — the image of scavenging for treasure
+
+## e0213
+
+- Page: 112
+- Kanji: この世
+- Kana: このよ
+- English: this world\, this life
+- Notes: この世で最も気高い仕事 — the noblest job in this world
+
+## e0214
+
+- Page: 113
+- Kanji:
+- Kana: どっち
+- English: which \(of two\)\, which way
+- Notes: どっちのハンターを目指すんだ — which kind of Hunter are you aiming for\; casual form of どちら
+
+## e0215
+
+- Page: 113
+- Kanji: 話
+- Kana: はなし
+- English: talk\, story\, conversation\, topic
+- Notes: 話の続きは後だ — the rest of the talk is for later
+
+## e0216
+
+- Page: 113
+- Kanji: 後
+- Kana: あと
+- English: after\, later\, afterward
+- Notes: 話の続きは後だ — the rest is for later\; read あと here
+
+## e0217
+
+- Page: 116
+- Kanji: 町
+- Kana: まち
+- English: town
+- Notes: 港や町ですれちがったハンター志望者 — Hunter hopefuls passed in ports and towns
+
+## e0218
+
+- Page: 117
+- Kanji: 所
+- Kana: ところ
+- English: place\, spot\, location
+- Notes: うす暗い所だな — it\'s a dim place
+
+## e0219
+
+- Page: 117
+- Kanji: 君
+- Kana: きみ
+- English: you \(familiar\, friendly\)
+- Notes: 君達で405人目 — you all make 405\; cf お前 \(e0191\)
+
+## e0220
+
+- Page: 118
+- Kanji: 何でも
+- Kana: なんでも
+- English: anything\, whatever\, everything
+- Notes: わからないことは何でも教えてあげる — I\'ll tell you anything you don\'t know
+
+## e0221
+
+- Page: 118
+- Kanji:
+- Kana: いろいろ
+- English: various\, all sorts of\, many
+- Notes: 色々\; written in kana\; いろいろ紹介してやる — I\'ll introduce you to all sorts \(of people\)
+
+## e0222
+
+- Page: 118
+- Kanji:
+- Kana: ありがとう
+- English: thank you\, thanks
+- Notes: 有難う\; a set phrase expressing gratitude
+
+## e0223
+
+- Page: 119
+- Kanji:
+- Kana: パワー
+- English: power\, strength
+- Notes: loanword from English\; パワーはダントツ — his power is in a league of its own
+
+## e0224
+
+- Page: 119
+- Kanji: 頭
+- Kana: あたま
+- English: head\; mind\, brains
+- Notes: 頭もキレる — sharp\-witted too\; cf 頭が切れる \(e0045\)
+
+## e0225
+
+- Page: 119
+- Kanji: 好成績
+- Kana: こうせいせき
+- English: good results\, strong performance\, high marks
+- Notes: 常に好成績をあげてる — always achieving good results
+
+## e0226
+
+- Page: 121
+- Kanji: 受ける
+- Kana: うける
+- English: to take \(an exam\)\, to sit\; to receive\, to undergo
+- Notes: テストを受ける — to take the test\; cf 受かる \(e0084\)
+
+## e0227
+
+- Page: 121
+- Kanji: 気に入る
+- Kana: きにいる
+- English: to like\, to be pleased with\, to take a liking to
+- Notes: 気に入らない試験官 — an examiner he didn\'t like \(Expression\)
+
+## e0228
+
+- Page: 121
+- Kanji: 堂々と
+- Kana: どうどうと
+- English: openly\, boldly\, confidently\, with dignity
+- Notes: 堂々とテストを受ける — to take the test boldly
+
+## e0229
+
+- Page: 121
+- Kanji: 変わる
+- Kana: かわる
+- English: to change\, to turn into\, to be transformed
+- Notes: 試験官が毎年変わる — the examiner changes every year
+
+## e0230
+
+- Page: 121
+- Kanji: 自由
+- Kana: じゆう
+- English: freedom\, liberty\; free\, freely
+- Notes: テストの内容を自由に決める — to decide the test content freely
+
+## e0231
+
+- Page: 121
+- Kanji: 決める
+- Kana: きめる
+- English: to decide\, to determine\, to settle
+- Notes: その試験官が自由に決める — that examiner decides freely
+
+## e0232
+
+- Page: 121
+- Kanji: 他
+- Kana: ほか
+- English: other\, another\; the rest\; besides
+- Notes: 試験官の他に — besides the examiner\; その他 — in addition
+
+## e0233
+
+- Page: 122
+- Kanji:
+- Kana: いっぱい
+- English: a lot\, plenty\; full
+- Notes: 一杯\; written in kana\; ヤバイ奴がいっぱいいる — there are tons of dangerous guys
+
+## e0234
+
+- Page: 122
+- Kanji: 自分
+- Kana: じぶん
+- English: oneself\, myself\; one\'s own
+- Notes: 自分が一番性質が悪い — he himself has the nastiest nature
+
+## e0235
+
+- Page: 122
+- Kanji: 一番
+- Kana: いちばん
+- English: most\, best\, number one\; first
+- Notes: 一番性質が悪い — the nastiest of all
+
+## e0236
+
+- Page: 122
+- Kanji: 悪い
+- Kana: わるい
+- English: bad\, evil\, poor\; at fault
+- Notes: 性質が悪い — of a nasty nature\; cf 悪質 \(e0098\)
+
+## e0237
+
+- Page: 123
+- Kanji:
+- Kana: うんこ
+- English: poop\, feces \(childish\, crude\)
+- Notes: ウンコ\; written in katakana\; ウンコが土石流みたく止まらねェ — a crude diarrhea joke
+
+## e0238
+
+- Page: 123
+- Kanji:
+- Kana: はく
+- English: to put on\, to wear \(on the legs or feet\)
+- Notes: 履く\; パンツをはく — to put on underwear\; distinct from 着る \(worn on the torso\)
+
+## e0239
+
+- Page: 123
+- Kanji:
+- Kana: へん
+- English: strange\, odd\, weird\, wrong
+- Notes: 変\; written ヘン\; 味がヘン — the taste is off\; cf おかしい \(e0177\)
+
+## e0240
+
+- Page: 123
+- Kanji:
+- Kana: ばか
+- English: fool\, idiot\; foolish\, absurd
+- Notes: 馬鹿\; written in kana\; ばかな — that\'s absurd \/ impossible
