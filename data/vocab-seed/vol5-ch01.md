@@ -487,3 +487,411 @@
 - Kana: ふごうかく
 - English: failing\, not passing
 - Notes: text\: 委員会は彼を不合格とみなしました — the committee judged him as having failed
+
+## e0062
+
+- Page: 9
+- Kanji:
+- Kana: まぁね
+- English: well\, yeah\; I guess so \(casual soft affirmation\)
+- Notes: text\: まぁね — yeah\, I guess so \(Killua\'s understated acknowledgement\)
+
+## e0063
+
+- Page: 9
+- Kanji: 次男
+- Kana: じなん
+- English: second son\; second\-born male child
+- Notes: text\: 母さんと次男を刺したんだって\? — heard he stabbed his mother and the second son\?
+
+## e0064
+
+- Page: 9
+- Kanji: 泣く
+- Kana: なく
+- English: to cry\, to weep
+- Notes: text\: 母さん泣いてたよ — mom was crying \(て\-form 泣いてた\)
+
+## e0065
+
+- Page: 9
+- Kanji: 息子
+- Kana: むすこ
+- English: son
+- Notes: text\: そんな息子にあわされちゃ — to be faced with such a son
+
+## e0066
+
+- Page: 9
+- Kanji:
+- Kana: そりゃ
+- English: of course\; naturally \(casual contraction of それは or そうは\)
+- Notes: text\: そりゃ そうだろうな — of course that\'s how it is
+
+## e0067
+
+- Page: 9
+- Kanji: 心配
+- Kana: しんぱい
+- English: worry\, concern\, anxiety
+- Notes: text\: まだ外に出すのは心配だから — because I\'m still worried about letting \(him\) out
+
+## e0068
+
+- Page: 9
+- Kanji: 様子
+- Kana: ようす
+- English: state\, appearance\, how things look\, situation
+- Notes: text\: 様子を見てくるように頼まれたんだけど — I was asked to go check on \(you\)
+
+## e0069
+
+- Page: 9
+- Kanji:
+- Kana: まさか
+- English: no way\; I\'d never have thought\; surely not
+- Notes: text\: まさかキルアがハンターになりたいとは — I\'d never have thought Killua would want to become a Hunter
+
+## e0070
+
+- Page: 9
+- Kanji:
+- Kana: やっぱり
+- English: after all\; as expected\; just as I thought
+- Notes: text\: でも\, やっぱり外に出すのはまだ心配だから — but\, after all\, I\'m still worried about letting him out
+
+## e0071
+
+- Page: 10
+- Kanji:
+- Kana: なんとなく
+- English: somehow\; vaguely\; just because\; without any particular reason
+- Notes: text\: ただなんとなく受けてみただけさ — I just took it vaguely\, on a whim
+
+## e0072
+
+- Page: 10
+- Kanji: 受ける
+- Kana: うける
+- English: to take \(a test or exam\)\; to receive
+- Notes: text\: なんとなく受けてみただけさ — I just took \(the exam\) on a whim
+
+## e0073
+
+- Page: 10
+- Kanji: 安心
+- Kana: あんしん
+- English: relief\, peace of mind\, reassurance
+- Notes: text\: 安心したよ — that puts my mind at ease\; I\'m relieved
+
+## e0074
+
+- Page: 10
+- Kanji:
+- Kana: そうか
+- English: I see\; oh\, is that so \(soft realization or acknowledgement\)
+- Notes: text\: …そうか — I see\.\.\. \(Illumi\'s understated response\)
+
+## e0075
+
+- Page: 10
+- Kanji: 向く
+- Kana: むく
+- English: to be suited for\; to face toward
+- Notes: used negatively\: お前はハンターに向かないよ — you\'re not suited to be a Hunter
+
+## e0076
+
+- Page: 10
+- Kanji: 殺し屋
+- Kana: ころしや
+- English: assassin\; hired killer
+- Notes: text\: お前の天職は殺し屋なんだから — because your calling is being an assassin
+
+## e0077
+
+- Page: 11
+- Kanji:
+- Kana: さらに
+- English: furthermore\; in addition\; even more \(also written 更に\)
+- Notes: text\: さらに彼は続けました — and he went on to say
+
+## e0078
+
+- Page: 11
+- Kanji: 自身
+- Kana: じしん
+- English: oneself \(emphatic reflexive pronoun\)
+- Notes: text\: 自身は何も欲しがらず — yourself wanting nothing at all
+
+## e0079
+
+- Page: 11
+- Kanji: 欲しがる
+- Kana: ほしがる
+- English: to visibly want\; to covet\; to show a desire for something
+- Notes: text\: 自身は何も欲しがらず — yourself wanting nothing at all
+
+## e0080
+
+- Page: 12
+- Kanji: 確かに
+- Kana: たしかに
+- English: certainly\; indeed\; you\'re right that\.\.\.
+- Notes: text\: 確かに…ハンターになりたいとは思ってる訳じゃない — certainly\.\.\. it\'s not that I want to become a Hunter
+
+## e0081
+
+- Page: 12
+- Kanji: 欲しい
+- Kana: ほしい
+- English: wanted\; desired \(i\-adjective expressing desire for a thing\)
+- Notes: text\: だけどオレだって欲しいものくらいある — but even I have things I want
+
+## e0082
+
+- Page: 12
+- Kanji:
+- Kana: ふーん
+- English: hmm \(expression of mild interest\, tepid acknowledgement\, or skepticism\)
+- Notes: text\: ふーん — hmm \(Illumi\'s unimpressed response\)
+
+## e0083
+
+- Page: 13
+- Kanji: 違う
+- Kana: ちがう
+- English: wrong\; different\; no\, that\'s not it
+- Notes: text\: 違う\.\.\. — no\, that\'s not it \(Killua pushing back on Illumi\'s framing\)
+
+## e0084
+
+- Page: 14
+- Kanji: 無理
+- Kana: むり
+- English: impossible\; unreasonable\; can\'t be done
+- Notes: text\: 無理だね — it\'s impossible \(Illumi declaring Killua cannot make friends\)
+
+## e0085
+
+- Page: 14
+- Kanji: 出来っこない
+- Kana: できっこない
+- English: absolutely no way one can\; there\'s no chance whatsoever \(emphatic negative of できる\)
+- Notes: text\: お前に友達なんて出来っこないよ — there\'s absolutely no way you can make friends
+
+## e0086
+
+- Page: 14
+- Kanji: 側
+- Kana: そば
+- English: side\; close to\; by someone\'s side
+- Notes: text\: 彼の側にいれば — if you stay by his side
+
+## e0087
+
+- Page: 14
+- Kanji:
+- Kana: いつか
+- English: someday\; at some point\; one day \(future\)
+- Notes: text\: いつかお前は彼を殺したくなるよ — someday you\'ll want to kill him
+
+## e0088
+
+- Page: 15
+- Kanji: 手を出す
+- Kana: てをだす
+- English: to lay a hand on someone\; to interfere\; to make a move against
+- Notes: text\: 手は出さねェ — I won\'t lay a hand on \(him\) \(rough speech ねェ\)
+
+## e0089
+
+- Page: 15
+- Kanji:
+- Kana: さっさと
+- English: quickly\; hurry up and \~\; without dawdling
+- Notes: text\: さっさとぶっとばして合格しちまえ — just quickly knock him out and pass already
+
+## e0090
+
+- Page: 15
+- Kanji:
+- Kana: ぶっとばす
+- English: to knock out\; to beat the hell out of \(slang\: prefix ぶっ\- intensifies 飛ばす\)
+- Notes: text\: さっさとぶっとばして合格しちまえ — just knock him out and pass already
+
+## e0091
+
+- Page: 15
+- Kanji: 合格
+- Kana: ごうかく
+- English: passing \(an exam\)\; passing grade
+- Notes: text\: いつもの調子でさっさとぶっとばして合格しちまえ — in your usual style\, just knock him out and pass already
+
+## e0092
+
+- Page: 16
+- Kanji:
+- Kana: まいった
+- English: I give up\; I\'m beaten\; what a bind \(past of まいる\: to be bested\, to be in trouble\)
+- Notes: text\: まいったな — well\, that\'s a problem \(Leorio muttering to himself\)
+
+## e0093
+
+- Page: 16
+- Kanji:
+- Kana: あっち
+- English: over there\; that side\; that person \(informal demonstrative\)
+- Notes: text\: あっちはもう友達のつもりなのか — so that person already thinks of himself as a friend
+
+## e0094
+
+- Page: 16
+- Kanji:
+- Kana: つもり
+- English: intending to \~\; thinking of oneself as \~\; under the assumption that
+- Notes: text\: あっちはもう友達のつもりなのか — so he already considers himself a friend
+
+## e0095
+
+- Page: 16
+- Kanji:
+- Kana: よし
+- English: alright\; okay \(exclamation expressing resolve or decision\)
+- Notes: text\: よし ゴンを殺そう — alright\, let\'s kill Gon \(Illumi\'s matter\-of\-fact decision\)
+
+## e0096
+
+- Page: 17
+- Kanji: 試験
+- Kana: しけん
+- English: exam\, test
+- Notes: text\: まだ試験は\.\.\. — the exam isn\'t over yet\.\.\.
+
+## e0097
+
+- Page: 19
+- Kanji:
+- Kana: いけない
+- English: mustn\'t\; bad\; oh no\, that won\'t do \(prohibitive or alarmed reaction\)
+- Notes: text\: あ\, いけない — oh\, wait\, that won\'t do
+
+## e0098
+
+- Page: 19
+- Kanji:
+- Kana: ルール
+- English: rules \(loanword from English\)
+- Notes: text\: ルール上は問題ない — there\'s no problem rule\-wise
+
+## e0099
+
+- Page: 19
+- Kanji: 問題
+- Kana: もんだい
+- English: problem\, issue\, question
+- Notes: text\: ルール上は問題ない — there\'s no problem rule\-wise
+
+## e0100
+
+- Page: 19
+- Kanji:
+- Kana: うーん
+- English: hmm\; well\.\.\. \(sound of mulling something over or hesitation\)
+- Notes: text\: うーん — hmm \(Illumi thinking through the scenario\)
+
+## e0101
+
+- Page: 20
+- Kanji: 倒す
+- Kana: たおす
+- English: to defeat\, to knock down\, to topple
+- Notes: text\: この場でオレを倒せるか倒せないかの方が大事だから — because whether you can defeat me here matters more
+
+## e0102
+
+- Page: 20
+- Kanji: 大事
+- Kana: だいじ
+- English: important\, precious\, serious
+- Notes: text\: この場でオレを倒せるか倒せないかの方が大事だから — whether you can defeat me here is what matters
+
+## e0103
+
+- Page: 21
+- Kanji: 答え
+- Kana: こたえ
+- English: answer\, response\, solution
+- Notes: text\: もうお前の中で答えは出ている — the answer is already inside you
+
+## e0104
+
+- Page: 21
+- Kanji: 力
+- Kana: ちから
+- English: strength\, power\, ability
+- Notes: text\: オレの力では兄貴を倒せない — I can\'t defeat my brother with my own strength
+
+## e0105
+
+- Page: 21
+- Kanji: 瞬間
+- Kana: しゅんかん
+- English: moment\, instant
+- Notes: text\: お前とオレの体が触れた瞬間から戦い開始とする — the moment our bodies touch\, the fight begins
+
+## e0106
+
+- Page: 22
+- Kanji: 死ぬ
+- Kana: しぬ
+- English: to die
+- Notes: text\: 大事なゴンが死ぬことになるよ — the precious Gon would end up dying
+
+## e0107
+
+- Page: 23
+- Kanji:
+- Kana: よかった
+- English: thank goodness\; I\'m glad\; what a relief \(past of よい or いい\)
+- Notes: text\: よかった — thank goodness \(Leorio\'s relieved reaction\)
+
+## e0108
+
+- Page: 23
+- Kanji:
+- Kana: はっきりする
+- English: to become clear\; to be settled\; to clarify
+- Notes: text\: でもこれではっきりした — but now it\'s become clear
+
+## e0109
+
+- Page: 24
+- Kanji: 今まで通り
+- Kana: いままでとおり
+- English: as always\; same as before\; just like up till now
+- Notes: text\: 今まで通り親父やオレの言うことを聞いて — listen to what father and I say\, same as you always have
+
+## e0110
+
+- Page: 24
+- Kanji: 言うことを聞く
+- Kana: いうことをきく
+- English: to do as one is told\; to follow instructions\; to listen to someone
+- Notes: text\: 今まで通り親父やオレの言うことを聞いて — listen to what father and I say\, same as always
+
+## e0111
+
+- Page: 24
+- Kanji: 反応
+- Kana: はんのう
+- English: reaction\, response
+- Notes: text\: 何かを言っても反応さえしませんでした — he didn\'t so much as react even when something was said to him
+
+## e0112
+
+- Page: 25
+- Kanji:
+- Kana: そのまま
+- English: as is\; just like that\; without change\; remaining in that state
+- Notes: text\: そしてそのまま\.\.\. — and then\, just like that\.\.\.
