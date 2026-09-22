@@ -1095,3 +1095,323 @@
 - Kana: におい
 - English: smell\, odor\, scent
 - Notes: written におい in the text\; 味もにおいもほとんどないはずだ — should have almost no taste or smell
+
+## e0138
+
+- Page: 106
+- Kanji: 向こう
+- Kana: むこう
+- English: over there\, the other side\, that direction
+- Notes: 向こうの建物だな — that building over there
+
+## e0139
+
+- Page: 106
+- Kanji: 化ける
+- Kana: ばける
+- English: to transform\, to disguise oneself\, to take on another form
+- Notes: 凶狸狐が化けてる — the Kiriko are in disguise
+
+## e0140
+
+- Page: 107
+- Kanji: 集まる
+- Kana: あつまる
+- English: to gather\, to assemble\, to come together
+- Notes: ハンター志望の猛者が集まるわけだな — so this is where formidable Hunter aspirants gather
+
+## e0141
+
+- Page: 107
+- Kanji: 気持ち
+- Kana: きもち
+- English: feeling\, mood\, sensation
+- Notes: 親父もこんな気持ちだったのかな — I wonder if my dad felt this way too
+
+## e0142
+
+- Page: 108
+- Kanji:
+- Kana: ただ
+- English: merely\, just\, ordinary\, plain
+- Notes: ただの定食屋 — just an ordinary set\-meal restaurant\; distinct from タダ \(free of charge\, e0090\)
+
+## e0143
+
+- Page: 109
+- Kanji:
+- Kana: じっくり
+- English: slowly and carefully\, deliberately\, without rushing
+- Notes: 弱火でじっくり — on a low flame\, nice and slow\; adverb
+
+## e0144
+
+- Page: 109
+- Kanji: 来年
+- Kana: らいねん
+- English: next year
+- Notes: お前らなら来年も案内してやるぜ — I\'ll be guiding you again next year
+
+## e0145
+
+- Page: 110
+- Kanji:
+- Kana: まるで
+- English: just like\, as if\, completely\, utterly
+- Notes: まるでオレ達が今年は受かれないみたいじゃねーか — as if we can\'t pass this year\; used before comparisons with みたい or よう
+
+## e0146
+
+- Page: 110
+- Kanji: 今年
+- Kana: ことし
+- English: this year
+- Notes: 今年は受かれない — can\'t pass this year
+
+## e0147
+
+- Page: 110
+- Kanji: 途中
+- Kana: とちゅう
+- English: midway\, partway through\, en route
+- Notes: 途中で精神をやられてしまう奴 — people who mentally break down partway through
+
+## e0148
+
+- Page: 111
+- Kanji: 仕事
+- Kana: しごと
+- English: job\, work\, occupation
+- Notes: ハンターはこの世で最も気高くもうかる仕事なんだぜ — Hunter is the noblest\, most profitable job in the world
+
+## e0149
+
+- Page: 112
+- Kanji:
+- Kana: たいがい
+- English: for the most part\, generally\, mostly
+- Notes: 大抵\; written in kana in the text\; たいがいの公共施設はタダで使える — most public facilities can be used for free
+
+## e0150
+
+- Page: 112
+- Kanji: 暮らす
+- Kana: くらす
+- English: to live\, to make a living
+- Notes: 7代遊んで暮らせると言われてる — it is said you can live without working for 7 generations
+
+## e0151
+
+- Page: 112
+- Kanji: 自然
+- Kana: しぜん
+- English: nature\, the natural world
+- Notes: 人と自然の秩序を守る — to protect the order of humans and nature
+
+## e0152
+
+- Page: 112
+- Kanji: 狩る
+- Kana: かる
+- English: to hunt\, to catch
+- Notes: 動物を狩り宝を漁る — hunting animals and scavenging for treasure
+
+## e0153
+
+- Page: 112
+- Kanji: 宝
+- Kana: たから
+- English: treasure\, valuables
+- Notes: 動物を狩り宝を漁る — hunting animals and searching for treasure
+
+## e0154
+
+- Page: 112
+- Kanji: 漁る
+- Kana: あさる
+- English: to rummage through\, to scavenge\, to fish for
+- Notes: 宝を漁る — to search for treasure\; cf. 狩る \(e0152\)
+
+## e0155
+
+- Page: 112
+- Kanji: 発見
+- Kana: はっけん
+- English: discovery\, to discover
+- Notes: 貴重な文化遺産や希少な動植物を発見した場合 — when valuable cultural heritage or rare flora and fauna is discovered
+
+## e0156
+
+- Page: 113
+- Kanji: 着く
+- Kana: つく
+- English: to arrive\, to reach \(a place\)
+- Notes: 着いたらしいな — seems we\'ve arrived
+
+## e0157
+
+- Page: 117
+- Kanji:
+- Kana: それにしても
+- English: even so\, nevertheless\, that said
+- Notes: それにしてもうす暗い所だな — even so\, it\'s a dimly lit place\; sentence\-initial connector \(Expression\)
+
+## e0158
+
+- Page: 118
+- Kanji: 教える
+- Kana: おしえる
+- English: to teach\, to tell\, to inform
+- Notes: わからないことは何でも教えてあげるよ — I\'ll tell you anything you don\'t understand
+
+## e0159
+
+- Page: 118
+- Kanji:
+- Kana: よろしく
+- English: nice to meet you\, please be kind to me\, I\'ll be in your care
+- Notes: 宜しく\; written in kana\; set phrase used on introduction or when asking a favor
+
+## e0160
+
+- Page: 119
+- Kanji:
+- Kana: あいつ
+- English: that guy\, that person \(casual\, rough\)
+- Notes: 彼奴\; written in kana\; あいつは非常に敵にまわすとやっかいだぜ — that guy is extremely troublesome to have as an enemy
+
+## e0161
+
+- Page: 119
+- Kanji: 蛇使い
+- Kana: へびつかい
+- English: snake charmer\, snake handler
+- Notes: 103番蛇使いバーボン — examinee no. 103\, snake charmer Bourbon
+
+## e0162
+
+- Page: 119
+- Kanji: 体術
+- Kana: たいじゅつ
+- English: body arts\, unarmed combat technique
+- Notes: 体術においては右に出るものなし — unsurpassed in unarmed martial arts\; cf. e0048
+
+## e0163
+
+- Page: 119
+- Kanji:
+- Kana: レスラー
+- English: wrestler
+- Notes: loanword from English\; 255番レスラー トードー — examinee no. 255\, wrestler Todo
+
+## e0164
+
+- Page: 119
+- Kanji: 敵に回す
+- Kana: てきにまわす
+- English: to make an enemy of\, to turn \(someone\) against oneself
+- Notes: 非常に敵にまわすとやっかいだぜ — extremely troublesome to have as an enemy \(Expression\)
+
+## e0165
+
+- Page: 119
+- Kanji: 常に
+- Kana: つねに
+- English: always\, constantly\, at all times
+- Notes: 絶妙のコンビプレイで常に好成績をあげてる — always achieving good results with their superb teamwork
+
+## e0166
+
+- Page: 119
+- Kanji: 生物
+- Kana: せいぶつ
+- English: living creature\, organism
+- Notes: あらゆる生物をしとめる — takes down every living creature\; cf. e0122
+
+## e0167
+
+- Page: 119
+- Kanji: 兄弟
+- Kana: きょうだい
+- English: siblings\, brothers
+- Notes: アモリ3兄弟 — the Amori Brothers \(examinees 197–199\)
+
+## e0168
+
+- Page: 119
+- Kanji: 逃す
+- Kana: のがす
+- English: to miss\, to let slip\, to fail to catch
+- Notes: 今一歩で合格を逃してきた連中 — people who have always fallen just one step short of passing\; cf. e0124
+
+## e0169
+
+- Page: 120
+- Kanji: 不思議
+- Kana: ふしぎ
+- English: mysterious\, strange\, wonderful
+- Notes: アーラ不思議♥ — how mysterious\~\; the magician\'s patter
+
+## e0170
+
+- Page: 120
+- Kanji: 腕
+- Kana: うで
+- English: arm
+- Notes: 腕が消えちゃった♠ — my arm has disappeared\; the magician\'s trick
+
+## e0171
+
+- Page: 121
+- Kanji: 去年
+- Kana: きょねん
+- English: last year
+- Notes: 去年合格確実と言われながら — despite being said to be certain to pass last year
+
+## e0172
+
+- Page: 121
+- Kanji: 確実
+- Kana: かくじつ
+- English: certain\, definite\, reliable
+- Notes: 合格確実と言われながら — despite being said to be certain to pass\; 合格確実\: a certainty to pass
+
+## e0173
+
+- Page: 121
+- Kanji: 毎年
+- Kana: まいとし
+- English: every year\, each year
+- Notes: ハンター試験官は毎年変わる — the Hunter Exam administrator changes every year\; also read まいねん
+
+## e0174
+
+- Page: 122
+- Kanji: 祈る
+- Kana: いのる
+- English: to pray\, to wish\, to hope for
+- Notes: お互いの健闘を祈ってカンパイだ — here\'s a toast wishing each other good luck\; cf. e0065\, e0134
+
+## e0175
+
+- Page: 123
+- Kanji: 古い
+- Kana: ふるい
+- English: old\, stale\, past its prime
+- Notes: このジュース古くなってるよ — this juice has gone off\; 古くなる\: to become old\/stale
+
+## e0176
+
+- Page: 123
+- Kanji: 味
+- Kana: あじ
+- English: taste\, flavor
+- Notes: 味がヘン！ — the taste is weird\!\; cf. 味覚 \(e0071\)
+
+## e0177
+
+- Page: 123
+- Kanji:
+- Kana: おかしい
+- English: strange\, funny\, something is off
+- Notes: 可笑しい\; written in kana\; あれ？おかしいな — huh\? that\'s strange
