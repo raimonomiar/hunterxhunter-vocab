@@ -1,7 +1,11 @@
 "use client";
 
 import { useEffect } from "react";
-import { getActivePageFromScrollState, getEntryAnchorId, type PageNavigationItem } from "@/lib/page-navigation";
+import {
+  getActivePageFromScrollState,
+  getEntryAnchorId,
+  type PageNavigationItem,
+} from "@/lib/page-navigation";
 import { getScrollBehavior } from "@/components/GoToTopButton";
 
 type PageNavigatorProps = {

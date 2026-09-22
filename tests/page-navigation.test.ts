@@ -72,6 +72,12 @@ test("getActivePageFromScrollState selects first page when nothing has scrolled 
 });
 
 test("getActivePageFromScrollState returns undefined for empty items", () => {
-  assert.equal(getActivePageFromScrollState([], () => null, false), undefined);
-  assert.equal(getActivePageFromScrollState([], () => null, true), undefined);
+  assert.equal(
+    getActivePageFromScrollState([], () => null, false),
+    undefined,
+  );
+  assert.equal(
+    getActivePageFromScrollState([], () => null, true),
+    undefined,
+  );
 });
