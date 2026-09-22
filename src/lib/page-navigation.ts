@@ -35,3 +35,29 @@ export function getPageNavigationItems(
 export function getEntryAnchorId(entryId: number): string {
   return `vocab-entry-${entryId}`;
 }
+
+/**
+ * Returns the page that should be highlighted given the current scroll state.
+ *
+ * When the user is at the bottom of the scrollable content (isAtBottom) the
+ * last page is always returned, fixing the off-by-one that occurs because the
+ * final anchor can never scroll high enough to cross the viewportOffset line.
+ */
+export function getActivePageFromScrollState(
+  items: readonly PageNavigationItem[],
+  getAnchorTop: (entryId: number) => number | null,
+  isAtBottom: boolean,
+  viewportOffset = 160,
+): number | undefined {
+  if (items.length === 0) return undefined;
+  if (isAtBottom) return items[items.length - 1].page;
+
+  let activePage = items[0].page;
+  for (const item of items) {
+    const top = getAnchorTop(item.entryId);
+    if (top !== null && top <= viewportOffset) {
+      activePage = item.page;
+    }
+  }
+  return activePage;
+}

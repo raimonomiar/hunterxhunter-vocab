@@ -66,3 +66,28 @@ test("chapter page navigation jumps to the first entry for a page", async ({ pag
   await expect(pageButtons.nth(1)).toHaveAttribute("aria-current", "page");
   await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(0);
 });
+
+// Regression test for issue #23: clicking or scrolling to the last page must
+// highlight the last page button, not the second-to-last.
+test("chapter page navigation highlights the last page when scrolled to document bottom", async ({
+  page,
+}) => {
+  await page.emulateMedia({ reducedMotion: "reduce" });
+  await page.goto("/");
+
+  const navigation = page.getByRole("navigation", { name: "Chapter page navigation" });
+  await expect(navigation).toBeVisible();
+  const pageButtons = navigation.getByRole("button");
+  const count = await pageButtons.count();
+  expect(count).toBeGreaterThan(1);
+
+  const lastButton = pageButtons.last();
+
+  // Click the last page button and confirm it becomes highlighted.
+  await lastButton.click();
+  await expect(lastButton).toHaveAttribute("aria-current", "page");
+
+  // Also verify by scrolling all the way to the bottom directly.
+  await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+  await expect(lastButton).toHaveAttribute("aria-current", "page");
+});
