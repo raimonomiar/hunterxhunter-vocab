@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
-import { getEntryAnchorId, type PageNavigationItem } from "@/lib/page-navigation";
+import { getActivePageFromScrollState, getEntryAnchorId, type PageNavigationItem } from "@/lib/page-navigation";
 import { getScrollBehavior } from "@/components/GoToTopButton";
 
 type PageNavigatorProps = {
@@ -17,17 +17,17 @@ export default function PageNavigator({
 }: PageNavigatorProps) {
   useEffect(() => {
     function handleScroll() {
-      let visiblePage = items[0]?.page;
-      const viewportOffset = 160;
-
-      for (const item of items) {
-        const entry = document.getElementById(getEntryAnchorId(item.entryId));
-        if (entry && entry.getBoundingClientRect().top <= viewportOffset) {
-          visiblePage = item.page;
-        }
-      }
-
-      if (visiblePage !== undefined) onCurrentPageChange(visiblePage);
+      const isAtBottom =
+        window.scrollY + window.innerHeight >= document.documentElement.scrollHeight - 1;
+      const activePage = getActivePageFromScrollState(
+        items,
+        (entryId) => {
+          const el = document.getElementById(getEntryAnchorId(entryId));
+          return el ? el.getBoundingClientRect().top : null;
+        },
+        isAtBottom,
+      );
+      if (activePage !== undefined) onCurrentPageChange(activePage);
     }
 
     handleScroll();
