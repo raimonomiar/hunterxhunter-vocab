@@ -575,3 +575,523 @@
 - Kana: がき
 - English: brat\, kid
 - Notes: ガキ \(slang\, derogatory\)\; from 餓鬼 \(hungry ghost\)
+
+## e0073
+
+- Page: 107
+- Kanji: 試験
+- Kana: しけん
+- English: exam\, test
+- Notes:
+
+## e0074
+
+- Page: 107
+- Kanji: 世界各地
+- Kana: せかいかくち
+- English: every part of the world\, worldwide
+- Notes:
+
+## e0075
+
+- Page: 107
+- Kanji: 親父
+- Kana: おやじ
+- English: old man\, dad \(informal\)
+- Notes: colloquial term for one\'s father or an older man\; Gon uses it referring to his birth father Ging
+
+## e0076
+
+- Page: 108
+- Kanji: 全国
+- Kana: ぜんこく
+- English: nationwide\, the whole country
+- Notes:
+
+## e0077
+
+- Page: 108
+- Kanji: 無数
+- Kana: むすう
+- English: countless\, innumerable
+- Notes:
+
+## e0078
+
+- Page: 108
+- Kanji:
+- Kana: まさか
+- English: no way\, surely not
+- Notes: expresses disbelief — まさかこの中に全国からハンター志望者が集まってるなんて言うんじゃないだろ \(Surely you\'re not saying all these people are here for the Hunter Exam\) \(Expression\)
+
+## e0079
+
+- Page: 108
+- Kanji: ご注文
+- Kana: ごちゅうもん
+- English: your order
+- Notes: polite form of 注文 \(ちゅうもん\)\; used in service contexts\: ご注文は\? \(May I take your order\?\)
+
+## e0080
+
+- Page: 109
+- Kanji: 上出来
+- Kana: じょうでき
+- English: well done\, good result\, better than expected
+- Notes:
+
+## e0081
+
+- Page: 109
+- Kanji: 辿り着く
+- Kana: たどりつく
+- English: to reach\, to arrive at \(after effort\)
+- Notes: ここにたどりつくまでの倍率 — the odds of reaching this point
+
+## e0082
+
+- Page: 109
+- Kanji: お客さん
+- Kana: おきゃくさん
+- English: customer\, guest
+- Notes: お客さん 奥の部屋へどうぞー — this way to the back room
+
+## e0083
+
+- Page: 110
+- Kanji: 奴
+- Kana: やつ
+- English: guy\, fellow
+- Notes: rough or dismissive register\; 失礼な奴だぜ — what a rude guy
+
+## e0084
+
+- Page: 110
+- Kanji: 受かる
+- Kana: うかる
+- English: to pass \(an exam\)
+- Notes: cf\. 合格 \(e0013\)
+
+## e0085
+
+- Page: 110
+- Kanji: 精神
+- Kana: せいしん
+- English: spirit\, mind\, mental strength
+- Notes: 途中で精神をやられてしまう — break down mentally along the way
+
+## e0086
+
+- Page: 110
+- Kanji:
+- Kana: ベテラン
+- English: veteran
+- Notes: loanword from English\; ベテラン受験者 — veteran examinees
+
+## e0087
+
+- Page: 110
+- Kanji: 二度と
+- Kana: にどと
+- English: never again
+- Notes: 二度とテストを受けられない体になってしまった奴 — people whose bodies were broken so they could never take the test again \(Expression\)
+
+## e0088
+
+- Page: 111
+- Kanji: 最も
+- Kana: もっとも
+- English: most\, the most
+- Notes: superlative adverb\; ハンターはこの世で最も気高くもうかる仕事 — the noblest and most profitable job in the world
+
+## e0089
+
+- Page: 112
+- Kanji:
+- Kana: フリーパス
+- English: free pass\, all\-access pass
+- Notes: loanword from English\; この国はほとんどフリーパス — this country is practically a free pass
+
+## e0090
+
+- Page: 112
+- Kanji:
+- Kana: タダ
+- English: free of charge\, gratis
+- Notes: 只\; written タダ in katakana in the text\; たいがいの公共施設はタダで使える — most public facilities can be used for free
+
+## e0091
+
+- Page: 112
+- Kanji: 名声
+- Kana: めいせい
+- English: fame\, renown
+- Notes: 富と名声の象徴 — a symbol of wealth and renown
+
+## e0092
+
+- Page: 112
+- Kanji: 一流
+- Kana: いちりゅう
+- English: first\-rate\, top\-class
+- Notes: 一流のハンターの本当の仕事だ — the true work of a first\-rate Hunter\; contrast 二流 \(e0093\)
+
+## e0093
+
+- Page: 112
+- Kanji: 二流
+- Kana: にりゅう
+- English: second\-rate\, second\-class
+- Notes: 二流のハンターのそれでしかない — that is nothing but the work of a second\-rate Hunter\; contrast 一流 \(e0092\)
+
+## e0094
+
+- Page: 112
+- Kanji: 文化遺産
+- Kana: ぶんかいさん
+- English: cultural heritage
+- Notes: 貴重な文化遺産や希少な動植物を発見した場合 — when they discover valuable cultural heritage or rare flora and fauna
+
+## e0095
+
+- Page: 112
+- Kanji: 動植物
+- Kana: どうしょくぶつ
+- English: animals and plants\, flora and fauna
+- Notes:
+
+## e0096
+
+- Page: 112
+- Kanji: 保護
+- Kana: ほご
+- English: protection\, preservation
+- Notes: その保護を第一に考える — to place its protection first
+
+## e0097
+
+- Page: 112
+- Kanji: 無資格
+- Kana: むしかく
+- English: unlicensed\, without qualification
+- Notes: 無資格の悪質なハンターを取り締まる — to crack down on unlicensed malicious hunters
+
+## e0098
+
+- Page: 112
+- Kanji: 悪質
+- Kana: あくしつ
+- English: malicious\, vicious\, of bad quality
+- Notes:
+
+## e0099
+
+- Page: 112
+- Kanji: 重要
+- Kana: じゅうよう
+- English: important\, significant
+- Notes:
+
+## e0100
+
+- Page: 112
+- Kanji: 知識
+- Kana: ちしき
+- English: knowledge
+- Notes: 深遠な知識 — profound knowledge
+
+## e0101
+
+- Page: 112
+- Kanji: 信念
+- Kana: しんねん
+- English: conviction\, belief
+- Notes: 強い信念が必要 — strong conviction is necessary
+
+## e0102
+
+- Page: 112
+- Kanji: 深遠
+- Kana: しんえん
+- English: profound\, deep\, abstruse
+- Notes: 深遠な知識と健全な心身・強い信念が必要なのだ
+
+## e0103
+
+- Page: 112
+- Kanji: 健全
+- Kana: けんぜん
+- English: healthy\, sound\, wholesome
+- Notes: 健全な心身 — a sound mind and body
+
+## e0104
+
+- Page: 112
+- Kanji: 心身
+- Kana: しんしん
+- English: mind and body
+- Notes:
+
+## e0105
+
+- Page: 112
+- Kanji:
+- Kana: こなす
+- English: to handle\, to manage\, to accomplish
+- Notes: 熟す\; written in kana in the text\; これら全てをこなすためには — in order to handle all of this
+
+## e0106
+
+- Page: 113
+- Kanji: 目指す
+- Kana: めざす
+- English: to aim for\, to strive toward
+- Notes: どっちのハンターを目指すんだ\!? — which kind of Hunter are you aiming to be\!?
+
+## e0107
+
+- Page: 116
+- Kanji: 港町
+- Kana: みなとまち
+- English: port town\, harbor town
+- Notes: compound of 港 \(e0032\) \+ 町
+
+## e0108
+
+- Page: 117
+- Kanji: 全員
+- Kana: ぜんいん
+- English: everyone\, all members\, every single one
+- Notes:
+
+## e0109
+
+- Page: 117
+- Kanji: 何らかの
+- Kana: なんらかの
+- English: some kind of\, some sort of
+- Notes: 全員が何らかの達人に違いない — everyone here must be a master of some kind
+
+## e0110
+
+- Page: 117
+- Kanji: 違いない
+- Kana: ちがいない
+- English: must be\, there is no doubt\, certainly
+- Notes: follows に\; 全員が何らかの達人に違いない — everyone must certainly be an expert in something \(Expression\)
+
+## e0111
+
+- Page: 117
+- Kanji: 薄暗い
+- Kana: うすぐらい
+- English: dimly lit\, dusky\, gloomy
+- Notes: written うす暗い in the text
+
+## e0112
+
+- Page: 117
+- Kanji: 一体
+- Kana: いったい
+- English: just what\, in the world\, on earth
+- Notes: intensifier used with interrogatives\; 一体何人くらいいるんだろうね — just how many people are there\, I wonder
+
+## e0113
+
+- Page: 118
+- Kanji:
+- Kana: なにしろ
+- English: after all\, in any case\, no matter what
+- Notes: 何しろ\; written in kana in the text\; なにしろオレ10歳からもう35回もテスト受けてるから — after all\, I\'ve taken this test 35 times since I was 10
+
+## e0114
+
+- Page: 118
+- Kanji: 確かに
+- Kana: たしかに
+- English: certainly\, indeed\, sure enough
+- Notes:
+
+## e0115
+
+- Page: 118
+- Kanji: 紹介
+- Kana: しょうかい
+- English: introduction\, to introduce
+- Notes: いろいろ紹介してやるよ — I\'ll introduce you to all kinds of people
+
+## e0116
+
+- Page: 119
+- Kanji: 非常に
+- Kana: ひじょうに
+- English: extremely\, very much\, tremendously
+- Notes: 非常に敵にまわすとやっかい — extremely troublesome to have as an enemy
+
+## e0117
+
+- Page: 119
+- Kanji: 意外
+- Kana: いがい
+- English: unexpected\, surprising
+- Notes: 意外と頭もキレる — surprisingly sharp\-witted too
+
+## e0118
+
+- Page: 119
+- Kanji: 武闘家
+- Kana: ぶとうか
+- English: martial artist\, fighter\, combat specialist
+- Notes: 76番 武闘家 チェリー — examinee number 76\, martial artist Cherry
+
+## e0119
+
+- Page: 119
+- Kanji: 猟師
+- Kana: りょうし
+- English: hunter \(of game\)\, huntsman
+- Notes: 384番 猟師 ゲレタ — examinee number 384\, game hunter Geretta
+
+## e0120
+
+- Page: 119
+- Kanji: 吹き矢
+- Kana: ふきや
+- English: blowgun\, blowpipe
+- Notes: 吹き矢とこん棒で — with a blowgun and a club
+
+## e0121
+
+- Page: 119
+- Kanji: 棍棒
+- Kana: こんぼう
+- English: club\, cudgel
+- Notes: written こん棒 \(mixed kana\+kanji\) in the text
+
+## e0122
+
+- Page: 119
+- Kanji:
+- Kana: あらゆる
+- English: every\, all kinds of
+- Notes: あらゆる生物をしとめる — takes down every living thing
+
+## e0123
+
+- Page: 119
+- Kanji: 実力
+- Kana: じつりょく
+- English: real ability\, actual strength
+- Notes:
+
+## e0124
+
+- Page: 119
+- Kanji: 今一歩
+- Kana: いまいっぽ
+- English: just one step away\, just short of
+- Notes: 今一歩で合格を逃してきた連中 — the bunch who have always fallen just one step short of passing \(Expression\)
+
+## e0125
+
+- Page: 120
+- Kanji: 消える
+- Kana: きえる
+- English: to disappear\, to vanish
+- Notes: 腕が消えちゃった — my arm disappeared \(the magician\'s trick\)
+
+## e0126
+
+- Page: 120
+- Kanji: 気をつける
+- Kana: きをつける
+- English: to be careful\, to watch out
+- Notes: 気をつけようね — do be careful\, won\'t you \(Expression\)
+
+## e0127
+
+- Page: 121
+- Kanji: 危ない
+- Kana: あぶない
+- English: dangerous\, risky
+- Notes: written アブない \(katakana \+ kana mix\) in the text
+
+## e0128
+
+- Page: 121
+- Kanji: 試験官
+- Kana: しけんかん
+- English: examiner\, test administrator
+- Notes: ハンター試験官は毎年変わる — the Hunter Exam administrator changes every year
+
+## e0129
+
+- Page: 121
+- Kanji: 内容
+- Kana: ないよう
+- English: content\, substance
+- Notes: テストの内容はその試験官が自由に決めるんだ — the content of the test is decided freely by that examiner
+
+## e0130
+
+- Page: 121
+- Kanji: 悪魔
+- Kana: あくま
+- English: devil\, demon
+- Notes: 悪魔だって合格できるのがハンター試験さ — even a devil could pass\, that\'s the kind of test the Hunter Exam is
+
+## e0131
+
+- Page: 121
+- Kanji: 受験生
+- Kana: じゅけんせい
+- English: examinee\, test\-taker
+- Notes: 20人の受験生を再起不能にしている — rendered 20 examinees permanently incapacitated
+
+## e0132
+
+- Page: 122
+- Kanji:
+- Kana: やばい
+- English: dangerous\, sketchy\; amazing \(slang\)
+- Notes: ヤバい\; written ヤバい in the text\; 他にもヤバい奴がいっぱいいる — there are tons of dangerous characters\; versatile colloquial term
+
+## e0133
+
+- Page: 122
+- Kanji: 安心
+- Kana: あんしん
+- English: peace of mind\, relief\, reassurance
+- Notes: 安心しな\! — don\'t worry\! relax\!
+
+## e0134
+
+- Page: 122
+- Kanji: お互い
+- Kana: おたがい
+- English: each other\, one another\, mutually
+- Notes: お互いの健闘を祈ってカンパイだ — here\'s a toast to each other\'s success
+
+## e0135
+
+- Page: 123
+- Kanji: 超強力
+- Kana: ちょうきょうりょく
+- English: super powerful\, extremely strong
+- Notes: 超強力な下剤入り — contains an ultra\-powerful laxative
+
+## e0136
+
+- Page: 123
+- Kanji: 止まる
+- Kana: とまる
+- English: to stop\, to cease
+- Notes: 3日は土石流みたく止まらねぇ — won\'t stop for 3 days\, like a mudslide \(crude joke\)
+
+## e0137
+
+- Page: 123
+- Kanji: 匂い
+- Kana: におい
+- English: smell\, odor\, scent
+- Notes: written におい in the text\; 味もにおいもほとんどないはずだ — should have almost no taste or smell
