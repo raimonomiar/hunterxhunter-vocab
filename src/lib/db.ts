@@ -90,6 +90,15 @@ const PROVENANCE_MIGRATION_STATEMENTS = [
   )`,
 ];
 
+const POSITION_MIGRATION_VERSION = 2;
+const POSITION_MIGRATION_STATEMENTS = [
+  // Nullable: personal-only entries (no matching source row) have no source
+  // position and sort after source-ordered entries on their page.
+  `ALTER TABLE vocab_entries ADD COLUMN source_position INTEGER`,
+  `CREATE INDEX IF NOT EXISTS idx_entries_chapter_page_position
+    ON vocab_entries(chapter_id, page, source_position)`,
+];
+
 // The captain currently owns physical volumes 1-8, so these are seeded up
 // front to keep the volume selector populated ahead of any data existing.
 // Volumes beyond this are created on demand when an entry is first added.
@@ -111,6 +120,23 @@ export async function ensureSchema(client: Client): Promise<void> {
         {
           sql: `INSERT INTO schema_migrations (version, applied_at) VALUES (?, ?)`,
           args: [PROVENANCE_MIGRATION_VERSION, now],
+        },
+      ],
+      "write",
+    );
+  }
+  const positionMigration = await client.execute({
+    sql: `SELECT version FROM schema_migrations WHERE version = ?`,
+    args: [POSITION_MIGRATION_VERSION],
+  });
+  if (positionMigration.rows.length === 0) {
+    const now = new Date().toISOString();
+    await client.batch(
+      [
+        ...POSITION_MIGRATION_STATEMENTS,
+        {
+          sql: `INSERT INTO schema_migrations (version, applied_at) VALUES (?, ?)`,
+          args: [POSITION_MIGRATION_VERSION, now],
         },
       ],
       "write",

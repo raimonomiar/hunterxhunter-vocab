@@ -26,7 +26,7 @@ Each file is named `vol<V>-ch<two-digit C>.md` and begins with `# Volume V · Ch
 - Notes:
 ```
 
-Keep IDs permanent: do not renumber after a correction, reorder, or deletion. New IDs use the next unused chapter-scoped number. Values are one logical line. Kana and English are required; blank Kanji and Notes values represent null. Literal Markdown punctuation must be escaped as shown by the canonical writer. Do not add YAML, tables, HTML, images, links, formatting, executable content, or maintained JSON files.
+Keep IDs permanent: do not renumber after a correction or deletion. New IDs use the next unused chapter-scoped number. Entry order within a page follows that page's own reading order (the order the printed lines run in on the page), so a section may move to a different position in the file when it is corrected to match that order; this is a position change, not a content edit, and does not affect the entry's ID or fields. Keep pages in ascending order. Values are one logical line. Kana and English are required; blank Kanji and Notes values represent null. Literal Markdown punctuation must be escaped as shown by the canonical writer. Do not add YAML, tables, HTML, images, links, formatting, executable content, or maintained JSON files.
 
 The canonical source owns these five fields. Nullable legacy metadata columns may remain in personal databases for compatibility, but they are not exposed in Markdown or modified by source synchronization.
 

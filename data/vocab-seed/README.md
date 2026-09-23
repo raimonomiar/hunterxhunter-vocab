@@ -108,6 +108,6 @@ These chapter files are the canonical, readable source for the shared vocabulary
 
 ## Format
 
-Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID and unrelated entries unchanged. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.
+Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID unchanged. Entry order within a page follows that page's own reading order, so a section may move to match it without changing its ID or fields. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.
 
-Corpus semantic revision: `251288497d9748a5d12149dde9d13cf3e5893565d46090b1a6164e7f968484bf`
+Corpus semantic revision: `f069ed201469d72244080685564031c8b87bd9dba655dbd1bd169bed346d1bc4`

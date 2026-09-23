@@ -102,8 +102,11 @@ export async function getStructure(): Promise<VolumeSummary[]> {
     .map(([number, chapters]) => ({ number, chapters }));
 }
 
-export async function getChapterEntries(volume: number, chapter: number): Promise<VocabEntry[]> {
-  const db = await ready();
+export async function getChapterEntriesWithExecutor(
+  db: DbExecutor,
+  volume: number,
+  chapter: number,
+): Promise<VocabEntry[]> {
   const result = await db.execute({
     sql: `
       SELECT e.id, v.number AS volume_number, c.number AS chapter_number,
@@ -112,15 +115,24 @@ export async function getChapterEntries(volume: number, chapter: number): Promis
       JOIN chapters c ON c.id = e.chapter_id
       JOIN volumes v ON v.id = c.volume_id
       WHERE v.number = ? AND c.number = ?
-      ORDER BY e.page ASC, e.id ASC
+      ORDER BY e.page ASC,
+               CASE WHEN e.source_position IS NULL THEN 1 ELSE 0 END ASC,
+               e.source_position ASC,
+               e.id ASC
     `,
     args: [volume, chapter],
   });
   return result.rows.map((r) => mapRow(r as Record<string, unknown>));
 }
 
-export async function searchEntries(query: string): Promise<VocabEntry[]> {
-  const db = await ready();
+export async function getChapterEntries(volume: number, chapter: number): Promise<VocabEntry[]> {
+  return getChapterEntriesWithExecutor(await ready(), volume, chapter);
+}
+
+export async function searchEntriesWithExecutor(
+  db: DbExecutor,
+  query: string,
+): Promise<VocabEntry[]> {
   const like = `%${query}%`;
   const result = await db.execute({
     sql: `
@@ -130,9 +142,16 @@ export async function searchEntries(query: string): Promise<VocabEntry[]> {
       JOIN chapters c ON c.id = e.chapter_id
       JOIN volumes v ON v.id = c.volume_id
       WHERE e.kanji LIKE ? OR e.kana LIKE ? OR e.english LIKE ?
-      ORDER BY v.number ASC, c.number ASC, e.page ASC, e.id ASC
+      ORDER BY v.number ASC, c.number ASC, e.page ASC,
+               CASE WHEN e.source_position IS NULL THEN 1 ELSE 0 END ASC,
+               e.source_position ASC,
+               e.id ASC
     `,
     args: [like, like, like],
   });
   return result.rows.map((r) => mapRow(r as Record<string, unknown>));
+}
+
+export async function searchEntries(query: string): Promise<VocabEntry[]> {
+  return searchEntriesWithExecutor(await ready(), query);
 }
