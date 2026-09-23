@@ -362,6 +362,21 @@ function summarize(operations: SyncOperation[]): SyncSummary {
   return summary;
 }
 
+/** Refreshes an entry's on-page display position to match its current place
+ * in the source chapter file. Never touches content fields, so a pure
+ * reorder of a chapter file never looks like a content edit or conflict.
+ */
+async function updateEntryPosition(
+  tx: Transaction,
+  localEntryId: number,
+  position: number,
+): Promise<void> {
+  await tx.execute({
+    sql: `UPDATE vocab_entries SET source_position = ? WHERE id = ?`,
+    args: [position, localEntryId],
+  });
+}
+
 function formatLocal(local: LocalEntry): string {
   return `database entry ${local.id} (V${local.volume} Ch${local.chapter}, page ${local.page})`;
 }
@@ -641,8 +656,8 @@ export async function applyVocabSync(
         const chapterId = await findOrCreateChapterWithExecutor(tx, source.volume, source.chapter);
         const inserted = await tx.execute({
           sql: `INSERT INTO vocab_entries
-                  (chapter_id, kanji, kana, english, page, notes)
-                VALUES (?, ?, ?, ?, ?, ?)
+                  (chapter_id, kanji, kana, english, page, notes, source_position)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
                 RETURNING id`,
           args: [
             chapterId,
@@ -651,6 +666,7 @@ export async function applyVocabSync(
             source.entry.english,
             source.entry.page,
             source.entry.notes,
+            source.sourceOrder,
           ],
         });
         const insertedId = numberValue(inserted.rows[0].id);
@@ -662,11 +678,12 @@ export async function applyVocabSync(
       } else if (item.kind === "adopt") {
         if (!source || !item.local) throw new Error("Adoption operation is incomplete");
         await insertProvenance(tx, source, plan.sourceRevision, item.local.id);
+        await updateEntryPosition(tx, item.local.id, source.sourceOrder);
       } else if (item.kind === "update") {
         if (!source || !item.local) throw new Error("Update operation is incomplete");
         await tx.execute({
           sql: `UPDATE vocab_entries
-                SET kanji = ?, kana = ?, english = ?, page = ?, notes = ?
+                SET kanji = ?, kana = ?, english = ?, page = ?, notes = ?, source_position = ?
                 WHERE id = ?`,
           args: [
             source.entry.kanji,
@@ -674,6 +691,7 @@ export async function applyVocabSync(
             source.entry.english,
             source.entry.page,
             source.entry.notes,
+            source.sourceOrder,
             item.local.id,
           ],
         });
@@ -716,6 +734,9 @@ export async function applyVocabSync(
           localId,
           item.kind === "preserve-deletion",
         );
+        if (localId !== null && item.kind !== "preserve-deletion") {
+          await updateEntryPosition(tx, localId, source.sourceOrder);
+        }
       }
     }
     await tx.execute({
