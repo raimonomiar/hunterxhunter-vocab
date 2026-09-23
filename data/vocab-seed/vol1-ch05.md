@@ -1919,3 +1919,195 @@
 - Kana: ばか
 - English: fool\, idiot\; foolish\, absurd
 - Notes: 馬鹿\; written in kana\; ばかな — that\'s absurd \/ impossible
+
+## e0241
+
+- Page: 107
+- Kanji:
+- Kana: おい
+- English: hey\! \(to call out to someone\, blunt register\)
+- Notes: おいそっちじゃないよ — hey\, not that way \(Killua stopping Gon\)
+
+## e0242
+
+- Page: 108
+- Kanji:
+- Kana: ステーキ
+- English: steak
+- Notes: loanword from English\; ステーキ定食 — the steak set meal ordered at the diner
+
+## e0243
+
+- Page: 109
+- Kanji:
+- Kana: あいよ
+- English: sure\, okay \(casual affirmative reply\)
+- Notes: the chef\'s casual reply when taking the order
+
+## e0244
+
+- Page: 109
+- Kanji:
+- Kana: それじゃ
+- English: well then\, in that case
+- Notes: それじゃがんばりなルーキーさん達 — well then\, good luck rookies\; casual contraction of それでは\; cf それにしても \(e0157\)
+
+## e0245
+
+- Page: 110
+- Kanji: 中
+- Kana: なか
+- English: inside\, among\, middle
+- Notes: 新人の中には — among the newcomers \(there are some who\.\.\.\)
+
+## e0246
+
+- Page: 111
+- Kanji:
+- Kana: みんな
+- English: everyone\, everybody \(casual\)
+- Notes: 何でみんなはそんな大変な目にあってまで — why does everyone go through such an awful experience\; casual register\, cf 全員 \(e0108\)
+
+## e0247
+
+- Page: 111
+- Kanji:
+- Kana: テスト
+- English: test\, exam
+- Notes: loanword from English\; テスト受けに来たのか — did you come here to take the test\?\; used interchangeably with 試験 \(e0073\)
+
+## e0248
+
+- Page: 111
+- Kanji: 知る
+- Kana: しる
+- English: to know
+- Notes: 何も知らねーで — without knowing anything
+
+## e0249
+
+- Page: 112
+- Kanji:
+- Kana: ライセンス
+- English: license
+- Notes: loanword from English\; ハンターライセンスカード — the Hunter License card that only Hunters can obtain
+
+## e0250
+
+- Page: 112
+- Kanji:
+- Kana: もらう
+- English: to receive\, to get
+- Notes: ハンターだけがもらえるライセンスカード — the license card that only Hunters can receive
+
+## e0251
+
+- Page: 112
+- Kanji:
+- Kana: ランキング
+- English: ranking
+- Notes: loanword from English\; 世界大富豪ランキングのベスト100には — the top 100 of the world\'s billionaires ranking
+
+## e0252
+
+- Page: 112
+- Kanji: 売る
+- Kana: うる
+- English: to sell
+- Notes: 売るだけで7代遊んで暮らせる — just by selling it you could live off it for 7 generations
+
+## e0253
+
+- Page: 112
+- Kanji:
+- Kana: ハード
+- English: hard\, tough\, demanding
+- Notes: loanword from English\; ハードだが、やりがいのある仕事 — it\'s tough\, but rewarding work
+
+## e0254
+
+- Page: 112
+- Kanji: 指名手配犯
+- Kana: しめいてはいはん
+- English: wanted criminal\, fugitive
+- Notes: 指名手配犯や無資格の悪質なハンターを取り締まる — cracking down on wanted criminals and unlicensed malicious Hunters\; the person\, distinct from the status 指名手配 \(e0025\)
+
+## e0255
+
+- Page: 116
+- Kanji: 違う
+- Kana: ちがう
+- English: to differ\, to be different\, to be wrong
+- Notes: 雰囲気が違う — the atmosphere is different\; distinct from 異質 \(e0035\, heterogeneous\) and 違いない \(e0110\)
+
+## e0256
+
+- Page: 118
+- Kanji:
+- Kana: オレ
+- English: I\, me \(casual\, masculine\)
+- Notes: オレはトンパ — I\'m Tonpa\; written in katakana\; casual register\, cf 自分 \(e0234\)\, お前 \(e0191\)
+
+## e0257
+
+- Page: 118
+- Kanji:
+- Kana: わかる
+- English: to understand\, to be comprehensible
+- Notes: わかるの\? — how do you know\?\; distinct from 知る \(e0248\, to know\)
+
+## e0258
+
+- Page: 119
+- Kanji:
+- Kana: コンビプレイ
+- English: combination play\, teamwork tactic
+- Notes: 絶妙のコンビプレイで常に好成績をあげてる — always getting good results with their superb teamwork\; wasei\-eigo from combi \+ play\, describing the Amori Brothers
+
+## e0259
+
+- Page: 120
+- Kanji: 人
+- Kana: ひと
+- English: person\, people
+- Notes: 人にぶつかったらあやまらなくちゃ — if you bump into someone you have to apologize
+
+## e0260
+
+- Page: 121
+- Kanji: 年
+- Kana: とし
+- English: year
+- Notes: その年の試験官が「合格」と言えば — if that year\'s examiner says pass\; cf 今年 \(e0146\)\, 毎年 \(e0173\)
+
+## e0261
+
+- Page: 122
+- Kanji:
+- Kana: よく
+- English: well\, often\; \(sarcastic\) how dare you say that
+- Notes: よく言うぜ — look who\'s talking \(sarcastic\: you\'ve got some nerve to say that\)
+
+## e0262
+
+- Page: 122
+- Kanji: 飲む
+- Kana: のむ
+- English: to drink
+- Notes: お近づきのしるしだ飲みなよ — here\, drink as a token of getting acquainted
+
+## e0263
+
+- Page: 123
+- Kanji:
+- Kana: ジュース
+- English: juice
+- Notes: loanword from English\; このジュース古くなってるよ — this juice has gone off\; used broadly for soft drinks in Japanese
+
+## e0264
+
+- Page: 123
+- Kanji:
+- Kana: パンツ
+- English: pants\, underwear
+- Notes: loanword from English\; パンツをはいてテストを受けることすらできない — can\'t even wear pants to take the test \(the laxative joke\)
