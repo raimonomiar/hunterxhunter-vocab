@@ -6,7 +6,7 @@ The chapter Markdown files under [`data/vocab-seed/`](data/vocab-seed/README.md)
 
 1. Browse the [corpus index](data/vocab-seed/README.md), open the chapter, and note the permanent entry heading (for example `e0042`) and printed page.
 2. Fork the repository or create a branch, edit only the relevant chapter Markdown, and keep the entry ID and unrelated content unchanged. Preview the rendered file before opening the pull request.
-3. Use dictionary-form Japanese where appropriate and a concise English gloss. Put scene-specific meaning or reading context in `Notes`; distinguish a literal meaning from an interpretation. Preserve intentional manga readings and do not infer a reading from a scan filename.
+3. Use dictionary-form Japanese where appropriate and a concise English gloss. Put scene-specific meaning or reading context in `Notes`; distinguish a literal meaning from an interpretation. Preserve intentional manga readings and do not infer a reading from a scan filename. Record a word on every printed page it appears on, even if it is already recorded elsewhere in the chapter; duplicate words are expected and only duplicate entry IDs are rejected.
 4. Open a focused pull request. State the location/entry ID, old meaning → proposed meaning, context/rationale, useful dictionary reference, fields changed, and any uncertainty. The correction template supplies these prompts.
 5. A maintainer reviews Japanese reading and contextual sense. CI checks structure and round-trip safety, not translation truth; uncertainty should be discussed rather than presented as proof.
 

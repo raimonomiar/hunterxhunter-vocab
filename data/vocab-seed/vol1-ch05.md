@@ -2111,3 +2111,659 @@
 - Kana: パンツ
 - English: pants\, underwear
 - Notes: loanword from English\; パンツをはいてテストを受けることすらできない — can\'t even wear pants to take the test \(the laxative joke\)
+
+## e0265
+
+- Page: 106
+- Kanji: 町
+- Kana: まち
+- English: town
+- Notes: ツバシ町の2\-5\-10は…と — Tsubashi\-town 2\-5\-10 is\.\.\.\; cf 港町 \(e0107\)
+
+## e0266
+
+- Page: 106
+- Kanji:
+- Kana: あれ
+- English: that\, that one\; \(interjection\) huh\?\, what\?
+- Notes: あれが会場か — is that the venue\?
+
+## e0267
+
+- Page: 107
+- Kanji: 志望
+- Kana: しぼう
+- English: aspiration\, wanting to become
+- Notes: ハンター志望の猛者が集まるわけだな — so this is where Hunter aspirants gather\; cf 志望者 \(e0037\)
+
+## e0268
+
+- Page: 107
+- Kanji:
+- Kana: こんな
+- English: such\, like this\, this kind of
+- Notes: 親父もこんな気持ちだったのかな — I wonder if my dad felt this way too
+
+## e0269
+
+- Page: 108
+- Kanji: 志望者
+- Kana: しぼうしゃ
+- English: hopeful\, aspirant
+- Notes: 全国から無数のハンター志望者が — countless Hunter hopefuls from all over the country\; cf e0037 \(page116\)
+
+## e0270
+
+- Page: 108
+- Kanji: 数百万人
+- Kana: すうひゃくまんにん
+- English: several million people
+- Notes: 応募者が数百万人とも言われてる — applicants said to number in the several millions
+
+## e0271
+
+- Page: 108
+- Kanji: 言う
+- Kana: いう
+- English: to say
+- Notes: 言われてる — is said \(passive\)\; まさかこの中に…集まってるなんて言うんじゃねーだろ
+
+## e0272
+
+- Page: 108
+- Kanji: 思う
+- Kana: おもう
+- English: to think
+- Notes: 思わないだろ？— you wouldn\'t think it\, would you\?
+
+## e0273
+
+- Page: 108
+- Kanji: 中
+- Kana: なか
+- English: inside\, among\, middle
+- Notes: この中に — among these people\; cf e0245 \(page110\)
+
+## e0274
+
+- Page: 108
+- Kanji: 集まる
+- Kana: あつまる
+- English: to gather\, to assemble\, to come together
+- Notes: ハンター志望者が集まってるなんて\; cf e0140 \(page107\)
+
+## e0275
+
+- Page: 108
+- Kanji: 試験
+- Kana: しけん
+- English: exam\, test
+- Notes: ハンター試験の会場だとは — a Hunter Exam venue\; cf e0073 \(page107\)
+
+## e0276
+
+- Page: 109
+- Kanji: 一万人に一人
+- Kana: いちまんにんにひとり
+- English: one in ten thousand
+- Notes: \(Expression\) the odds of passing the Hunter Exam
+
+## e0277
+
+- Page: 109
+- Kanji:
+- Kana: ルーキー
+- English: rookie
+- Notes: ルーキーさん達 — you rookies\; cf 初受験者 \(e0012\, page110\)
+
+## e0278
+
+- Page: 109
+- Kanji: 新人
+- Kana: しんじん
+- English: newcomer\, rookie
+- Notes: 新人にしちゃ上出来だ — pretty good for a rookie\; cf e0063 \(page122\)
+
+## e0279
+
+- Page: 110
+- Kanji:
+- Kana: オレ
+- English: I\, me \(casual\, masculine\)
+- Notes: オレ達が今年は受からねーみたい\; cf e0256 \(page118\)
+
+## e0280
+
+- Page: 110
+- Kanji: ３年に一人
+- Kana: さんねんにひとり
+- English: one in three years
+- Notes: \(Expression\) the rate at which examinees pass
+
+## e0281
+
+- Page: 110
+- Kanji: 受験者
+- Kana: じゅけんしゃ
+- English: examinee\, test\-taker
+- Notes: ベテラン受験者のつぶしによって — through the culling by veteran examinees\; cf 受験生 \(e0131\)\, 初受験者 \(e0012\)
+
+## e0282
+
+- Page: 110
+- Kanji: 受ける
+- Kana: うける
+- English: to take \(an exam\)\, to sit\; to receive\, to undergo
+- Notes: 二度とテストを受けられない体に\; cf e0226 \(page121\)
+
+## e0283
+
+- Page: 110
+- Kanji:
+- Kana: テスト
+- English: test\, exam
+- Notes: 余りに過酷なテストに途中で精神をやられてしまう奴\; cf e0247 \(page111\)
+
+## e0284
+
+- Page: 110
+- Kanji: 新人
+- Kana: しんじん
+- English: newcomer\, rookie
+- Notes: 新人の中には — among the newcomers\; cf e0063 \(page122\)
+
+## e0285
+
+- Page: 110
+- Kanji:
+- Kana: でも
+- English: but\, however\, even so
+- Notes: でもさ — but\, um\.\.\.
+
+## e0286
+
+- Page: 111
+- Kanji:
+- Kana: そんな
+- English: that kind of\, such
+- Notes: そんな大変な目にあってまで — going through such an awful experience
+
+## e0287
+
+- Page: 111
+- Kanji: お前
+- Kana: おまえ
+- English: you \(rough or familiar\)
+- Notes: お前本当に何も知らねーで — you really came here not knowing anything\; cf e0191 \(page109\)
+
+## e0288
+
+- Page: 111
+- Kanji: 本当
+- Kana: ほんとう
+- English: truth\, reality\; real\, true
+- Notes: お前本当に — you\, really\; cf e0203 \(page112\)
+
+## e0289
+
+- Page: 111
+- Kanji: 受ける
+- Kana: うける
+- English: to take \(an exam\)\, to sit\; to receive\, to undergo
+- Notes: テスト受けに来たのか — did you come to take the test\; cf e0226 \(page121\)
+
+## e0290
+
+- Page: 111
+- Kanji: この世
+- Kana: このよ
+- English: this world\, this life
+- Notes: ハンターはこの世で最も気高くもうかる仕事\; cf e0213 \(page112\)
+
+## e0291
+
+- Page: 112
+- Kanji:
+- Kana: カード
+- English: card
+- Notes: loanword from English\; ライセンスカード — the Hunter license card
+
+## e0292
+
+- Page: 112
+- Kanji:
+- Kana: これ
+- English: this\, this one
+- Notes: これがあればほとんどの国はフリーパス — if you have this\, most countries are a free pass
+
+## e0293
+
+- Page: 112
+- Kanji: 使う
+- Kana: つかう
+- English: to use
+- Notes: たいがいの公共施設はタダで使える — most public facilities can be used for free
+
+## e0294
+
+- Page: 112
+- Kanji: 人
+- Kana: ひと
+- English: person\, people
+- Notes: ハンターが60人も名をつらねてる — 60 Hunters have their names on the list\; cf e0259 \(page120\)
+
+## e0295
+
+- Page: 112
+- Kanji: 仕事
+- Kana: しごと
+- English: job\, work\, occupation
+- Notes: ハンターの本当の仕事だ — the true work of a Hunter\; cf e0148 \(page111\)
+
+## e0296
+
+- Page: 112
+- Kanji:
+- Kana: ベスト
+- English: best
+- Notes: loanword from English\; 世界大富豪ランキングのベスト100 — the top 100 of the world\'s billionaires ranking
+
+## e0297
+
+- Page: 112
+- Kanji: 名
+- Kana: な
+- English: name
+- Notes: 名をつらねてる — to have one\'s name listed among\; cf つらねる \(e0201\)
+
+## e0298
+
+- Page: 112
+- Kanji: 七代
+- Kana: ななだい
+- English: seven generations
+- Notes: 7代遊んで暮らせる — you could live off it for seven generations without working\; cf 暮らす \(e0150\)
+
+## e0299
+
+- Page: 112
+- Kanji: 遊ぶ
+- Kana: あそぶ
+- English: to play\, to be idle
+- Notes: 7代遊んで暮らせる — to live idly for seven generations without working
+
+## e0300
+
+- Page: 112
+- Kanji: 言う
+- Kana: いう
+- English: to say
+- Notes: 暮らせると言われてる — it is said that you can live this way
+
+## e0301
+
+- Page: 112
+- Kanji:
+- Kana: そして
+- English: and then\, and so\, thereupon
+- Notes: そしてこのカードを使えるのは — and the only ones who can use this card
+
+## e0302
+
+- Page: 112
+- Kanji:
+- Kana: だけ
+- English: only\, just
+- Notes: プロのハンターだけなのさ — only professional Hunters
+
+## e0303
+
+- Page: 112
+- Kanji: 考える
+- Kana: かんがえる
+- English: to think\, to consider
+- Notes: その保護を第一に考える — to place its protection first
+
+## e0304
+
+- Page: 112
+- Kanji:
+- Kana: それ
+- English: that\, that one
+- Notes: 二流のハンターのそれでしかない — nothing but that of a second\-rate Hunter
+
+## e0305
+
+- Page: 112
+- Kanji:
+- Kana: ため
+- English: for the sake of\, because of\, in order to
+- Notes: これら全てをこなすためには — in order to handle all of this
+
+## e0306
+
+- Page: 113
+- Kanji:
+- Kana: どう
+- English: how\, in what way
+- Notes: どうだゴン！！— how is it\, Gon\?\!
+
+## e0307
+
+- Page: 113
+- Kanji: 言う
+- Kana: いう
+- English: to say
+- Notes: どっちって言われてもなァ — even if you ask me which
+
+## e0308
+
+- Page: 118
+- Kanji:
+- Kana: ハイ
+- English: yes\; here you are \(casual affirmative \/ handing\-over interjection\)
+- Notes: ハイ 番号札 — here\, your number tag
+
+## e0309
+
+- Page: 118
+- Kanji: 君
+- Kana: きみ
+- English: you \(familiar\, friendly\)
+- Notes: 新顔だね君達 — you\'re new faces\; cf e0219 \(page117\)
+
+## e0310
+
+- Page: 118
+- Kanji: 回
+- Kana: かい
+- English: times\, occurrences \(counter\)
+- Notes: 35回もテスト受けてる — has taken the test as many as 35 times
+
+## e0311
+
+- Page: 118
+- Kanji: 歳
+- Kana: さい
+- English: years old\, age \(counter\)
+- Notes: 10歳からもう35回も — since age 10\, already 35 times
+
+## e0312
+
+- Page: 118
+- Kanji:
+- Kana: もう
+- English: already\, by now\; \(with negative\) anymore
+- Notes: 10歳からもう35回も — since age 10\, already 35 times
+
+## e0313
+
+- Page: 118
+- Kanji:
+- Kana: テスト
+- English: test\, exam
+- Notes: 35回もテスト受けてるから\; cf e0247 \(page111\)
+
+## e0314
+
+- Page: 118
+- Kanji: 受ける
+- Kana: うける
+- English: to take \(an exam\)\, to sit\; to receive\, to undergo
+- Notes: テスト受けてるから\; cf e0226 \(page121\)
+
+## e0315
+
+- Page: 118
+- Kanji: 試験
+- Kana: しけん
+- English: exam\, test
+- Notes: まぁ試験のベテランってわけだよ\; cf e0073 \(page107\)
+
+## e0316
+
+- Page: 118
+- Kanji:
+- Kana: ベテラン
+- English: veteran
+- Notes: 試験のベテランってわけだよ\; cf e0086 \(page110\)
+
+## e0317
+
+- Page: 118
+- Kanji: 人
+- Kana: ひと
+- English: person\, people
+- Notes: ここにいる人達みんな知ってるの？\; cf e0259 \(page120\)
+
+## e0318
+
+- Page: 118
+- Kanji:
+- Kana: みんな
+- English: everyone\, everybody \(casual\)
+- Notes: ここにいる人達みんな知ってるの？\; cf e0246 \(page111\)
+
+## e0319
+
+- Page: 118
+- Kanji: 知る
+- Kana: しる
+- English: to know
+- Notes: みんな知ってるの？\; cf e0248 \(page111\)
+
+## e0320
+
+- Page: 119
+- Kanji: 合格
+- Kana: ごうかく
+- English: to pass \(an exam\)
+- Notes: 今一歩で合格を逃してきた連中だ\; cf e0013 \(page110\)
+
+## e0321
+
+- Page: 121
+- Kanji: 奴
+- Kana: やつ
+- English: guy\, fellow
+- Notes: アブない奴が今年も来やがった\; cf e0083 \(page110\)
+
+## e0322
+
+- Page: 121
+- Kanji: 今年
+- Kana: ことし
+- English: this year
+- Notes: 今年も来やがった\; cf e0146 \(page110\)
+
+## e0323
+
+- Page: 121
+- Kanji: 言う
+- Kana: いう
+- English: to say
+- Notes: 合格確実と言われながら
+
+## e0324
+
+- Page: 121
+- Kanji:
+- Kana: そんな
+- English: that kind of\, such
+- Notes: そんな奴が今年も堂々とテストを受けれんのかよ
+
+## e0325
+
+- Page: 121
+- Kanji:
+- Kana: テスト
+- English: test\, exam
+- Notes: そんな奴が今年も堂々とテストを受けれんのかよ\; cf e0247 \(page111\)
+
+## e0326
+
+- Page: 121
+- Kanji: 当然
+- Kana: とうぜん
+- English: naturally\, of course
+- Notes: 当然さ ハンター試験は毎年試験官が変わる\; cf e0043 \(page118\)
+
+## e0327
+
+- Page: 121
+- Kanji: 試験
+- Kana: しけん
+- English: exam\, test
+- Notes: 悪魔だって合格できるのがハンター試験さ\; cf e0073 \(page107\)
+
+## e0328
+
+- Page: 121
+- Kanji:
+- Kana: そして
+- English: and then\, and so\, thereupon
+- Notes: そしてテストの内容はその試験官が自由に決めるんだ
+
+## e0329
+
+- Page: 121
+- Kanji: 方
+- Kana: ほう
+- English: direction\, side\, way \(in comparisons\)
+- Notes: 近寄らねー方がいいぜ — it\'s better not to get close
+
+## e0330
+
+- Page: 122
+- Kanji:
+- Kana: つぶす
+- English: to crush\, to destroy
+- Notes: \"新人つぶし\"のトンパ — Tonpa the \"rookie crusher\"\; cf e0017 \(page110\)
+
+## e0331
+
+- Page: 122
+- Kanji: 言う
+- Kana: いう
+- English: to say
+- Notes: くくくよく言うぜ — heh\, look who\'s talking
+
+## e0332
+
+- Page: 122
+- Kanji: 他
+- Kana: ほか
+- English: other\, another\; the rest\; besides
+- Notes: 他にもヤバイ奴はいっぱいいるからな\; cf e0232 \(page121\)
+
+## e0333
+
+- Page: 122
+- Kanji: 奴
+- Kana: やつ
+- English: guy\, fellow
+- Notes: ヤバイ奴はいっぱいいるからな\; cf e0083 \(page110\)
+
+## e0334
+
+- Page: 122
+- Kanji:
+- Kana: オレ
+- English: I\, me \(casual\, masculine\)
+- Notes: オレがいろいろ教えてやるから\; cf e0256 \(page118\)
+
+## e0335
+
+- Page: 122
+- Kanji:
+- Kana: いろいろ
+- English: various\, all sorts of\, many
+- Notes: オレがいろいろ教えてやるから\; cf e0221 \(page118\)
+
+## e0336
+
+- Page: 122
+- Kanji: 教える
+- Kana: おしえる
+- English: to teach\, to tell\, to inform
+- Notes: オレがいろいろ教えてやるから安心しな\; cf e0158 \(page118\)
+
+## e0337
+
+- Page: 122
+- Kanji:
+- Kana: ありがとう
+- English: thank you\, thanks
+- Notes: ありがとう！！\; cf e0222 \(page118\)
+
+## e0338
+
+- Page: 123
+- Kanji: 三日
+- Kana: みっか
+- English: three days
+- Notes: ３日は止まらねェ！！— won\'t stop for three days
+
+## e0339
+
+- Page: 123
+- Kanji: 飲む
+- Kana: のむ
+- English: to drink
+- Notes: 一口飲めば — if you drink even one mouthful\; cf e0262 \(page122\)
+
+## e0340
+
+- Page: 123
+- Kanji: お前
+- Kana: おまえ
+- English: you \(rough or familiar\)
+- Notes: お前らもうパンツをはいて\; cf e0191 \(page109\)
+
+## e0341
+
+- Page: 123
+- Kanji:
+- Kana: もう
+- English: already\, by now\; \(with negative\) anymore
+- Notes: お前らもうパンツをはいて
+
+## e0342
+
+- Page: 123
+- Kanji:
+- Kana: テスト
+- English: test\, exam
+- Notes: テストを受けることすらできないぜ！！\; cf e0247 \(page111\)
+
+## e0343
+
+- Page: 123
+- Kanji: 受ける
+- Kana: うける
+- English: to take \(an exam\)\, to sit\; to receive\, to undergo
+- Notes: テストを受けることすらできないぜ！！\; cf e0226 \(page121\)
+
+## e0344
+
+- Page: 123
+- Kanji:
+- Kana: あれ
+- English: that\, that one\; \(interjection\) huh\?\, what\?
+- Notes: あれ？おかしいな — huh\? that\'s strange
+
+## e0345
+
+- Page: 123
+- Kanji:
+- Kana: ほとんど
+- English: almost\, mostly\, nearly all\; \(with neg\) hardly
+- Notes: あの下剤はほとんど味も臭いもしないはず\; cf e0197 \(page112\)
+
+## e0346
+
+- Page: 123
+- Kanji:
+- Kana: どんな
+- English: what kind of\, what sort of
+- Notes: どんな味覚してやがるんだ — what kind of taste buds does she have
