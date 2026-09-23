@@ -98,7 +98,11 @@ test("a pure reorder of the chapter file is a position change, not a content upd
   const before = await getChapterEntriesWithExecutor(db, 1, 1);
   const idByEnglish = new Map(before.map((e) => [e.english, e.id]));
 
-  const reordered = corpus([entry("e0003", 1, "c"), entry("e0001", 1, "a"), entry("e0002", 1, "b")]);
+  const reordered = corpus([
+    entry("e0003", 1, "c"),
+    entry("e0001", 1, "a"),
+    entry("e0002", 1, "b"),
+  ]);
   const plan = await planVocabSync(db, reordered);
   assert.equal(plan.conflicts.length, 0);
   assert.equal(plan.summary.update, 0);
