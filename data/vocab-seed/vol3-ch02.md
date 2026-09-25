@@ -8,6 +8,22 @@
 - English: to settle\, to finish something off
 - Notes: Idiom\, often written ケリ\; chapter title word 多数決 is related below\; text\: オレでケリをつけてやるぜ\!\! — I\'ll settle this myself\!\!
 
+## e0070
+
+- Page: 27
+- Kanji: 多数決
+- Kana: たすうけつ
+- English: majority vote\; decision by majority
+- Notes:
+
+## e0071
+
+- Page: 27
+- Kanji: 罠
+- Kana: わな
+- English: trap\; snare
+- Notes:
+
 ## e0002
 
 - Page: 27
@@ -15,6 +31,38 @@
 - Kana: かたづける
 - English: to finish off \(an opponent\)\, to deal with\; to tidy up
 - Notes: text\: さっさとそいつを片付けて次のヤローを出しな — hurry up and finish that guy off\, send out the next one
+
+## e0073
+
+- Page: 27
+- Kanji: 出す
+- Kana: だす
+- English: to send out\; to put out
+- Notes:
+
+## e0072
+
+- Page: 27
+- Kanji: 決着
+- Kana: けっちゃく
+- English: conclusion\, settlement \(of a match or dispute\)
+- Notes: text\: 決着がついてない\?一体どーゆーことだ\!\? — it\'s not settled\? what on earth does that mean\!\?
+
+## e0074
+
+- Page: 28
+- Kanji: 多数決
+- Kana: たすうけつ
+- English: majority vote\; decision by majority
+- Notes:
+
+## e0075
+
+- Page: 28
+- Kanji: 罠
+- Kana: わな
+- English: trap\; snare
+- Notes:
 
 ## e0003
 
@@ -32,6 +80,14 @@
 - English: to faint\, to lose consciousness
 - Notes: text\: 気絶しているだけだ — he\'s only unconscious
 
+## e0076
+
+- Page: 29
+- Kanji: 勝負
+- Kana: しょうぶ
+- English: match\; contest\; fight
+- Notes:
+
 ## e0005
 
 - Page: 29
@@ -47,6 +103,46 @@
 - Kana: せんげんする
 - English: to declare\, to announce formally
 - Notes: text\: 負けを宣言するか死ぬまで戦う — fight until declaring defeat or dying
+
+## e0077
+
+- Page: 29
+- Kanji: 負ける
+- Kana: まける
+- English: to lose a match or contest
+- Notes:
+
+## e0078
+
+- Page: 29
+- Kanji: 死ぬ
+- Kana: しぬ
+- English: to die
+- Notes:
+
+## e0079
+
+- Page: 29
+- Kanji: 戦う
+- Kana: たたかう
+- English: to fight\; to battle
+- Notes:
+
+## e0080
+
+- Page: 29
+- Kanji: 決める
+- Kana: きめる
+- English: to decide\; to determine
+- Notes:
+
+## e0081
+
+- Page: 29
+- Kanji: 生きる
+- Kana: いきる
+- English: to live\; to be alive
+- Notes:
 
 ## e0007
 
@@ -72,6 +168,14 @@
 - English: idiom\: to deliver the final blow\, to tell someone it\'s over
 - Notes: Originally a Buddhist term for guiding the dead to enlightenment\; text\: あの死に損ないに引導を渡してこいよ
 
+## e0082
+
+- Page: 30
+- Kanji: 断る
+- Kana: ことわる
+- English: to refuse\; to decline
+- Notes:
+
 ## e0010
 
 - Page: 30
@@ -79,6 +183,38 @@
 - Kana: せんい
 - English: will to fight\, fighting spirit
 - Notes: text\: 戦意を失っていた相手を私は殴ってしまった — I ended up hitting an opponent who had already lost the will to fight
+
+## e0086
+
+- Page: 30
+- Kanji: 殴る
+- Kana: なぐる
+- English: to hit\; to strike\; to punch
+- Notes:
+
+## e0083
+
+- Page: 30
+- Kanji: 勝負
+- Kana: しょうぶ
+- English: match\; contest\; fight
+- Notes:
+
+## e0084
+
+- Page: 30
+- Kanji: 任せる
+- Kana: まかせる
+- English: to leave something to someone\; to entrust
+- Notes:
+
+## e0085
+
+- Page: 30
+- Kanji: 敗者
+- Kana: はいしゃ
+- English: loser\; defeated party
+- Notes:
 
 ## e0011
 
@@ -96,6 +232,38 @@
 - English: to wake up\, to awaken
 - Notes: text\: 彼が目覚めれば自ら答えは出るはず — once he wakes up\, the answer should come from him
 
+## e0087
+
+- Page: 31
+- Kanji: 殺す
+- Kana: ころす
+- English: to kill\; to murder
+- Notes:
+
+## e0093
+
+- Page: 31
+- Kanji: 殺る
+- Kana: やる
+- English: to kill \(slang\, written 殺る\)
+- Notes: Written 殺る for the slang killing sense of やる\.
+
+## e0088
+
+- Page: 31
+- Kanji: 怖い
+- Kana: こわい
+- English: scary\; frightening\; afraid
+- Notes:
+
+## e0089
+
+- Page: 31
+- Kanji: 一対一
+- Kana: いったいいち
+- English: one\-on\-one\; one against one
+- Notes:
+
 ## e0013
 
 - Page: 31
@@ -103,6 +271,14 @@
 - Kana: てだしむよう
 - English: idiom\: hands off\, no interference needed
 - Notes: text\: 一対一の勝負だ 手出し無用 — it\'s a one\-on\-one match\, keep out of it
+
+## e0090
+
+- Page: 31
+- Kanji: 勝負
+- Kana: しょうぶ
+- English: match\; contest\; fight
+- Notes:
 
 ## e0014
 
@@ -128,6 +304,22 @@
 - English: trouble\, annoyance\, nuisance
 - Notes: text\: 他人の迷惑考えろ\!\! — think about the trouble you cause others\!\!
 
+## e0091
+
+- Page: 31
+- Kanji: 多数決
+- Kana: たすうけつ
+- English: majority vote\; decision by majority
+- Notes:
+
+## e0092
+
+- Page: 31
+- Kanji: 意見
+- Kana: いけん
+- English: opinion\; view
+- Notes:
+
 ## e0017
 
 - Page: 31
@@ -152,6 +344,22 @@
 - English: a show of hands\, raising one\'s hand \(e\.g\. to vote\)
 - Notes: text\: よし挙手で決めようぜ\!\! — alright\, let\'s decide by a show of hands\!\!
 
+## e0156
+
+- Page: 32
+- Kanji: とどめを刺す
+- Kana: とどめをさす
+- English: idiom\: to deliver the finishing blow\, to finish off
+- Notes:
+
+## e0094
+
+- Page: 32
+- Kanji: 賛成
+- Kana: さんせい
+- English: agreement\; support\; being in favor
+- Notes:
+
 ## e0020
 
 - Page: 32
@@ -168,6 +376,22 @@
 - English: meaningless\, pointless
 - Notes: text\: だって無意味じゃん\!\! — because it\'s pointless\!\!
 
+## e0097
+
+- Page: 32
+- Kanji: 負ける
+- Kana: まける
+- English: to lose a match or contest
+- Notes:
+
+## e0095
+
+- Page: 32
+- Kanji: 待つ
+- Kana: まつ
+- English: to wait
+- Notes:
+
 ## e0022
 
 - Page: 32
@@ -175,6 +399,14 @@
 - Kana: きょうせい
 - English: compulsion\, coercion\, forcing someone to do something
 - Notes: text\: 強制はよくねーぜ — forcing people isn\'t good
+
+## e0096
+
+- Page: 32
+- Kanji: 事情
+- Kana: じじょう
+- English: circumstances\; situation
+- Notes:
 
 ## e0023
 
@@ -192,6 +424,14 @@
 - English: to sulk\, to pout\, to get petulant
 - Notes: Text writes it in katakana \(スネる\)\; text\: あ…スネちゃった — oh\.\.\. he\'s sulking
 
+## e0098
+
+- Page: 33
+- Kanji: 勝手に
+- Kana: かってに
+- English: as one pleases\, arbitrarily\, without permission
+- Notes: text\: オレ達が勝手にやってるからじゃない\? — isn\'t it because we\'re just doing this as we please\?
+
 ## e0025
 
 - Page: 33
@@ -199,6 +439,62 @@
 - Kana: じゅっちゅうにはまる
 - English: idiom\: to fall into someone\'s trap or scheme
 - Notes: text\: 完全に術中にはまってやがる — he\'s completely fallen into the trap
+
+## e0099
+
+- Page: 33
+- Kanji: 多数決
+- Kana: たすうけつ
+- English: majority vote\; decision by majority
+- Notes:
+
+## e0100
+
+- Page: 33
+- Kanji:
+- Kana: トリック
+- English: trick\; ruse
+- Notes:
+
+## e0102
+
+- Page: 33
+- Kanji: 便利
+- Kana: べんり
+- English: convenient\; handy
+- Notes:
+
+## e0103
+
+- Page: 33
+- Kanji: 効率的
+- Kana: こうりつてき
+- English: efficient
+- Notes:
+
+## e0105
+
+- Page: 33
+- Kanji: 決める
+- Kana: きめる
+- English: to decide\; to determine
+- Notes:
+
+## e0104
+
+- Page: 33
+- Kanji: 危険
+- Kana: きけん
+- English: danger\; dangerous
+- Notes:
+
+## e0101
+
+- Page: 33
+- Kanji: 罠
+- Kana: わな
+- English: trap\; snare
+- Notes:
 
 ## e0026
 
@@ -216,6 +512,14 @@
 - English: to respect\, to value \(an opinion or right\)
 - Notes: text\: 個人の意志を尊重しているように思える
 
+## e0106
+
+- Page: 33
+- Kanji: 意志
+- Kana: いし
+- English: will\; intention\; resolve
+- Notes:
+
 ## e0028
 
 - Page: 33
@@ -231,6 +535,14 @@
 - Kana: まっさつする
 - English: to eliminate\, to annihilate\, to purge \(an opinion or person\)
 - Notes: text\: 少数派の意志を抹殺する制度に他ならない\!\!
+
+## e0107
+
+- Page: 33
+- Kanji: 制度
+- Kana: せいど
+- English: system\; institution
+- Notes:
 
 ## e0030
 
@@ -272,6 +584,38 @@
 - English: collapse\, breakdown
 - Notes: Caption text\: そして崩壊 — and then\, collapse
 
+## e0108
+
+- Page: 34
+- Kanji: 連続
+- Kana: れんぞく
+- English: in succession\; consecutive run
+- Notes:
+
+## e0109
+
+- Page: 34
+- Kanji: 少数派
+- Kana: しょうすうは
+- English: the minority \(group or faction\)
+- Notes: text\: 実は少数派の意志を抹殺する制度に他ならない\!\! — in fact it\'s nothing but a system that annihilates the minority\'s will\!\!
+
+## e0110
+
+- Page: 34
+- Kanji: 意志
+- Kana: いし
+- English: will\; intention\; resolve
+- Notes:
+
+## e0111
+
+- Page: 34
+- Kanji: 抹殺する
+- Kana: まっさつする
+- English: to eliminate\, to annihilate\, to purge \(an opinion or person\)
+- Notes: text\: 少数派の意志を抹殺する制度に他ならない\!\!
+
 ## e0035
 
 - Page: 34
@@ -279,6 +623,22 @@
 - Kana: そがいかん
 - English: a feeling of alienation or exclusion
 - Notes: text\: 少数派にまわり自分の意志が抹殺されてしまったら疎外感\!\!不満\!\!怒りが沸き上がるのは — if you keep ending up in the minority and having your will crushed\, alienation\, dissatisfaction\, and anger naturally well up
+
+## e0112
+
+- Page: 34
+- Kanji: 不満
+- Kana: ふまん
+- English: dissatisfaction\; discontent
+- Notes:
+
+## e0113
+
+- Page: 34
+- Kanji: 怒り
+- Kana: いかり
+- English: anger\; rage
+- Notes:
 
 ## e0036
 
@@ -288,6 +648,54 @@
 - English: to well up\, to boil up \(of emotions\)
 - Notes: text\: 怒りが沸き上がるのは — that anger wells up
 
+## e0114
+
+- Page: 34
+- Kanji: 試験
+- Kana: しけん
+- English: exam\; test
+- Notes:
+
+## e0119
+
+- Page: 34
+- Kanji: 受ける
+- Kana: うける
+- English: to take an exam\; to receive\; to catch
+- Notes:
+
+## e0115
+
+- Page: 34
+- Kanji: 行動
+- Kana: こうどう
+- English: action\; behavior
+- Notes:
+
+## e0116
+
+- Page: 34
+- Kanji: 個々
+- Kana: ここ
+- English: each person\; individually
+- Notes:
+
+## e0117
+
+- Page: 34
+- Kanji: 任せる
+- Kana: まかせる
+- English: to leave something to someone\; to entrust
+- Notes:
+
+## e0118
+
+- Page: 34
+- Kanji: 意見
+- Kana: いけん
+- English: opinion\; view
+- Notes:
+
 ## e0037
 
 - Page: 34
@@ -295,6 +703,30 @@
 - Kana: きゅうちにおいこむ
 - English: idiom\: to corner someone\, to drive into a desperate situation
 - Notes: text\: 窮地に追い込まれ……その結果 従わされた側が馬鹿を見る — driven into a corner\, and as a result the one who was forced ends up looking like a fool
+
+## e0120
+
+- Page: 34
+- Kanji: 強制
+- Kana: きょうせい
+- English: compulsion\, coercion\, forcing someone to do something
+- Notes: text\: 強制はよくねーぜ — forcing people isn\'t good
+
+## e0121
+
+- Page: 34
+- Kanji: 従う
+- Kana: したがう
+- English: to obey\; to comply with\; to follow
+- Notes:
+
+## e0122
+
+- Page: 34
+- Kanji: 馬鹿を見る
+- Kana: ばかをみる
+- English: to be made a fool of\; to come off worse
+- Notes: Idiomatic phrase\.
 
 ## e0038
 
@@ -304,6 +736,14 @@
 - English: idiom\: unbearable\, intolerable
 - Notes: text\: 馬鹿を見るなど我慢ならないこと\!\! — looking like a fool like that is unbearable\!\!
 
+## e0123
+
+- Page: 34
+- Kanji: 多数決
+- Kana: たすうけつ
+- English: majority vote\; decision by majority
+- Notes:
+
 ## e0039
 
 - Page: 35
@@ -311,6 +751,30 @@
 - Kana: そうだん
 - English: consultation\, discussion
 - Notes: Chapter subsection title 相談と挙手 \(Consultation and a Show of Hands\) — the two things a majority vote must never allow\, per this chapter
+
+## e0124
+
+- Page: 35
+- Kanji: 挙手
+- Kana: きょしゅ
+- English: a show of hands\, raising one\'s hand \(e\.g\. to vote\)
+- Notes: text\: よし挙手で決めようぜ\!\! — alright\, let\'s decide by a show of hands\!\!
+
+## e0128
+
+- Page: 35
+- Kanji: 意見
+- Kana: いけん
+- English: opinion\; view
+- Notes:
+
+## e0127
+
+- Page: 35
+- Kanji: 結論
+- Kana: けつろん
+- English: conclusion\; decision
+- Notes:
 
 ## e0040
 
@@ -320,21 +784,13 @@
 - English: rational\, reasonable\, logical
 - Notes: text\: 5人が意見を出し合い最終的な結論を導く相談という方法はとても合理的かつ理想的に思える — five people pooling opinions to reach a final conclusion through discussion seems very rational and ideal
 
-## e0041
+## e0126
 
 - Page: 35
-- Kanji: 愚行
-- Kana: ぐこう
-- English: a foolish act\, folly
-- Notes: text\: 挙手による多数決は最大の愚行\!\! — a majority vote by show of hands is the greatest folly\!\!
-
-## e0042
-
-- Page: 35
-- Kanji: 匿名性
-- Kana: とくめいせい
-- English: anonymity
-- Notes: text\: 匿名性が失われ自分に反対する者が誰かわかるのに — with anonymity lost\, you know exactly who is opposing you
+- Kanji: 理想的
+- Kana: りそうてき
+- English: ideal
+- Notes:
 
 ## e0043
 
@@ -352,6 +808,14 @@
 - English: a brawl\, a melee fight
 - Notes: text\: 乱闘寸前まで論争した — argued to the brink of a brawl
 
+## e0129
+
+- Page: 35
+- Kanji: 選ぶ
+- Kana: えらぶ
+- English: to choose\; to select
+- Notes:
+
 ## e0045
 
 - Page: 35
@@ -359,6 +823,110 @@
 - Kana: ゆうこう
 - English: effective\, valid
 - Notes: text\: 相談とはたっぷり時間があってはじめて有効な手段なのだ — discussion is only an effective means once there is ample time
+
+## e0130
+
+- Page: 35
+- Kanji: 手段
+- Kana: しゅだん
+- English: means\; method
+- Notes:
+
+## e0125
+
+- Page: 35
+- Kanji: 多数決
+- Kana: たすうけつ
+- English: majority vote\; decision by majority
+- Notes:
+
+## e0041
+
+- Page: 35
+- Kanji: 愚行
+- Kana: ぐこう
+- English: a foolish act\, folly
+- Notes: text\: 挙手による多数決は最大の愚行\!\! — a majority vote by show of hands is the greatest folly\!\!
+
+## e0042
+
+- Page: 35
+- Kanji: 匿名性
+- Kana: とくめいせい
+- English: anonymity
+- Notes: text\: 匿名性が失われ自分に反対する者が誰かわかるのに — with anonymity lost\, you know exactly who is opposing you
+
+## e0131
+
+- Page: 35
+- Kanji: 反対
+- Kana: はんたい
+- English: opposition\; against
+- Notes:
+
+## e0132
+
+- Page: 35
+- Kanji: 少数派
+- Kana: しょうすうは
+- English: the minority \(group or faction\)
+- Notes: text\: 実は少数派の意志を抹殺する制度に他ならない\!\! — in fact it\'s nothing but a system that annihilates the minority\'s will\!\!
+
+## e0133
+
+- Page: 35
+- Kanji: 反論
+- Kana: はんろん
+- English: counterargument\; rebuttal
+- Notes:
+
+## e0136
+
+- Page: 35
+- Kanji: 抹殺する
+- Kana: まっさつする
+- English: to eliminate\, to annihilate\, to purge \(an opinion or person\)
+- Notes: text\: 少数派の意志を抹殺する制度に他ならない\!\!
+
+## e0134
+
+- Page: 35
+- Kanji: 対立
+- Kana: たいりつ
+- English: conflict\, confrontation\, opposition
+- Notes: Caption text\, contrasted with 崩壊 below
+
+## e0135
+
+- Page: 35
+- Kanji: 意志
+- Kana: いし
+- English: will\; intention\; resolve
+- Notes:
+
+## e0137
+
+- Page: 35
+- Kanji: 決裂
+- Kana: けつれつ
+- English: breakdown\, rupture \(of talks or relations\)
+- Notes: text\: 決裂はまさに時間の問題だな…\!\! — the breakdown is truly just a matter of time\.\.\.\!\!
+
+## e0139
+
+- Page: 35
+- Kanji:
+- Kana: すなわち
+- English: that is\; namely
+- Notes:
+
+## e0138
+
+- Page: 35
+- Kanji: 失格
+- Kana: しっかく
+- English: disqualification\; failure to qualify
+- Notes:
 
 ## e0046
 
@@ -384,6 +952,14 @@
 - English: avenger\, one seeking revenge
 - Notes: text\: ただの復讐者としてな — just as an avenger
 
+## e0140
+
+- Page: 37
+- Kanji: 試験
+- Kana: しけん
+- English: exam\; test
+- Notes:
+
 ## e0049
 
 - Page: 37
@@ -392,6 +968,14 @@
 - English: examiner\, exam proctor
 - Notes: text\: 今年は試験官ではなく — this year\, not as an examiner
 
+## e0142
+
+- Page: 38
+- Kanji: 試験
+- Kana: しけん
+- English: exam\; test
+- Notes:
+
 ## e0050
 
 - Page: 38
@@ -399,6 +983,22 @@
 - Kana: きさま
 - English: you \(archaic\, hostile\/insulting pronoun\)
 - Notes: text\: 貴様を殺すことだけ考えてきた — I\'ve thought of nothing but killing you
+
+## e0141
+
+- Page: 38
+- Kanji: 殺す
+- Kana: ころす
+- English: to kill\; to murder
+- Notes:
+
+## e0143
+
+- Page: 38
+- Kanji: 傷
+- Kana: きず
+- English: wound\; injury
+- Notes:
 
 ## e0051
 
@@ -440,6 +1040,14 @@
 - English: two\-sword style\, dual\-wielding
 - Notes: text\: 二刀流…か — dual\-wielding\, huh
 
+## e0144
+
+- Page: 40
+- Kanji: 無限
+- Kana: むげん
+- English: infinite\; limitless
+- Notes:
+
 ## e0056
 
 - Page: 40
@@ -448,13 +1056,13 @@
 - English: take this\! \(imperative slang\, from 食らう\, used when attacking\)
 - Notes: text\: くらえ\!\!
 
-## e0057
+## e0146
 
 - Page: 41
-- Kanji: 不可能
-- Kana: ふかのう
-- English: impossible
-- Notes: text\: この無限攻撃をかわすのは不可能\!\! — dodging this endless attack is impossible\!\!
+- Kanji: 角度
+- Kana: かくど
+- English: angle
+- Notes:
 
 ## e0058
 
@@ -480,6 +1088,14 @@
 - English: blade
 - Notes: text\: 無数の刃が貴様を切り刻む\!\!
 
+## e0151
+
+- Page: 41
+- Kanji: 貴様
+- Kana: きさま
+- English: you \(archaic\, hostile\/insulting pronoun\)
+- Notes: text\: 貴様を殺すことだけ考えてきた — I\'ve thought of nothing but killing you
+
 ## e0061
 
 - Page: 41
@@ -487,6 +1103,46 @@
 - Kana: きりきざむ
 - English: to slice to pieces\, to chop up finely
 - Notes: text\: 無数の刃が貴様を切り刻む\!\!
+
+## e0145
+
+- Page: 41
+- Kanji: 無限
+- Kana: むげん
+- English: infinite\; limitless
+- Notes:
+
+## e0147
+
+- Page: 41
+- Kanji: 攻撃
+- Kana: こうげき
+- English: attack\; offense
+- Notes:
+
+## e0148
+
+- Page: 41
+- Kanji:
+- Kana: かわす
+- English: to dodge\; to evade
+- Notes:
+
+## e0057
+
+- Page: 41
+- Kanji: 不可能
+- Kana: ふかのう
+- English: impossible
+- Notes: text\: この無限攻撃をかわすのは不可能\!\! — dodging this endless attack is impossible\!\!
+
+## e0149
+
+- Page: 41
+- Kanji: 苦痛
+- Kana: くつう
+- English: pain\; suffering
+- Notes:
 
 ## e0062
 
@@ -496,6 +1152,22 @@
 - English: to writhe\, to struggle \(esp\. in pain\)
 - Notes: text\: 苦痛にもがいてまわれ\!\! — writhe in agony\!\!
 
+## e0150
+
+- Page: 41
+- Kanji:
+- Kana: のたうつ
+- English: to writhe\; to writhe in agony
+- Notes:
+
+## e0152
+
+- Page: 42
+- Kanji: 死ぬ
+- Kana: しぬ
+- English: to die
+- Notes:
+
 ## e0063
 
 - Page: 43
@@ -503,6 +1175,14 @@
 - Kana: きょくとう
 - English: curved sword\, curved blade
 - Notes: text\: とんでくる曲刀を受けれるようになるまで半年以上かかったんだぞ\!\! — it took over half a year to be able to catch the curved blades thrown at me\!\!
+
+## e0153
+
+- Page: 43
+- Kanji: 受ける
+- Kana: うける
+- English: to take an exam\; to receive\; to catch
+- Notes:
 
 ## e0064
 
@@ -536,6 +1216,14 @@
 - English: time required\, time needed
 - Notes: text\: 所要時間6時間17分 — time required\: 6 hours 17 minutes
 
+## e0154
+
+- Page: 44
+- Kanji: 試験
+- Kana: しけん
+- English: exam\; test
+- Notes:
+
 ## e0068
 
 - Page: 44
@@ -551,3 +1239,11 @@
 - Kana: もしかして
 - English: perhaps\, could it be that\.\.\.
 - Notes: text\: もしかしてあいつ… — could it be that guy\.\.\.\?
+
+## e0155
+
+- Page: 45
+- Kanji: 死ぬ
+- Kana: しぬ
+- English: to die
+- Notes:
