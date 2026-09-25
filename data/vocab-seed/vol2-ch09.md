@@ -184,14 +184,6 @@
 - English: to be able to\; can
 - Notes:
 
-## e0595
-
-- Page: 167
-- Kanji: 出来る
-- Kana: できる
-- English: to be able to\; can
-- Notes:
-
 ## e0589
 
 - Page: 167
@@ -240,6 +232,14 @@
 - English: to watch as a spectacle\, to view
 - Notes:
 
+## e0595
+
+- Page: 167
+- Kanji: 出来る
+- Kana: できる
+- English: to be able to\; can
+- Notes:
+
 ## e0596
 
 - Page: 167
@@ -254,6 +254,22 @@
 - Kanji: 夢
 - Kana: ゆめ
 - English: dream
+- Notes:
+
+## e1054
+
+- Page: 167
+- Kanji: 多い
+- Kana: おおい
+- English: many
+- Notes:
+
+## e1055
+
+- Page: 167
+- Kanji: 人
+- Kana: ひと
+- English: person
 - Notes:
 
 ## e0598
@@ -287,6 +303,14 @@
 - Kana: くいつぶす
 - English: to consume\; to squander
 - Notes:
+
+## e1056
+
+- Page: 167
+- Kanji: 行く
+- Kana: いく
+- English: to go\; to continue
+- Notes: In 食いつぶされていく
 
 ## e0602
 
@@ -487,6 +511,14 @@
 - Kana: き
 - English: interest\; inclination
 - Notes:
+
+## e1057
+
+- Page: 168
+- Kanji:
+- Kana: なんか
+- English: like\; at all
+- Notes: Dismissive emphasis
 
 ## e0010
 
@@ -840,14 +872,6 @@
 - English: prison sentence\; term
 - Notes:
 
-## e0685
-
-- Page: 170
-- Kanji: 刑期
-- Kana: けいき
-- English: prison sentence\; term
-- Notes:
-
 ## e0668
 
 - Page: 170
@@ -990,6 +1014,14 @@
 - Kanji: 服役囚
 - Kana: ふくえきしゅう
 - English: prisoner serving a sentence
+- Notes:
+
+## e0685
+
+- Page: 170
+- Kanji: 刑期
+- Kana: けいき
+- English: prison sentence\; term
 - Notes:
 
 ## e0687
@@ -1304,6 +1336,14 @@
 - English: to remove\; to take off
 - Notes:
 
+## e1058
+
+- Page: 172
+- Kanji: レオリオ
+- Kana: れおりお
+- English: Leorio (name)
+- Notes:
+
 ## e0726
 
 - Page: 172
@@ -1352,23 +1392,7 @@
 - English: they\; those guys
 - Notes:
 
-## e0744
-
-- Page: 172
-- Kanji: 奴ら
-- Kana: やつら
-- English: they\; those guys
-- Notes:
-
 ## e0732
-
-- Page: 172
-- Kanji: 狙い
-- Kana: ねらい
-- English: aim\; objective
-- Notes:
-
-## e0750
 
 - Page: 172
 - Kanji: 狙い
@@ -1464,6 +1488,14 @@
 - English: internal strife\, infighting
 - Notes:
 
+## e0744
+
+- Page: 172
+- Kanji: 奴ら
+- Kana: やつら
+- English: they\; those guys
+- Notes:
+
 ## e0029
 
 - Page: 172
@@ -1502,6 +1534,14 @@
 - Kanji: 足止め
 - Kana: あしどめ
 - English: holding back\; detention
+- Notes:
+
+## e0750
+
+- Page: 172
+- Kanji: 狙い
+- Kana: ねらい
+- English: aim\; objective
 - Notes:
 
 ## e0751
@@ -1832,6 +1872,14 @@
 - English: next
 - Notes:
 
+## e1059
+
+- Page: 173
+- Kanji: 人
+- Kana: ひと
+- English: person
+- Notes:
+
 ## e0790
 
 - Page: 173
@@ -1872,6 +1920,38 @@
 - English: the physical type \(relies on brawn over brains\)
 - Notes:
 
+## e1060
+
+- Page: 174
+- Kanji:
+- Kana: さて
+- English: well\; now
+- Notes:
+
+## e1061
+
+- Page: 174
+- Kanji: ご覧
+- Kana: ごらん
+- English: look\; see (honorific)
+- Notes: In ご覧のように
+
+## e1062
+
+- Page: 174
+- Kanji:
+- Kana: よう
+- English: as\; like
+- Notes: In ご覧のように
+
+## e1063
+
+- Page: 174
+- Kanji: セドカン
+- Kana: せどかん
+- English: Sedokan (name)
+- Notes:
+
 ## e0040
 
 - Page: 174
@@ -1886,6 +1966,14 @@
 - Kanji: 懲役
 - Kana: ちょうえき
 - English: prison sentence
+- Notes:
+
+## e1064
+
+- Page: 174
+- Kanji: ぼく
+- Kana: ぼく
+- English: I\; me (childlike or gentle speech)
 - Notes:
 
 ## e0797
@@ -1910,6 +1998,14 @@
 - Kanji: 自信
 - Kana: じしん
 - English: confidence
+- Notes:
+
+## e1065
+
+- Page: 174
+- Kanji:
+- Kana: ない
+- English: not\; there is not
 - Notes:
 
 ## e0800
@@ -2232,14 +2328,6 @@
 - English: to decide
 - Notes:
 
-## e0847
-
-- Page: 176
-- Kanji: 決める
-- Kana: きめる
-- English: to decide
-- Notes:
-
 ## e0838
 
 - Page: 176
@@ -2264,14 +2352,6 @@
 - English: short
 - Notes:
 
-## e0859
-
-- Page: 176
-- Kanji: 短い
-- Kana: みじかい
-- English: short
-- Notes:
-
 ## e0841
 
 - Page: 176
@@ -2280,15 +2360,31 @@
 - English: to press
 - Notes:
 
-## e0842
+## e0846
 
 - Page: 176
-- Kanji: 普通
-- Kana: ふつう
-- English: usual\; ordinary
+- Kanji: 多数決
+- Kana: たすうけつ
+- English: majority vote\; majority rule
 - Notes:
 
-## e0857
+## e0847
+
+- Page: 176
+- Kanji: 決める
+- Kana: きめる
+- English: to decide
+- Notes:
+
+## e0848
+
+- Page: 176
+- Kanji:
+- Kana: もらう
+- English: to receive\; to have someone do
+- Notes:
+
+## e0842
 
 - Page: 176
 - Kanji: 普通
@@ -2320,22 +2416,6 @@
 - English: to take\; to choose
 - Notes:
 
-## e0846
-
-- Page: 176
-- Kanji: 多数決
-- Kana: たすうけつ
-- English: majority vote\; majority rule
-- Notes:
-
-## e0848
-
-- Page: 176
-- Kanji:
-- Kana: もらう
-- English: to receive\; to have someone do
-- Notes:
-
 ## e0849
 
 - Page: 176
@@ -2344,12 +2424,12 @@
 - English: that way\; so
 - Notes:
 
-## e0855
+## e0857
 
 - Page: 176
-- Kanji:
-- Kana: そう
-- English: that way\; so
+- Kanji: 普通
+- Kana: ふつう
+- English: usual\; ordinary
 - Notes:
 
 ## e0042
@@ -2376,14 +2456,6 @@
 - English: trick\, device\, mechanism
 - Notes:
 
-## e0861
-
-- Page: 176
-- Kanji: 仕掛け
-- Kana: しかけ
-- English: mechanism\; trick
-- Notes:
-
 ## e0853
 
 - Page: 176
@@ -2398,6 +2470,14 @@
 - Kanji: 確か
 - Kana: たしか
 - English: surely\; certainly
+- Notes:
+
+## e0855
+
+- Page: 176
+- Kanji:
+- Kana: そう
+- English: that way\; so
 - Notes:
 
 ## e0856
@@ -2424,6 +2504,22 @@
 - English: to outwit\, to catch someone off guard
 - Notes: Expression
 
+## e0859
+
+- Page: 176
+- Kanji: 短い
+- Kana: みじかい
+- English: short
+- Notes:
+
+## e0861
+
+- Page: 176
+- Kanji: 仕掛け
+- Kana: しかけ
+- English: mechanism\; trick
+- Notes:
+
 ## e0860
 
 - Page: 176
@@ -2446,6 +2542,14 @@
 - Kanji:
 - Kana: そんな
 - English: that kind of
+- Notes:
+
+## e1066
+
+- Page: 177
+- Kanji:
+- Kana: こと
+- English: thing\; matter
 - Notes:
 
 ## e0864
@@ -2496,14 +2600,6 @@
 - English: two choices\; either-or choice
 - Notes:
 
-## e0889
-
-- Page: 177
-- Kanji: 二択
-- Kana: にたく
-- English: two choices\; either-or choice
-- Notes:
-
 ## e0869
 
 - Page: 177
@@ -2544,14 +2640,6 @@
 - English: choice\; selection
 - Notes:
 
-## e0883
-
-- Page: 177
-- Kanji: 選択
-- Kana: せんたく
-- English: choice\; selection
-- Notes:
-
 ## e0047
 
 - Page: 177
@@ -2566,6 +2654,14 @@
 - Kanji: 時
 - Kana: とき
 - English: time\; when
+- Notes:
+
+## e1067
+
+- Page: 177
+- Kanji: 人
+- Kana: ひと
+- English: person
 - Notes:
 
 ## e0046
@@ -2624,6 +2720,14 @@
 - English: furthermore\; moreover
 - Notes:
 
+## e0883
+
+- Page: 177
+- Kanji: 選択
+- Kana: せんたく
+- English: choice\; selection
+- Notes:
+
 ## e0884
 
 - Page: 177
@@ -2662,6 +2766,14 @@
 - Kanji: 公平
 - Kana: こうへい
 - English: fair\; impartial
+- Notes:
+
+## e0889
+
+- Page: 177
+- Kanji: 二択
+- Kana: にたく
+- English: two choices\; either-or choice
 - Notes:
 
 ## e0050
@@ -2944,6 +3056,14 @@
 - English: good\; fine
 - Notes:
 
+## e0926
+
+- Page: 178
+- Kanji:
+- Kana: わかる
+- English: to understand
+- Notes:
+
 ## e0924
 
 - Page: 178
@@ -2966,14 +3086,6 @@
 - Kanji: 長い
 - Kana: ながい
 - English: long
-- Notes:
-
-## e0926
-
-- Page: 178
-- Kanji:
-- Kana: わかる
-- English: to understand
 - Notes:
 
 ## e0928
@@ -3664,23 +3776,7 @@
 - English: in reality\; actually
 - Notes:
 
-## e1028
-
-- Page: 184
-- Kanji: 実際
-- Kana: じっさい
-- English: in reality\; actually
-- Notes:
-
 ## e1014
-
-- Page: 184
-- Kanji: 罠
-- Kana: わな
-- English: trap
-- Notes:
-
-## e1020
 
 - Page: 184
 - Kanji: 罠
@@ -3776,12 +3872,12 @@
 - English: both
 - Notes:
 
-## e1037
+## e1020
 
 - Page: 184
-- Kanji: 方
-- Kana: ほう
-- English: side\; one
+- Kanji: 罠
+- Kana: わな
+- English: trap
 - Notes:
 
 ## e1027
@@ -3790,6 +3886,14 @@
 - Kanji: 考える
 - Kana: かんがえる
 - English: to think
+- Notes:
+
+## e1028
+
+- Page: 184
+- Kanji: 実際
+- Kana: じっさい
+- English: in reality\; actually
 - Notes:
 
 ## e1029
@@ -3806,6 +3910,14 @@
 - Kanji: 選ぶ
 - Kana: えらぶ
 - English: to choose
+- Notes:
+
+## e1037
+
+- Page: 184
+- Kanji: 方
+- Kana: ほう
+- English: side\; one
 - Notes:
 
 ## e1031
@@ -3855,6 +3967,14 @@
 - Kana: しみこむ
 - English: to soak into\, to permeate
 - Notes:
+
+## e1068
+
+- Page: 184
+- Kanji: 蝋燭
+- Kana: ろうそく
+- English: candle
+- Notes: Printed as ローソク
 
 ## e1038
 
