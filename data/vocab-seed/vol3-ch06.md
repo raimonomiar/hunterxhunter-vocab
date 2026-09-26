@@ -1,12 +1,12 @@
 # Volume 3 · Chapter 6
 
-## e0001
+## e0003
 
 - Page: 107
-- Kanji: 狩る
-- Kana: かる
-- English: to hunt
-- Notes: Chapter title wordplay\; text\: 狩る者と狩られる者 — the hunter and the hunted
+- Kanji:
+- Kana: クジ
+- English: lottery\, lots\, a drawing
+- Notes:
 
 ## e0002
 
@@ -16,13 +16,21 @@
 - English: to decide\, to determine
 - Notes: text\: このクジで決定するのは — what this lottery decides is\.\.\.
 
-## e0003
+## e0001
+
+- Page: 107
+- Kanji: 狩る
+- Kana: かる
+- English: to hunt
+- Notes: Chapter title wordplay\; text\: 狩る者と狩られる者 — the hunter and the hunted
+
+## e0052
 
 - Page: 107
 - Kanji:
-- Kana: クジ
-- English: lottery\, lots\, a drawing
-- Notes:
+- Kana: カード
+- English: card\; numbered lottery card
+- Notes: One of the numbered cards used to assign examinee targets\.
 
 ## e0004
 
@@ -38,6 +46,14 @@
 - Kanji: 受験番号
 - Kana: じゅけんばんごう
 - English: examinee number\, applicant number
+- Notes:
+
+## e0053
+
+- Page: 107
+- Kanji: 引く
+- Kana: ひく
+- English: to draw\; to pick a number
 - Notes:
 
 ## e0006
@@ -56,6 +72,46 @@
 - English: in order\, in sequence
 - Notes:
 
+## e0054
+
+- Page: 110
+- Kanji:
+- Kana: クジ
+- English: lottery\; drawing
+- Notes:
+
+## e0055
+
+- Page: 110
+- Kanji: 引く
+- Kana: ひく
+- English: to draw\; to pick a number
+- Notes:
+
+## e0058
+
+- Page: 111
+- Kanji: 引く
+- Kana: ひく
+- English: to draw\; to pick a number
+- Notes:
+
+## e0056
+
+- Page: 111
+- Kanji: 諸君
+- Kana: しょくん
+- English: everyone\; you all \(formal group address\)
+- Notes:
+
+## e0057
+
+- Page: 111
+- Kanji:
+- Kana: カード
+- English: card\; numbered lottery card
+- Notes:
+
 ## e0008
 
 - Page: 111
@@ -64,20 +120,20 @@
 - English: to memorize\, to record \(in memory\)
 - Notes: text\: 全てこの機械に記憶されている — it\'s all been recorded in this machine
 
-## e0009
-
-- Page: 111
-- Kanji: 処分する
-- Kana: しょぶんする
-- English: to dispose of\, to get rid of
-- Notes:
-
 ## e0010
 
 - Page: 111
 - Kanji: 各自
 - Kana: かくじ
 - English: each person\, individually
+- Notes:
+
+## e0009
+
+- Page: 111
+- Kanji: 処分する
+- Kana: しょぶんする
+- English: to dispose of\, to get rid of
 - Notes:
 
 ## e0011
@@ -120,12 +176,52 @@
 - English: to steal\, to snatch\, to take by force
 - Notes: text\: 奪うのは獲物のナンバープレート — what you steal is your prey\'s number plate
 
+## e0059
+
+- Page: 112
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\; quarry\; target
+- Notes: Text gives it the furigana ターゲット \(target\)\.
+
+## e0060
+
+- Page: 112
+- Kanji:
+- Kana: ナンバープレート
+- English: number plate\; examinee’s numbered tag
+- Notes: The numbered tag each examinee must take from a target\.
+
+## e0061
+
+- Page: 112
+- Kanji: 受験生
+- Kana: じゅけんせい
+- English: examinee\; exam candidate
+- Notes:
+
+## e0062
+
+- Page: 113
+- Kanji:
+- Kana: ナンバープレート
+- English: number plate\; examinee’s numbered tag
+- Notes:
+
 ## e0016
 
 - Page: 113
 - Kanji: 最終試験
 - Kana: さいしゅうしけん
 - English: final exam
+- Notes:
+
+## e0063
+
+- Page: 113
+- Kanji: 必要
+- Kana: ひつよう
+- English: necessary\; needed
 - Notes:
 
 ## e0017
@@ -144,6 +240,22 @@
 - English: period of one\'s stay
 - Notes:
 
+## e0064
+
+- Page: 113
+- Kanji: 集める
+- Kana: あつめる
+- English: to collect\; to gather
+- Notes:
+
+## e0065
+
+- Page: 114
+- Kanji:
+- Kana: ゴォォォォォォ
+- English: a deep roaring or rushing sound
+- Notes: Large graphic sound effect across the island scene\.
+
 ## e0019
 
 - Page: 115
@@ -152,12 +264,28 @@
 - English: unconditional\, no strings attached
 - Notes: text\: 無条件招待権が与えられます — you\'re granted an unconditional invitation
 
+## e0066
+
+- Page: 115
+- Kanji: 招待権
+- Kana: しょうたいけん
+- English: right to an invitation
+- Notes: Part of 無条件招待権\.
+
 ## e0020
 
 - Page: 115
 - Kanji: 与える
 - Kana: あたえる
 - English: to give\, to grant\, to bestow
+- Notes:
+
+## e0067
+
+- Page: 115
+- Kanji: 受かる
+- Kana: うかる
+- English: to pass an exam
 - Notes:
 
 ## e0021
@@ -184,6 +312,46 @@
 - English: gloomy\, dull\, depressing
 - Notes: Slang exclamation\; text\: 辛気くせーわ\! — how depressing\!
 
+## e0027
+
+- Page: 116
+- Kanji: 一体
+- Kana: いったい
+- English: \(in questions\) on earth\, in the world\, the heck
+- Notes: text\: 一体どいつだ — just who the heck is it
+
+## e0068
+
+- Page: 116
+- Kanji: 狩る
+- Kana: かる
+- English: to hunt
+- Notes:
+
+## e0069
+
+- Page: 116
+- Kanji: 戦い
+- Kana: たたかい
+- English: battle\; fight
+- Notes:
+
+## e0070
+
+- Page: 116
+- Kanji: 始まる
+- Kana: はじまる
+- English: to begin\; to start
+- Notes:
+
+## e0071
+
+- Page: 116
+- Kanji:
+- Kana: プレート
+- English: plate\; examinee’s numbered tag
+- Notes: Shortened form of ナンバープレート in this chapter\.
+
 ## e0024
 
 - Page: 116
@@ -208,13 +376,13 @@
 - English: to cut off\, to block\, to intercept
 - Notes: text\: 情報を遮断した — cut off \(any exchange of\) information
 
-## e0027
+## e0072
 
-- Page: 116
-- Kanji: 一体
-- Kana: いったい
-- English: \(in questions\) on earth\, in the world\, the heck
-- Notes: text\: 一体どいつだ — just who the heck is it
+- Page: 117
+- Kanji: 引く
+- Kana: ひく
+- English: to draw\; to pick a number
+- Notes:
 
 ## e0028
 
@@ -232,6 +400,14 @@
 - English: to feel relieved\, to be at ease
 - Notes: text\: 安心しろよ — relax\, don\'t worry
 
+## e0073
+
+- Page: 117
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\; quarry\; target
+- Notes: Text gives it the furigana シークレット \(secret\)\.
+
 ## e0030
 
 - Page: 117
@@ -248,6 +424,22 @@
 - English: showing each other\, mutual show\-and\-tell
 - Notes: Casual\/childish speech
 
+## e0074
+
+- Page: 118
+- Kanji:
+- Kana: せーの
+- English: ready\; set \(go\)\; on the count of three
+- Notes: Cue phrase before doing something together\.
+
+## e0075
+
+- Page: 118
+- Kanji:
+- Kana: クジ
+- English: lottery\; drawing
+- Notes:
+
 ## e0032
 
 - Page: 118
@@ -256,6 +448,38 @@
 - English: luck in a lottery or drawing
 - Notes: text\: お前クジ運ないなー — you really have no luck with lotteries
 
+## e0076
+
+- Page: 118
+- Kanji: 覚える
+- Kana: おぼえる
+- English: to remember\; to memorize
+- Notes:
+
+## e0077
+
+- Page: 118
+- Kanji: 探す
+- Kana: さがす
+- English: to search for\; to look for
+- Notes:
+
+## e0078
+
+- Page: 118
+- Kanji:
+- Kana: プレート
+- English: plate\; examinee’s numbered tag
+- Notes: Shortened form of ナンバープレート in this chapter\.
+
+## e0079
+
+- Page: 118
+- Kanji: 隠す
+- Kana: かくす
+- English: to hide\; to conceal
+- Notes:
+
 ## e0033
 
 - Page: 118
@@ -263,6 +487,14 @@
 - Kana: せこい
 - English: petty\, cheap\, stingy\, lame
 - Notes: Slang\; text\: プレート隠してんの せこいよな — hiding your plate like that is so petty
+
+## e0080
+
+- Page: 119
+- Kanji: 怖い
+- Kana: こわい
+- English: scary\; frightening\; afraid
+- Notes:
 
 ## e0034
 
@@ -280,6 +512,46 @@
 - English: a chance of winning
 - Notes: text\: オレに勝ち目はなかっただろう — I probably wouldn\'t have had a chance of winning
 
+## e0081
+
+- Page: 119
+- Kanji:
+- Kana: プレート
+- English: plate\; examinee’s numbered tag
+- Notes: Shortened form of ナンバープレート in this chapter\.
+
+## e0082
+
+- Page: 119
+- Kanji: 奪う
+- Kana: うばう
+- English: to steal\; to snatch\; to take by force
+- Notes:
+
+## e0083
+
+- Page: 119
+- Kanji: 方法
+- Kana: ほうほう
+- English: method\; way
+- Notes:
+
+## e0084
+
+- Page: 120
+- Kanji:
+- Kana: チャンス
+- English: chance\; opportunity
+- Notes:
+
+## e0085
+
+- Page: 120
+- Kanji: 怖い
+- Kana: こわい
+- English: scary\; frightening\; afraid
+- Notes:
+
 ## e0036
 
 - Page: 120
@@ -287,6 +559,14 @@
 - Kana: やりがい
 - English: a sense of purpose\, something worth doing\/rewarding
 - Notes: text\: やりがいはあるよ — it\'s worth doing
+
+## e0086
+
+- Page: 120
+- Kanji: 頑張る
+- Kana: がんばる
+- English: to persevere\; to do one’s best
+- Notes:
 
 ## e0037
 
@@ -302,6 +582,14 @@
 - Kanji: 通過する
 - Kana: つうかする
 - English: to pass \(a test\, checkpoint\)\, to go through
+- Notes:
+
+## e0087
+
+- Page: 121
+- Kanji: 順に
+- Kana: じゅんに
+- English: in order\; in sequence
 - Notes:
 
 ## e0039
@@ -320,6 +608,14 @@
 - English: to land\, to go ashore
 - Notes:
 
+## e0088
+
+- Page: 121
+- Kanji:
+- Kana: スタートする
+- English: to start\; to begin
+- Notes:
+
 ## e0041
 
 - Page: 121
@@ -335,6 +631,46 @@
 - Kana: たいざいきげん
 - English: the deadline\/time limit for one\'s stay
 - Notes: Contrast with 滞在期間 \(duration of stay\) on page 113 — 期限 stresses the cutoff date
+
+## e0089
+
+- Page: 121
+- Kanji:
+- Kana: プレート
+- English: plate\; examinee’s numbered tag
+- Notes: Shortened form of ナンバープレート in this chapter\.
+
+## e0090
+
+- Page: 121
+- Kanji: 集める
+- Kana: あつめる
+- English: to collect\; to gather
+- Notes:
+
+## e0091
+
+- Page: 121
+- Kanji: 戻る
+- Kana: もどる
+- English: to return\; to go back
+- Notes:
+
+## e0092
+
+- Page: 122
+- Kanji:
+- Kana: スタートする
+- English: to start\; to begin
+- Notes:
+
+## e0046
+
+- Page: 122
+- Kanji: 有利
+- Kana: ゆうり
+- English: advantageous\, favorable
+- Notes: text\: 先に行ける方が有利だな — going first is the advantageous position
 
 ## e0043
 
@@ -352,6 +688,14 @@
 - English: to aim at\, to target
 - Notes:
 
+## e0093
+
+- Page: 122
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\; quarry\; target
+- Notes: Text gives it the furigana ターゲット \(target\)\.
+
 ## e0045
 
 - Page: 122
@@ -360,13 +704,29 @@
 - English: trend\, movement\, tendency \(of a person or situation\)
 - Notes:
 
-## e0046
+## e0094
 
 - Page: 122
-- Kanji: 有利
-- Kana: ゆうり
-- English: advantageous\, favorable
-- Notes: text\: 先に行ける方が有利だな — going first is the advantageous position
+- Kanji:
+- Kana: チェックする
+- English: to check\; to monitor
+- Notes:
+
+## e0095
+
+- Page: 123
+- Kanji:
+- Kana: スタートする
+- English: to start\; to begin
+- Notes:
+
+## e0096
+
+- Page: 123
+- Kanji: 見つける
+- Kana: みつける
+- English: to find\; to locate
+- Notes:
 
 ## e0047
 
@@ -375,6 +735,22 @@
 - Kana: きのせい
 - English: one\'s imagination\, a feeling that isn\'t real
 - Notes: Idiom\; text\: 気のせいかな — maybe it\'s just my imagination
+
+## e0097
+
+- Page: 125
+- Kanji: 危ない
+- Kana: あぶない
+- English: dangerous\; risky\; watch out
+- Notes: Written in hiragana on the page\.
+
+## e0098
+
+- Page: 125
+- Kanji: 勘
+- Kana: かん
+- English: intuition\; instinct
+- Notes: Text writes it in katakana as カン\.
 
 ## e0048
 
@@ -406,4 +782,12 @@
 - Kanji:
 - Kana: じっくり
 - English: carefully\, deliberately\, without rushing\, taking one\'s time
+- Notes:
+
+## e0099
+
+- Page: 125
+- Kanji: 狩る
+- Kana: かる
+- English: to hunt
 - Notes:
