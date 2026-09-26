@@ -16,14 +16,6 @@
 - English: covered in blood\, bloodied all over
 - Notes: text\: 手が血だらけ — hands covered in blood
 
-## e0003
-
-- Page: 149
-- Kanji: 百発百中
-- Kana: ひゃっぱつひゃくちゅう
-- English: unerring\, hitting the mark every time \(lit\. \"100 shots\, 100 hits\"\)
-- Notes: Idiom\; text\: おかげで百発百中で獲物めがけて飛んでくる鳥ならとらえることが出来るようになった — thanks to that I can now unerringly catch any bird that comes flying at prey
-
 ## e0004
 
 - Page: 149
@@ -31,6 +23,14 @@
 - Kana: えもの
 - English: prey\, game \(an animal being hunted\)
 - Notes:
+
+## e0003
+
+- Page: 149
+- Kanji: 百発百中
+- Kana: ひゃっぱつひゃくちゅう
+- English: unerring\, hitting the mark every time \(lit\. \"100 shots\, 100 hits\"\)
+- Notes: Idiom\; text\: おかげで百発百中で獲物めがけて飛んでくる鳥ならとらえることが出来るようになった — thanks to that I can now unerringly catch any bird that comes flying at prey
 
 ## e0005
 
@@ -40,6 +40,14 @@
 - English: to apply \(a technique or principle\)
 - Notes: text\: これを応用すれば — if I apply this
 
+## e0064
+
+- Page: 149
+- Kanji:
+- Kana: プレート
+- English: the numbered tag candidates must collect from each other
+- Notes:
+
 ## e0006
 
 - Page: 149
@@ -47,6 +55,22 @@
 - Kana: うばう
 - English: to steal\, to snatch away
 - Notes: text\: きっとヒソカのプレートも奪える — I could definitely steal Hisoka\'s plate too
+
+## e0063
+
+- Page: 149
+- Kanji:
+- Kana: あとは
+- English: all that remains\; from here on
+- Notes:
+
+## e0065
+
+- Page: 149
+- Kanji: 見つける
+- Kana: みつける
+- English: to find\; to locate
+- Notes:
 
 ## e0007
 
@@ -88,6 +112,14 @@
 - English: the numbered tag\/badge exam candidates must collect from each other
 - Notes: Recurring Hunter Exam arc term \(this exam phase requires taking another candidate\'s plate\)\; text\: もうプレートとったか\? — did you get \[his\] plate yet\?
 
+## e0066
+
+- Page: 151
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\; game
+- Notes:
+
 ## e0012
 
 - Page: 151
@@ -102,6 +134,14 @@
 - Kanji: 狩る
 - Kana: かる
 - English: to hunt
+- Notes:
+
+## e0067
+
+- Page: 152
+- Kanji: 急ぐ
+- Kana: いそぐ
+- English: to hurry\; to rush
 - Notes:
 
 ## e0014
@@ -144,6 +184,22 @@
 - English: bow \(the weapon\)
 - Notes:
 
+## e0068
+
+- Page: 153
+- Kanji: 来年
+- Kana: らいねん
+- English: next year
+- Notes:
+
+## e0069
+
+- Page: 153
+- Kanji: 頑張る
+- Kana: がんばる
+- English: to do one\'s best\; to persevere
+- Notes:
+
 ## e0019
 
 - Page: 154
@@ -159,6 +215,46 @@
 - Kana: あとは
 - English: all that\'s left \(is to \~\)\, from here on
 - Notes: text\: あとは待つ…ヒソカが動くまで — all that\'s left is to wait\.\.\. until Hisoka moves
+
+## e0070
+
+- Page: 155
+- Kanji:
+- Kana: 待つ
+- English: to wait
+- Notes:
+
+## e0071
+
+- Page: 155
+- Kanji: 動く
+- Kana: うごく
+- English: to move\; to act
+- Notes:
+
+## e0072
+
+- Page: 156
+- Kanji:
+- Kana: 待つ
+- English: to wait
+- Notes:
+
+## e0073
+
+- Page: 156
+- Kanji: 落ち着く
+- Kana: おちつく
+- English: to calm down\; to settle down
+- Notes:
+
+## e0074
+
+- Page: 156
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\; game
+- Notes:
 
 ## e0021
 
@@ -200,6 +296,14 @@
 - English: appearance\, form\, shape \(of a person\)
 - Notes:
 
+## e0075
+
+- Page: 157
+- Kanji: 武器
+- Kana: ぶき
+- English: weapon
+- Notes:
+
 ## e0026
 
 - Page: 157
@@ -232,12 +336,36 @@
 - English: condition for a trade\, terms of exchange
 - Notes: text\: 交換条件だ — it\'s a trade\-off condition
 
+## e0076
+
+- Page: 158
+- Kanji: 木の実
+- Kana: このみ
+- English: nut\; fruit from a tree
+- Notes:
+
+## e0077
+
+- Page: 158
+- Kanji: 精一杯
+- Kana: せいいっぱい
+- English: with all one\'s might\; to the utmost
+- Notes:
+
 ## e0030
 
 - Page: 158
 - Kanji: 医者志望
 - Kana: いしゃしぼう
 - English: aspiring doctor\, hoping to become a doctor
+- Notes:
+
+## e0078
+
+- Page: 158
+- Kanji: 薬
+- Kana: くすり
+- English: medicine\; drug
 - Notes:
 
 ## e0031
@@ -264,12 +392,28 @@
 - English: necessity\, essential item
 - Notes: text\: 旅に必需品だぜ — travel necessities
 
+## e0079
+
+- Page: 158
+- Kanji: 情報
+- Kana: じょうほう
+- English: information
+- Notes:
+
 ## e0034
 
 - Page: 158
 - Kanji: 受験生
 - Kana: じゅけんせい
 - English: exam candidate\, examinee
+- Notes:
+
+## e0080
+
+- Page: 158
+- Kanji: 武器
+- Kana: ぶき
+- English: weapon
 - Notes:
 
 ## e0035
@@ -279,6 +423,22 @@
 - Kana: なんらか
 - English: some sort of\, some kind of
 - Notes: text\: 武器として何らかの薬を使う — uses some kind of medicine as a weapon
+
+## e0081
+
+- Page: 159
+- Kanji: 薬
+- Kana: くすり
+- English: medicine\; drug
+- Notes:
+
+## e0082
+
+- Page: 159
+- Kanji:
+- Kana: 待つ
+- English: to wait
+- Notes:
 
 ## e0036
 
@@ -320,6 +480,14 @@
 - English: a grapple\, a scuffle\, close\-quarters grappling
 - Notes: text\: とっ組み合いさえすれば100\%勝てる相手だ — as long as you grapple with her\, she\'s an opponent you can beat 100\% of the time
 
+## e0083
+
+- Page: 159
+- Kanji: 見つける
+- Kana: みつける
+- English: to find\; to locate
+- Notes:
+
 ## e0041
 
 - Page: 159
@@ -336,6 +504,14 @@
 - English: one\'s feet\, one\'s footing
 - Notes: text\: 自分の足元には特に注意しな — pay particular attention to your own footing
 
+## e0084
+
+- Page: 159
+- Kanji: 注意する
+- Kana: ちゅういする
+- English: to pay attention\; to watch out
+- Notes:
+
 ## e0043
 
 - Page: 159
@@ -343,6 +519,38 @@
 - Kana: しょうちする
 - English: to be aware of\, to consent to\, to know
 - Notes: text\: 誰かが自分を狙ってるのは充分承知してるだろうから — she\'s surely well aware that someone\'s targeting her
+
+## e0085
+
+- Page: 159
+- Kanji: 限界
+- Kana: げんかい
+- English: limit\; breaking point
+- Notes:
+
+## e0086
+
+- Page: 159
+- Kanji: 念のため
+- Kana: ねんのため
+- English: just in case\; as a precaution
+- Notes:
+
+## e0087
+
+- Page: 160
+- Kanji: 薬
+- Kana: くすり
+- English: medicine\; drug
+- Notes:
+
+## e0088
+
+- Page: 160
+- Kanji: 投げる
+- Kana: なげる
+- English: to throw
+- Notes:
 
 ## e0044
 
@@ -352,12 +560,36 @@
 - English: to leak\, to spill out
 - Notes: text\: 早くくれもれそうだ\!\! — hurry up and give it to me\, I\'m about to lose it\!\!
 
-## e0045
+## e0089
 
-- Page: 163
-- Kanji: その通り
-- Kana: そのとおり
-- English: exactly right\, that\'s correct
+- Page: 162
+- Kanji:
+- Kana: やはり
+- English: as expected\; after all
+- Notes:
+
+## e0090
+
+- Page: 162
+- Kanji:
+- Kana: プレート
+- English: the numbered tag candidates must collect from each other
+- Notes:
+
+## e0091
+
+- Page: 162
+- Kanji: 鞄
+- Kana: かばん
+- English: bag\; satchel
+- Notes:
+
+## e0092
+
+- Page: 162
+- Kanji:
+- Kana: ゲット
+- English: to get\; to obtain \(casual\)
 - Notes:
 
 ## e0046
@@ -368,6 +600,22 @@
 - English: accomplice\, in cahoots \(slang\)
 - Notes: text\: てめェらグルか — are you all in on it together\?\!
 
+## e0045
+
+- Page: 163
+- Kanji: その通り
+- Kana: そのとおり
+- English: exactly right\, that\'s correct
+- Notes:
+
+## e0093
+
+- Page: 163
+- Kanji: 薬
+- Kana: くすり
+- English: medicine\; drug
+- Notes:
+
 ## e0047
 
 - Page: 163
@@ -375,6 +623,22 @@
 - Kana: たねあかし
 - English: revealing the trick\, exposing the secret \(lit\. \"seed reveal\"\)
 - Notes: text\: タネあかしするとだな — so\, to reveal the trick\.\.\.
+
+## e0094
+
+- Page: 163
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\; game
+- Notes:
+
+## e0095
+
+- Page: 163
+- Kanji: 札
+- Kana: ふだ
+- English: tag\; card\; slip
+- Notes:
 
 ## e0048
 
@@ -424,12 +688,12 @@
 - English: to meet up\, to rendezvous
 - Notes:
 
-## e0054
+## e0096
 
 - Page: 164
 - Kanji:
-- Kana: やれやれ
-- English: good grief\, sheesh \(interjection of exasperation\)
+- Kana: プレート
+- English: the numbered tag candidates must collect from each other
 - Notes:
 
 ## e0055
@@ -440,6 +704,14 @@
 - English: noisy\; shut up\! \(as an exclamation\)\; annoying
 - Notes: Text writes it in hiragana\; text\: やかましい\!\! — shut up\!\!
 
+## e0054
+
+- Page: 164
+- Kanji:
+- Kana: やれやれ
+- English: good grief\, sheesh \(interjection of exasperation\)
+- Notes:
+
 ## e0056
 
 - Page: 164
@@ -447,6 +719,30 @@
 - Kana: がくしゅうする
 - English: to learn\, to study \(esp\. from experience\)
 - Notes: text\: 少しは学習しなよ新人さんよ — learn a little\, would you\, rookie
+
+## e0097
+
+- Page: 164
+- Kanji: 騙す
+- Kana: だます
+- English: to deceive\; to trick
+- Notes:
+
+## e0098
+
+- Page: 164
+- Kanji: 悪い
+- Kana: わるい
+- English: bad\; wrong
+- Notes:
+
+## e0099
+
+- Page: 164
+- Kanji:
+- Kana: チームプレイ
+- English: teamwork\; playing as a team
+- Notes:
 
 ## e0057
 
@@ -462,6 +758,14 @@
 - Kanji: 後半
 - Kana: こうはん
 - English: second half\, latter half
+- Notes:
+
+## e0100
+
+- Page: 165
+- Kanji: 賛成
+- Kana: さんせい
+- English: agreement\; approval
 - Notes:
 
 ## e0059
@@ -480,6 +784,22 @@
 - English: to forgive\, to permit\, to allow
 - Notes: text uses the negative potential 許せん \(can\'t forgive\)\: 前半は許せん — I can\'t forgive the first part
 
+## e0101
+
+- Page: 165
+- Kanji: 騙す
+- Kana: だます
+- English: to deceive\; to trick
+- Notes:
+
+## e0102
+
+- Page: 165
+- Kanji: 悪い
+- Kana: わるい
+- English: bad\; wrong
+- Notes:
+
 ## e0061
 
 - Page: 165
@@ -495,3 +815,11 @@
 - Kana: くむ
 - English: to team up\, to join forces\, to pair up
 - Notes: text\: 私と組まないか\? — won\'t you team up with me\?
+
+## e0103
+
+- Page: 166
+- Kanji: 自由
+- Kana: じゆう
+- English: freedom\; at one\'s discretion
+- Notes:
