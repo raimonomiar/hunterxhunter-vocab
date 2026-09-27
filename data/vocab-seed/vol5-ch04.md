@@ -8,6 +8,22 @@
 - English: an intruder\, a trespasser
 - Notes: chapter title\: \"No\.039 侵入者\"
 
+## e0060
+
+- Page: 68
+- Kanji:
+- Kana: ゴォォォ
+- English: a loud rushing or roaring sound
+- Notes: sound effect for the aircraft passing overhead
+
+## e0061
+
+- Page: 69
+- Kanji: 暗殺
+- Kana: あんさつ
+- English: assassination\; contract killing
+- Notes: text\: 暗殺一家 — an assassin family
+
 ## e0002
 
 - Page: 69
@@ -32,6 +48,30 @@
 - English: canvassing\, asking around for information \(investigative term\)
 - Notes: text\: 周囲の聞き込みから始めるか — shall we start by asking around the area\?
 
+## e0062
+
+- Page: 69
+- Kanji: 宿
+- Kana: やど
+- English: lodging\; an inn
+- Notes: text\: 宿を確保 — secure a place to stay
+
+## e0063
+
+- Page: 69
+- Kanji: 確保する
+- Kana: かくほする
+- English: to secure\; to obtain
+- Notes: text\: 宿を確保する — secure lodging
+
+## e0064
+
+- Page: 69
+- Kanji: 作戦
+- Kana: さくせん
+- English: a plan\; a strategy
+- Notes: text\: 作戦を立てる — make a plan
+
 ## e0005
 
 - Page: 69
@@ -40,6 +80,38 @@
 - English: happy\-go\-lucky\, empty\-headed\, blithely carefree
 - Notes: joking kanji spelling of standard 能天気 \(\"brain\" instead of \"ability\"\)\; text\: 脳天気な… — what an airhead\.\.\.
 
+## e0065
+
+- Page: 70
+- Kanji: 観光
+- Kana: かんこう
+- English: sightseeing\; tourism
+- Notes: text\: ゾルディック家の観光 — sightseeing at the Zoldyck estate
+
+## e0066
+
+- Page: 70
+- Kanji: 定期バス
+- Kana: ていきばす
+- English: a scheduled bus\; a regular route bus
+- Notes: the tour bus runs once a day
+
+## e0067
+
+- Page: 70
+- Kanji: 客
+- Kana: きゃく
+- English: a customer\; a visitor
+- Notes: text\: そういう客 — visitors like that
+
+## e0068
+
+- Page: 70
+- Kanji: 暗殺
+- Kana: あんさつ
+- English: assassination\; contract killing
+- Notes: text\: 暗殺一族 — an assassin clan
+
 ## e0006
 
 - Page: 70
@@ -47,6 +119,22 @@
 - Kana: いちぞく
 - English: a clan\, a family lineage
 - Notes: text\: デントラ地区が生んだ暗殺一族の紹介をしていきましょう — let\'s introduce the assassin clan born of the Dentora district
+
+## e0069
+
+- Page: 70
+- Kanji: 紹介する
+- Kana: しょうかいする
+- English: to introduce\; to present
+- Notes: text\: 一族の紹介 — introducing the clan
+
+## e0070
+
+- Page: 70
+- Kanji: 混じる
+- Kana: まじる
+- English: to mix in\; to blend with
+- Notes: tourists mixed in with the other passengers
 
 ## e0007
 
@@ -80,6 +168,14 @@
 - English: a sea of trees\, a dense forest
 - Notes: text\: 樹海に囲まれた標高3200mの死火山のどこかに彼らの屋敷がある — their mansion is said to be somewhere on a 3200m dead volcano surrounded by a sea of trees
 
+## e0071
+
+- Page: 71
+- Kanji: 標高
+- Kana: ひょうこう
+- English: elevation\; altitude
+- Notes: text\: 標高3200m — an elevation of 3\,200 meters
+
 ## e0011
 
 - Page: 71
@@ -87,6 +183,62 @@
 - Kana: しかざん
 - English: a dead volcano
 - Notes: text\: 標高3200mの死火山のどこかに彼らの屋敷がある — their mansion is somewhere on the 3200m dead volcano
+
+## e0072
+
+- Page: 71
+- Kanji: 屋敷
+- Kana: やしき
+- English: a mansion\; an estate
+- Notes: the family residence on the mountain
+
+## e0073
+
+- Page: 71
+- Kanji: 家族
+- Kana: かぞく
+- English: a family
+- Notes: text\: 10人家族 — a family of ten
+
+## e0074
+
+- Page: 71
+- Kanji: 曾祖父
+- Kana: そうそふ
+- English: a great\-grandfather
+- Notes: one of the family members listed on the tour
+
+## e0075
+
+- Page: 71
+- Kanji: 兄弟
+- Kana: きょうだい
+- English: siblings\; brothers
+- Notes: text\: 5人の兄弟 — five siblings
+
+## e0076
+
+- Page: 71
+- Kanji: 殺し屋
+- Kana: ころしや
+- English: an assassin\; a hired killer
+- Notes: text\: 全員殺し屋 — all of them are assassins
+
+## e0077
+
+- Page: 72
+- Kanji: 正門
+- Kana: せいもん
+- English: the main gate\; the front gate
+- Notes: the entrance shown to the tour group
+
+## e0078
+
+- Page: 72
+- Kanji: 別名
+- Kana: べつめい
+- English: another name\; an alternative name
+- Notes: text\: 別名黄泉への扉 — also called the Door to Hades
 
 ## e0012
 
@@ -104,14 +256,6 @@
 - English: idiom\: once you go in\, that\'s it — there\'s no turning back
 - Notes: text\: 入ったら最後生きて戻れないとの理由からです — the reason is that once you go in\, you never come back out alive
 
-## e0014
-
-- Page: 72
-- Kanji: 私有地
-- Kana: しゆうち
-- English: private land\, private property
-- Notes: text\: ここから先はゾルディック家の私有地となっておりますので — from here on\, it\'s Zoldyck family private property
-
 ## e0015
 
 - Page: 72
@@ -120,6 +264,22 @@
 - English: a guard room\, a security office
 - Notes: text\: 中に入るには守衛室横にある小さな扉を使います — to get inside\, you use a small door beside the guard room
 
+## e0014
+
+- Page: 72
+- Kanji: 私有地
+- Kana: しゆうち
+- English: private land\, private property
+- Notes: text\: ここから先はゾルディック家の私有地となっておりますので — from here on\, it\'s Zoldyck family private property
+
+## e0079
+
+- Page: 72
+- Kanji: 見学
+- Kana: けんがく
+- English: a tour\; a visit for observation
+- Notes: visitors are told they cannot tour the private grounds
+
 ## e0016
 
 - Page: 73
@@ -127,6 +287,14 @@
 - Kana: しきち
 - English: premises\, grounds
 - Notes: text\: ククルーマウンテンも全てゾルディック家の敷地ということです — even Kukuroo Mountain is all Zoldyck family grounds
+
+## e0080
+
+- Page: 73
+- Kanji: 庭
+- Kana: にわ
+- English: a garden\; grounds
+- Notes: Gon jokes that the mountain is their garden
 
 ## e0017
 
@@ -152,6 +320,14 @@
 - English: a phantom\, an illusion\; legendary\, almost mythical
 - Notes: text\: 誰も見たことのない幻の暗殺一家 — the phantom assassin family no one has ever seen
 
+## e0081
+
+- Page: 74
+- Kanji: 暗殺
+- Kana: あんさつ
+- English: assassination\; contract killing
+- Notes: text\: 幻の暗殺一家 — the almost mythical assassin family
+
 ## e0020
 
 - Page: 74
@@ -159,6 +335,22 @@
 - Kana: けんしょうきん
 - English: reward money\, a bounty
 - Notes: text\: 奴らの顔写真にさえ1億近い懸賞金がかかってる — even just a photo of their faces has a bounty of nearly 100 million on it
+
+## e0022
+
+- Page: 74
+- Kanji: 一人歩きする
+- Kana: ひとりあるきする
+- English: idiom\: \(of a rumor\) to take on a life of its own\, to spread on its own
+- Notes: text\: ウワサだけが一人歩きして伝説となり — just rumors took on a life of their own and became legend
+
+## e0082
+
+- Page: 74
+- Kanji: 伝説
+- Kana: でんせつ
+- English: a legend
+- Notes: text\: ウワサが伝説となる — rumors becoming legend
 
 ## e0021
 
@@ -168,13 +360,13 @@
 - English: the punchline\, the anticlimactic twist of a story
 - Notes: text\: 実際は全く大したことがねぇってのがオチよ — in reality it\'s nothing much at all\, that\'s the punchline
 
-## e0022
+## e0083
 
-- Page: 74
-- Kanji: 一人歩きする
-- Kana: ひとりあるきする
-- English: idiom\: \(of a rumor\) to take on a life of its own\, to spread on its own
-- Notes: text\: ウワサだけが一人歩きして伝説となり — just rumors took on a life of their own and became legend
+- Page: 75
+- Kanji: 叱る
+- Kana: しかる
+- English: to scold\; to reprimand
+- Notes: the gatekeeper worries that her master will scold her
 
 ## e0023
 
@@ -191,6 +383,22 @@
 - Kana: えさ
 - English: animal feed\, bait
 - Notes: text\: ミケがエサ以外の肉食べちゃうよ — Mike is going to eat meat other than his food again
+
+## e0084
+
+- Page: 76
+- Kanji: 時間外
+- Kana: じかんがい
+- English: outside scheduled hours\; after hours
+- Notes: text\: 時間外の食事 — a meal outside the scheduled hours
+
+## e0085
+
+- Page: 76
+- Kanji: 食事
+- Kana: しょくじ
+- English: a meal\; a meal time
+- Notes: the dog\'s meal is restricted to set hours
 
 ## e0025
 
@@ -216,6 +424,14 @@
 - English: to expose\, to bare \(something\) to view
 - Notes: text\: 一歩中に入ればあの通り無惨な姿をさらすことに — one step inside and you\'ll be exposed to a sight just like that
 
+## e0086
+
+- Page: 77
+- Kanji: 残る
+- Kana: のこる
+- English: to remain\; to stay
+- Notes: text\: ここに残ります — they will stay here
+
 ## e0028
 
 - Page: 77
@@ -231,6 +447,14 @@
 - Kana: わざわざ
 - English: deliberately\, expressly\, going out of one\'s way \(to do something\)
 - Notes: text\: うれしいねぇわざわざ訪ねてくれるなんて — how nice\, that you\'d go out of your way to visit
+
+## e0032
+
+- Page: 78
+- Kanji: 罰が当たる
+- Kana: ばちがあたる
+- English: idiom\: to be punished by heaven\, to receive divine retribution
+- Notes: text\: 雇われの身でこんなこと言うと当たり前バチが当たりそうだけど — saying this as a mere employee might invite divine punishment\, but\.\.\.
 
 ## e0030
 
@@ -248,13 +472,29 @@
 - English: incessant\, continuous\, without a break
 - Notes: text\: あんな連中はひっきりなしにくるんだけどね — that lot keeps coming incessantly
 
-## e0032
+## e0034
 
 - Page: 78
-- Kanji: 罰が当たる
-- Kana: ばちがあたる
-- English: idiom\: to be punished by heaven\, to receive divine retribution
-- Notes: text\: 雇われの身でこんなこと言うと当たり前バチが当たりそうだけど — saying this as a mere employee might invite divine punishment\, but\.\.\.
+- Kanji: 稀代
+- Kana: きだい
+- English: rare\, unprecedented\, one\-of\-a\-kind
+- Notes: text\: まぁ稀代の殺し屋一族だから商売しかないけど — well\, since we\'re a once\-in\-a\-generation family of assassins\, there\'s no other trade for us
+
+## e0087
+
+- Page: 78
+- Kanji: 殺し屋
+- Kana: ころしや
+- English: an assassin\; a hired killer
+- Notes: text\: 稀代の殺し屋一族 — an exceptional assassin clan
+
+## e0088
+
+- Page: 78
+- Kanji: 一族
+- Kana: いちぞく
+- English: a clan\; a family lineage
+- Notes: text\: 殺し屋一族 — a family of assassins
 
 ## e0033
 
@@ -263,14 +503,6 @@
 - Kana: いんが
 - English: karma\, cause and effect \(Buddhist concept\)
 - Notes: text\: 因果な商売だよねぇ — it\'s a karmic business\, isn\'t it
-
-## e0034
-
-- Page: 78
-- Kanji: 稀代
-- Kana: きだい
-- English: rare\, unprecedented\, one\-of\-a\-kind
-- Notes: text\: まぁ稀代の殺し屋一族だから商売しかないけど — well\, since we\'re a once\-in\-a\-generation family of assassins\, there\'s no other trade for us
 
 ## e0035
 
@@ -288,6 +520,30 @@
 - English: a guard dog\, a watchdog
 - Notes: text\: あれはミケといってゾルディック家の番犬なんですがね — that\'s called Mike\, the Zoldyck family\'s guard dog
 
+## e0089
+
+- Page: 79
+- Kanji: 命令
+- Kana: めいれい
+- English: an order\; a command
+- Notes: text\: 家族以外の命令 — an order from someone outside the family
+
+## e0090
+
+- Page: 79
+- Kanji: 絶対
+- Kana: ぜったい
+- English: absolutely\; without fail
+- Notes: the dog will not obey or take to anyone outside the family
+
+## e0091
+
+- Page: 79
+- Kanji: 懐く
+- Kana: なつく
+- English: to take to someone\; to become attached
+- Notes: text\: 家族以外には懐かない — it will not take to anyone outside the family
+
 ## e0037
 
 - Page: 79
@@ -295,6 +551,14 @@
 - Kana: ちゅうじつに
 - English: faithfully\, loyally
 - Notes: text\: 主から出された命令を忠実に守っている — I\'ve faithfully kept the order given by my master
+
+## e0092
+
+- Page: 79
+- Kanji: 侵入者
+- Kana: しんにゅうしゃ
+- English: an intruder\; an unauthorized entrant
+- Notes: text\: 侵入者は全員 — every intruder
 
 ## e0038
 
@@ -312,6 +576,14 @@
 - English: to devour to death\, to kill by eating
 - Notes: text\: あいやな忠実じゃ喰い殺してるから — that\'s some scary loyalty\, seeing as it kills people by eating them
 
+## e0093
+
+- Page: 79
+- Kanji: 坊っちゃん
+- Kana: ぼっちゃん
+- English: young master\; a respectful term for a boy
+- Notes: Killua is addressed as 坊っちゃん by the gatekeeper
+
 ## e0040
 
 - Page: 79
@@ -319,6 +591,14 @@
 - Kana: ぶじ
 - English: safe\, unharmed
 - Notes: text\: 守衛さんあなたはなぜ無事なんですか\? — guard\, why are you unharmed\?
+
+## e0094
+
+- Page: 79
+- Kanji: 鍵
+- Kana: かぎ
+- English: a key
+- Notes: the guard says she does not need to carry a key
 
 ## e0041
 
@@ -328,6 +608,38 @@
 - English: idiom\: to make a sharp\/perceptive point\, to hit the nail on the head
 - Notes: text\: いいとこつくねぇ — good point
 
+## e0095
+
+- Page: 80
+- Kanji: 半分当たりで半分ハズレ
+- Kana: はんぶんあたりではんぶんはずれ
+- English: half right and half wrong
+- Notes: the gatekeeper says their guess is partly right and partly wrong
+
+## e0096
+
+- Page: 80
+- Kanji: 鍵
+- Kana: かぎ
+- English: a key
+- Notes: the intruder key is introduced\; the manga writes カギ
+
+## e0097
+
+- Page: 80
+- Kanji: 侵入者
+- Kana: しんにゅうしゃ
+- English: an intruder\; an unauthorized entrant
+- Notes: text\: 侵入者用のカギ — a key for intruders
+
+## e0098
+
+- Page: 80
+- Kanji: 正面
+- Kana: しょうめん
+- English: the front\; straight on
+- Notes: most intruders approach straight through the front
+
 ## e0042
 
 - Page: 80
@@ -335,6 +647,22 @@
 - Kana: どうどうと
 - English: boldly\, brazenly\, openly
 - Notes: text\: 10人中8・9人は正面から堂々とやってくる — 8 or 9 out of 10 come straight through the front\, brazenly
+
+## e0099
+
+- Page: 80
+- Kanji: 脇
+- Kana: わき
+- English: the side\; beside
+- Notes: text\: 脇の方 — off to the side
+
+## e0100
+
+- Page: 80
+- Kanji:
+- Kana: わざわざ
+- English: deliberately\; going out of one\'s way
+- Notes: the side door is deliberately set up with a lock
 
 ## e0043
 
@@ -368,6 +696,14 @@
 - English: \(figurative\) a plan\, a scheme\, the way things are set up
 - Notes: text\: ミケに喰い殺されるって寸法だ — and then gets devoured by Mike — that\'s the setup
 
+## e0101
+
+- Page: 80
+- Kanji: 守衛
+- Kana: しゅえい
+- English: a guard\; a security guard
+- Notes: the gatekeeper explains that she is not a guard
+
 ## e0047
 
 - Page: 80
@@ -375,6 +711,54 @@
 - Kana: あとかたづけ
 - English: cleaning up afterward\, tidying up
 - Notes: text\: ミケの後片づけをする掃除夫ですよ — I\'m the one who does the cleanup after Mike
+
+## e0102
+
+- Page: 80
+- Kanji: 掃除夫
+- Kana: そうじふ
+- English: a cleaner\; a janitor
+- Notes: the gatekeeper cleans up after Mike
+
+## e0103
+
+- Page: 81
+- Kanji: 鍵
+- Kana: かぎ
+- English: a key\; a lock
+- Notes: text\: カギがかかっていない — it is not locked
+
+## e0104
+
+- Page: 81
+- Kanji: 押す
+- Kana: おす
+- English: to push
+- Notes: the group tries pushing the gate
+
+## e0105
+
+- Page: 81
+- Kanji: 引く
+- Kana: ひく
+- English: to pull
+- Notes: the group tries pulling the gate
+
+## e0106
+
+- Page: 81
+- Kanji: 左右
+- Kana: さゆう
+- English: left and right\; both sides
+- Notes: the gate does not open to either side
+
+## e0050
+
+- Page: 82
+- Kanji: 単純に
+- Kana: たんじゅんに
+- English: simply\, plainly
+- Notes: text\: 単純に力が足りないんですよ — simply put\, you don\'t have enough strength
 
 ## e0048
 
@@ -392,13 +776,13 @@
 - English: fellows\, folks \(dismissive\, \"the likes of\"\)
 - Notes: text\: この門さえ開けられないような輩は… — the likes of those who can\'t even open this gate\.\.\.
 
-## e0050
+## e0107
 
 - Page: 82
-- Kanji: 単純に
-- Kana: たんじゅんに
-- English: simply\, plainly
-- Notes: text\: 単純に力が足りないんですよ — simply put\, you don\'t have enough strength
+- Kanji: 資格
+- Kana: しかく
+- English: qualification\; eligibility
+- Notes: the gate is a test of eligibility to enter the family estate
 
 ## e0051
 
@@ -408,13 +792,13 @@
 - English: automatically
 - Notes: text\: ごらんの通り扉は自動的に閉まるから — as you can see\, the door closes automatically
 
-## e0052
+## e0108
 
-- Page: 84
-- Kanji: 片方
-- Kana: かたほう
-- English: one side\, one of a pair
-- Notes: text\: 1の扉は片方2トンあります — one half of gate 1 weighs 2 tons
+- Page: 83
+- Kanji: 閉まる
+- Kana: しまる
+- English: to close\; to shut
+- Notes: the doors close automatically after opening
 
 ## e0053
 
@@ -431,6 +815,54 @@
 - Kana: クビ
 - English: being fired\, dismissal \(lit\. \"neck\"\, slang for termination\)
 - Notes: text\: でも開けられなくなったらクビだから必死ですよ — but if I can\'t open it anymore\, I\'m fired\, so I\'m desperate
+
+## e0109
+
+- Page: 84
+- Kanji: 必死
+- Kana: ひっし
+- English: desperate\; doing one\'s utmost
+- Notes: the gatekeeper works desperately to keep her job
+
+## e0110
+
+- Page: 84
+- Kanji: 攻撃する
+- Kana: こうげきする
+- English: to attack
+- Notes: Mike is ordered not to attack those who open the Trial Gate
+
+## e0111
+
+- Page: 84
+- Kanji: 命令
+- Kana: めいれい
+- English: an order\; a command
+- Notes: Mike has also been given that order
+
+## e0052
+
+- Page: 84
+- Kanji: 片方
+- Kana: かたほう
+- English: one side\, one of a pair
+- Notes: text\: 1の扉は片方2トンあります — one half of gate 1 weighs 2 tons
+
+## e0112
+
+- Page: 84
+- Kanji: 重さ
+- Kana: おもさ
+- English: weight\; heaviness
+- Notes: the weight doubles with each gate
+
+## e0113
+
+- Page: 84
+- Kanji: 倍
+- Kana: ばい
+- English: double\; twice as much
+- Notes: text\: 重さが倍 — the weight doubles
 
 ## e0055
 
@@ -456,6 +888,30 @@
 - English: by the way\, incidentally
 - Notes: text\: ちなみにキルア坊っちゃんが戻ってきたときは3の扉まで開きましたよ — by the way\, when Master Killua came back\, he opened up to gate 3
 
+## e0114
+
+- Page: 85
+- Kanji: 坊っちゃん
+- Kana: ぼっちゃん
+- English: young master\; a respectful term for a boy
+- Notes: the gatekeeper recalls when Master Killua returned
+
+## e0115
+
+- Page: 85
+- Kanji: 敷地
+- Kana: しきち
+- English: grounds\; a plot of land
+- Notes: the old man describes entry to the family grounds
+
+## e0116
+
+- Page: 85
+- Kanji: 調子
+- Kana: ちょうし
+- English: condition\; state\; the way things are going
+- Notes: text\: この調子 — things being like this
+
 ## e0058
 
 - Page: 85
@@ -464,6 +920,14 @@
 - English: idiom\: to live in a completely different world \(i\.e\. very different circumstances\/backgrounds\)
 - Notes: text\: 住む世界が全く違うんですよ — you live in a completely different world
 
+## e0117
+
+- Page: 85
+- Kanji: 鍵
+- Kana: かぎ
+- English: a key
+- Notes: text\: カギ貸して — asking to borrow the key
+
 ## e0059
 
 - Page: 85
@@ -471,3 +935,11 @@
 - Kana: まっぴら
 - English: absolutely refuse\, no way\, not for anything \(strong informal refusal\)
 - Notes: text\: 友達に会いにきただけなのに試されるなんてまっぴらだから — I only came to see a friend\, but being tested\? No way\, I refuse
+
+## e0118
+
+- Page: 85
+- Kanji: 侵入者
+- Kana: しんにゅうしゃ
+- English: an intruder\; an unauthorized entrant
+- Notes: Gon says he is fine being treated as an intruder
