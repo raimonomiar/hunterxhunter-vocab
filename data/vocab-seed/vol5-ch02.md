@@ -8,13 +8,13 @@
 - English: to apologize
 - Notes: text\: キルアにあやまれ — apologize to Killua
 
-## e0002
+## e0075
 
 - Page: 30
-- Kanji: 資格
-- Kana: しかく
-- English: qualification\, right\, entitlement
-- Notes: text\: お前に兄貴の資格ないよ — you don\'t have what it takes to be a big brother
+- Kanji:
+- Kana: あやまる
+- English: to apologize
+- Notes: text\: あやまる\? — apologize\?
 
 ## e0003
 
@@ -22,6 +22,14 @@
 - Kanji: 兄貴
 - Kana: あにき
 - English: one\'s older brother \(informal\, rough register\)
+- Notes: text\: お前に兄貴の資格ないよ — you don\'t have what it takes to be a big brother
+
+## e0002
+
+- Page: 30
+- Kanji: 資格
+- Kana: しかく
+- English: qualification\, right\, entitlement
 - Notes: text\: お前に兄貴の資格ないよ — you don\'t have what it takes to be a big brother
 
 ## e0004
@@ -32,6 +40,14 @@
 - English: siblings\, brothers
 - Notes: text\: 兄弟に資格がいるのかな\? — do siblings need qualifications\?
 
+## e0076
+
+- Page: 31
+- Kanji:
+- Kana: ぐん
+- English: a forceful grab or thrust \(sound effect\)
+- Notes: Sound effect as Gon catches Illumi\'s arm in midair
+
 ## e0005
 
 - Page: 32
@@ -39,6 +55,22 @@
 - Kana: ともだち
 - English: friend
 - Notes: text\: 友達になるのにだって資格なんていらない\!\! — you don\'t need qualifications to become friends either\!\!
+
+## e0077
+
+- Page: 32
+- Kanji: 資格
+- Kana: しかく
+- English: qualification\, right\, entitlement
+- Notes: text\: 友達になるのにだって資格なんていらない\!\! — you don\'t need qualifications to become friends either
+
+## e0078
+
+- Page: 33
+- Kanji:
+- Kana: あやまる
+- English: to apologize
+- Notes: text\: もうあやまらなくたっていいよ — you don\'t have to apologize anymore
 
 ## e0006
 
@@ -104,6 +136,14 @@
 - English: discussion\, argument\, debate
 - Notes: text\: そのことで議論していたところじゃ — we were just discussing that very thing
 
+## e0016
+
+- Page: 35
+- Kanji: 異議
+- Kana: いぎ
+- English: objection
+- Notes: text\: 両方から異議が唱えられてな — objections have been raised from both sides
+
 ## e0014
 
 - Page: 35
@@ -119,14 +159,6 @@
 - Kana: ふとう
 - English: unjust\, unfair
 - Notes: text\: キルアの不合格は不当と両方から異議が唱えられてな — objections have been raised from both sides that Killua\'s failure is unjust
-
-## e0016
-
-- Page: 35
-- Kanji: 異議
-- Kana: いぎ
-- English: objection
-- Notes: text\: 両方から異議が唱えられてな — objections have been raised from both sides
 
 ## e0017
 
@@ -168,6 +200,14 @@
 - English: hypnosis
 - Notes: text\: いかに強力な催眠術でも殺人を強いることは不可能 — no matter how powerful the hypnosis\, it\'s impossible to force murder
 
+## e0079
+
+- Page: 35
+- Kanji: 意志
+- Kana: いし
+- English: will\, intention
+- Notes: text\: キルアは当時自らの意志で行動できない状況にあった — at that time Killua could not act of his own volition
+
 ## e0022
 
 - Page: 35
@@ -183,14 +223,6 @@
 - Kana: だとう
 - English: valid\, reasonable\, appropriate
 - Notes: text\: よって彼の失格は妥当ではない — therefore his disqualification is not valid
-
-## e0024
-
-- Page: 36
-- Kanji: 根拠
-- Kana: こんきょ
-- English: basis\, grounds
-- Notes: text\: 催眠をかけたとする根拠が乏しい — the basis for saying hypnosis was used is scant
 
 ## e0025
 
@@ -208,6 +240,14 @@
 - English: evidence\, proof
 - Notes: text\: 証拠は何もない — there\'s no evidence at all
 
+## e0024
+
+- Page: 36
+- Kanji: 根拠
+- Kana: こんきょ
+- English: basis\, grounds
+- Notes: text\: 催眠をかけたとする根拠が乏しい — the basis for saying hypnosis was used is scant
+
 ## e0027
 
 - Page: 36
@@ -215,6 +255,14 @@
 - Kana: ごかく
 - English: evenly matched
 - Notes: text\: 能力はあの時点でほぼ互角 — their abilities were almost evenly matched at that point
+
+## e0029
+
+- Page: 36
+- Kanji: 格闘
+- Kana: かくとう
+- English: \(hand\-to\-hand\) combat\, fighting
+- Notes: text\: 格闘能力のみをとれば — if we only consider combat ability
 
 ## e0028
 
@@ -224,13 +272,13 @@
 - English: advantageous\, favorable
 - Notes: text\: レオリオの方が有利とワシは見ておった — I thought Leorio had the advantage
 
-## e0029
+## e0080
 
 - Page: 36
-- Kanji: 格闘
-- Kana: かくとう
-- English: \(hand\-to\-hand\) combat\, fighting
-- Notes: text\: 格闘能力のみをとれば — if we only consider combat ability
+- Kanji: 不自然
+- Kana: ふしぜん
+- English: unnatural
+- Notes: text\: 不自然な点なら他にもあるぜ — there are other unnatural points too
 
 ## e0030
 
@@ -256,13 +304,21 @@
 - English: pressure
 - Notes: text\: 何らかの圧力をかけられたんだろうとな — probably some kind of pressure was applied
 
-## e0033
+## e0035
 
 - Page: 37
-- Kanji: 異論
-- Kana: いろん
-- English: objection\, dissenting opinion
-- Notes: text\: 合否に異論があると言うなら — if you say you have an objection to the pass\/fail decision
+- Kanji: 密約
+- Kana: みつやく
+- English: secret pact\, secret agreement
+- Notes: text\: 何らかの密約がかわされたとしか考えられない — I can only think some kind of secret pact was made
+
+## e0081
+
+- Page: 37
+- Kanji: 不自然
+- Kana: ふしぜん
+- English: unnatural
+- Notes: text\: あんたの合格も相当不自然だぜ — your passing is pretty unnatural too
 
 ## e0034
 
@@ -272,21 +328,13 @@
 - English: pass or fail \(result\)
 - Notes: text\: 合否に異論があると言うなら — if you say you have an objection to the pass\/fail decision
 
-## e0035
+## e0033
 
 - Page: 37
-- Kanji: 密約
-- Kana: みつやく
-- English: secret pact\, secret agreement
-- Notes: text\: 何らかの密約がかわされたとしか考えられない — I can only think some kind of secret pact was made
-
-## e0036
-
-- Page: 38
-- Kanji: 不戦勝
-- Kana: ふせんしょう
-- English: a win by default\/forfeit
-- Notes: text\: 不戦勝での合格も自然とは言えないな — a pass by default win isn\'t natural either
+- Kanji: 異論
+- Kana: いろん
+- English: objection\, dissenting opinion
+- Notes: text\: 合否に異論があると言うなら — if you say you have an objection to the pass\/fail decision
 
 ## e0037
 
@@ -304,6 +352,14 @@
 - English: obligation\, duty
 - Notes: text\: 答える義務はない — I have no obligation to answer
 
+## e0082
+
+- Page: 38
+- Kanji: 不自然
+- Kana: ふしぜん
+- English: unnatural
+- Notes: text\: 私の合格が不自然なら — if my passing was unnatural
+
 ## e0039
 
 - Page: 38
@@ -311,6 +367,14 @@
 - Kana: せきにん
 - English: responsibility
 - Notes: text\: 責任はあると思うぜ — I think you do have responsibility
+
+## e0036
+
+- Page: 38
+- Kanji: 不戦勝
+- Kana: ふせんしょう
+- English: a win by default\/forfeit
+- Notes: text\: 不戦勝での合格も自然とは言えないな — a pass by default win isn\'t natural either
 
 ## e0040
 
@@ -320,14 +384,6 @@
 - English: course\, training session
 - Notes: text\: オレはさっと講習だけ済ませて帰りてーんだがな — I just want to get through the course and go home
 
-## e0041
-
-- Page: 38
-- Kanji: 不満
-- Kana: ふまん
-- English: dissatisfaction\, discontent
-- Notes: text\: 自分の合格に不満なら — if you\'re dissatisfied with your own pass
-
 ## e0042
 
 - Page: 38
@@ -335,6 +391,14 @@
 - Kana: とやかく言う
 - English: to find fault with\, to nitpick
 - Notes: text\: 人の合格にとやかく言うことなんてない — there\'s no need to nitpick other people\'s passing
+
+## e0041
+
+- Page: 38
+- Kanji: 不満
+- Kana: ふまん
+- English: dissatisfaction\, discontent
+- Notes: text\: 自分の合格に不満なら — if you\'re dissatisfied with your own pass
 
 ## e0043
 
@@ -392,6 +456,14 @@
 - English: to forgive\, to allow
 - Notes: text\: お前を許さない — I won\'t forgive you
 
+## e0083
+
+- Page: 40
+- Kanji: 連れ戻す
+- Kana: つれもどす
+- English: to bring \(someone\) back
+- Notes: text\: お前達からキルアを連れ戻して — bring Killua back from you all
+
 ## e0050
 
 - Page: 41
@@ -400,6 +472,14 @@
 - English: everyone\, gentlemen \(address to a group\)
 - Notes: text\: さて諸君よろしいかな\? — now then\, everyone\, shall we\?
 
+## e0085
+
+- Page: 41
+- Kanji: 合否
+- Kana: ごうひ
+- English: pass or fail \(result\)
+- Notes: text\: また他人の合否をうんぬん言っても — even if you argue about whether others passed or failed
+
 ## e0051
 
 - Page: 41
@@ -407,6 +487,14 @@
 - Kana: くつがえす
 - English: to overturn\, to reverse \(a decision\)
 - Notes: text\: 決定をくつがえすつもりはない — we have no intention of overturning the decision
+
+## e0084
+
+- Page: 41
+- Kanji: 不合格
+- Kana: ふごうかく
+- English: failing \(an exam\)\, not passing
+- Notes: text\: キルアの不合格は変わらんし — Killua\'s failure remains unchanged
 
 ## e0052
 
@@ -440,14 +528,6 @@
 - English: forgery
 - Notes: text\: 偽造防止のためのあらゆる最高技術 — every top technology for forgery prevention
 
-## e0056
-
-- Page: 42
-- Kanji: 立入禁止
-- Kana: たちいりきんし
-- English: off\-limits\, no entry
-- Notes: text\: 立入禁止地域の75\%まで入ることが可能 — able to enter up to 75\% of restricted areas
-
 ## e0057
 
 - Page: 42
@@ -455,6 +535,14 @@
 - Kana: こうりょく
 - English: effect\, validity\, potency
 - Notes: text\: ただし効力は絶大\!\! — however\, its power is immense\!\!
+
+## e0056
+
+- Page: 42
+- Kanji: 立入禁止
+- Kana: たちいりきんし
+- English: off\-limits\, no entry
+- Notes: text\: 立入禁止地域の75\%まで入ることが可能 — able to enter up to 75\% of restricted areas
 
 ## e0058
 
@@ -544,6 +632,22 @@
 - English: as if I\'d quit\!\, like hell I\'ll quit\!
 - Notes: idiomatic rhetorical negation with 〜ものか \(もんか\) expressing strong refusal\; text\: 誰がやめるもんか
 
+## e0086
+
+- Page: 45
+- Kanji: 友達
+- Kana: ともだち
+- English: friend
+- Notes: text\: キルアはオレの友達だ\!\! — Killua is my friend
+
+## e0087
+
+- Page: 45
+- Kanji: 連れ戻す
+- Kana: つれもどす
+- English: to bring \(someone\) back
+- Notes: text\: 絶対に連れ戻す\!\! — I\'ll definitely bring him back
+
 ## e0069
 
 - Page: 45
@@ -552,14 +656,6 @@
 - English: of course\, naturally
 - Notes: text\: 当然よ — of course
 
-## e0070
-
-- Page: 45
-- Kanji: 自宅
-- Kana: じたく
-- English: one\'s own home
-- Notes: text\: キルは自宅に戻っているはずだ — Kil should have gone back home
-
 ## e0071
 
 - Page: 45
@@ -567,6 +663,14 @@
 - Kana: たどりつく
 - English: to reach\, to arrive at \(after struggle\)
 - Notes: text\: 教えたところでどうせたどりつけないし — even if I told you\, you wouldn\'t be able to get there anyway
+
+## e0070
+
+- Page: 45
+- Kanji: 自宅
+- Kana: じたく
+- English: one\'s own home
+- Notes: text\: キルは自宅に戻っているはずだ — Kil should have gone back home
 
 ## e0072
 
