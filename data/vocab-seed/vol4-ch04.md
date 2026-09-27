@@ -8,14 +8,6 @@
 - English: to squirm\, to wriggle\, to teem \(of insects\, a crowd\, etc\.\)
 - Notes: Chapter title\: 蠢く罠 \(No\.030\) — \"The Squirming Trap\"
 
-## e0002
-
-- Page: 68
-- Kanji: 過ぎる
-- Kana: すぎる
-- English: to pass\, to elapse \(of time\)
-- Notes: text\: もうすぐ丸6日が過ぎるな — soon a full six days will have passed
-
 ## e0003
 
 - Page: 68
@@ -23,6 +15,14 @@
 - Kana: まる
 - English: \(prefix\) a full\, a whole\, an entire \~
 - Notes: text\: もうすぐ丸6日が過ぎるな — soon a full six days will have passed \(丸 \+ counter \= \"a whole \~\"\)
+
+## e0002
+
+- Page: 68
+- Kanji: 過ぎる
+- Kana: すぎる
+- English: to pass\, to elapse \(of time\)
+- Notes: text\: もうすぐ丸6日が過ぎるな — soon a full six days will have passed
 
 ## e0004
 
@@ -56,6 +56,14 @@
 - English: to return\, to go back
 - Notes: text\: 一度スタート地点に戻ってみるか\? — should we go back to the starting point once\?
 
+## e0013
+
+- Page: 69
+- Kanji: 合格者
+- Kana: ごうかくしゃ
+- English: a successful candidate\, someone who has passed
+- Notes: text\: もしかしたらもう合格者が出ちまってるかもしれないぜ — maybe someone\'s already passed
+
 ## e0008
 
 - Page: 69
@@ -63,6 +71,14 @@
 - Kana: かりに
 - English: hypothetically\, tentatively\, supposing that
 - Notes: text\: 仮にいったんプレートを奪われたとしても — even supposing the plate were taken from us
+
+## e0011
+
+- Page: 69
+- Kanji: 特徴
+- Kana: とくちょう
+- English: a characteristic\, a feature
+- Notes: text\: 残されているのが4次試験の特徴だ — having that chance remain is a feature of the 4th exam
 
 ## e0009
 
@@ -80,14 +96,6 @@
 - English: a deadline\, a due date
 - Notes: text\: 今度はそれを期日まで守らなければならない — this time we have to protect it until the deadline
 
-## e0011
-
-- Page: 69
-- Kanji: 特徴
-- Kana: とくちょう
-- English: a characteristic\, a feature
-- Notes: text\: 残されているのが4次試験の特徴だ — having that chance remain is a feature of the 4th exam
-
 ## e0012
 
 - Page: 69
@@ -96,14 +104,6 @@
 - English: dropping out early\, finishing early
 - Notes: text\: この試験では早抜けはないのさ — in this exam there\'s no such thing as finishing early
 
-## e0013
-
-- Page: 69
-- Kanji: 合格者
-- Kana: ごうかくしゃ
-- English: a successful candidate\, someone who has passed
-- Notes: text\: もしかしたらもう合格者が出ちまってるかもしれないぜ — maybe someone\'s already passed
-
 ## e0014
 
 - Page: 70
@@ -111,6 +111,14 @@
 - Kana: かち
 - English: value\, worth
 - Notes: text\: だが行ってみる価値はあるな — but there\'s value in going to check
+
+## e0059
+
+- Page: 70
+- Kanji: 地点
+- Kana: ちてん
+- English: a point\, a location
+- Notes: text\: ゴール地点に近い場所 — near the goal point
 
 ## e0015
 
@@ -136,14 +144,6 @@
 - English: even so\, as one would expect
 - Notes: text\: さすがにすぐ見つかるような場所にはいないな — as expected\, they\'re not somewhere they\'d be found right away
 
-## e0018
-
-- Page: 71
-- Kanji: 効率
-- Kana: こうりつ
-- English: efficiency
-- Notes: text\: 場所と時間を決めて効率がいいな — deciding on a place and time is efficient
-
 ## e0019
 
 - Page: 71
@@ -152,13 +152,13 @@
 - English: separately\, scattered\, apart
 - Notes: text\: 2人バラバラに探した方が効率がいい — it\'s more efficient if the two of us search separately
 
-## e0020
+## e0018
 
 - Page: 71
-- Kanji: 芸当
-- Kana: げいとう
-- English: a feat\, a stunt \(something only possible under special conditions\)
-- Notes: text\: ムリムリの視力があってはじめてできる芸当だ — a feat only possible thanks to Murimuri\'s eyesight
+- Kanji: 効率
+- Kana: こうりつ
+- English: efficiency
+- Notes: text\: 場所と時間を決めて効率がいいな — deciding on a place and time is efficient
 
 ## e0021
 
@@ -166,6 +166,14 @@
 - Kanji: 視力
 - Kana: しりょく
 - English: eyesight\, vision
+- Notes: text\: ムリムリの視力があってはじめてできる芸当だ — a feat only possible thanks to Murimuri\'s eyesight
+
+## e0020
+
+- Page: 71
+- Kanji: 芸当
+- Kana: げいとう
+- English: a feat\, a stunt \(something only possible under special conditions\)
 - Notes: text\: ムリムリの視力があってはじめてできる芸当だ — a feat only possible thanks to Murimuri\'s eyesight
 
 ## e0022
@@ -199,6 +207,14 @@
 - Kana: ぶじ
 - English: safe\, unharmed\, safely
 - Notes: text\: 彼女が無事でプレートも持っている — she\'s safe and also holding the plate
+
+## e0060
+
+- Page: 72
+- Kanji: 可能性
+- Kana: かのうせい
+- English: possibility\, likelihood
+- Notes: text\: プレートを持っている可能性あるか？ — is it possible she has the plate?
 
 ## e0026
 
@@ -248,6 +264,14 @@
 - English: a smell\, an odor
 - Notes: text\: 薬品の臭いさ — it\'s the smell of chemicals
 
+## e0061
+
+- Page: 73
+- Kanji: 香水
+- Kana: こうすい
+- English: perfume
+- Notes: text\: 相手が香水をつけてるとは限らねーだろ — you can’t say for sure the other person is wearing perfume
+
 ## e0032
 
 - Page: 73
@@ -255,14 +279,6 @@
 - Kana: かぎる
 - English: to be limited to\, restricted to \(\~とは限らない\: it\'s not necessarily so\)
 - Notes: text\: 相手が香水をつけてるとは限らねーだろ — you can\'t say for sure the other guy\'s wearing perfume
-
-## e0033
-
-- Page: 73
-- Kanji:
-- Kana: あらゆる
-- English: all kinds of\, every
-- Notes: text\: 敵はあらゆるタイプの薬を使うんだろ — the enemy probably uses every type of drug
 
 ## e0034
 
@@ -272,6 +288,14 @@
 - English: chemicals\, medicine \(as a substance\)
 - Notes: text\: 薬品の臭いさ — it\'s the smell of chemicals
 
+## e0033
+
+- Page: 73
+- Kanji:
+- Kana: あらゆる
+- English: all kinds of\, every
+- Notes: text\: 敵はあらゆるタイプの薬を使うんだろ — the enemy probably uses every type of drug
+
 ## e0035
 
 - Page: 73
@@ -279,6 +303,38 @@
 - Kana: はなつ
 - English: to emit\, to give off \(a smell\, light\, etc\.\)
 - Notes: text\: 強い臭いを放つものもあるだろう — some probably give off a strong smell too
+
+## e0062
+
+- Page: 74
+- Kanji:
+- Kana: こっち
+- English: this way\, over here
+- Notes: text\: こっちだ!! — this way!!
+
+## e0063
+
+- Page: 74
+- Kanji: 近い
+- Kana: ちかい
+- English: near\, close
+- Notes: text\: 近いよ! — it’s close!
+
+## e0064
+
+- Page: 75
+- Kanji: 勿論
+- Kana: もちろん
+- English: of course\, certainly
+- Notes: text\: もちろんオレが行く — of course I’ll go
+
+## e0065
+
+- Page: 75
+- Kanji: 待つ
+- Kana: まつ
+- English: to wait
+- Notes: text\: 2人は待っててくれ — you two wait here
 
 ## e0036
 
@@ -288,6 +344,22 @@
 - English: a trap
 - Notes: text\: 罠らしきものはねーな \(p76\) and 蛇使いバーボンの罠…\(p84\) — the central word of the chapter title 蠢く罠
 
+## e0066
+
+- Page: 77
+- Kanji: 入る
+- Kana: はいる
+- English: to enter
+- Notes: text\: 中には入るなよ — don’t come inside
+
+## e0067
+
+- Page: 77
+- Kanji: 経つ
+- Kana: たつ
+- English: to pass\, to elapse
+- Notes: text\: 30分経って連絡がなかったら — if 30 minutes pass without word
+
 ## e0037
 
 - Page: 77
@@ -295,6 +367,38 @@
 - Kana: れんらく
 - English: contact\, word\, communication
 - Notes: text\: 30分経って連絡がなかったら我々も入るぞ — if 30 minutes pass with no word\, we\'re coming in too
+
+## e0068
+
+- Page: 77
+- Kanji: 我々
+- Kana: われわれ
+- English: we\, us
+- Notes: text\: 我々も入るぞ — we’ll go in too
+
+## e0069
+
+- Page: 77
+- Kanji: 地点
+- Kana: ちてん
+- English: a point\, a location
+- Notes: text\: スタート地点に戻れ!! — return to the starting point!!
+
+## e0070
+
+- Page: 77
+- Kanji: 戻る
+- Kana: もどる
+- English: to return\, to go back
+- Notes: text\: スタート地点に戻れ!! — return to the starting point!!
+
+## e0039
+
+- Page: 77
+- Kanji: 同盟を組む
+- Kana: どうめいをくむ
+- English: to form an alliance
+- Notes: text\: 同盟を組んだ以上 — now that we\'ve formed an alliance
 
 ## e0038
 
@@ -304,13 +408,13 @@
 - English: to abandon\, to forsake\, to leave behind
 - Notes: text\: 見捨てるわけにはいかないからな — because I can\'t just abandon them
 
-## e0039
+## e0042
 
 - Page: 77
-- Kanji: 同盟を組む
-- Kana: どうめいをくむ
-- English: to form an alliance
-- Notes: text\: 同盟を組んだ以上 — now that we\'ve formed an alliance
+- Kanji: 同盟破棄
+- Kana: どうめいはき
+- English: dissolution of an alliance\, breaking an alliance
+- Notes: text\: じゃあ同盟破棄だ — then the alliance is off
 
 ## e0040
 
@@ -328,13 +432,21 @@
 - English: one\'s side of the story\, one\'s argument
 - Notes: text\: 協力してもらって言い分だが — it\'s a bit one\-sided of us after asking for their cooperation\, but\.\.\.
 
-## e0042
+## e0071
 
-- Page: 77
-- Kanji: 同盟破棄
-- Kana: どうめいはき
-- English: dissolution of an alliance\, breaking an alliance
-- Notes: text\: じゃあ同盟破棄だ — then the alliance is off
+- Page: 78
+- Kanji: 勝手に
+- Kana: かってに
+- English: as one pleases\, of one’s own accord
+- Notes: text\: オレ達が勝手に残ってるんだ — we’re staying of our own accord
+
+## e0072
+
+- Page: 78
+- Kanji: 残る
+- Kana: のこる
+- English: to remain\, to stay
+- Notes: text\: オレ達が勝手に残ってるんだ — we’re staying of our own accord
 
 ## e0043
 
@@ -352,6 +464,14 @@
 - English: to entrust\, to leave in someone\'s care\, to deposit
 - Notes: text\: 預けるぜ — I\'ll leave this with you
 
+## e0093
+
+- Page: 79
+- Kanji:
+- Kana: ヒョキ
+- English: a quick peeking motion \(sound effect\)
+- Notes: sound effect\: the small creatures peek out of the brush
+
 ## e0045
 
 - Page: 80
@@ -359,6 +479,38 @@
 - Kana: へび
 - English: a snake
 - Notes: text\: ヘビだ\!\! — it\'s a snake\!\!
+
+## e0073
+
+- Page: 80
+- Kanji:
+- Kana: ダッ
+- English: a sudden dash\, quick movement \(sound effect\)
+- Notes: sound effect\: a sudden dash as Gon and Kurapika rush in
+
+## e0074
+
+- Page: 81
+- Kanji:
+- Kana: ドゴゴゴ
+- English: a deep rumbling sound \(sound effect\)
+- Notes: sound effect\: the cave reverberates as the group rushes inside
+
+## e0075
+
+- Page: 82
+- Kanji:
+- Kana: ニョロ
+- English: a slithering movement \(sound effect\)
+- Notes: sound effect\: snakes wriggle around Leorio
+
+## e0076
+
+- Page: 83
+- Kanji: 馬鹿野郎
+- Kana: ばかやろう
+- English: you idiot\, you fool \(rough insult\)
+- Notes: text\: バカ…ヤロ — a weak insult from Leorio
 
 ## e0046
 
@@ -384,6 +536,38 @@
 - English: to bite
 - Notes: text\: 全身を咬まれている…\!\! — he\'s been bitten all over his body\.\.\.\!\!
 
+## e0077
+
+- Page: 83
+- Kanji:
+- Kana: ツチハブ
+- English: Tsuchihabu\, a type of pit viper
+- Notes: text\: ツチハブの一種 — a kind of Tsuchihabu
+
+## e0078
+
+- Page: 83
+- Kanji: 一種
+- Kana: いっしゅ
+- English: a kind\, a type
+- Notes: text\: ツチハブの一種だよ — it’s a type of Tsuchihabu
+
+## e0079
+
+- Page: 83
+- Kanji: 強い
+- Kana: つよい
+- English: strong\, powerful
+- Notes: text\: 一匹の毒はそんなに強くない — one snake’s venom isn’t very strong
+
+## e0080
+
+- Page: 83
+- Kanji: 多すぎる
+- Kana: おおすぎる
+- English: too many\, far too many
+- Notes: text\: 咬まれた数が多すぎる — he’s been bitten too many times
+
 ## e0049
 
 - Page: 83
@@ -400,13 +584,37 @@
 - English: a doctor
 - Notes: text\: 早く医者にみせないと\!\! — we need to get him to a doctor quickly\!\!
 
-## e0051
+## e0081
 
 - Page: 84
-- Kanji: 仕掛け
-- Kana: しかけ
-- English: a device\, a mechanism\, a trap set\-up
-- Notes: text\: 蛇が襲ってくるしかけよ — it\'s a set\-up where snakes come attack you
+- Kanji: 出る
+- Kana: でる
+- English: to leave\, to exit
+- Notes: text\: ここからは出られないわ — you can’t leave here
+
+## e0082
+
+- Page: 84
+- Kanji: 洞穴
+- Kana: ほらあな
+- English: a cave\, a cavern
+- Notes: text\: このほら穴に入った者 — someone who entered this cave
+
+## e0083
+
+- Page: 84
+- Kanji: 入る
+- Kana: はいる
+- English: to enter
+- Notes: text\: 一度このほら穴に入った者 — someone who entered this cave once
+
+## e0084
+
+- Page: 84
+- Kanji: 蛇
+- Kana: へび
+- English: a snake
+- Notes: text\: 蛇が襲ってくるしかけよ — snakes attack anyone who tries to leave
 
 ## e0052
 
@@ -416,6 +624,22 @@
 - English: to attack\, to assault
 - Notes: text\: 蛇が襲ってくるしかけよ — it\'s a set\-up where snakes come attack you
 
+## e0051
+
+- Page: 84
+- Kanji: 仕掛け
+- Kana: しかけ
+- English: a device\, a mechanism\, a trap set\-up
+- Notes: text\: 蛇が襲ってくるしかけよ — it\'s a set\-up where snakes come attack you
+
+## e0085
+
+- Page: 84
+- Kanji:
+- Kana: ザワザワ
+- English: a rustling\, stirring sound \(sound effect\)
+- Notes: sound effect\: snakes emerge from the cave
+
 ## e0053
 
 - Page: 84
@@ -423,6 +647,22 @@
 - Kana: へびつかい
 - English: a snake charmer\, a snake handler
 - Notes: text\: 蛇使いバーボンの罠… — the trap of Bourbon the snake\-handler\.\.\.
+
+## e0086
+
+- Page: 84
+- Kanji: 罠
+- Kana: わな
+- English: a trap
+- Notes: text\: 蛇使いバーボンの罠 — Bourbon the snake charmer’s trap
+
+## e0087
+
+- Page: 85
+- Kanji: 咬む
+- Kana: かむ
+- English: to bite
+- Notes: text\: 咬まれたら最後 — once bitten\, that’s the end
 
 ## e0054
 
@@ -432,6 +672,14 @@
 - English: the end\, the last \(\~たら最後\: once \~\, that\'s it \/ there\'s no turning back\)
 - Notes: text\: 咬まれたら最後… — once you\'re bitten\, that\'s the end\.\.\.
 
+## e0088
+
+- Page: 85
+- Kanji: 動く
+- Kana: うごく
+- English: to move
+- Notes: text\: 動くことさえできなくなって — unable to even move
+
 ## e0055
 
 - Page: 85
@@ -440,13 +688,21 @@
 - English: eventually\, sooner or later\, in any case
 - Notes: text\: 動くことさえできなくなっていずれ死ぬ — you become unable to even move\, and eventually die
 
-## e0056
+## e0089
 
 - Page: 85
-- Kanji: 無駄
-- Kana: むだ
-- English: useless\, pointless\, futile
-- Notes: text\: ムダよ — it\'s pointless \(text renders it in katakana\, ムダ\, for emphasis\)
+- Kanji:
+- Kana: ザワザワ
+- English: a rustling\, stirring sound \(sound effect\)
+- Notes: sound effect\: snakes stir around Bourbon
+
+## e0090
+
+- Page: 85
+- Kanji: 死ぬ
+- Kana: しぬ
+- English: to die
+- Notes: text\: いずれ死ぬ — eventually die
 
 ## e0057
 
@@ -463,3 +719,27 @@
 - Kana: わたす
 - English: to hand over\, to give over
 - Notes: text\: プレートなら全て渡す\!\! — if it\'s the plate you want\, I\'ll hand it all over\!\!
+
+## e0091
+
+- Page: 85
+- Kanji:
+- Kana: 今すぐ
+- English: right now\, immediately
+- Notes: text\: 今すぐ私達をここから出せ!! — get us out of here right now!!
+
+## e0092
+
+- Page: 85
+- Kanji: 出す
+- Kana: だす
+- English: to let out\, to get out
+- Notes: text\: 今すぐ私達をここから出せ!! — get us out of here right now!!
+
+## e0056
+
+- Page: 85
+- Kanji: 無駄
+- Kana: むだ
+- English: useless\, pointless\, futile
+- Notes: text\: ムダよ — it\'s pointless \(text renders it in katakana\, ムダ\, for emphasis\)
