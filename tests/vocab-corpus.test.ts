@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 72);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    11001,
+    11077,
   );
   assert.deepEqual(
     result.corpus.chapters.map((chapter) => `${chapter.volume}-${chapter.chapter}`),
@@ -50,6 +50,16 @@ test("Volume 4 Chapter 1 stays within the printed No.027 chapter pages", () => {
   assert.ok(
     chapter.entries.every((entry) => entry.page >= 7 && entry.page <= 26),
     "Volume 4 Chapter 1 entries must stay on printed pages 7–26",
+  );
+});
+test("Volume 4 Chapter 2 stays within the printed No.028 chapter pages", () => {
+  const result = loadCorpus();
+  const chapter = result.corpus.chapters.find((item) => item.volume === 4 && item.chapter === 2);
+  assert.ok(chapter, "Volume 4 Chapter 2 exists");
+  assert.ok(chapter.entries.length > 0);
+  assert.ok(
+    chapter.entries.every((entry) => entry.page >= 27 && entry.page <= 46),
+    "Volume 4 Chapter 2 entries must stay on printed pages 27–46",
   );
 });
 test("recovered Volume 1 chapters retain workbook row counts and canonical fields", () => {
