@@ -96,6 +96,14 @@
 - English: a dangerous person\, someone considered a threat
 - Notes: text\: オレからみれば危険人物なんだよな — from my perspective\, he\'s a dangerous person
 
+## e0015
+
+- Page: 51
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\, quarry\, one\'s catch
+- Notes: text\: ゴンはボクの獲物だ♠ — Gon is my prey
+
 ## e0013
 
 - Page: 51
@@ -112,13 +120,13 @@
 - English: idiom\: won\'t let \(someone\) off easily\, won\'t leave it at that \(a threat\)
 - Notes: ただでは置かない\; text\: 手出ししたらただじゃおかないよ — if you touch him\, you won\'t get off easy
 
-## e0015
+## e0017
 
 - Page: 51
-- Kanji: 獲物
-- Kana: えもの
-- English: prey\, quarry\, one\'s catch
-- Notes: text\: ゴンはボクの獲物だ♠ — Gon is my prey
+- Kanji: 把握する
+- Kana: はあくする
+- English: to grasp\, to get a handle on\, to fully comprehend
+- Notes: text\: ヒソカの好みは把握した — I\'ve grasped Hisoka\'s tastes
 
 ## e0016
 
@@ -127,14 +135,6 @@
 - Kana: みのる
 - English: to ripen\, to bear fruit
 - Notes: text\: 果実が美味しく実るまで… — until the fruit ripens deliciously\.\.\.
-
-## e0017
-
-- Page: 51
-- Kanji: 把握する
-- Kana: はあくする
-- English: to grasp\, to get a handle on\, to fully comprehend
-- Notes: text\: ヒソカの好みは把握した — I\'ve grasped Hisoka\'s tastes
 
 ## e0018
 
@@ -152,14 +152,6 @@
 - English: \(here\, in\-universe slang\) to look something up on the cyber\-page\; lit\. to flip\/turn \(pages\)
 - Notes: 捲る\; text\: あとでめくってみよう — let\'s look it up later
 
-## e0020
-
-- Page: 53
-- Kanji: 自己主張
-- Kana: じこしゅちょう
-- English: self\-assertion\, standing up for oneself
-- Notes: text\: 自己主張の強い忍もいたんだよ… — there was even a ninja who was very self\-assertive\.\.\.
-
 ## e0021
 
 - Page: 53
@@ -168,13 +160,21 @@
 - English: a hidden gem\, a little\-known good spot
 - Notes: text\: 観光スポットの穴場を案内するぜ — I\'ll show you the hidden\-gem tourist spots
 
-## e0022
+## e0020
 
 - Page: 53
-- Kanji:
-- Kana: ムキになる
-- English: idiom\: to get worked up\, to take something too personally\/seriously
-- Notes: 向きになる\; text\: いやあんたが正しいからこそオレもムキになったんだ — no\, it\'s exactly because you were right that I got so worked up
+- Kanji: 自己主張
+- Kana: じこしゅちょう
+- English: self\-assertion\, standing up for oneself
+- Notes: text\: 自己主張の強い忍もいたんだよ… — there was even a ninja who was very self\-assertive\.\.\.
+
+## e0063
+
+- Page: 53
+- Kanji: 感情的
+- Kana: かんじょうてき
+- English: emotional\; carried away by emotion
+- Notes: text\: さっきは感情的になってしまいすまなかった — sorry I got emotional just now
 
 ## e0023
 
@@ -184,13 +184,21 @@
 - English: rudeness\, discourtesy
 - Notes: text\: 私の方こそ非礼をお詫びしよう — I should be the one apologizing for my rudeness
 
-## e0024
+## e0022
 
 - Page: 53
 - Kanji:
-- Kana: ふっきれる
-- English: to get over something\, to shake off a lingering bad feeling
-- Notes: 吹っ切れる\; text\: だがもうふっきれた — but I\'ve already let it go now
+- Kana: ムキになる
+- English: idiom\: to get worked up\, to take something too personally\/seriously
+- Notes: 向きになる\; text\: いやあんたが正しいからこそオレもムキになったんだ — no\, it\'s exactly because you were right that I got so worked up
+
+## e0064
+
+- Page: 53
+- Kanji: 不完全
+- Kana: ふかんぜん
+- English: incomplete\; imperfect
+- Notes: text\: 不完全なカタチで合格するとは思ってもみなかったからな — I never expected to pass in such an imperfect state
 
 ## e0025
 
@@ -208,13 +216,21 @@
 - English: to vent\, to blurt out\, to spill everything at once
 - Notes: text\: わだかまりをあの場でぶちまけたかったんだと思う — wanted to vent it all out right there
 
-## e0027
+## e0024
 
-- Page: 54
-- Kanji: 幻獣
-- Kana: げんじゅう
-- English: a phantom beast\, a mythical\/illusory creature
-- Notes: text\: いわゆる幻獣ハンターっていうのをやってやつだ — the kind that does what\'s called Phantom\-Beast Hunting
+- Page: 53
+- Kanji:
+- Kana: ふっきれる
+- English: to get over something\, to shake off a lingering bad feeling
+- Notes: 吹っ切れる\; text\: だがもうふっきれた — but I\'ve already let it go now
+
+## e0065
+
+- Page: 53
+- Kanji: 最大限
+- Kana: さいだいげん
+- English: to the greatest extent\; as much as possible
+- Notes: text\: せっかく受かったからには最大限利用する — now that I passed\, I’ll make the most of it
 
 ## e0028
 
@@ -223,6 +239,14 @@
 - Kana: みかくにんせいぶつ
 - English: an unidentified creature\, a cryptid
 - Notes: text\: 未確認生物を見つけ出す — to track down unidentified creatures
+
+## e0027
+
+- Page: 54
+- Kanji: 幻獣
+- Kana: げんじゅう
+- English: a phantom beast\, a mythical\/illusory creature
+- Notes: text\: いわゆる幻獣ハンターっていうのをやってやつだ — the kind that does what\'s called Phantom\-Beast Hunting
 
 ## e0029
 
@@ -239,6 +263,14 @@
 - Kana: ホームコード
 - English: in\-universe term\: Home Code — a Hunter\'s dedicated answering\-service contact number
 - Notes: coined term\, no kanji form\; text\: これは私のホームコードだ — this is my Home Code
+
+## e0066
+
+- Page: 55
+- Kanji:
+- Kana: ホームコード
+- English: in\-universe term\: Home Code — a Hunter’s dedicated answering\-service contact number
+- Notes: text\: ホームコードって何？ — what is a Home Code\?
 
 ## e0031
 
@@ -264,6 +296,38 @@
 - English: information gathering
 - Notes: text\: 情報収集のためにメッセージ専用の電話が — a message\-only phone for the sake of information gathering
 
+## e0037
+
+- Page: 55
+- Kanji: 盗聴
+- Kana: とうちょう
+- English: wiretapping\, eavesdropping
+- Notes: text\: 盗聴は考えて — accounting for the possibility of wiretapping
+
+## e0036
+
+- Page: 55
+- Kanji: 暗号
+- Kana: あんごう
+- English: a code\, a cipher
+- Notes: text\: あらかじめ暗号を決めて — decide on a cipher in advance
+
+## e0068
+
+- Page: 55
+- Kanji: 情報交換
+- Kana: じょうほうこうかん
+- English: information exchange
+- Notes: text\: 情報交換はできれば直に会って行うのがいい — it’s best to meet in person to exchange information
+
+## e0067
+
+- Page: 55
+- Kanji:
+- Kana: めくる
+- English: in\-universe slang\: to look something up on the cyber\-page\; literally\, to flip or turn pages
+- Notes: text\: さっき「めくる」って言ってたのは？ — what did you mean by “mekuru” earlier\?
+
 ## e0034
 
 - Page: 55
@@ -280,29 +344,21 @@
 - English: all\-purpose\, versatile\, all\-around
 - Notes: text\: 電信の万能情報事典ところか — sort of like an all\-purpose information encyclopedia\, I guess
 
-## e0036
+## e0069
 
 - Page: 55
-- Kanji: 暗号
-- Kana: あんごう
-- English: a code\, a cipher
-- Notes: text\: あらかじめ暗号を決めて — decide on a cipher in advance
+- Kanji: 表層的
+- Kana: ひょうそうてき
+- English: superficial\; surface\-level
+- Notes: text\: 表層的な情報が大部分だし — most of the information is superficial
 
-## e0037
-
-- Page: 55
-- Kanji: 盗聴
-- Kana: とうちょう
-- English: wiretapping\, eavesdropping
-- Notes: text\: 盗聴は考えて — accounting for the possibility of wiretapping
-
-## e0038
+## e0070
 
 - Page: 56
-- Kanji: 三種の神器
-- Kana: さんしゅのじんぎ
-- English: idiom\: the three sacred treasures \(mythological reference\, used figuratively for an essential matched set of three items\)
-- Notes: text\: ハンターの電波系三種の神器だ — the Hunter\'s three sacred treasures of the radio\-wave type
+- Kanji: 電脳ページ
+- Kana: でんのうページ
+- English: in\-universe term\: cyber\-page — a networked information terminal Hunters use
+- Notes: text\: ハンターカードなら無料で電脳ページを使用できる — Hunter cards can use the cyber\-page for free
 
 ## e0039
 
@@ -311,6 +367,30 @@
 - Kana: ぞくに
 - English: commonly\, colloquially
 - Notes: text\: 俗に「めくる」っていうんだ — commonly called \"flipping\"
+
+## e0071
+
+- Page: 56
+- Kanji:
+- Kana: めくる
+- English: in\-universe slang\: to look something up on the cyber\-page\; literally\, to flip or turn pages
+- Notes: text\: この電脳ページで何かを調べることを俗に「めくる」っていうんだ — using the cyber\-page is colloquially called “mekuru”
+
+## e0072
+
+- Page: 56
+- Kanji:
+- Kana: ホームコード
+- English: in\-universe term\: Home Code — a Hunter’s dedicated answering\-service contact number
+- Notes: Home Code is listed among a Hunter’s radio\-wave tools\, alongside a cellphone\.
+
+## e0038
+
+- Page: 56
+- Kanji: 三種の神器
+- Kana: さんしゅのじんぎ
+- English: idiom\: the three sacred treasures \(mythological reference\, used figuratively for an essential matched set of three items\)
+- Notes: text\: ハンターの電波系三種の神器だ — the Hunter\'s three sacred treasures of the radio\-wave type
 
 ## e0040
 
@@ -328,6 +408,14 @@
 - English: stubborn\, obstinate
 - Notes: text\: ホントに強情やっちゃな — you\'re really a stubborn one
 
+## e0073
+
+- Page: 57
+- Kanji:
+- Kana: ホームコード
+- English: in\-universe term\: Home Code — a Hunter’s dedicated answering\-service contact number
+- Notes: text\: ホームコードができたら連絡くれよ — contact me once you have a Home Code
+
 ## e0042
 
 - Page: 57
@@ -344,6 +432,14 @@
 - English: a lost item\, something dropped
 - Notes: text\: 知り合いの落とし物なんだ — it\'s something an acquaintance lost
 
+## e0074
+
+- Page: 57
+- Kanji: ハンター証
+- Kana: ハンターしょう
+- English: a Hunter credential\; proof of being a Hunter
+- Notes: text\: これがハンター証だと思ってたんだけど — I thought this was a Hunter credential
+
 ## e0044
 
 - Page: 58
@@ -351,6 +447,14 @@
 - Kana: にんてい
 - English: certification\, official accreditation
 - Notes: text\: ニツ星ハンターの認定カードですよ — it\'s a Double\-Star Hunter\'s certified card
+
+## e0075
+
+- Page: 58
+- Kanji: 落とす
+- Kana: おとす
+- English: to drop\; to lose something
+- Notes: text\: これを落としたという知り合い — an acquaintance who dropped this
 
 ## e0045
 
@@ -360,6 +464,14 @@
 - English: an owner\, a possessor
 - Notes: text\: このカードの本当の持ち主は — the true owner of this card is
 
+## e0076
+
+- Page: 59
+- Kanji: 認定
+- Kana: にんてい
+- English: certification\; official accreditation
+- Notes: text\: ここに認定ナンバーがあるでしょう — there’s a certification number here
+
 ## e0046
 
 - Page: 59
@@ -367,6 +479,14 @@
 - Kana: き
 - English: counter\/noun\: a session\, term\, or cohort \(e\.g\. a yearly exam intake\)
 - Notes: text\: 第287期生になります — it makes this year\'s cohort the 287th
+
+## e0077
+
+- Page: 59
+- Kanji: 合格者
+- Kana: ごうかくしゃ
+- English: successful candidate\; person who passed an exam
+- Notes: text\: 第267期の合格者はたった一人だけ — there was only one person who passed in cohort 267
 
 ## e0047
 
@@ -392,13 +512,21 @@
 - English: a mystery\, an enigma
 - Notes: text\: 一言でいうなら「ナゾ」です — in a word\, he\'s an \"enigma\"
 
-## e0050
+## e0078
 
 - Page: 60
-- Kanji: 恩人
-- Kana: おんじん
-- English: a benefactor\, someone one owes a debt of gratitude to
-- Notes: text\: 恩人ではあるんだけど — he is a benefactor\, but\.\.\.
+- Kanji: 電脳ページ
+- Kana: でんのうページ
+- English: in\-universe term\: cyber\-page — a networked information terminal Hunters use
+- Notes: text\: 電脳ページってわかりますか？ — do you know the cyber\-page\?
+
+## e0079
+
+- Page: 60
+- Kanji:
+- Kana: めくる
+- English: in\-universe slang\: to look something up on the cyber\-page\; literally\, to flip or turn pages
+- Notes: text\: それをめくれば彼がどんな人物かがわかりますよ — looking him up will show what kind of person he is
 
 ## e0051
 
@@ -408,13 +536,29 @@
 - English: contact information
 - Notes: text\: 連絡先を教えてもらえませんか — could you tell me his contact info\?
 
-## e0052
+## e0050
+
+- Page: 60
+- Kanji: 恩人
+- Kana: おんじん
+- English: a benefactor\, someone one owes a debt of gratitude to
+- Notes: text\: 恩人ではあるんだけど — he is a benefactor\, but\.\.\.
+
+## e0080
+
+- Page: 60
+- Kanji:
+- Kana: ホームコード
+- English: in\-universe term\: Home Code — a Hunter’s dedicated answering\-service contact number
+- Notes: text\: ホームコードも知らないんだ — I don’t even know his Home Code
+
+## e0081
 
 - Page: 61
-- Kanji:
-- Kana: うっかり
-- English: carelessly\, inadvertently\, absentmindedly
-- Notes: text\: うっかりしゃべるとこでした — I nearly let it slip carelessly
+- Kanji: 不思議
+- Kana: ふしぎ
+- English: strange\; mysterious
+- Notes: text\: 不思議なコですね — what a mysterious kid
 
 ## e0053
 
@@ -423,6 +567,22 @@
 - Kana: かたをもつ
 - English: idiom\: to take someone\'s side\, to back someone up
 - Notes: 肩を持つ\; text\: どうも肩を持ちたくなってしまいますよ — I really end up wanting to take his side
+
+## e0052
+
+- Page: 61
+- Kanji:
+- Kana: うっかり
+- English: carelessly\, inadvertently\, absentmindedly
+- Notes: text\: うっかりしゃべるとこでした — I nearly let it slip carelessly
+
+## e0082
+
+- Page: 62
+- Kanji: 電脳ページ
+- Kana: でんのうページ
+- English: in\-universe term\: cyber\-page — a networked information terminal Hunters use
+- Notes: label on the cyber\-page terminal
 
 ## e0054
 
@@ -464,6 +624,22 @@
 - English: understood\, roger\, got it
 - Notes: text\: 了解 — understood
 
+## e0083
+
+- Page: 64
+- Kanji: 予約する
+- Kana: よやくする
+- English: to reserve\; to book
+- Notes: text\: チケットを予約する — reserve the tickets
+
+## e0084
+
+- Page: 64
+- Kanji:
+- Kana: めくる
+- English: in\-universe slang\: to look something up on the cyber\-page\; literally\, to flip or turn pages
+- Notes: text\: めくってみてくれる？ — could you look him up\?
+
 ## e0059
 
 - Page: 65
@@ -472,6 +648,30 @@
 - English: top secret\, strictly confidential
 - Notes: text\: 極秘指定人物 — a top\-secret designated person
 
+## e0085
+
+- Page: 65
+- Kanji: 電脳ページ
+- Kana: でんのうページ
+- English: in\-universe term\: cyber\-page — a networked information terminal Hunters use
+- Notes: text\: 電脳ページ上での彼に対するあらゆる情報交換が禁止されているんだ — all information exchange about him on the cyber\-page is forbidden
+
+## e0086
+
+- Page: 65
+- Kanji: 情報交換
+- Kana: じょうほうこうかん
+- English: information exchange
+- Notes: text\: 彼に対するあらゆる情報交換が禁止されている — all information exchange about him is forbidden
+
+## e0087
+
+- Page: 65
+- Kanji: 禁止
+- Kana: きんし
+- English: prohibition\; a ban
+- Notes: text\: 情報交換が禁止されているんだ — information exchange about him is forbidden
+
 ## e0060
 
 - Page: 65
@@ -479,6 +679,14 @@
 - Kana: かにゅうする
 - English: to join\, to enroll\, to become a member \(of an organization\)
 - Notes: text\: 個人がこれに加入するためには — for an individual to join this
+
+## e0088
+
+- Page: 65
+- Kanji: 権力
+- Kana: けんりょく
+- English: power\; authority
+- Notes: text\: 一国の大統領クラスの権力 — power on the level of a country’s president
 
 ## e0061
 
