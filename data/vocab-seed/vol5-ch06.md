@@ -1,5 +1,13 @@
 # Volume 5 · Chapter 6
 
+## e0051
+
+- Page: 107
+- Kanji: ゾルディック家
+- Kana: ゾルディックけ
+- English: the Zoldyck family
+- Notes: chapter title\, No\.041
+
 ## e0001
 
 - Page: 108
@@ -7,6 +15,38 @@
 - Kana: きをつける
 - English: to be careful\, to take care
 - Notes: text\: 気をつけて行きなさいよ — take care on your way
+
+## e0052
+
+- Page: 108
+- Kanji: 道なり
+- Kana: みちなり
+- English: following the road\, along the way
+- Notes: text\: 道なりに山を目指しなさい — follow the road toward the mountain
+
+## e0053
+
+- Page: 108
+- Kanji: 目指す
+- Kana: めざす
+- English: to head for\, to make for
+- Notes: text\: 道なりに山を目指しなさい — head for the mountain along the road
+
+## e0006
+
+- Page: 108
+- Kanji: 屋敷
+- Kana: やしき
+- English: a mansion\, a manor
+- Notes: text\: 屋敷は間違いなく山のどこかに建っているはず — the mansion should certainly be built somewhere on this mountain
+
+## e0005
+
+- Page: 108
+- Kanji: 間違いなく
+- Kana: まちがいなく
+- English: without doubt\, certainly
+- Notes: text\: 屋敷は間違いなく山のどこかに建っているはず — the mansion should certainly be built somewhere on this mountain
 
 ## e0002
 
@@ -32,30 +72,6 @@
 - English: not at all\!\, no way\! \(dismissing thanks or an apology\)
 - Notes: text\: すまないね／とんでもない — \"sorry about that\" — \"not at all\!\"
 
-## e0005
-
-- Page: 108
-- Kanji: 間違いなく
-- Kana: まちがいなく
-- English: without doubt\, certainly
-- Notes: text\: 屋敷は間違いなく山のどこかに建っているはず — the mansion should certainly be built somewhere on this mountain
-
-## e0006
-
-- Page: 108
-- Kanji: 屋敷
-- Kana: やしき
-- English: a mansion\, a manor
-- Notes: text\: 屋敷は間違いなく山のどこかに建っているはず — the mansion should certainly be built somewhere on this mountain
-
-## e0007
-
-- Page: 108
-- Kanji: クリアする
-- Kana: クリアする
-- English: to clear \(a challenge\, an obstacle\)
-- Notes: text\: 門を2つクリアするとは — to think they cleared two of the gates
-
 ## e0008
 
 - Page: 108
@@ -71,6 +87,30 @@
 - Kana: れんちゅう
 - English: a bunch\, a group of people \(informal\)
 - Notes: text\: 大した連中だ — quite an impressive bunch
+
+## e0054
+
+- Page: 108
+- Kanji: 門
+- Kana: もん
+- English: a gate
+- Notes: text\: 3人とも門をクリアするとは — to think all three of them cleared the gates
+
+## e0007
+
+- Page: 108
+- Kanji: クリアする
+- Kana: クリアする
+- English: to clear \(a challenge\, an obstacle\)
+- Notes: text\: 門を2つクリアするとは — to think they cleared two of the gates
+
+## e0055
+
+- Page: 108
+- Kanji: たどり着く
+- Kana: たどりつく
+- English: to make one's way to\, to reach
+- Notes: text\: 彼らなら屋敷までたどりつけるんじゃないかね — they might be able to make it to the mansion
 
 ## e0010
 
@@ -119,6 +159,22 @@
 - Kana: びびる
 - English: to be scared\, to chicken out \(colloquial\)
 - Notes: text\: あんまりビビッて — got so scared\/intimidated
+
+## e0056
+
+- Page: 109
+- Kanji: 雇われる
+- Kana: やとわれる
+- English: to be hired\, to be employed
+- Notes: text\: あんまりビビッてそのまま雇われちまったハンターが — a hunter who got so scared he ended up being hired
+
+## e0057
+
+- Page: 109
+- Kanji: 思い知る
+- Kana: おもいしる
+- English: to learn the hard way\, to realize fully
+- Notes: text\: いやって程思い知らされたからな — I learned it the hard way
 
 ## e0016
 
@@ -200,6 +256,54 @@
 - English: to get away with \(something unreasonable\)\, to be let slide
 - Notes: text\: 断りなく立ち入ることはまかり通らないの — entering without permission isn\'t going to fly
 
+## e0058
+
+- Page: 111
+- Kanji: 電話する
+- Kana: でんわする
+- English: to call\, to make a phone call
+- Notes: text\: ちゃんと電話したよ — I did call properly
+
+## e0059
+
+- Page: 111
+- Kanji: 門
+- Kana: もん
+- English: a gate
+- Notes: text\: 試しの門から通ってきたし — I came in through the Testing Gate
+
+## e0060
+
+- Page: 111
+- Kanji: 通る
+- Kana: とおる
+- English: to pass through\, to go through
+- Notes: text\: 試しの門から通ってきたし — I came in through the Testing Gate
+
+## e0061
+
+- Page: 111
+- Kanji: 執事室
+- Kana: しつじしつ
+- English: the butler's office
+- Notes: text\: 執事室が入庭を許したわけではないでしょ — the butler's office didn't permit entry to the grounds
+
+## e0062
+
+- Page: 111
+- Kanji: 入庭
+- Kana: にゅうてい
+- English: entry to the grounds
+- Notes: text\: 執事室が入庭を許したわけではないでしょ — the butler's office didn't permit entry to the grounds
+
+## e0063
+
+- Page: 111
+- Kanji: 許す
+- Kana: ゆるす
+- English: to permit\, to allow
+- Notes: text\: 執事室が入庭を許したわけではないでしょ — the butler's office didn't authorize your entry to the grounds
+
 ## e0026
 
 - Page: 111
@@ -207,6 +311,14 @@
 - Kana: きょか
 - English: permission\, authorization
 - Notes: text\: どうしたら許可がもらえるの\? — what do we have to do to get permission\?
+
+## e0064
+
+- Page: 111
+- Kanji: つなぐ
+- Kana: つなぐ
+- English: to connect\, to put through a call
+- Notes: text\: 友達だって言ってもつないでくれないのにさ — even when I say we're friends\, she won't put the call through
 
 ## e0027
 
@@ -240,6 +352,30 @@
 - English: to remove\, to eliminate\, to drive out
 - Notes: text\: ここを一歩でも越えたら実力で排除します — if you take even one step past here\, I\'ll remove you by force
 
+## e0065
+
+- Page: 111
+- Kanji: 越える
+- Kana: こえる
+- English: to cross\, to go past a line or boundary
+- Notes: text\: ここを一歩でも越えたら — if you cross this line by even one step
+
+## e0066
+
+- Page: 112
+- Kanji:
+- Kana: ギッ
+- English: a brief creak or squeak \(sound effect\)
+- Notes: Sound effect as Canary steps on the ball
+
+## e0067
+
+- Page: 112
+- Kanji:
+- Kana: バッ
+- English: a sudden burst of movement \(sound effect\)
+- Notes: Sound effect as Canary springs into action
+
 ## e0031
 
 - Page: 113
@@ -264,6 +400,30 @@
 - English: to fight\, to contend\, to quarrel
 - Notes: text\: 君達と争う気は全然ないんだ — I have no intention at all of fighting you all
 
+## e0068
+
+- Page: 114
+- Kanji: 会う
+- Kana: あう
+- English: to meet\, to see someone
+- Notes: text\: キルアに会いたいだけだから — I only want to see Killua
+
+## e0036
+
+- Page: 114
+- Kanji: 何であれ
+- Kana: なんであれ
+- English: whatever it may be\, regardless of what
+- Notes: text\: 理由が何であれ関係ないの — whatever the reason is\, it doesn\'t matter
+
+## e0069
+
+- Page: 114
+- Kanji: 雇い主
+- Kana: やといぬし
+- English: one's employer
+- Notes: text\: 雇い主の命令に従うだけよ — I'm just following my employer's orders
+
 ## e0034
 
 - Page: 114
@@ -280,13 +440,37 @@
 - English: to obey\, to follow \(an order\)
 - Notes: text\: 雇い主の命令に従うだけよ — I\'m just following my employer\'s orders
 
-## e0036
+## e0070
 
-- Page: 114
-- Kanji: 何であれ
-- Kana: なんであれ
-- English: whatever it may be\, regardless of what
-- Notes: text\: 理由が何であれ関係ないの — whatever the reason is\, it doesn\'t matter
+- Page: 116
+- Kanji:
+- Kana: バキッ
+- English: a sharp crack or smack \(sound effect\)
+- Notes: Sound effect as Canary strikes Gon
+
+## e0071
+
+- Page: 116
+- Kanji:
+- Kana: ズドッ
+- English: a heavy thud \(sound effect\)
+- Notes: Sound effect as Gon hits the ground
+
+## e0072
+
+- Page: 117
+- Kanji:
+- Kana: バキッ
+- English: a sharp crack or smack \(sound effect\)
+- Notes: Sound effect as Canary kicks Gon
+
+## e0073
+
+- Page: 118
+- Kanji:
+- Kana: ギィ
+- English: a strained squeal or creak \(sound effect\)
+- Notes: Sound effect as Gon is struck
 
 ## e0037
 
@@ -304,6 +488,14 @@
 - English: futile\, pointless\, a waste
 - Notes: text\: 無駄なの\!\! — it\'s pointless\!\!
 
+## e0074
+
+- Page: 118
+- Kanji: 止める
+- Kana: とめる
+- English: to stop\, to halt
+- Notes: text\: あんた達も止めてよ — you all stop him too
+
 ## e0039
 
 - Page: 118
@@ -312,13 +504,29 @@
 - English: a companion\, one of one\'s own\, a comrade
 - Notes: text\: あんた達も止めてよ\!\!仲間なんでしょ… — you all stop him too\!\! You\'re his friends\, aren\'t you\.\.\.
 
-## e0040
+## e0075
 
-- Page: 120
-- Kanji: 殴る
-- Kana: なぐる
-- English: to punch\, to hit \(someone\)
-- Notes: text\: 殴らないの\? — aren\'t you going to hit me\?
+- Page: 119
+- Kanji: 友達
+- Kana: ともだち
+- English: a friend
+- Notes: text\: 友達に会いにきただけなのに — I only came to see a friend
+
+## e0076
+
+- Page: 119
+- Kanji: 会う
+- Kana: あう
+- English: to meet\, to see someone
+- Notes: text\: 友達に会いにきただけなのに／キルアに会いたいだけなのに — I only came to see my friend\; I only want to see Killua
+
+## e0077
+
+- Page: 119
+- Kanji:
+- Kana: ポタ
+- English: a drop falling \(sound effect\)
+- Notes: Sound effect beside Gon as he cries
 
 ## e0041
 
@@ -328,13 +536,21 @@
 - English: \(colloquial\, in a fight\) for a kick\/strike to land with real\, fully\-committed force
 - Notes: text\: もう足…入ってるよ — that one already landed for real \(said after taking a solid kick\)
 
-## e0042
+## e0040
+
+- Page: 120
+- Kanji: 殴る
+- Kana: なぐる
+- English: to punch\, to hit \(someone\)
+- Notes: text\: 殴らないの\? — aren\'t you going to hit me\?
+
+## e0078
 
 - Page: 121
-- Kanji: 隠す
-- Kana: かくす
-- English: to hide\, to conceal
-- Notes: text\: どんなに感情を隠そうとしたって — no matter how hard you try to hide your feelings
+- Kanji: 違う
+- Kana: ちがう
+- English: to be different
+- Notes: text\: 君はミケとは違う — you're different from Mike
 
 ## e0043
 
@@ -342,6 +558,14 @@
 - Kanji: 感情
 - Kana: かんじょう
 - English: an emotion\, a feeling
+- Notes: text\: どんなに感情を隠そうとしたって — no matter how hard you try to hide your feelings
+
+## e0042
+
+- Page: 121
+- Kanji: 隠す
+- Kana: かくす
+- English: to hide\, to conceal
 - Notes: text\: どんなに感情を隠そうとしたって — no matter how hard you try to hide your feelings
 
 ## e0044
@@ -367,6 +591,22 @@
 - Kana: まったく
 - English: honestly\!\, seriously\! \(exclamation of exasperation\)
 - Notes: text\: 全く — honestly\.\.\. \(muttered in exasperation\)
+
+## e0079
+
+- Page: 123
+- Kanji: 使用人
+- Kana: しようにん
+- English: a servant\, household staff
+- Notes: text\: 使用人が何を言ってるのかしら — what does a servant have to say?
+
+## e0080
+
+- Page: 124
+- Kanji:
+- Kana: キュン
+- English: a heart-fluttering throb \(sound effect\)
+- Notes: Sound effect in the close-up of Gotoh's eye
 
 ## e0047
 
@@ -399,3 +639,26 @@
 - Kana: つたえる
 - English: to convey\, to pass along \(a message\)
 - Notes: text\: キルからのメッセージをそのまま伝えましょう — let me pass along Killua\'s message just as it was
+## e0081
+
+- Page: 125
+- Kanji:
+- Kana: ゴロゴロ
+- English: a low rumble \(sound effect\)
+- Notes: Sound effect across the mountain scene
+
+## e0083
+
+- Page: 125
+- Kanji: 嬉しい
+- Kana: うれしい
+- English: happy\, glad
+- Notes: text\: すげーうれしいよ — I'm really happy
+
+## e0082
+
+- Page: 125
+- Kanji: 会う
+- Kana: あう
+- English: to meet\, to see someone
+- Notes: text\: 今は会えない — I can't meet you right now
