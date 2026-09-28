@@ -275,8 +275,8 @@
 ## e0101
 
 - Page: 11
-- Kanji: チケット
-- Kana: ちけっと
+- Kanji:
+- Kana: チケット
 - English: a ticket
 - Notes: text\: チケットをお願いします — a ticket\, please
 
@@ -619,8 +619,8 @@
 ## e0116
 
 - Page: 18
-- Kanji: クリーンヒット
-- Kana: くりーんひっと
+- Kanji:
+- Kana: クリーンヒット
 - English: a clean hit
 - Notes: called by the announcer and used in the scoring rules
 
@@ -635,8 +635,8 @@
 ## e0119
 
 - Page: 18
-- Kanji: ダウン
-- Kana: だうん
+- Kanji:
+- Kana: ダウン
 - English: a knockdown\; to knock down
 - Notes: text\: ダウンを奪えば — if a knockdown is scored
 
@@ -651,8 +651,8 @@
 ## e0118
 
 - Page: 18
-- Kanji: クリティカルヒット
-- Kana: くりてぃかるひっと
+- Kanji:
+- Kana: クリティカルヒット
 - English: a critical hit\; a particularly effective strike
 - Notes: named as a scoring category
 
