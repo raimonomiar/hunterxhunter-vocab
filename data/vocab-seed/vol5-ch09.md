@@ -1,12 +1,12 @@
 # Volume 5 · Chapter 9
 
-## e0001
+## e0090
 
-- Page: 168
-- Kanji: 種明かし
-- Kana: たねあかし
-- English: revealing the trick behind something\, explaining how a trick was done
-- Notes: text\: タネあかしされるとハラたつくらいカンタンだぜ — once the trick\'s revealed\, it\'s simple enough to be annoying
+- Page: 167
+- Kanji: 天空闘技場
+- Kana: てんくうとうぎじょう
+- English: Heaven\'s Arena
+- Notes: chapter title\: No\.044 · 天空闘技場
 
 ## e0002
 
@@ -15,6 +15,14 @@
 - Kana: だます
 - English: to trick\, to deceive\, to fool
 - Notes: text\: オレもそれだまされたよ — I got fooled by that too
+
+## e0001
+
+- Page: 168
+- Kanji: 種明かし
+- Kana: たねあかし
+- English: revealing the trick behind something\, explaining how a trick was done
+- Notes: text\: タネあかしされるとハラたつくらいカンタンだぜ — once the trick\'s revealed\, it\'s simple enough to be annoying
 
 ## e0003
 
@@ -31,6 +39,14 @@
 - Kana: かくしもつ
 - English: to hold\/carry concealed\, to conceal on one\'s person
 - Notes: text\: 一枚を右手にかくし持ちもう一枚のコインを上げて — hiding one coin in his right hand\, he raised the other coin
+
+## e0091
+
+- Page: 168
+- Kanji:
+- Kana: コイン
+- English: a coin
+- Notes: text\: もう一枚のコイン — the other coin
 
 ## e0005
 
@@ -56,6 +72,14 @@
 - English: casually\, nonchalantly\, as if it were nothing
 - Notes: text\: 拳を握った状態でさりげなくコインをそでの中に落とす — while keeping the fist clenched\, casually drop the coin into the sleeve
 
+## e0092
+
+- Page: 169
+- Kanji:
+- Kana: コイン
+- English: a coin
+- Notes: text\: コインをそでの中に落とす — drop the coin into the sleeve
+
 ## e0008
 
 - Page: 169
@@ -72,6 +96,14 @@
 - English: cheating\, an unfair trick \(colloquial\)
 - Notes: text\: たとえゲームでもズルはきらいだからゴトーは — because even in a game\, Goto hates cheating\, so\.\.\.
 
+## e0011
+
+- Page: 169
+- Kanji: 頑固
+- Kana: がんこ
+- English: stubborn\, obstinate
+- Notes: text\: お前本当にガンコだな — you\'re really stubborn
+
 ## e0010
 
 - Page: 169
@@ -80,13 +112,13 @@
 - English: to stay\, to reside \(temporarily\, esp\. abroad\)
 - Notes: text\: 観光ビザなんてなくてもずっと外国滞在できるんだぜ — you can stay abroad indefinitely without even needing a tourist visa
 
-## e0011
+## e0014
 
-- Page: 169
-- Kanji: 頑固
-- Kana: がんこ
-- English: stubborn\, obstinate
-- Notes: text\: お前本当にガンコだな — you\'re really stubborn
+- Page: 170
+- Kanji: お世話になる
+- Kana: おせわになる
+- English: to be indebted to\, to receive someone\'s help\/care
+- Notes: text\: まずはお世話になった人達にあいさつに行って… — first\, go greet the people who looked after us
 
 ## e0012
 
@@ -103,14 +135,6 @@
 - Kana: かんじん
 - English: essential\, crucial\, of chief importance
 - Notes: text\: そして一番肝心なのは — and the most important thing is\.\.\.
-
-## e0014
-
-- Page: 170
-- Kanji: お世話になる
-- Kana: おせわになる
-- English: to be indebted to\, to receive someone\'s help\/care
-- Notes: text\: まずはお世話になった人達にあいさつに行って… — first\, go greet the people who looked after us
 
 ## e0015
 
@@ -176,6 +200,22 @@
 - English: therefore\, hence\, that is why \(formal connector\)
 - Notes: text\: クモは旅団のシンボルだゆえに旅団に近い者はヤツらをそう呼ぶ — the spider is the Troupe\'s symbol\, hence those close to the Troupe call them that
 
+## e0093
+
+- Page: 172
+- Kanji: 近しい
+- Kana: ちかしい
+- English: close\; closely connected
+- Notes: text\: 旅団に近しい者 — those close to the Troupe
+
+## e0094
+
+- Page: 172
+- Kanji: 興味
+- Kana: きょうみ
+- English: interest\; curiosity
+- Notes: text\: ヒソカの情報に興味があってな — I was curious about Hisoka\'s information
+
 ## e0023
 
 - Page: 172
@@ -191,6 +231,14 @@
 - Kana: ほうき
 - English: abandonment\, forfeiture\, relinquishment
 - Notes: text\: 敵の試合放棄を受け入れた理由がわかったぜ — I understand why you accepted the opponent\'s forfeit
+
+## e0095
+
+- Page: 172
+- Kanji: 甘んじる
+- Kana: あまんじる
+- English: to accept\; to resign oneself to
+- Notes: text\: 試合放棄を甘んじて受け入れた — accepted the forfeit
 
 ## e0025
 
@@ -215,6 +263,46 @@
 - Kana: ちんぴん
 - English: a rare item\, a curiosity
 - Notes: text\: 世界中から珍品希少品国宝級の貴重品集まる — rare items\, scarce items\, national\-treasure\-class valuables gather from all over the world
+
+## e0096
+
+- Page: 173
+- Kanji: 希少品
+- Kana: きしょうひん
+- English: a rare item\; a scarce article
+- Notes: text\: 珍品希少品 — curiosities and rare items
+
+## e0097
+
+- Page: 173
+- Kanji: 国宝級
+- Kana: こくほうきゅう
+- English: national treasure class\; of national treasure quality
+- Notes: text\: 国宝級の貴重品 — valuables of national treasure quality
+
+## e0098
+
+- Page: 173
+- Kanji: 貴重品
+- Kana: きちょうひん
+- English: a valuable item\; valuables
+- Notes: text\: 国宝級の貴重品 — valuables of national treasure quality
+
+## e0099
+
+- Page: 173
+- Kanji: 何十倍
+- Kana: なんじゅうばい
+- English: dozens of times\; many times
+- Notes: text\: その何十倍のガラクタ — many times that much junk
+
+## e0100
+
+- Page: 173
+- Kanji: ガラクタ
+- Kana: がらくた
+- English: junk\; worthless odds and ends
+- Notes: text\: 何十倍のガラクタも — many times that much junk too
 
 ## e0028
 
@@ -248,14 +336,6 @@
 - English: a great many\, tons of \(colloquial\)
 - Notes: text\: 関わりの深い連中はごまんと来るだろう — a huge number of people deeply connected to them will probably come
 
-## e0032
-
-- Page: 173
-- Kanji: 雇い主
-- Kana: やといぬし
-- English: an employer
-- Notes: text\: オークションに参加するためには金が必要だし雇い主を探す — to take part in the auction I\'ll need money\, so I need to find an employer
-
 ## e0033
 
 - Page: 173
@@ -272,6 +352,14 @@
 - English: in earnest\, properly\, seriously
 - Notes: text\: これからは本格的にハンターとして — from now on\, in earnest\, as a proper Hunter\.\.\.
 
+## e0032
+
+- Page: 173
+- Kanji: 雇い主
+- Kana: やといぬし
+- English: an employer
+- Notes: text\: オークションに参加するためには金が必要だし雇い主を探す — to take part in the auction I\'ll need money\, so I need to find an employer
+
 ## e0035
 
 - Page: 174
@@ -280,13 +368,29 @@
 - English: one\'s hometown\, birthplace
 - Notes: text\: オレも故郷へ戻るぜ — I\'m heading back to my hometown too
 
-## e0036
+## e0039
 
 - Page: 174
-- Kanji: 猛勉強
-- Kana: もうべんきょう
-- English: intense studying\, cramming
-- Notes: text\: これから帰って猛勉強しねーとな — I have to go home now and cram\-study
+- Kanji: 捨てきれない
+- Kana: すてきれない
+- English: unable to fully give up\, can\'t completely abandon \(a dream\, feeling\)
+- Notes: text\: やっぱり医者の夢は捨てきれねェ — after all\, I can\'t give up on my dream of being a doctor
+
+## e0101
+
+- Page: 174
+- Kanji: 受かる
+- Kana: うかる
+- English: to pass an exam\; to be accepted
+- Notes: text\: 国立医大に受かれば — if I get into the national medical school
+
+## e0102
+
+- Page: 174
+- Kanji: バカ高い
+- Kana: ばかだかい
+- English: ridiculously expensive\; exorbitantly high
+- Notes: text\: バカ高い授業料 — ridiculously high tuition
 
 ## e0037
 
@@ -304,13 +408,13 @@
 - English: to be exempted\, to be waived \(from a fee or duty\)
 - Notes: text\: バカ高い授業料は免除されるからな — because that ridiculously expensive tuition gets waived
 
-## e0039
+## e0036
 
 - Page: 174
-- Kanji: 捨てきれない
-- Kana: すてきれない
-- English: unable to fully give up\, can\'t completely abandon \(a dream\, feeling\)
-- Notes: text\: やっぱり医者の夢は捨てきれねェ — after all\, I can\'t give up on my dream of being a doctor
+- Kanji: 猛勉強
+- Kana: もうべんきょう
+- English: intense studying\, cramming
+- Notes: text\: これから帰って猛勉強しねーとな — I have to go home now and cram\-study
 
 ## e0040
 
@@ -327,6 +431,14 @@
 - Kana: とっくん
 - English: intensive\/special training
 - Notes: text\: どーするって特訓に決まってんだろ — what do you mean \"what should we do\"\, it\'s obviously special training
+
+## e0103
+
+- Page: 175
+- Kanji: 一発
+- Kana: いっぱつ
+- English: one blow\; one shot
+- Notes: text\: 一発でも殴れる — land even one punch
 
 ## e0042
 
@@ -360,6 +472,14 @@
 - English: to be annoyed\, irritated\, ticked off
 - Notes: text\: ちょっとムカつく — that\'s kind of annoying
 
+## e0104
+
+- Page: 176
+- Kanji: 平常
+- Kana: へいじょう
+- English: normal\; usual
+- Notes: text\: 平常モードで — in normal mode
+
 ## e0046
 
 - Page: 176
@@ -368,13 +488,13 @@
 - English: in the end\, ultimately
 - Notes: text\: うーんオレってばけっきょく… — hmm\, well as for me\, in the end\.\.\.
 
-## e0047
+## e0105
 
 - Page: 176
-- Kanji:
-- Kana: はずい
-- English: embarrassing \(casual slang contraction of 恥ずかしい\)
-- Notes: text\: 恥ずいだろ — it\'s embarrassing\, right
+- Kanji: 謙虚
+- Kana: けんきょ
+- English: modest\; humble
+- Notes: text\: オレってばけんきょ — I\'m pretty modest
 
 ## e0048
 
@@ -384,13 +504,21 @@
 - English: a straight face\, a serious expression
 - Notes: text\: キルアってやっぱりすごいなー真顔で言うな — Killua really is amazing — don\'t say it with a straight face
 
-## e0049
+## e0047
 
 - Page: 176
-- Kanji: 頼る
-- Kana: たよる
-- English: to rely on\, to depend on
-- Notes: text\: あんまりこれに頼るのもよくねーよ — relying on this too much isn\'t good either
+- Kanji:
+- Kana: はずい
+- English: embarrassing \(casual slang contraction of 恥ずかしい\)
+- Notes: text\: 恥ずいだろ — it\'s embarrassing\, right
+
+## e0052
+
+- Page: 176
+- Kanji: 適当
+- Kana: てきとう
+- English: approximate\, rough\, imprecise
+- Notes: text\: こいつもてきとーなんだからオレ自身と相手の強さの差がはっきりわかんないよ — this thing is imprecise too\, so I can\'t clearly tell the difference in strength between me and my opponent
 
 ## e0050
 
@@ -408,13 +536,21 @@
 - English: precision\, accuracy
 - Notes: text\: 経験つむとその精度が少し良くなるだけ — accumulating experience only makes its precision a little better
 
-## e0052
+## e0049
 
 - Page: 176
-- Kanji: 適当
-- Kana: てきとう
-- English: approximate\, rough\, imprecise
-- Notes: text\: こいつもてきとーなんだからオレ自身と相手の強さの差がはっきりわかんないよ — this thing is imprecise too\, so I can\'t clearly tell the difference in strength between me and my opponent
+- Kanji: 頼る
+- Kana: たよる
+- English: to rely on\, to depend on
+- Notes: text\: あんまりこれに頼るのもよくねーよ — relying on this too much isn\'t good either
+
+## e0055
+
+- Page: 177
+- Kanji: 相当
+- Kana: そうとう
+- English: considerably\, quite\, fairly
+- Notes: text\: まあなんにしてもヒソカは相当強い\! — well\, in any case\, Hisoka is considerably strong\!
 
 ## e0053
 
@@ -432,14 +568,6 @@
 - English: to strike back\, to get in a counterblow \(idiom\)
 - Notes: text\: 並大抵のことじゃ半年で一矢報いるのはムリだ — by ordinary means\, it\'d be impossible to land a counterblow in half a year
 
-## e0055
-
-- Page: 177
-- Kanji: 相当
-- Kana: そうとう
-- English: considerably\, quite\, fairly
-- Notes: text\: まあなんにしてもヒソカは相当強い\! — well\, in any case\, Hisoka is considerably strong\!
-
 ## e0056
 
 - Page: 177
@@ -456,6 +584,22 @@
 - English: killing two birds with one stone \(idiom\)
 - Notes: text\: そこで一石二鳥の場所がある — so there\'s a place that kills two birds with one stone
 
+## e0106
+
+- Page: 177
+- Kanji: 天空闘技場
+- Kana: てんくうとうぎじょう
+- English: Heaven\'s Arena
+- Notes: text\: 一石二鳥の場所がある 天空闘技場 — there\'s a place that kills two birds with one stone\: Heaven\'s Arena
+
+## e0107
+
+- Page: 178
+- Kanji: 地上
+- Kana: ちじょう
+- English: the ground\; above ground
+- Notes: text\: 地上２５１階 — 251 floors above ground
+
 ## e0058
 
 - Page: 178
@@ -463,6 +607,22 @@
 - Kana: ほこる
 - English: to boast\, to take pride in
 - Notes: text\: 世界第4位の高さを誇る建物だ — a building that boasts the world\'s 4th\-tallest height
+
+## e0108
+
+- Page: 178
+- Kanji: 建物
+- Kana: たてもの
+- English: a building\; a structure
+- Notes: text\: 世界第４位の高さを誇る建物 — a building that ranks fourth in the world by height
+
+## e0109
+
+- Page: 178
+- Kanji: 闘技場
+- Kana: とうぎじょう
+- English: an arena\; a fighting arena
+- Notes: text\: 闘技場はここだ — the arena is here
 
 ## e0059
 
@@ -472,13 +632,13 @@
 - English: far away\, distant \(in space or time\)
 - Notes: text\: ヨークシンはそのはるか下の大陸にある — Yorkshin is on the continent far below there
 
-## e0060
+## e0110
 
-- Page: 179
-- Kanji: 降りる
-- Kana: おりる
-- English: to get off\, to disembark
-- Notes: text\: 船を降りたらゼロから出発だな — once we get off the ship\, it\'s a fresh start from zero
+- Page: 178
+- Kanji: 大陸
+- Kana: たいりく
+- English: a continent
+- Notes: text\: そのはるか下の大陸 — the continent far below
 
 ## e0061
 
@@ -496,6 +656,14 @@
 - English: a boat\/ship fare
 - Notes: text\: この飛行船の乗船賃で金は全部使っちまった — we used up all our money on this airship\'s fare
 
+## e0111
+
+- Page: 179
+- Kanji: 使い果たす
+- Kana: つかいはたす
+- English: to use up\; to exhaust
+- Notes: text\: 金は全部使っちまった — we used up all our money
+
 ## e0063
 
 - Page: 179
@@ -503,6 +671,22 @@
 - Kana: かせぐ
 - English: to earn \(money\)\, to make a living
 - Notes: text\: あとは稼ぐしかない — all that\'s left is to earn money
+
+## e0060
+
+- Page: 179
+- Kanji: 降りる
+- Kana: おりる
+- English: to get off\, to disembark
+- Notes: text\: 船を降りたらゼロから出発だな — once we get off the ship\, it\'s a fresh start from zero
+
+## e0112
+
+- Page: 179
+- Kanji: 出発
+- Kana: しゅっぱつ
+- English: departure\; a start
+- Notes: text\: ゼロから出発だな — it\'s a fresh start from zero
 
 ## e0064
 
@@ -512,21 +696,21 @@
 - English: a line\, a queue \(of people\)
 - Notes: text\: すごい行列だね — what an amazing line
 
-## e0065
+## e0113
 
 - Page: 180
-- Kanji: 野蛮人
-- Kana: やばんじん
-- English: a barbarian\, a savage
-- Notes: text\: 野蛮人の聖地なのさ — it\'s the sacred ground of barbarians
+- Kanji: 参加者
+- Kana: さんかしゃ
+- English: a participant\; an entrant
+- Notes: text\: これ全部参加者なんだね — these are all participants
 
-## e0066
+## e0114
 
 - Page: 180
-- Kanji: 聖地
-- Kana: せいち
-- English: sacred ground\, holy land
-- Notes: text\: 野蛮人の聖地なのさ — it\'s the sacred ground of barbarians
+- Kanji: 条件
+- Kana: じょうけん
+- English: a condition\; a requirement
+- Notes: text\: こ難しい条件は一切なし — there are no difficult conditions at all
 
 ## e0067
 
@@ -544,13 +728,37 @@
 - English: to knock down\, to defeat \(emphatic\/rough form of 倒す\)
 - Notes: text\: 相手をぶっ倒せばいいだけだからな — all you have to do is knock down your opponent
 
-## e0069
+## e0115
 
 - Page: 180
-- Kanji: 格闘技
-- Kana: かくとうぎ
-- English: martial arts\, combat sports
-- Notes: text\: 格闘技経験10年って書いとけ — just write \"10 years of martial arts experience\"
+- Kanji:
+- Kana: ファイトマネー
+- English: a fighter\'s purse\; prize money
+- Notes: text\: ファイトマネーも高くなる — the fight purse gets higher too
+
+## e0065
+
+- Page: 180
+- Kanji: 野蛮人
+- Kana: やばんじん
+- English: a barbarian\, a savage
+- Notes: text\: 野蛮人の聖地なのさ — it\'s the sacred ground of barbarians
+
+## e0066
+
+- Page: 180
+- Kanji: 聖地
+- Kana: せいち
+- English: sacred ground\, holy land
+- Notes: text\: 野蛮人の聖地なのさ — it\'s the sacred ground of barbarians
+
+## e0116
+
+- Page: 180
+- Kanji: 天空闘技場
+- Kana: てんくうとうぎじょう
+- English: Heaven\'s Arena
+- Notes: text\: 天空闘技場へようこそ — welcome to Heaven\'s Arena
 
 ## e0070
 
@@ -559,6 +767,14 @@
 - Kana: ひつようじこう
 - English: required information\, necessary items \(on a form\)
 - Notes: text\: こちらに必要事項をお書き下さい — please write the necessary information here
+
+## e0069
+
+- Page: 180
+- Kanji: 格闘技
+- Kana: かくとうぎ
+- English: martial arts\, combat sports
+- Notes: text\: 格闘技経験10年って書いとけ — just write \"10 years of martial arts experience\"
 
 ## e0071
 
@@ -575,6 +791,14 @@
 - Kana: ちっとも
 - English: not even a little\, not at all \(used with negative\)
 - Notes: text\: なつかしいちっとも変わってねーや — nostalgic\, it hasn\'t changed one bit
+
+## e0117
+
+- Page: 181
+- Kanji: 変わる
+- Kana: かわる
+- English: to change
+- Notes: text\: ちっとも変わってねーや — it hasn\'t changed at all
 
 ## e0073
 
@@ -608,6 +832,14 @@
 - English: to be nervous\, to be tense
 - Notes: text\: うーんキンチョーしてきた — hmm\, I\'m getting nervous
 
+## e0118
+
+- Page: 182
+- Kanji: 試しの門
+- Kana: ためしのもん
+- English: the Testing Gate
+- Notes: text\: 試しの門クリアしたんだろ — you cleared the Testing Gate\, right\?
+
 ## e0077
 
 - Page: 182
@@ -616,6 +848,14 @@
 - English: with all one\'s might\, to the fullest extent
 - Notes: text\: ならもうきた…ただ思いっきり… — then it\'s already here\.\.\. just go all out\.\.\.
 
+## e0119
+
+- Page: 182
+- Kanji: 両者
+- Kana: りょうしゃ
+- English: both parties\; both contestants
+- Notes: text\: 両者リングへ — both contestants to the ring
+
 ## e0078
 
 - Page: 183
@@ -623,6 +863,30 @@
 - Kana: ガキ
 - English: a kid\, a brat \(derogatory\/casual\)
 - Notes: text\: ガキだぜ — it\'s just a brat
+
+## e0120
+
+- Page: 183
+- Kanji: 逃げる
+- Kana: にげる
+- English: to run away\; to flee
+- Notes: text\: 逃げるなら今だぜ — if you\'re going to run\, now\'s the time
+
+## e0081
+
+- Page: 183
+- Kanji: 運が良い
+- Kana: うんがいい
+- English: to be lucky
+- Notes: text\: でかいのに運がいいな\!\! — lucky to get such a big guy\!\!
+
+## e0121
+
+- Page: 183
+- Kanji: 一発
+- Kana: いっぱつ
+- English: one blow\; one shot
+- Notes: text\: 一発で場外へ — out of the ring with one blow
 
 ## e0079
 
@@ -640,13 +904,29 @@
 - English: to knock out\, to drive\/kick out
 - Notes: text\: 一発で場外へたたき出してやれやー\!\!\! — knock him clean out of the ring with one punch\!\!\!
 
-## e0081
+## e0122
 
 - Page: 183
-- Kanji: 運が良い
-- Kana: うんがいい
-- English: to be lucky
-- Notes: text\: でかいのに運がいいな\!\! — lucky to get such a big guy\!\!
+- Kanji: 入場者
+- Kana: にゅうじょうしゃ
+- English: an entrant\; someone admitted to the venue
+- Notes: text\: ここ一階のリングでは入場者のレベルを判断します — here on the first floor\, we assess each entrant\'s level
+
+## e0123
+
+- Page: 183
+- Kanji:
+- Kana: レベル
+- English: a level
+- Notes: text\: 入場者のレベルを判断します — we assess each entrant\'s level
+
+## e0124
+
+- Page: 183
+- Kanji: 判断する
+- Kana: はんだんする
+- English: to judge\; to assess
+- Notes: text\: 入場者のレベルを判断します — we assess each entrant\'s level
 
 ## e0082
 
@@ -664,6 +944,22 @@
 - English: to display\, to exhibit\, to demonstrate \(an ability\)
 - Notes: text\: 自らの力を発揮して下さい — please demonstrate your own strength
 
+## e0125
+
+- Page: 184
+- Kanji: 押す
+- Kana: おす
+- English: to push\; to press
+- Notes: text\: 押す！！ — push\!\!
+
+## e0126
+
+- Page: 184
+- Kanji:
+- Kana: パワー
+- English: power\; strength
+- Notes: text\: ゴリラ以上のパワー — power greater than a gorilla\'s
+
 ## e0084
 
 - Page: 184
@@ -680,6 +976,14 @@
 - English: to climb\, to ascend
 - Notes: text\: キミは今度200階まで登ってるね — you\'re climbing up to floor 200 this time\, huh
 
+## e0128
+
+- Page: 185
+- Kanji: 動き
+- Kana: うごき
+- English: a movement\; a move
+- Notes: text\: 今の動きもすばらしかった — that move just now was splendid too
+
 ## e0086
 
 - Page: 185
@@ -687,6 +991,14 @@
 - Kana: すばらしい
 - English: splendid\, wonderful\, magnificent
 - Notes: text\: 今の動きもすばらしかった — that move just now was splendid too
+
+## e0127
+
+- Page: 185
+- Kanji:
+- Kana: ゆっくり
+- English: slowly\; at an unhurried pace
+- Notes: text\: ゆっくりいきたいから — I want to take it slowly
 
 ## e0087
 
