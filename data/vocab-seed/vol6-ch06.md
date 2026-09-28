@@ -72,14 +72,6 @@
 - English: relatively\, comparatively
 - Notes: text\: 比較的簡単なのは — what\'s relatively easy is\.\.\.
 
-## e0010
-
-- Page: 103
-- Kanji: 波調
-- Kana: はちょう
-- English: wavelength\, attunement \(compare 波長\)
-- Notes: text\: 波調のあう者に対して思い入れのある物はより強い働きで応えてくれる — an object someone is emotionally attached to responds more powerfully to a person whose wavelength matches it
-
 ## e0011
 
 - Page: 103
@@ -87,6 +79,14 @@
 - Kana: おもいいれ
 - English: deep emotional attachment\, strong feelings \(about something\)
 - Notes: text\: 思い入れのある物 — an object one is emotionally attached to
+
+## e0010
+
+- Page: 103
+- Kanji: 波調
+- Kana: はちょう
+- English: wavelength\, attunement \(compare 波長\)
+- Notes: text\: 波調のあう者に対して思い入れのある物はより強い働きで応えてくれる — an object someone is emotionally attached to responds more powerfully to a person whose wavelength matches it
 
 ## e0012
 
@@ -104,6 +104,14 @@
 - English: to sense\, to perceive
 - Notes: text\: 気配を感じとらなきゃダメだ\!\! — you have to sense the presence
 
+## e0075
+
+- Page: 104
+- Kanji: 念を込める
+- Kana: ねんをこめる
+- English: to imbue with Nen\, to infuse with aura
+- Notes: text\: コマには念がこめられている\!\! — Nen has been imbued in the spinning tops
+
 ## e0014
 
 - Page: 105
@@ -111,6 +119,22 @@
 - Kana: てん
 - English: \"Ten\" — the Nen technique of wrapping the body in aura for defense
 - Notes: text\: 纏が消えかかってる\!\! — his Ten is starting to fade
+
+## e0076
+
+- Page: 105
+- Kanji: 直撃
+- Kana: ちょくげき
+- English: a direct hit
+- Notes: text\: またも直撃 — another direct hit
+
+## e0017
+
+- Page: 105
+- Kanji:
+- Kana: なすすべ
+- English: a way\, a means \(of coping\) — usually in negative\, \"nothing one can do\"
+- Notes: text\: またも直撃なす術なし\!\! — another direct hit\, nothing he can do about it
 
 ## e0015
 
@@ -128,13 +152,13 @@
 - English: to knock out\, to fling\/bounce out
 - Notes: text\: はじき出された — he was knocked out
 
-## e0017
+## e0019
 
 - Page: 105
-- Kanji:
-- Kana: なすすべ
-- English: a way\, a means \(of coping\) — usually in negative\, \"nothing one can do\"
-- Notes: text\: またも直撃なす術なし\!\! — another direct hit\, nothing he can do about it
+- Kanji: 集中する
+- Kana: しゅうちゅうする
+- English: to concentrate\, to focus
+- Notes: text\: 気配を読むのに集中すると — if he concentrates on reading the presence
 
 ## e0018
 
@@ -143,14 +167,6 @@
 - Kana: おろそかになる
 - English: to become negligent\/careless \(about something\)
 - Notes: text\: 自分の纏がおろそかになって解けてしまう — his own Ten becomes neglected and comes undone
-
-## e0019
-
-- Page: 105
-- Kanji: 集中する
-- Kana: しゅうちゅうする
-- English: to concentrate\, to focus
-- Notes: text\: 気配を読むのに集中すると — if he concentrates on reading the presence
 
 ## e0020
 
@@ -183,6 +199,14 @@
 - Kana: ねらう
 - English: to aim at\, to target
 - Notes: text\: オレだけを狙って襲ってくるわけじゃないのかな — maybe it\'s not just aiming at and attacking me specifically
+
+## e0077
+
+- Page: 106
+- Kanji: 場外
+- Kana: じょうがい
+- English: out of bounds\, off the ring
+- Notes: text\: おじさんはなんで場外にいるの\? — why are you outside the ring?
 
 ## e0024
 
@@ -224,14 +248,6 @@
 - English: impossible
 - Notes: text\: 高度な命令を与えるのは不可能です — giving it an advanced command is impossible
 
-## e0029
-
-- Page: 107
-- Kanji: 邪魔者
-- Kana: じゃまもの
-- English: an obstacle\, a nuisance\, an intruder
-- Notes: text\: おそらくギドが念じたのは\"邪魔者をはじきとばせ\" — Gido probably willed it to \"knock away any nuisance\"
-
 ## e0030
 
 - Page: 107
@@ -239,6 +255,14 @@
 - Kana: ねんじる
 - English: to concentrate one\'s will on\, to wish\/pray mentally for
 - Notes: text\: おそらくギドが念じたのは — what Gido probably willed was\.\.\.
+
+## e0029
+
+- Page: 107
+- Kanji: 邪魔者
+- Kana: じゃまもの
+- English: an obstacle\, a nuisance\, an intruder
+- Notes: text\: おそらくギドが念じたのは\"邪魔者をはじきとばせ\" — Gido probably willed it to \"knock away any nuisance\"
 
 ## e0031
 
@@ -280,14 +304,6 @@
 - English: useless\, futile\, in vain
 - Notes: text\: 無駄だね\! — it\'s useless\!
 
-## e0036
-
-- Page: 109
-- Kanji: 竜巻
-- Kana: たつまき
-- English: a tornado\, a whirlwind
-- Notes: text\: 竜巻独楽ア―\!\!\! — tornado top\!
-
 ## e0037
 
 - Page: 109
@@ -303,6 +319,14 @@
 - Kana: おうぎ
 - English: a secret technique\, an ultimate\/finishing skill
 - Notes: text\: 攻防一体必殺奥義\!\! — a finishing move combining attack and defense
+
+## e0036
+
+- Page: 109
+- Kanji: 竜巻
+- Kana: たつまき
+- English: a tornado\, a whirlwind
+- Notes: text\: 竜巻独楽ア―\!\!\! — tornado top\!
 
 ## e0039
 
@@ -360,6 +384,14 @@
 - English: to earn
 - Notes: text\: 確実にPを稼げる戦い方 — a way of fighting that reliably earns points
 
+## e0078
+
+- Page: 110
+- Kanji: 放っておく
+- Kana: ほうっておく
+- English: to leave alone\, to let be \(colloquial contraction of 放っておく\)
+- Notes: text\: 攻撃しないでほっとけ\! — leave it alone without attacking\!
+
 ## e0046
 
 - Page: 110
@@ -367,14 +399,6 @@
 - Kana: しろうとかんがえ
 - English: an amateur\'s thinking\, a naive idea
 - Notes: text\: 素人考えだなボウズ — that\'s an amateur\'s thinking\, kid
-
-## e0047
-
-- Page: 110
-- Kanji: 一流
-- Kana: いちりゅう
-- English: first\-rate\, top\-class
-- Notes: text\: 一流のアイススケーターは — a first\-rate ice skater\.\.\.
 
 ## e0048
 
@@ -384,6 +408,14 @@
 - English: depending on training
 - Notes: text\: 訓練次第でそんな問題は解決できるのさ — with the right training\, that kind of problem can be solved
 
+## e0047
+
+- Page: 110
+- Kanji: 一流
+- Kana: いちりゅう
+- English: first\-rate\, top\-class
+- Notes: text\: 一流のアイススケーターは — a first\-rate ice skater\.\.\.
+
 ## e0049
 
 - Page: 111
@@ -391,6 +423,38 @@
 - Kana: りろんじょう
 - English: theoretically\, in theory
 - Notes: text\: 倒す方法はいくつかあります…理論上は — there are a few ways to defeat him\, in theory
+
+## e0079
+
+- Page: 111
+- Kanji: 防御力
+- Kana: ぼうぎょりょく
+- English: defensive power\, defense strength
+- Notes: text\: 彼の防御力以上の発で — with a Hatsu stronger than his defense
+
+## e0052
+
+- Page: 111
+- Kanji: 前提
+- Kana: ぜんてい
+- English: a premise\, a precondition
+- Notes: text\: 前提として大量のオーラを生み出さなければならない — as a precondition\, he has to generate a huge amount of Aura
+
+## e0080
+
+- Page: 111
+- Kanji: 練
+- Kana: れん
+- English: Ren\, a Nen technique that intensifies aura output
+- Notes: text\: ゴン君は練を覚えていない — Gon has not learned Ren
+
+## e0081
+
+- Page: 111
+- Kanji: 覚える
+- Kana: おぼえる
+- English: to learn\, to acquire \(a skill\)
+- Notes: text\: 練を覚えていない — has not learned Ren
 
 ## e0050
 
@@ -408,14 +472,6 @@
 - English: instantly\, in a moment
 - Notes: text\: オーラを瞬時に生み出す術 — a technique to instantly generate Aura
 
-## e0052
-
-- Page: 111
-- Kanji: 前提
-- Kana: ぜんてい
-- English: a premise\, a precondition
-- Notes: text\: 前提として大量のオーラを生み出さなければならない — as a precondition\, he has to generate a huge amount of Aura
-
 ## e0053
 
 - Page: 111
@@ -431,6 +487,14 @@
 - Kana: はてない
 - English: endless\, boundless
 - Notes: text\: 果てない修行と — endless training and\.\.\.
+
+## e0082
+
+- Page: 111
+- Kanji: 修行
+- Kana: しゅぎょう
+- English: training\, rigorous practice
+- Notes: text\: 果てない修行 — endless training
 
 ## e0055
 
@@ -448,6 +512,14 @@
 - English: actual combat\, real battle experience
 - Notes: text\: より多くの実戦を積むしかない — there\'s nothing to do but build up more real combat experience
 
+## e0083
+
+- Page: 111
+- Kanji: 戦う
+- Kana: たたかう
+- English: to fight\, to battle
+- Notes: text\: ギドと戦うのは5年早い — it is five years too soon for him to fight Gido
+
 ## e0057
 
 - Page: 111
@@ -455,6 +527,22 @@
 - Kana: つうかんする
 - English: to feel keenly\, to be painfully aware of
 - Notes: text\: 彼もそれを痛感してるはず — he must be painfully aware of that too
+
+## e0084
+
+- Page: 112
+- Kanji: 戦う
+- Kana: たたかう
+- English: to fight\, to battle
+- Notes: text\: でもまだ戦っていたい\!\! — but I still want to keep fighting
+
+## e0085
+
+- Page: 113
+- Kanji: 纏
+- Kana: てん
+- English: Ten\, the Nen technique of enveloping the body in aura
+- Notes: text\: 纏を解いた\!? — Gon has released Ten
 
 ## e0058
 
@@ -480,6 +568,14 @@
 - English: faint\, weak
 - Notes: text\: 普段微弱に流れているオーラさえ消えるわけだから — because even the Aura that normally flows faintly disappears
 
+## e0086
+
+- Page: 113
+- Kanji: 防御力
+- Kana: ぼうぎょりょく
+- English: defensive power\, defense strength
+- Notes: text\: 念に対する防御力は完全に0\!\! — defense against Nen drops to zero
+
 ## e0061
 
 - Page: 113
@@ -488,13 +584,29 @@
 - English: self\-study\, teaching oneself
 - Notes: text\: 私に会う前から独学でだとしたら — if he taught himself before ever meeting me
 
-## e0062
+## e0087
 
 - Page: 113
-- Kanji: 資質
-- Kana: ししつ
-- English: an innate aptitude\, a natural talent
-- Notes: text\: すごい資質を持っているわけだ — he has an incredible natural talent
+- Kanji: 獲物
+- Kana: えもの
+- English: prey\, quarry
+- Notes: text\: 獣が獲物をつかまえるために — so a beast can catch its prey
+
+## e0088
+
+- Page: 113
+- Kanji: 自然と
+- Kana: しぜんと
+- English: naturally\, instinctively
+- Notes: text\: 自然と覚えるように — as if learning it instinctively
+
+## e0089
+
+- Page: 113
+- Kanji: 覚える
+- Kana: おぼえる
+- English: to learn\, to acquire \(a skill\)
+- Notes: text\: 自然と覚えるように — as if learning it instinctively
 
 ## e0063
 
@@ -504,6 +616,14 @@
 - English: a way of life\, one\'s living
 - Notes: text\: そういう暮らしをしてきたのか — so that\'s the kind of life he\'s led
 
+## e0062
+
+- Page: 113
+- Kanji: 資質
+- Kana: ししつ
+- English: an innate aptitude\, a natural talent
+- Notes: text\: すごい資質を持っているわけだ — he has an incredible natural talent
+
 ## e0064
 
 - Page: 114
@@ -511,6 +631,14 @@
 - Kana: むぼうび
 - English: defenseless\, unguarded
 - Notes: text\: 念の攻撃を無防備で受けちまったら — if he takes a Nen attack while completely defenseless
+
+## e0090
+
+- Page: 114
+- Kanji: 生身
+- Kana: なまみ
+- English: bare flesh\, an unprotected body
+- Notes: text\: 生身の体はひとたまりもない — a bare body would not withstand it
 
 ## e0065
 
@@ -520,6 +648,14 @@
 - English: to not stand a chance\, to be unable to withstand at all \(idiom\)
 - Notes: text\: 生身の体はひとたまりもないんだぞ\!\! — his bare\, unprotected body wouldn\'t stand a chance
 
+## e0091
+
+- Page: 114
+- Kanji: 感じ取る
+- Kana: かんじとる
+- English: to sense\, to perceive
+- Notes: text\: 気配だけを頼りに感じとる — to sense it by relying only on its presence
+
 ## e0066
 
 - Page: 114
@@ -527,6 +663,22 @@
 - Kana: ぜんしんけい
 - English: all of one\'s nerves\, one\'s entire focus
 - Notes: text\: 全神経を集中させなきゃ — I have to focus every last nerve
+
+## e0092
+
+- Page: 114
+- Kanji: 集中する
+- Kana: しゅうちゅうする
+- English: to concentrate\, to focus
+- Notes: text\: 全神経を集中させなきゃ — I have to focus every last nerve
+
+## e0093
+
+- Page: 114
+- Kanji: 纏
+- Kana: てん
+- English: Ten\, the Nen technique of enveloping the body in aura
+- Notes: text\: 纏に気をとられてる余裕はない — there is no leeway to be distracted by Ten
 
 ## e0067
 
@@ -543,6 +695,22 @@
 - Kana: いのちがけ
 - English: risking one\'s life\, at the cost of one\'s life
 - Notes: text\: あのコは命がけで — that kid is risking his life
+
+## e0094
+
+- Page: 115
+- Kanji: 命がけ
+- Kana: いのちがけ
+- English: risking one’s life\, at the risk of one’s life
+- Notes: text\: 命がけで修行をしているのか — is he training at the risk of his life?
+
+## e0095
+
+- Page: 115
+- Kanji: 修行
+- Kana: しゅぎょう
+- English: training\, rigorous practice
+- Notes: text\: 修行をしているのか — is he training?
 
 ## e0069
 
@@ -591,3 +759,11 @@
 - Kana: さける
 - English: to avoid\, to dodge
 - Notes: text\: 全力で敵の攻撃をさけること — dodging the enemy\'s attack with all his strength
+
+## e0096
+
+- Page: 117
+- Kanji: 戦う
+- Kana: たたかう
+- English: to fight\, to battle
+- Notes: text\: これでまだ戦える\!\! — now I can still fight
