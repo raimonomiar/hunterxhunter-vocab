@@ -1,5 +1,13 @@
 # Volume 5 · Chapter 5
 
+## e0087
+
+- Page: 87
+- Kanji: ゾルディック家
+- Kana: ゾルディックけ
+- English: the Zoldyck family
+- Notes: chapter title\, No\.040
+
 ## e0001
 
 - Page: 88
@@ -15,6 +23,14 @@
 - Kana: しんにゅうしゃ
 - English: intruder\, trespasser
 - Notes: text\: 侵入者用の門から入るよ — I\'ll go in through the intruders\' gate
+
+## e0006
+
+- Page: 88
+- Kanji: よじ登る
+- Kana: よじのぼる
+- English: to climb\, to scale \(a wall\, cliff\)
+- Notes: text\: よじ登ってでも中に入るから — I\'ll climb in even if I have to scale the wall
 
 ## e0003
 
@@ -39,14 +55,6 @@
 - Kana: なっとく
 - English: to consent\, to be convinced\, to understand
 - Notes: idiom 納得いかない \= not convinced\, doesn\'t sit right\; text\: だって納得いかないんだもん
-
-## e0006
-
-- Page: 88
-- Kanji: よじ登る
-- Kana: よじのぼる
-- English: to climb\, to scale \(a wall\, cliff\)
-- Notes: text\: よじ登ってでも中に入るから — I\'ll climb in even if I have to scale the wall
 
 ## e0007
 
@@ -88,14 +96,6 @@
 - English: to hand over\, to give
 - Notes: text\: カギは渡せません — I can\'t hand over the key
 
-## e0012
-
-- Page: 89
-- Kanji: 餌食
-- Kana: えじき
-- English: prey\, victim
-- Notes: text\: ミケの餌食にするわけにはいきません — I can\'t let him become Mike\'s prey
-
 ## e0013
 
 - Page: 89
@@ -112,6 +112,14 @@
 - English: young master \(term of address for the son of the house\)
 - Notes: text\: キルア坊っちゃんの友達という方が3人 — three people claiming to be young master Killua\'s friends
 
+## e0012
+
+- Page: 89
+- Kanji: 餌食
+- Kana: えじき
+- English: prey\, victim
+- Notes: text\: ミケの餌食にするわけにはいきません — I can\'t let him become Mike\'s prey
+
 ## e0015
 
 - Page: 90
@@ -119,6 +127,14 @@
 - Kana: やしき
 - English: mansion\, residence\, estate
 - Notes: text\: 屋敷への連絡は全て執事を通すんですよ — all contact to the mansion goes through the butler
+
+## e0088
+
+- Page: 90
+- Kanji: ゾルディック家
+- Kana: ゾルディックけ
+- English: the Zoldyck family
+- Notes: text\: ゾルディック家の執事 — a butler of the Zoldyck family
 
 ## e0016
 
@@ -160,6 +176,22 @@
 - English: to be\, to exist \(humble form of いる\)
 - Notes: servant\'s humble speech\; text\: キルア様に友達などおりません — Master Killua has no such thing as friends
 
+## e0089
+
+- Page: 91
+- Kanji: ゾルディック家
+- Kana: ゾルディックけ
+- English: the Zoldyck family
+- Notes: text\: ゾルディック家 執事室 — the Zoldyck family butler office
+
+## e0090
+
+- Page: 91
+- Kanji: 執事
+- Kana: しつじ
+- English: butler
+- Notes: text\: ゾルディック家 執事室 — the Zoldyck family butler office
+
 ## e0021
 
 - Page: 92
@@ -175,6 +207,14 @@
 - Kana: あてにならない
 - English: not reliable\, not to be counted on
 - Notes: text\: 声でわかる\?あてにならないね — you can tell by voice\? that\'s not reliable
+
+## e0091
+
+- Page: 92
+- Kanji: 方法
+- Kana: ほうほう
+- English: method\, way
+- Notes: text\: 声を似せるだけでいいなら方法はいろいろある — if just imitating the voice is enough\, there are various methods
 
 ## e0023
 
@@ -232,6 +272,14 @@
 - English: to use\, to exploit
 - Notes: text\: ゴン本人をおどして利用する
 
+## e0092
+
+- Page: 93
+- Kanji: ゾルディック家
+- Kana: ゾルディックけ
+- English: the Zoldyck family
+- Notes: text\: ゾルディック家は暗殺を生業にしている — the Zoldyck family makes assassination its trade
+
 ## e0030
 
 - Page: 93
@@ -255,6 +303,14 @@
 - Kana: がいてき
 - English: external enemy\, outside threat
 - Notes: text\: 余計な外敵から主を守るのは執事の勤め — protecting the master from unnecessary external enemies is the butler\'s duty
+
+## e0093
+
+- Page: 93
+- Kanji: 執事
+- Kana: しつじ
+- English: butler
+- Notes: text\: 執事の勤め — the butler\'s duty
 
 ## e0033
 
@@ -280,6 +336,22 @@
 - English: calm\, composed\, level\-headed
 - Notes: text\: まず冷静になれ2人共 — first\, both of you calm down
 
+## e0094
+
+- Page: 95
+- Kanji: 渡す
+- Kana: わたす
+- English: to hand over\, to give
+- Notes: text\: ゴン君 カギを渡しましょう — I\'ll hand over the key
+
+## e0038
+
+- Page: 95
+- Kanji: 説得する
+- Kana: せっとくする
+- English: to persuade\, to talk someone into\/out of something
+- Notes: text\: オッチャンを説得するからよ — I\'ll persuade the old man
+
 ## e0036
 
 - Page: 95
@@ -296,13 +368,13 @@
 - English: firm\, unwavering\, hard
 - Notes: text\: ゴン君の意志は固いんでしょう
 
-## e0038
+## e0095
 
 - Page: 95
-- Kanji: 説得する
-- Kana: せっとくする
-- English: to persuade\, to talk someone into\/out of something
-- Notes: text\: オッチャンを説得するからよ — I\'ll persuade the old man
+- Kanji: 侵入者
+- Kana: しんにゅうしゃ
+- English: intruder\, trespasser
+- Notes: text\: 侵入者の門からついて行きます — I\'ll go along through the intruders\' gate
 
 ## e0039
 
@@ -312,13 +384,13 @@
 - English: to attack
 - Notes: text\: 覚えていて攻撃しないかもしれません — it might remember and not attack
 
-## e0040
+## e0096
 
-- Page: 96
-- Kanji: 見殺しにする
-- Kana: みごろしにする
-- English: to abandon someone to die\, to let die without helping
-- Notes: text\: キルア坊っちゃんの友達を見殺しにしたら — if I let Killua\'s friend die without helping
+- Page: 95
+- Kanji: 殺す
+- Kana: ころす
+- English: to kill
+- Notes: text\: 全員殺されるでしょう — everyone will probably be killed
 
 ## e0041
 
@@ -327,6 +399,22 @@
 - Kana: めいわくをかける
 - English: to cause trouble\/inconvenience
 - Notes: text\: そこまで迷惑はかけられない — I can\'t cause that much trouble
+
+## e0097
+
+- Page: 96
+- Kanji: 坊っちゃん
+- Kana: ぼっちゃん
+- English: young master \(term of address for the son of the house\)
+- Notes: text\: キルア坊っちゃんの友達を見殺しにしたら — if I let young master Killua\'s friend die
+
+## e0040
+
+- Page: 96
+- Kanji: 見殺しにする
+- Kana: みごろしにする
+- English: to abandon someone to die\, to let die without helping
+- Notes: text\: キルア坊っちゃんの友達を見殺しにしたら — if I let Killua\'s friend die without helping
 
 ## e0042
 
@@ -376,6 +464,14 @@
 - English: confidence\, self\-confidence
 - Notes: text\: 何とかできるという自信があるのだろう — probably has confidence he can somehow manage
 
+## e0098
+
+- Page: 97
+- Kanji: 物怖じ
+- Kana: ものおじ
+- English: to be intimidated\, to be shy
+- Notes: text\: 物怖じしない — not easily intimidated
+
 ## e0048
 
 - Page: 97
@@ -424,6 +520,14 @@
 - English: hunting dog
 - Notes: text\: 完璧に訓練された狩猟犬ってやつですよ
 
+## e0100
+
+- Page: 100
+- Kanji: 野山
+- Kana: のやま
+- English: hills and fields\, mountains and countryside
+- Notes: text\: 君が野山で見てきた — the hills and fields you have seen
+
 ## e0054
 
 - Page: 100
@@ -439,6 +543,14 @@
 - Kana: いきもの
 - English: living creature
 - Notes: text\: どんな野獣とも全く違う生き物です
+
+## e0099
+
+- Page: 100
+- Kanji: 自信
+- Kana: じしん
+- English: confidence\, self\-confidence
+- Notes: text\: コミュニケーションをとれる自信があったんでしょう — you were confident you could communicate
 
 ## e0056
 
@@ -528,6 +640,14 @@
 - English: to hesitate
 - Notes: text\: ためらいなく攻撃します — it will attack without hesitation
 
+## e0101
+
+- Page: 101
+- Kanji: 攻撃する
+- Kana: こうげきする
+- English: to attack
+- Notes: text\: ためらいなく攻撃します — it attacks without hesitation
+
 ## e0067
 
 - Page: 101
@@ -535,14 +655,6 @@
 - Kana: すなお
 - English: obedient\, honest\, docile
 - Notes: text\: 本当に素直なコだな — really an obedient\/honest kid
-
-## e0068
-
-- Page: 102
-- Kanji: 交代
-- Kana: こうたい
-- English: shift change\, relief\, alternation of duty
-- Notes: text\: 交代の時間だよ — it\'s shift\-change time
 
 ## e0069
 
@@ -560,21 +672,13 @@
 - English: to stay overnight\, to lodge
 - Notes: text\: まぁ泊まって行きなさい — well\, stay the night
 
-## e0071
+## e0068
 
 - Page: 102
-- Kanji: 気に入る
-- Kana: きにいる
-- English: to take a liking to\, to be pleased with
-- Notes: text\: ゼブロに気に入られるとは大した連中だな — being liked by Zebro\, quite something
-
-## e0072
-
-- Page: 102
-- Kanji: 大した
-- Kana: たいした
-- English: considerable\, impressive\, great
-- Notes: text\: 大した連中だな
+- Kanji: 交代
+- Kana: こうたい
+- English: shift change\, relief\, alternation of duty
+- Notes: text\: 交代の時間だよ — it\'s shift\-change time
 
 ## e0073
 
@@ -592,13 +696,21 @@
 - English: rare\, unusual
 - Notes: text\: 客人とはめずらしい
 
-## e0075
+## e0071
 
-- Page: 103
-- Kanji: 鍛える
-- Kana: きたえる
-- English: to train\, to forge\, to build up \(the body\)
-- Notes: text\: 常に鍛えないといけません — you have to constantly train
+- Page: 102
+- Kanji: 気に入る
+- Kana: きにいる
+- English: to take a liking to\, to be pleased with
+- Notes: text\: ゼブロに気に入られるとは大した連中だな — being liked by Zebro\, quite something
+
+## e0072
+
+- Page: 102
+- Kanji: 大した
+- Kana: たいした
+- English: considerable\, impressive\, great
+- Notes: text\: 大した連中だな
 
 ## e0076
 
@@ -608,6 +720,14 @@
 - English: one side\, one of a pair
 - Notes: text\: 片方200キロあります — one side weighs 200 kilos
 
+## e0075
+
+- Page: 103
+- Kanji: 鍛える
+- Kana: きたえる
+- English: to train\, to forge\, to build up \(the body\)
+- Notes: text\: 常に鍛えないといけません — you have to constantly train
+
 ## e0077
 
 - Page: 103
@@ -615,6 +735,14 @@
 - Kana: とっくん
 - English: intensive\/special training
 - Notes: text\: この家で特訓してみませんか\? — want to try intensive training in this house\?
+
+## e0102
+
+- Page: 104
+- Kanji: 納得
+- Kana: なっとく
+- English: to consent\, to be convinced\, to understand
+- Notes: text\: 多分それも納得いかないでしょう — you probably won\'t be satisfied with that either
 
 ## e0078
 
@@ -624,13 +752,13 @@
 - English: with three people\'s combined effort\, all three working together
 - Notes: suffix \~がかり \= using X people\'s effort\; text\: 3人がかりでも開ければOKだから — okay as long as it opens even with all three working together
 
-## e0079
+## e0103
 
 - Page: 104
-- Kanji: 方法
-- Kana: ほうほう
-- English: method\, way
-- Notes: text\: 他に方法がないのなら — if there\'s no other way
+- Kanji: 不可能
+- Kana: ふかのう
+- English: impossible
+- Notes: text\: 決して不可能じゃない — it is not impossible at all
 
 ## e0080
 
@@ -639,6 +767,14 @@
 - Kana: ふほんい
 - English: against one\'s will\, reluctant
 - Notes: text\: 試されるのは不本意でも — even though being tested is against my will
+
+## e0079
+
+- Page: 104
+- Kanji: 方法
+- Kana: ほうほう
+- English: method\, way
+- Notes: text\: 他に方法がないのなら — if there\'s no other way
 
 ## e0081
 
@@ -672,14 +808,6 @@
 - English: to fully recover\, to heal completely
 - Notes: text\: 10日で完治したお前もすごいが — it\'s amazing you fully healed in 10 days too
 
-## e0085
-
-- Page: 105
-- Kanji: 見つけ出す
-- Kana: みつけだす
-- English: to find\, to locate\, to discover
-- Notes: text\: 屋敷を見つけ出すことができるかもしれない — might be able to locate the mansion
-
 ## e0086
 
 - Page: 105
@@ -687,3 +815,19 @@
 - Kana: どうどうと
 - English: boldly\, grandly\, in an open and dignified manner
 - Notes: text\: 堂々と中に入れるぜ — we can go in openly\/boldly
+
+## e0104
+
+- Page: 105
+- Kanji: 屋敷
+- Kana: やしき
+- English: mansion\, residence\, estate
+- Notes: text\: 屋敷を見つけ出す — to find the mansion
+
+## e0085
+
+- Page: 105
+- Kanji: 見つけ出す
+- Kana: みつけだす
+- English: to find\, to locate\, to discover
+- Notes: text\: 屋敷を見つけ出すことができるかもしれない — might be able to locate the mansion
