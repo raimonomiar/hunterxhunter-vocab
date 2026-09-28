@@ -8,6 +8,22 @@
 - English: an arena\, a coliseum
 - Notes: text\: 天空闘技場 — Heaven\'s Arena
 
+## e0086
+
+- Page: 7
+- Kanji: 勝者
+- Kana: しょうしゃ
+- English: a winner\; a victor
+- Notes: text\: 勝者のみが上の階に行ける — only winners can advance to higher floors
+
+## e0087
+
+- Page: 7
+- Kanji: 平均
+- Kana: へいきん
+- English: an average
+- Notes: text\: 1日平均4000人 — an average of 4\,000 people per day
+
 ## e0002
 
 - Page: 7
@@ -15,6 +31,22 @@
 - Kana: うでじまん
 - English: a person confident\/proud of their own fighting skill
 - Notes: text\: 1日平均4000人の腕自慢が…更に高い階を目指してやってくる — on average\, 4000 people a day\, each proud of their own skill\, come aiming for even higher floors
+
+## e0088
+
+- Page: 7
+- Kanji: 目指す
+- Kana: めざす
+- English: to aim for\; to aspire to
+- Notes: text\: 高い階を目指して — aiming for higher floors
+
+## e0089
+
+- Page: 7
+- Kanji: 施設
+- Kana: しせつ
+- English: a facility\; an establishment
+- Notes: text\: サービス用の各種施設 — various service facilities
 
 ## e0003
 
@@ -24,6 +56,14 @@
 - English: being fully equipped\, complete provision \(of facilities\)
 - Notes: text\: サービス用の各種施設が完備されており — fully equipped with all kinds of service facilities
 
+## e0090
+
+- Page: 7
+- Kanji: 階級
+- Kana: かいきゅう
+- English: rank\; class
+- Notes: text\: 高い階級の闘士 — fighters of high rank
+
 ## e0004
 
 - Page: 7
@@ -31,6 +71,22 @@
 - Kana: とうし
 - English: a fighter\, a warrior\, a combatant
 - Notes: text\: 高い階級の闘士は1フロア全てを所有することができるのだ — a fighter of high rank can own an entire floor
+
+## e0091
+
+- Page: 7
+- Kanji: 所有する
+- Kana: しょゆうする
+- English: to own\; to possess
+- Notes: text\: 1フロア全てを所有する — to own an entire floor
+
+## e0092
+
+- Page: 8
+- Kanji: クラス分け
+- Kana: クラスわけ
+- English: classification\; grouping into classes
+- Notes: text\: 10階単位でクラス分け — grouped in ten\-floor classes
 
 ## e0005
 
@@ -48,13 +104,13 @@
 - English: exclusive\/personal use
 - Notes: text\: 100階をクリアすると専用の個室を用意してもらえるんだ — clear floor 100 and you get a private room set up just for you
 
-## e0007
+## e0093
 
-- Page: 9
-- Kanji: 拝見する
-- Kana: はいけんする
-- English: to see\, to look at \(humble\)
-- Notes: text\: さっきの試合拝見しました — I saw your match just now
+- Page: 8
+- Kanji: 個室
+- Kana: こしつ
+- English: a private room
+- Notes: text\: 専用の個室 — a private room for personal use
 
 ## e0008
 
@@ -64,13 +120,29 @@
 - English: \"Osu\!\" — a martial\-arts greeting\/shout of affirmation
 - Notes: used repeatedly by Zushi as a martial\-arts greeting\/acknowledgment\, e\.g\. 押忍\! お借りします\!
 
-## e0009
+## e0094
 
 - Page: 9
-- Kanji: 拳法
-- Kana: けんぽう
-- English: a style of fist\-fighting\, a martial art
-- Notes: text\: 自分は心源流拳法っす — mine is Shingen\-ryu fist\-fighting
+- Kanji: 試合
+- Kana: しあい
+- English: a match\; a bout
+- Notes: text\: さっきの試合 — the match just now
+
+## e0007
+
+- Page: 9
+- Kanji: 拝見する
+- Kana: はいけんする
+- English: to see\, to look at \(humble\)
+- Notes: text\: さっきの試合拝見しました — I saw your match just now
+
+## e0095
+
+- Page: 9
+- Kanji:
+- Kana: まだまだ
+- English: not yet there\; still a long way to go
+- Notes: text\: 自分なんかまだまだ — I still have a long way to go
 
 ## e0010
 
@@ -79,6 +151,22 @@
 - Kana: ちなみに
 - English: by the way\, incidentally
 - Notes: text\: ちなみにお2人の流派は何すか\? — by the way\, what style are you two\?
+
+## e0096
+
+- Page: 9
+- Kanji: 流派
+- Kana: りゅうは
+- English: a school\; a style \(of martial art\)
+- Notes: text\: お2人の流派 — your two styles
+
+## e0009
+
+- Page: 9
+- Kanji: 拳法
+- Kana: けんぽう
+- English: a style of fist\-fighting\, a martial art
+- Notes: text\: 自分は心源流拳法っす — mine is Shingen\-ryu fist\-fighting
 
 ## e0011
 
@@ -96,6 +184,14 @@
 - English: not yet there\, still a long way to go \(humble self\-deprecation\)
 - Notes: text\: やっぱり自分まだまだっす — I\'m still not there yet\, after all
 
+## e0014
+
+- Page: 10
+- Kanji: 師範代
+- Kana: しはんだい
+- English: an assistant martial\-arts instructor\, deputy master
+- Notes: text\: 師範代\!またシャツが… — Master\'s assistant\! Your shirt again…
+
 ## e0013
 
 - Page: 10
@@ -104,13 +200,21 @@
 - English: a teaching\, a lesson
 - Notes: text\: ちゃんと教えを守ってたね — you properly kept to your teachings
 
-## e0014
+## e0097
 
 - Page: 10
-- Kanji: 師範代
-- Kana: しはんだい
-- English: an assistant martial\-arts instructor\, deputy master
-- Notes: text\: 師範代\!またシャツが… — Master\'s assistant\! Your shirt again…
+- Kanji: 守る
+- Kana: まもる
+- English: to keep\; to follow \(a rule or teaching\)
+- Notes: text\: 教えを守ってた — followed the teachings
+
+## e0098
+
+- Page: 10
+- Kanji: 押忍
+- Kana: おす
+- English: \"Osu\!\" — a martial\-arts greeting or acknowledgment
+- Notes: text\: 押忍！ — Zushi\'s martial\-arts acknowledgment
 
 ## e0015
 
@@ -128,14 +232,6 @@
 - English: no way\!\, surely not
 - Notes: text\: まさかズシ以外に子供が来てるなんて思わなかったよ — I never imagined kids other than Zushi would come here
 
-## e0017
-
-- Page: 11
-- Kanji: 気遣う
-- Kana: きづかう
-- English: to be considerate of\, to show concern for
-- Notes: text\: くれぐれも相手と自分の体を気遣うようにね — please be sure to look out for both your opponent\'s body and your own
-
 ## e0018
 
 - Page: 11
@@ -152,6 +248,38 @@
 - English: an experienced person\, a veteran \(at something\)
 - Notes: text\: この経験者なんです — he\'s experienced at this
 
+## e0099
+
+- Page: 11
+- Kanji: 腕
+- Kana: うで
+- English: skill\; ability \(in a field\)
+- Notes: text\: それなりの腕 — a respectable level of skill
+
+## e0017
+
+- Page: 11
+- Kanji: 気遣う
+- Kana: きづかう
+- English: to be considerate of\, to show concern for
+- Notes: text\: くれぐれも相手と自分の体を気遣うようにね — please be sure to look out for both your opponent\'s body and your own
+
+## e0100
+
+- Page: 11
+- Kanji: 押忍
+- Kana: おす
+- English: \"Osu\!\" — a martial\-arts greeting or acknowledgment
+- Notes: text\: オス\!\! — Zushi\'s martial\-arts acknowledgment
+
+## e0101
+
+- Page: 11
+- Kanji: チケット
+- Kana: ちけっと
+- English: a ticket
+- Notes: text\: チケットをお願いします — a ticket\, please
+
 ## e0020
 
 - Page: 11
@@ -159,6 +287,30 @@
 - Kana: さきほど
 - English: a little while ago\, just now \(formal\)
 - Notes: text\: はい\!こちらが先程のファイトマネーです — here you are\, this is the prize money from just now
+
+## e0102
+
+- Page: 11
+- Kanji:
+- Kana: ファイトマネー
+- English: a fighter\'s purse\; prize money
+- Notes: text\: 先程のファイトマネー — the purse from the previous match
+
+## e0103
+
+- Page: 11
+- Kanji:
+- Kana: ギャラ
+- English: a fee\; payment
+- Notes: text\: ジュース1本分のギャラ — earnings equal to one juice
+
+## e0104
+
+- Page: 12
+- Kanji: 越える
+- Kana: こえる
+- English: to exceed\; to go past
+- Notes: text\: 150階を越えると — once past floor 150
 
 ## e0021
 
@@ -176,6 +328,14 @@
 - English: easily\, without difficulty
 - Notes: text\: ギャラも1000万を楽に越す — the fee easily exceeds 10 million
 
+## e0105
+
+- Page: 12
+- Kanji: 菓子代
+- Kana: かしだい
+- English: money for sweets\; candy money
+- Notes: text\: お菓子代に消えた — it went on sweets
+
 ## e0023
 
 - Page: 12
@@ -191,6 +351,22 @@
 - Kana: せいかくに
 - English: precisely\, accurately\, strictly speaking
 - Notes: text\: 正確に言うと200階いった時点でやめちゃったから — strictly speaking\, I quit right when I reached floor 200
+
+## e0106
+
+- Page: 12
+- Kanji: 試合
+- Kana: しあい
+- English: a match\; a bout
+- Notes: text\: 前の試合 \/ もう1試合 — the previous match \/ another match
+
+## e0107
+
+- Page: 12
+- Kanji: 組まされる
+- Kana: くまされる
+- English: to be made to take part\; to be assigned a match
+- Notes: text\: もう1試合組まされる — to be made to take another match
 
 ## e0025
 
@@ -208,6 +384,14 @@
 - English: carefree\, relaxed\, easygoing
 - Notes: text\: 気楽にいこーぜ — let\'s take it easy
 
+## e0108
+
+- Page: 13
+- Kanji: 闘技場
+- Kana: とうぎじょう
+- English: an arena\; a coliseum
+- Notes: text\: 55階B闘技場 — the 55th\-floor B arena
+
 ## e0027
 
 - Page: 13
@@ -215,6 +399,30 @@
 - Kana: おこし
 - English: coming\, visiting \(honorific\)
 - Notes: text\: 55階B闘技場へお越し下さい — please make your way to the 55th\-floor B arena
+
+## e0109
+
+- Page: 14
+- Kanji: 闘技場
+- Kana: とうぎじょう
+- English: an arena\; a coliseum
+- Notes: text\: 57階A闘技場 — the 57th\-floor A arena
+
+## e0110
+
+- Page: 14
+- Kanji: お越し
+- Kana: おこし
+- English: coming\; visiting \(honorific\)
+- Notes: text\: お越し下さい — please come
+
+## e0111
+
+- Page: 14
+- Kanji: 押忍
+- Kana: おす
+- English: \"Osu\!\" — a martial\-arts greeting or acknowledgment
+- Notes: text\: 押忍…胸お借りします — Zushi\'s martial\-arts greeting
 
 ## e0028
 
@@ -264,6 +472,38 @@
 - English: a strong one\, a formidable fighter
 - Notes: text\: 一気に50階クラスへやってきた強者です\!\! — formidable fighters who shot straight up to the 50th\-floor class
 
+## e0039
+
+- Page: 15
+- Kanji: 瞬殺
+- Kana: しゅんさつ
+- English: an instant kill\, defeating in a flash
+- Notes: text\: キルア選手はまさに瞬殺\!\! — Killua\'s win was truly an instant kill\!\!
+
+## e0040
+
+- Page: 15
+- Kanji: 一閃
+- Kana: いっせん
+- English: a flash\, a single stroke \(of a blade or strike\)
+- Notes: text\: 手刀一閃で相手はマットに沈みました — with one flash of a knife\-hand strike\, his opponent sank to the mat
+
+## e0041
+
+- Page: 15
+- Kanji: 沈む
+- Kana: しずむ
+- English: to sink\, to go down
+- Notes: text\: 相手はマットに沈みました — his opponent sank to the mat
+
+## e0112
+
+- Page: 15
+- Kanji: 拳法
+- Kana: けんぽう
+- English: a style of fist\-fighting\; a martial art
+- Notes: text\: 拳法を駆使し — making full use of fist\-fighting
+
 ## e0034
 
 - Page: 15
@@ -304,30 +544,6 @@
 - English: splendid\, masterful\, admirable
 - Notes: text\: 無傷であの巨漢を見事KO\!\! — a splendid\, unscathed KO of that giant\!\!
 
-## e0039
-
-- Page: 15
-- Kanji: 瞬殺
-- Kana: しゅんさつ
-- English: an instant kill\, defeating in a flash
-- Notes: text\: キルア選手はまさに瞬殺\!\! — Killua\'s win was truly an instant kill\!\!
-
-## e0040
-
-- Page: 15
-- Kanji: 一閃
-- Kana: いっせん
-- English: a flash\, a single stroke \(of a blade or strike\)
-- Notes: text\: 手刀一閃で相手はマットに沈みました — with one flash of a knife\-hand strike\, his opponent sank to the mat
-
-## e0041
-
-- Page: 15
-- Kanji: 沈む
-- Kana: しずむ
-- English: to sink\, to go down
-- Notes: text\: 相手はマットに沈みました — his opponent sank to the mat
-
 ## e0042
 
 - Page: 15
@@ -335,6 +551,14 @@
 - Kana: ゆうせい
 - English: superiority\, the upper hand\, dominance
 - Notes: text\: 倍率ではズシが優勢\! — by the odds\, Zushi has the upper hand\!
+
+## e0044
+
+- Page: 16
+- Kanji: 隙
+- Kana: すき
+- English: a gap\, an opening\, an unguarded moment
+- Notes: text\: スキの少ないいい構えだ — a good stance with few openings
 
 ## e0043
 
@@ -344,13 +568,21 @@
 - English: a stance\, a posture \(esp\. in martial arts\)
 - Notes: text\: なるほどスキの少ないいい構えだ — I see\, a good stance with few openings
 
-## e0044
+## e0113
 
 - Page: 16
-- Kanji: 隙
-- Kana: すき
-- English: a gap\, an opening\, an unguarded moment
-- Notes: text\: スキの少ないいい構えだ — a good stance with few openings
+- Kanji: 一朝一夕
+- Kana: いっちょういっせき
+- English: a short time\; overnight \(usually in a negative phrase\)
+- Notes: text\: 一朝一夕でできる型 — a form not learned overnight
+
+## e0114
+
+- Page: 16
+- Kanji: 型
+- Kana: かた
+- English: a form\; a pattern \(in martial arts\)
+- Notes: text\: できる型じゃない — not a form one can learn quickly
 
 ## e0045
 
@@ -376,6 +608,22 @@
 - English: \"my bad\"\, sorry \(casual apology\)
 - Notes: text\: ワリーな — my bad \(casual pronunciation of 悪いな\)
 
+## e0115
+
+- Page: 17
+- Kanji: 一本
+- Kana: いっぽん
+- English: one \(of something\)\; a single technique
+- Notes: text\: これ一本で行くつもり — intending to rely on this one technique
+
+## e0116
+
+- Page: 18
+- Kanji: クリーンヒット
+- Kana: くりーんひっと
+- English: a clean hit
+- Notes: called by the announcer and used in the scoring rules
+
 ## e0048
 
 - Page: 18
@@ -383,6 +631,30 @@
 - Kana: いちげき
 - English: a single blow\, a single strike
 - Notes: text\: この一撃で終まいだよバーカ — this one blow finishes it\, idiot
+
+## e0119
+
+- Page: 18
+- Kanji: ダウン
+- Kana: だうん
+- English: a knockdown\; to knock down
+- Notes: text\: ダウンを奪えば — if a knockdown is scored
+
+## e0117
+
+- Page: 18
+- Kanji: 先取
+- Kana: せんしゅ
+- English: taking the lead first\; taking points first
+- Notes: text\: 2P先取 — first to take two points
+
+## e0118
+
+- Page: 18
+- Kanji: クリティカルヒット
+- Kana: くりてぃかるひっと
+- English: a critical hit\; a particularly effective strike
+- Notes: named as a scoring category
 
 ## e0049
 
@@ -400,6 +672,14 @@
 - English: to give\, to grant\, to award
 - Notes: text\: 2点1点が与えられます — 2 or 1 points are awarded
 
+## e0053
+
+- Page: 18
+- Kanji: 続行
+- Kana: ぞっこう
+- English: continuation\, continuing \(a match\)
+- Notes: text\: 続行がKO勝ち\!\! — being unable to continue is a KO win\!\!
+
 ## e0051
 
 - Page: 18
@@ -416,13 +696,13 @@
 - English: to regard as\, to deem\, to consider as
 - Notes: text\: 不能とみなされれば続行がKO勝ち\!\! — if deemed unable to continue\, it\'s a KO win\!\!
 
-## e0053
+## e0120
 
-- Page: 18
-- Kanji: 続行
-- Kana: ぞっこう
-- English: continuation\, continuing \(a match\)
-- Notes: text\: 続行がKO勝ち\!\! — being unable to continue is a KO win\!\!
+- Page: 19
+- Kanji: 立ち上がる
+- Kana: たちあがる
+- English: to stand up\; to get back to one\'s feet
+- Notes: text\: 立ちました — he got back to his feet
 
 ## e0054
 
@@ -431,6 +711,14 @@
 - Kana: てかげん
 - English: going easy on someone\, holding back\, pulling punches
 - Notes: text\: ちょっと手加減しすぎたのかな — maybe I went a little too easy on him
+
+## e0057
+
+- Page: 20
+- Kanji: 食らう
+- Kana: くらう
+- English: to take\/suffer \(a blow\)\, to receive \(punishment\)
+- Notes: text\: 同じ攻撃は二度まともにはくわないか — so he won\'t take the same attack head\-on twice
 
 ## e0055
 
@@ -448,13 +736,13 @@
 - English: to get up\, to rise \(from lying down\)
 - Notes: text\: 審判のチェック前に起き上がればPはとられません\!\! — get up before the referee\'s count and no point is taken\!\!
 
-## e0057
+## e0122
 
 - Page: 20
-- Kanji: 食らう
-- Kana: くらう
-- English: to take\/suffer \(a blow\)\, to receive \(punishment\)
-- Notes: text\: 同じ攻撃は二度まともにはくわないか — so he won\'t take the same attack head\-on twice
+- Kanji:
+- Kana: まとも
+- English: head\-on\; directly\; properly
+- Notes: text\: 二度まともにはくわない — not take it head\-on twice
 
 ## e0058
 
@@ -463,6 +751,14 @@
 - Kana: かする
 - English: to graze\, to just barely touch\/scrape
 - Notes: text\: 今のはかすっただけ — that one just grazed him
+
+## e0121
+
+- Page: 20
+- Kanji: 一撃
+- Kana: いちげき
+- English: a single blow\; a single strike
+- Notes: text\: 一撃のはず — it should have been a single blow
 
 ## e0059
 
@@ -480,6 +776,14 @@
 - English: to retreat\, to step back\, to withdraw
 - Notes: text\: キルア選手後ろへ退いてしまったぞ — Killua has retreated backward
 
+## e0123
+
+- Page: 22
+- Kanji:
+- Kana: とてつもない
+- English: tremendous\; extraordinary
+- Notes: text\: とてつもなく — tremendously
+
 ## e0061
 
 - Page: 22
@@ -487,6 +791,14 @@
 - Kana: せいえん
 - English: cheering\, vocal support
 - Notes: text\: 観客のバカでかい声援で一時試合が中断してしまいました — the match was briefly suspended by the audience\'s incredibly loud cheering
+
+## e0124
+
+- Page: 22
+- Kanji: 試合
+- Kana: しあい
+- English: a match\; a bout
+- Notes: text\: 一時試合が中断 — the match was briefly interrupted
 
 ## e0062
 
@@ -496,14 +808,6 @@
 - English: to interrupt\, to suspend temporarily
 - Notes: text\: 一時試合が中断してしまいました — the match was briefly suspended
 
-## e0063
-
-- Page: 22
-- Kanji: 再開する
-- Kana: さいかいする
-- English: to resume\, to restart
-- Notes: text\: さあ気をとりなおして再開いたしましょう — now\, let\'s collect ourselves and resume
-
 ## e0064
 
 - Page: 22
@@ -512,13 +816,13 @@
 - English: to pull oneself together\, to regain one\'s composure
 - Notes: text\: さあ気をとりなおして再開いたしましょう — now\, let\'s pull ourselves together and resume
 
-## e0065
+## e0063
 
-- Page: 23
-- Kanji: 素質
-- Kana: そしつ
-- English: natural aptitude\, talent\, potential
-- Notes: text\: でも今はまだ素質はあるよあいつ強くなる — but he\'s still got potential\, he\'ll get stronger
+- Page: 22
+- Kanji: 再開する
+- Kana: さいかいする
+- English: to resume\, to restart
+- Notes: text\: さあ気をとりなおして再開いたしましょう — now\, let\'s collect ourselves and resume
 
 ## e0066
 
@@ -528,6 +832,14 @@
 - English: to have a hard time \(with something\)\, to struggle to handle
 - Notes: text\: ちょっと手こずったんだ — I had a bit of trouble with him
 
+## e0125
+
+- Page: 23
+- Kanji: 隙
+- Kana: すき
+- English: a gap\; an opening\; an unguarded moment
+- Notes: text\: スキだらけ — full of openings
+
 ## e0067
 
 - Page: 23
@@ -535,6 +847,14 @@
 - Kana: のろい
 - English: slow\, sluggish
 - Notes: text\: パンチもだらけのろい — his punches were sloppy and slow
+
+## e0065
+
+- Page: 23
+- Kanji: 素質
+- Kana: そしつ
+- English: natural aptitude\, talent\, potential
+- Notes: text\: でも今はまだ素質はあるよあいつ強くなる — but he\'s still got potential\, he\'ll get stronger
 
 ## e0068
 
@@ -552,6 +872,14 @@
 - English: to knock down\, to defeat\, to overthrow
 - Notes: text\: なのに倒せなかった — and yet I couldn\'t knock him down
 
+## e0126
+
+- Page: 24
+- Kanji: 構え
+- Kana: かまえ
+- English: a stance\; a posture \(especially in martial arts\)
+- Notes: text\: 構えを変えた — changed his stance
+
 ## e0070
 
 - Page: 24
@@ -567,6 +895,14 @@
 - Kana: あにき
 - English: older brother \(casual\/rough term\)\; also a senior\/boss figure
 - Notes: text\: 兄貴と同じイヤな感じがしたんだ — I got the same bad feeling as with my brother
+
+## e0127
+
+- Page: 24
+- Kanji: 嫌な感じ
+- Kana: いやなかんじ
+- English: a bad feeling\; an ominous feeling
+- Notes: text\: イヤな感じ — a bad feeling
 
 ## e0072
 
@@ -584,6 +920,14 @@
 - English: I\'m very sorry \(formal apology\)
 - Notes: text\: 申しわけありません師範代\! — I\'m very sorry\, sir\!
 
+## e0128
+
+- Page: 24
+- Kanji: 師範代
+- Kana: しはんだい
+- English: an assistant martial\-arts instructor\; deputy master
+- Notes: text\: 申し訳ありません、師範代 — I am very sorry\, Assistant Master
+
 ## e0074
 
 - Page: 24
@@ -600,6 +944,14 @@
 - English: a competitive spirit\, an unwillingness to lose
 - Notes: text\: うん勝ち気は悪いことではない — yes\, a competitive spirit isn\'t a bad thing
 
+## e0129
+
+- Page: 25
+- Kanji: 悪い
+- Kana: わるい
+- English: bad\; wrong\; not good
+- Notes: text\: 勝ち気は悪いことではない — a competitive spirit is not a bad thing
+
 ## e0076
 
 - Page: 25
@@ -607,6 +959,22 @@
 - Kana: はるか
 - English: far away\, by far \(in distance or degree\)
 - Notes: text\: お前の目標ははるか先にあるんだろ\? — your goal lies far ahead\, doesn\'t it\?
+
+## e0081
+
+- Page: 25
+- Kanji: 塔
+- Kana: とう
+- English: a tower
+- Notes: text\: この塔の最上階に — at the top floor of this tower
+
+## e0082
+
+- Page: 25
+- Kanji: 最上階
+- Kana: さいじょうかい
+- English: the top floor
+- Notes: text\: 最上階を目指す\! — I\'m aiming for the top floor\!
 
 ## e0077
 
@@ -632,6 +1000,14 @@
 - English: to shave off\, to scrape away\, to cut down
 - Notes: text\: 自らの才能を削る者だぞ — one who whittles away their own talent
 
+## e0130
+
+- Page: 25
+- Kanji: 押忍
+- Kana: おす
+- English: \"Osu\!\" — a martial\-arts greeting or acknowledgment
+- Notes: Zushi answers with 押忍 twice in this exchange
+
 ## e0080
 
 - Page: 25
@@ -640,21 +1016,13 @@
 - English: to prepare oneself mentally\, to resolve\, to be ready to accept
 - Notes: text\: ここにいる間千回負けることを覚悟しなさい — resolve yourself to lose a thousand times while you\'re here
 
-## e0081
+## e0131
 
 - Page: 25
-- Kanji: 塔
-- Kana: とう
-- English: a tower
-- Notes: text\: この塔の最上階に — at the top floor of this tower
-
-## e0082
-
-- Page: 25
-- Kanji: 最上階
-- Kana: さいじょうかい
-- English: the top floor
-- Notes: text\: 最上階を目指す\! — I\'m aiming for the top floor\!
+- Kanji: 目指す
+- Kana: めざす
+- English: to aim for\; to aspire to
+- Notes: text\: 最上階を目指す — aiming for the top floor
 
 ## e0083
 
