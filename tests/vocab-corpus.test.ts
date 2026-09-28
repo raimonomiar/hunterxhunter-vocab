@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 72);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    12383,
+    12429,
   );
   assert.deepEqual(
     result.corpus.chapters.map((chapter) => `${chapter.volume}-${chapter.chapter}`),
