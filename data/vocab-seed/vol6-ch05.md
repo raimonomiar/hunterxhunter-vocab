@@ -1,5 +1,45 @@
 # Volume 6 · Chapter 5
 
+## e0044
+
+- Page: 87
+- Kanji: 使える
+- Kana: つかえる
+- English: to be usable or effective
+- Notes: text\: 彼ら使えるみたいだね — they seem useful
+
+## e0045
+
+- Page: 87
+- Kanji: 戦闘開始
+- Kana: せんとうかいし
+- English: the start of a battle
+- Notes: text\: No\.049 戦闘開始 — chapter title
+
+## e0046
+
+- Page: 88
+- Kanji: 戦闘開始
+- Kana: せんとうかいし
+- English: the start of a battle
+- Notes: text\: No\.049 戦闘開始 — chapter title
+
+## e0047
+
+- Page: 89
+- Kanji: 登録
+- Kana: とうろく
+- English: registration or enrollment
+- Notes: text\: 登録の署名 — a signature for registration
+
+## e0003
+
+- Page: 89
+- Kanji: 署名
+- Kana: しょめい
+- English: a signature
+- Notes: text\: こちらに登録の署名をお願いいたします — please sign your name here for registration
+
 ## e0001
 
 - Page: 89
@@ -16,13 +56,13 @@
 - English: an application\, a request to enter
 - Notes: text\: 早速参戦の申し込みなさいますか — would you like to go ahead and apply to enter\?
 
-## e0003
+## e0048
 
 - Page: 89
-- Kanji: 署名
-- Kana: しょめい
-- English: a signature
-- Notes: text\: こちらに登録の署名をお願いいたします — please sign your name here for registration
+- Kanji: 申告戦闘制
+- Kana: しんこくせんとうせい
+- English: a system for declaring matches in advance
+- Notes: text\: 申告戦闘制 — matches are scheduled by declaration
 
 ## e0004
 
@@ -56,6 +96,38 @@
 - English: to clear\, to pass \(a stage or requirement\)
 - Notes: text\: このクラスをクリアするには10勝が必要となります — to clear this class\, 10 wins are required
 
+## e0049
+
+- Page: 89
+- Kanji:
+- Kana: フロアマスター
+- English: a top ranked fighter who controls a floor
+- Notes: text\: フロアマスターに挑戦することができます — you can challenge a Floor Master
+
+## e0050
+
+- Page: 89
+- Kanji: 挑戦する
+- Kana: ちょうせんする
+- English: to challenge
+- Notes: text\: フロアマスターに挑戦することができます — you can challenge the Floor Master
+
+## e0051
+
+- Page: 90
+- Kanji:
+- Kana: フロアマスター
+- English: a top ranked fighter who controls a floor
+- Notes: text\: フロアマスターとは — what a Floor Master is
+
+## e0052
+
+- Page: 90
+- Kanji: 最高位闘士
+- Kana: さいこういとうし
+- English: a top ranked fighter
+- Notes: text\: 21名の最高位闘士 — the 21 highest ranked fighters
+
 ## e0008
 
 - Page: 90
@@ -88,6 +160,14 @@
 - English: a festival\, a grand event
 - Notes: text\: 2年に一度最上階格闘家の祭典が開かれる — once every two years\, a grand tournament of the top\-floor fighters is held
 
+## e0053
+
+- Page: 90
+- Kanji:
+- Kana: バトルオリンピア
+- English: the Battle Olympia tournament
+- Notes: text\: バトルオリンピアに出場する権利 — the right to compete in the Battle Olympia
+
 ## e0012
 
 - Page: 90
@@ -112,6 +192,14 @@
 - English: to win a championship\, to take first place
 - Notes: text\: その大会で優勝すれば最上階に何かいいことないの\? — if you win the championship\, isn\'t there something good waiting on the top floor\?
 
+## e0054
+
+- Page: 91
+- Kanji: 名誉
+- Kana: めいよ
+- English: honor or prestige
+- Notes: text\: とっても名誉なこと — a great honor
+
 ## e0015
 
 - Page: 91
@@ -119,6 +207,14 @@
 - Kana: ふくしょう
 - English: a supplementary prize \(in addition to the main one\)
 - Notes: text\: それに副賞として毎回お宝がいくつも贈呈されるわ — and on top of that\, treasure is awarded as a bonus prize every time
+
+## e0055
+
+- Page: 91
+- Kanji: 稀少
+- Kana: きしょう
+- English: rare or scarce
+- Notes: text\: 超稀少なお宝 — extremely rare treasure
 
 ## e0016
 
@@ -152,6 +248,14 @@
 - English: elevation\, altitude above sea level
 - Notes: text\: 標高約3700m — elevation approx\. 3700m
 
+## e0056
+
+- Page: 92
+- Kanji: 申し込み
+- Kana: もうしこみ
+- English: an application or request to enter
+- Notes: text\: 申し込みをしたいから — because we want to apply
+
 ## e0020
 
 - Page: 92
@@ -168,6 +272,14 @@
 - English: an item\, an entry \(on a list or form\)
 - Notes: text\: 希望する項目に✓をつけて下さい — please check the box for the item you\'d like
 
+## e0023
+
+- Page: 92
+- Kanji: 指定
+- Kana: してい
+- English: designation\, specification
+- Notes: text\: 希望日指定 — specifying a desired date
+
 ## e0022
 
 - Page: 92
@@ -176,13 +288,29 @@
 - English: multiple\, plural
 - Notes: text\: 希望日指定\(複数可\) — specify a desired date \(multiple allowed\)
 
-## e0023
+## e0057
 
-- Page: 92
-- Kanji: 指定
-- Kana: してい
-- English: designation\, specification
-- Notes: text\: 希望日指定 — specifying a desired date
+- Page: 93
+- Kanji:
+- Kana: いつでも
+- English: anytime
+- Notes: text\: オレいつでもOKです — I can do any time
+
+## e0058
+
+- Page: 93
+- Kanji: 元気
+- Kana: げんき
+- English: energetic or lively
+- Notes: text\: 元気がいいボウヤ — a lively kid
+
+## e0059
+
+- Page: 93
+- Kanji: 戦闘日
+- Kana: せんとうび
+- English: the match date
+- Notes: text\: 戦闘日は決定次第お知らせいたします — the match date will be announced once decided
 
 ## e0024
 
@@ -224,6 +352,22 @@
 - English: a bunch\/group of people \(informal\, often dismissive\)
 - Notes: text\: 洗礼を受けた連中なんだろうな — probably the bunch who got that taste of defeat
 
+## e0060
+
+- Page: 94
+- Kanji: 戦闘日
+- Kana: せんとうび
+- English: the match date
+- Notes: text\: 戦闘日決定 — the match date is set
+
+## e0061
+
+- Page: 94
+- Kanji: 決定
+- Kana: けってい
+- English: a decision or determination
+- Notes: text\: 戦闘日決定 — the match date is set
+
 ## e0029
 
 - Page: 95
@@ -231,6 +375,14 @@
 - Kana: じっかんする
 - English: to really feel\, to grasp something concretely
 - Notes: text\: 早く実感してみたいんだこの力で一体どんなことができるのか — I want to find out for myself just what I can do with this power
+
+## e0062
+
+- Page: 95
+- Kanji: 一体
+- Kana: いったい
+- English: what on earth or just what
+- Notes: text\: 一体どんなことができるのか — just what can I do
 
 ## e0030
 
@@ -264,6 +416,70 @@
 - English: Ten\: a Nen technique that wraps the body in aura for defense \(lit\. \"to wrap around\"\)
 - Notes: text\: 纏はあくまでも防御が主体で攻撃力が上がるわけではない — Ten is fundamentally a defensive technique\, it doesn\'t raise your attack power
 
+## e0063
+
+- Page: 96
+- Kanji: 防御
+- Kana: ぼうぎょ
+- English: defense
+- Notes: text\: 防御が主体 — defense is the main focus
+
+## e0064
+
+- Page: 96
+- Kanji: 主体
+- Kana: しゅたい
+- English: the main focus or basis
+- Notes: text\: 防御が主体 — defense is the main focus
+
+## e0065
+
+- Page: 96
+- Kanji: 攻撃力
+- Kana: こうげきりょく
+- English: attack power
+- Notes: text\: 攻撃力が上がるわけではない — it does not raise attack power
+
+## e0066
+
+- Page: 96
+- Kanji: 防御力
+- Kana: ぼうぎょりょく
+- English: defensive strength
+- Notes: text\: 防御力が上がるといっても — even if your defensive strength increases
+
+## e0067
+
+- Page: 96
+- Kanji: 念
+- Kana: ねん
+- English: Nen life energy
+- Notes: text\: 強い念の使い手 — a user of powerful Nen
+
+## e0068
+
+- Page: 96
+- Kanji: 使い手
+- Kana: つかいて
+- English: a user or practitioner
+- Notes: text\: 念の使い手 — a Nen practitioner
+
+## e0069
+
+- Page: 96
+- Kanji: 突き破る
+- Kana: つきやぶる
+- English: to break through
+- Notes: text\: 纏を軽々と突き破って — break through Ten with ease
+
+## e0070
+
+- Page: 96
+- Kanji: 致命傷
+- Kana: ちめいしょう
+- English: a fatal injury
+- Notes: text\: 致命傷を与える — to inflict a fatal injury
+
 ## e0034
 
 - Page: 97
@@ -271,6 +487,14 @@
 - Kana: がまんする
 - English: to endure\, to be patient
 - Notes: text\: 戦うのは2か月我慢して下さい — please be patient and hold off on fighting for two months
+
+## e0071
+
+- Page: 97
+- Kanji:
+- Kana: できる限り
+- English: as much as possible
+- Notes: text\: できる限りのこと — everything we can
 
 ## e0035
 
@@ -280,6 +504,38 @@
 - English: no matter what\, by all means \(wanting to do something\)
 - Notes: text\: どうしても今戦ってみたいんだ — no matter what\, I want to fight now
 
+## e0072
+
+- Page: 97
+- Kanji:
+- Kana: やれやれ
+- English: an exasperated expression
+- Notes: text\: やれやれ — what a hassle
+
+## e0073
+
+- Page: 97
+- Kanji: 困る
+- Kana: こまる
+- English: to be troubled or at a loss
+- Notes: text\: 困った子だな — what a troublesome kid
+
+## e0074
+
+- Page: 97
+- Kanji: 始め
+- Kana: はじめ
+- English: begin or start
+- Notes: text\: 始め — the command to begin
+
+## e0075
+
+- Page: 98
+- Kanji: 初戦
+- Kana: しょせん
+- English: a first match
+- Notes: text\: 初戦がオレでよかったな — your first match being against me was lucky
+
 ## e0036
 
 - Page: 98
@@ -287,6 +543,14 @@
 - Kana: ひりき
 - English: lacking in physical strength\, weak
 - Notes: text\: オレは非力だから — since I\'m \(supposedly\) weak
+
+## e0076
+
+- Page: 98
+- Kanji: 舞闘独楽
+- Kana: ぶとうごま
+- English: the Dancing Battle Tops technique
+- Notes: text\: ギト選手の舞闘独楽 — Gido\'s spinning top technique
 
 ## e0037
 
@@ -296,6 +560,14 @@
 - English: a spinning top
 - Notes: text\: 舞闘独楽 \(technique name using this word\, lit\. \"dancing battle tops\"\)
 
+## e0077
+
+- Page: 98
+- Kanji: 自在に
+- Kana: じざいに
+- English: freely or at will
+- Notes: text\: 独楽を自在に操り — freely manipulating the tops
+
 ## e0038
 
 - Page: 98
@@ -304,6 +576,14 @@
 - English: to manipulate\, to operate\/control
 - Notes: text\: 10コの独楽を自在に操り敵を攻撃するという彼独特のスタイルです — his unique style of freely manipulating ten tops to attack his enemy
 
+## e0078
+
+- Page: 98
+- Kanji: 攻撃する
+- Kana: こうげきする
+- English: to attack
+- Notes: text\: 敵を攻撃する — to attack an opponent
+
 ## e0039
 
 - Page: 98
@@ -311,6 +591,14 @@
 - Kana: どくとく
 - English: unique\, distinctive
 - Notes: text\: 彼独特のスタイルです — his own distinctive style
+
+## e0079
+
+- Page: 98
+- Kanji: 戦闘円舞曲
+- Kana: せんとうワルツ
+- English: the Battle Waltz technique
+- Notes: text\: 行くぞ戦闘円舞曲 — the name of Gido's attack
 
 ## e0040
 
