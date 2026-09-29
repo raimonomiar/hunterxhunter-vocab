@@ -5,7 +5,7 @@ These chapter files are the canonical, readable source for the shared vocabulary
 ## Coverage
 
 - 73 app chapters
-- 13,641 entries
+- 13,709 entries
 - Volumes 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Chapter index
@@ -92,7 +92,7 @@ These chapter files are the canonical, readable source for the shared vocabulary
 - [Chapter 6](./vol7-ch06.md) — 190 entries
 - [Chapter 7](./vol7-ch07.md) — 91 entries
 - [Chapter 8](./vol7-ch08.md) — 96 entries
-- [Chapter 9](./vol7-ch09.md) — 68 entries
+- [Chapter 9](./vol7-ch09.md) — 136 entries
 
 Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–167. Entries e0047–e0052 are preserved separately for Hisoka’s personality-chart insert on scan 168 and are not No.062 or No.063 story content. Chapter 9 contains No.063 story entries for folios 169–187.
 
@@ -113,4 +113,4 @@ Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–16
 
 Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID unchanged. Entry order within a page follows that page's own reading order, so a section may move to match it without changing its ID or fields. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.
 
-Corpus semantic revision: `6541a8c2c28a7db91dda0e8c44c4b80bc8158997faf11a6fde2b9747bacf81df`
+Corpus semantic revision: `231c9be764039ade1cddc36f161edb8239e3da7cbb592dad3821a85e73927637`
