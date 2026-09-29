@@ -10,7 +10,19 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 72);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    13441,
+    13546,
+  );
+  const volume7Chapter6 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 7 && chapter.chapter === 6,
+  );
+  assert.ok(volume7Chapter6, "Volume 7 Chapter 6 exists");
+  assert.equal(volume7Chapter6.entries.length, 190);
+  assert.equal(volume7Chapter6.entries[0].page, 107);
+  assert.equal(volume7Chapter6.entries.at(-1)?.page, 126);
+  assert.equal(volume7Chapter6.entries.filter((entry) => entry.page <= 125).length, 186);
+  assert.deepEqual(
+    volume7Chapter6.entries.filter((entry) => entry.page === 126).map((entry) => entry.id),
+    ["e0082", "e0083", "e0084", "e0085"],
   );
   assert.deepEqual(
     result.corpus.chapters.map((chapter) => `${chapter.volume}-${chapter.chapter}`),
