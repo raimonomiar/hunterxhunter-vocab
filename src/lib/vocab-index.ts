@@ -27,6 +27,12 @@ export function renderCorpusIndex(corpus: CorpusSource): string {
       );
     }
     lines.push("");
+    if (volume === 7) {
+      lines.push(
+        "Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–167. Entries e0047–e0052 are preserved separately for Hisoka’s personality-chart insert on scan 168 and are not No.062 or No.063 story content. Chapter 9 contains No.063 story entries for folios 169–187.",
+        "",
+      );
+    }
   }
   lines.push(
     "## Format",

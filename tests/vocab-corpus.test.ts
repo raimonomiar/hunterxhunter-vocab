@@ -7,10 +7,10 @@ import { renderCorpusIndex } from "../src/lib/vocab-index";
 test("committed corpus has exact coverage and no validation errors", () => {
   const result = loadCorpus();
   assert.deepEqual(result.diagnostics, []);
-  assert.equal(result.corpus.chapters.length, 72);
+  assert.equal(result.corpus.chapters.length, 73);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    13597,
+    13641,
   );
   const volume7Chapter6 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 7 && chapter.chapter === 6,
@@ -33,6 +33,69 @@ test("committed corpus has exact coverage and no validation errors", () => {
         const [bv, bc] = b.split("-").map(Number);
         return av - bv || ac - bc;
       }),
+  );
+});
+
+test("Volume 7 Chapters 8 and 9 keep No.062, its insert, and No.063 separate", () => {
+  const result = loadCorpus();
+  assert.deepEqual(result.diagnostics, []);
+  const chapter8 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 7 && chapter.chapter === 8,
+  );
+  const chapter9 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 7 && chapter.chapter === 9,
+  );
+  assert.ok(chapter8, "Volume 7 Chapter 8 exists");
+  assert.ok(chapter9, "Volume 7 Chapter 9 exists");
+  assert.equal(chapter8.entries.length, 96);
+  assert.equal(chapter9.entries.length, 68);
+
+  const storyEntries = chapter8.entries.filter((entry) => entry.page >= 149 && entry.page <= 167);
+  assert.equal(storyEntries.length, 90);
+  assert.ok(storyEntries.every((entry) => entry.page >= 149 && entry.page <= 167));
+  assert.deepEqual(
+    [...new Set(storyEntries.map((entry) => entry.id))].sort(),
+    [
+      ...Array.from({ length: 46 }, (_, index) => `e${String(index + 1).padStart(4, "0")}`),
+      ...Array.from({ length: 44 }, (_, index) => `e${String(index + 121).padStart(4, "0")}`),
+    ].sort(),
+  );
+  for (let index = 1; index < chapter8.entries.length; index += 1) {
+    assert.ok(
+      chapter8.entries[index - 1].page <= chapter8.entries[index].page,
+      "Volume 7 Chapter 8 entries stay in ascending page order",
+    );
+  }
+  assert.deepEqual(
+    chapter8.entries.filter((entry) => entry.page === 168).map((entry) => entry.id),
+    ["e0047", "e0048", "e0049", "e0050", "e0051", "e0052"],
+  );
+  assert.ok(
+    chapter8.entries.find((entry) => entry.id === "e0047")?.notes?.includes("personality chart"),
+    "scan 168 entries retain their original personality-chart note",
+  );
+  assert.deepEqual(
+    chapter9.entries.map((entry) => entry.id),
+    Array.from({ length: 68 }, (_, index) => `e${String(index + 53).padStart(4, "0")}`),
+  );
+  assert.ok(chapter9.entries.every((entry) => entry.page >= 169 && entry.page <= 187));
+  assert.deepEqual(
+    chapter8.entries.filter((entry) => entry.page === 151).map((entry) => entry.id),
+    [
+      "e0006",
+      "e0127",
+      "e0128",
+      "e0129",
+      "e0005",
+      "e0004",
+      "e0130",
+      "e0007",
+      "e0008",
+      "e0009",
+      "e0010",
+      "e0011",
+      "e0012",
+    ],
   );
 });
 test("Volume 2 Chapters 7–9 stay within their printed chapter pages", () => {
