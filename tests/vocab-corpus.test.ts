@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 73);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    13641,
+    13709,
   );
   const volume7Chapter6 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 7 && chapter.chapter === 6,
@@ -48,7 +48,7 @@ test("Volume 7 Chapters 8 and 9 keep No.062, its insert, and No.063 separate", (
   assert.ok(chapter8, "Volume 7 Chapter 8 exists");
   assert.ok(chapter9, "Volume 7 Chapter 9 exists");
   assert.equal(chapter8.entries.length, 96);
-  assert.equal(chapter9.entries.length, 68);
+  assert.equal(chapter9.entries.length, 136);
 
   const storyEntries = chapter8.entries.filter((entry) => entry.page >= 149 && entry.page <= 167);
   assert.equal(storyEntries.length, 90);
@@ -74,11 +74,30 @@ test("Volume 7 Chapters 8 and 9 keep No.062, its insert, and No.063 separate", (
     chapter8.entries.find((entry) => entry.id === "e0047")?.notes?.includes("personality chart"),
     "scan 168 entries retain their original personality-chart note",
   );
-  assert.deepEqual(
-    chapter9.entries.map((entry) => entry.id),
+  const originalChapter9Ids = new Set(
     Array.from({ length: 68 }, (_, index) => `e${String(index + 53).padStart(4, "0")}`),
   );
+  assert.deepEqual(
+    chapter9.entries
+      .filter((entry) => originalChapter9Ids.has(entry.id))
+      .map((entry) => entry.id)
+      .sort(),
+    [...originalChapter9Ids].sort(),
+  );
   assert.ok(chapter9.entries.every((entry) => entry.page >= 169 && entry.page <= 187));
+  for (let index = 1; index < chapter9.entries.length; index += 1) {
+    assert.ok(
+      chapter9.entries[index - 1].page <= chapter9.entries[index].page,
+      "Volume 7 Chapter 9 entries stay in ascending page order",
+    );
+  }
+  assert.ok(
+    chapter9.entries.some((entry) => entry.page === 179),
+    "readable action effects are recorded",
+  );
+  assert.ok(chapter9.entries.some((entry) => entry.id === "e0186" && entry.page === 187));
+  assert.ok(chapter9.entries.some((entry) => entry.id === "e0187" && entry.page === 184));
+  assert.ok(chapter9.entries.some((entry) => entry.id === "e0188" && entry.page === 186));
   assert.deepEqual(
     chapter8.entries.filter((entry) => entry.page === 151).map((entry) => entry.id),
     [
