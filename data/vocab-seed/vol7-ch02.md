@@ -1,5 +1,53 @@
 # Volume 7 · Chapter 2
 
+## e0117
+
+- Page: 27
+- Kanji: 人気投票
+- Kana: にんきとうひょう
+- English: popularity poll
+- Notes: page heading\: 第1回人気投票 — the first Hunter × Hunter popularity poll
+
+## e0118
+
+- Page: 27
+- Kanji: 結果発表
+- Kana: けっかはっぴょう
+- English: results announcement
+- Notes: page heading\: 結果発表 — announcement of the results
+
+## e0119
+
+- Page: 27
+- Kanji: 応募総数
+- Kana: おうぼそうすう
+- English: total number of submissions
+- Notes: heading reports the total number of ballots submitted
+
+## e0120
+
+- Page: 27
+- Kanji: 票
+- Kana: ひょう
+- English: vote\; ballot
+- Notes: the page lists each character’s vote total
+
+## e0121
+
+- Page: 27
+- Kanji: 兄貴
+- Kana: あにき
+- English: older brother\; big brother
+- Notes: a poll comment asks Hisoka to become the speaker’s big brother
+
+## e0122
+
+- Page: 27
+- Kanji: 修行再開
+- Kana: しゅぎょうさいかい
+- English: resumption of training
+- Notes: No\.056 chapter heading
+
 ## e0001
 
 - Page: 28
@@ -48,6 +96,30 @@
 - English: lovely\, wonderful\, splendid
 - Notes: the poll comments call Satotsu 素敵なおじさま — a wonderful gentleman
 
+## e0123
+
+- Page: 28
+- Kanji: 良心
+- Kana: りょうしん
+- English: conscience\; moral sense
+- Notes: a poll comment calls Satotsu the Hunter’s conscience
+
+## e0124
+
+- Page: 28
+- Kanji:
+- Kana: おじさま
+- English: older gentleman\; respectable older man
+- Notes: a poll comment praises Satotsu as a wonderful gentleman
+
+## e0125
+
+- Page: 28
+- Kanji: 二枚目半
+- Kana: にまいめはん
+- English: a handsome man with a comic side
+- Notes: a poll comment uses this playful description of a character
+
 ## e0007
 
 - Page: 29
@@ -80,6 +152,22 @@
 - English: vow\, oath\, pledge
 - Notes: text refers to 誓いの糸 — the thread of the vow
 
+## e0126
+
+- Page: 29
+- Kanji: 誘惑
+- Kana: ゆうわく
+- English: temptation
+- Notes: Gon admits he nearly gave in while keeping the thread vow
+
+## e0013
+
+- Page: 29
+- Kanji: 落ち着く
+- Kana: おちつく
+- English: to calm down\, to settle\, to regain composure
+- Notes: text\: 少し心が落ち着いてくるんです — my heart starts to calm down a little
+
 ## e0011
 
 - Page: 30
@@ -96,13 +184,13 @@
 - English: to put into\; to imbue with \(a feeling or force\)
 - Notes: text\: 念を込めておきました — I imbued it with my thoughts\/energy
 
-## e0013
+## e0127
 
-- Page: 29
-- Kanji: 落ち着く
-- Kana: おちつく
-- English: to calm down\, to settle\, to regain composure
-- Notes: text\: 少し心が落ち着いてくるんです — my heart starts to calm down a little
+- Page: 30
+- Kanji: 切れる
+- Kana: きれる
+- English: to break\; snap\; be severed
+- Notes: the vow’s thread has not snapped
 
 ## e0014
 
@@ -184,6 +272,14 @@
 - English: high\-level\, advanced\; altitude
 - Notes: Wing explains that using the technique at a 高度 level requires effort
 
+## e0128
+
+- Page: 32
+- Kanji: 使いこなす
+- Kana: つかいこなす
+- English: to use skillfully\; to master
+- Notes: Wing explains that using Gyo at a high level takes effort
+
 ## e0024
 
 - Page: 32
@@ -199,6 +295,14 @@
 - Kana: どりょく
 - English: effort\, exertion
 - Notes: text\: それなりに努力が必要だけどね — although it requires a corresponding amount of effort
+
+## e0129
+
+- Page: 32
+- Kanji: 怠る
+- Kana: おこたる
+- English: to neglect\; fail to do
+- Notes: Wing warns them not to neglect their effort
 
 ## e0026
 
@@ -223,6 +327,14 @@
 - Kana: やぶる
 - English: to break\, to violate \(a promise or rule\)
 - Notes: Wing explains that the Nen was put in place so Gon could break his promise
+
+## e0130
+
+- Page: 33
+- Kanji: 試合
+- Kana: しあい
+- English: match\; bout
+- Notes: Gon asks Wing about the Hisoka–Castro match
 
 ## e0029
 
@@ -296,6 +408,14 @@
 - English: to oppose\, to counter\, to compete against
 - Notes: Wing explains what is effective for countering this technique
 
+## e0131
+
+- Page: 34
+- Kanji: 練
+- Kana: レン
+- English: Ren\, the Nen technique for intensifying aura
+- Notes: Wing says Ren can concentrate aura in the eyes
+
 ## e0038
 
 - Page: 34
@@ -311,6 +431,14 @@
 - Kana: ゆうこう
 - English: effective\, valid
 - Notes: text calls focusing aura in the eyes the most effective method
+
+## e0132
+
+- Page: 34
+- Kanji: 絶
+- Kana: ゼツ
+- English: Zetsu\, the Nen technique for suppressing aura
+- Notes: Wing explains that In applies Zetsu
 
 ## e0040
 
@@ -352,6 +480,14 @@
 - English: task\, assignment\, challenge
 - Notes: text\: 君達2人の課題は — the task for you two is
 
+## e0133
+
+- Page: 35
+- Kanji: 練
+- Kana: レン
+- English: Ren\, the Nen technique for intensifying aura
+- Notes: Wing assigns Gon and Killua the task of mastering Ren
+
 ## e0045
 
 - Page: 35
@@ -359,6 +495,14 @@
 - Kana: しゅうとくする
 - English: to acquire\, learn\, or master \(a skill\)
 - Notes: text\: 『練』を習得し — master Ren
+
+## e0134
+
+- Page: 35
+- Kanji: 隠
+- Kana: いん
+- English: In\; concealing one’s aura from view
+- Notes: Gon and Killua are told to see through Hisoka’s In
 
 ## e0046
 
@@ -384,6 +528,22 @@
 - English: to find\, to discover
 - Notes: text\: ヒソカの能力は自分達で見つけなさい — find Hisoka\'s ability yourselves
 
+## e0135
+
+- Page: 36
+- Kanji:
+- Kana: カッ
+- English: a sharp flash or sudden gleam \(sound effect\)
+- Notes: stylized effect as Gon concentrates aura in his eye
+
+## e0136
+
+- Page: 36
+- Kanji: 練
+- Kana: レン
+- English: Ren\, the Nen technique for intensifying aura
+- Notes: stylized Nen technique label on the training page
+
 ## e0049
 
 - Page: 37
@@ -407,6 +567,14 @@
 - Kana: おす
 - English: oss\; a martial\-arts greeting or acknowledgment
 - Notes: Zushi repeatedly shouts 押忍\!\! during the training
+
+## e0137
+
+- Page: 37
+- Kanji: 凝
+- Kana: ぎょう
+- English: Gyo\; concentrating aura in the eyes or another body part
+- Notes: stylized technique label as Zushi focuses aura into his eyes
 
 ## e0052
 
@@ -440,6 +608,14 @@
 - English: degree or evidence of improvement
 - Notes: Wing praises their improvement while discussing their training
 
+## e0138
+
+- Page: 38
+- Kanji:
+- Kana: プチッ
+- English: a small snap or pop \(sound effect\)
+- Notes: stylized sound effect during the aura demonstration
+
 ## e0056
 
 - Page: 38
@@ -447,6 +623,30 @@
 - Kana: そそぐ
 - English: to pour into\; to devote or concentrate \(effort or attention\)
 - Notes: text\: 持てる力の全てを注いで — pouring in all the power one possesses
+
+## e0139
+
+- Page: 38
+- Kanji: 凝
+- Kana: ぎょう
+- English: Gyo\; concentrating aura in the eyes or another body part
+- Notes: Wing explains using Gyo to see through Hisoka’s In
+
+## e0140
+
+- Page: 38
+- Kanji: 隠
+- Kana: いん
+- English: In\; concealing one’s aura from view
+- Notes: Wing discusses seeing through Hisoka’s In
+
+## e0064
+
+- Page: 38
+- Kanji: 程度
+- Kana: ていど
+- English: degree\, extent\, level
+- Notes: text describes the level at which they can currently see through In
 
 ## e0057
 
@@ -504,13 +704,13 @@
 - English: to fall into\, to become trapped in
 - Notes: text\: 常に窮地に陥る — always fall into a predicament
 
-## e0064
+## e0141
 
 - Page: 38
-- Kanji: 程度
-- Kana: ていど
-- English: degree\, extent\, level
-- Notes: text describes the level at which they can currently see through In
+- Kanji: 練
+- Kana: レン
+- English: Ren\, the Nen technique for intensifying aura
+- Notes: Wing tells them to master Ren before learning to apply Gyo
 
 ## e0065
 
@@ -543,6 +743,14 @@
 - Kana: とくい
 - English: one\'s forte\; something one is good at
 - Notes: text\: 一人一人が好きなことや得意なことが違うように — just as everyone\'s likes and strengths differ
+
+## e0142
+
+- Page: 39
+- Kanji: 得手不得手
+- Kana: えてふえて
+- English: strengths and weaknesses\; what one is good or bad at
+- Notes: Wing compares Nen aptitudes to each person’s different interests and strengths
 
 ## e0069
 
@@ -592,29 +800,13 @@
 - English: possibility\, potential
 - Notes: Wing says copying another person\'s ability only means the possibility is not zero
 
-## e0075
+## e0143
 
 - Page: 40
-- Kanji: 発展させる
-- Kana: はってんさせる
-- English: to develop\, expand\, or advance
-- Notes: text\: 君達はまだ念を発展させてはいない — you have not yet developed your Nen
-
-## e0076
-
-- Page: 40
-- Kanji: 器
-- Kana: うつわ
-- English: vessel\; capacity\, one\'s potential \(figurative\)
-- Notes: text\: できるだけ自分の器を大きく育てなさい — develop your own capacity as much as possible
-
-## e0077
-
-- Page: 40
-- Kanji: 育てる
-- Kana: そだてる
-- English: to raise\, bring up\, cultivate\, develop
-- Notes: text\: 自分の器を大きく育てなさい — cultivate your own capacity
+- Kanji: 資質
+- Kana: ししつ
+- English: aptitude\; inherent qualities
+- Notes: Killua reflects on Wing’s explanation of aptitude
 
 ## e0078
 
@@ -655,6 +847,38 @@
 - Kana: かたちづくる
 - English: to shape\, form\, or mold
 - Notes: text\: それら全てが君達の念を形づくる — all of that shapes your Nen
+
+## e0075
+
+- Page: 40
+- Kanji: 発展させる
+- Kana: はってんさせる
+- English: to develop\, expand\, or advance
+- Notes: text\: 君達はまだ念を発展させてはいない — you have not yet developed your Nen
+
+## e0076
+
+- Page: 40
+- Kanji: 器
+- Kana: うつわ
+- English: vessel\; capacity\, one\'s potential \(figurative\)
+- Notes: text\: できるだけ自分の器を大きく育てなさい — develop your own capacity as much as possible
+
+## e0077
+
+- Page: 40
+- Kanji: 育てる
+- Kana: そだてる
+- English: to raise\, bring up\, cultivate\, develop
+- Notes: text\: 自分の器を大きく育てなさい — cultivate your own capacity
+
+## e0144
+
+- Page: 40
+- Kanji: 修行
+- Kana: しゅぎょう
+- English: training\; disciplined practice
+- Notes: Wing describes their Nen study as training
 
 ## e0083
 
@@ -736,6 +960,14 @@
 - English: to register\, enroll\, or sign up
 - Notes: text instructs them to register at the last possible moment
 
+## e0145
+
+- Page: 41
+- Kanji: 凝
+- Kana: ぎょう
+- English: Gyo\; concentrating aura in the eyes or another body part
+- Notes: Wing sets Gyo as their goal before their next battle
+
 ## e0093
 
 - Page: 41
@@ -784,6 +1016,22 @@
 - English: room
 - Notes: text\: オレの部屋へ行こうぜ — let\'s go to my room
 
+## e0146
+
+- Page: 42
+- Kanji:
+- Kana: ウィーン
+- English: a motorized whir as a door slides open \(sound effect\)
+- Notes: sound effect as the elevator opens on the 200th floor
+
+## e0147
+
+- Page: 43
+- Kanji:
+- Kana: ガシッ
+- English: a firm grab or sudden contact \(sound effect\)
+- Notes: stylized effect as the fighters arrive at the arena
+
 ## e0099
 
 - Page: 43
@@ -799,6 +1047,14 @@
 - Kana: きらわれる
 - English: to be disliked\, be hated
 - Notes: text\: 嫌われるよそんなこと — people will dislike you for that
+
+## e0148
+
+- Page: 43
+- Kanji: 邪険にする
+- Kana: じゃけんにする
+- English: to treat coldly\; brush off
+- Notes: a visitor tells the boys not to brush off the challengers
 
 ## e0101
 
@@ -871,6 +1127,22 @@
 - Kana: サービス
 - English: service\; a free extra\, bonus\, or favor
 - Notes: text\: サービスでオレの能力見せちゃう — as a bonus\, I might show you my ability
+
+## e0149
+
+- Page: 44
+- Kanji:
+- Kana: ザッ
+- English: a sudden step or movement \(sound effect\)
+- Notes: stylized effect as Gon turns toward Hisoka
+
+## e0150
+
+- Page: 44
+- Kanji: 戦闘日
+- Kana: せんとうび
+- English: fight date\; battle date
+- Notes: Hisoka says he will designate a date for the fight
 
 ## e0110
 
