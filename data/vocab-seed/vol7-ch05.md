@@ -16,6 +16,14 @@
 - English: today \(formal\)
 - Notes: text\: さあ本日のメインイベント — now\, today’s main event
 
+## e0125
+
+- Page: 87
+- Kanji:
+- Kana: メインイベント
+- English: main event
+- Notes: text\: 本日のメインイベント — today’s main event
+
 ## e0003
 
 - Page: 87
@@ -104,6 +112,30 @@
 - English: to make someone realize\; to teach someone a lesson
 - Notes: text\: オレの方が上だってことを思い知らせてやる\!\! — I’ll make you realize that I’m the superior one\!\!
 
+## e0126
+
+- Page: 88
+- Kanji: 伸びる
+- Kana: のびる
+- English: to grow\; to lengthen
+- Notes: text\: のびたな — you’ve grown
+
+## e0127
+
+- Page: 88
+- Kanji: 及第
+- Kana: きゅうだい
+- English: passing an examination\; meeting the required standard
+- Notes: text\: No\.059 及第 — chapter title\, ‘passing grade’
+
+## e0128
+
+- Page: 89
+- Kanji: KO制
+- Kana: ケーオーせい
+- English: knockout rules\; knockout format
+- Notes: text\: ポイント＆KO制 — points and knockout rules
+
 ## e0014
 
 - Page: 89
@@ -168,6 +200,14 @@
 - English: danger avoidance\, evading a crisis
 - Notes: text\: 猛ダッシュで危機回避\!\! — he avoids danger with a full\-speed dash\!\!
 
+## e0129
+
+- Page: 91
+- Kanji:
+- Kana: やばい
+- English: bad\; dangerous\; yikes \(casual\)
+- Notes: text\: やばいよ やばい — yikes\, this is bad
+
 ## e0022
 
 - Page: 91
@@ -175,6 +215,14 @@
 - Kana: ためる
 - English: to store up\, to charge \(energy\)
 - Notes: text\: ためたオーラを — the aura he stored up
+
+## e0130
+
+- Page: 91
+- Kanji:
+- Kana: オーラ
+- English: aura\; life energy in Hunter × Hunter
+- Notes: text\: ためたオーラ — stored aura
 
 ## e0023
 
@@ -200,6 +248,14 @@
 - English: to obtain\; to result in\, to derive
 - Notes: text\: 噴出することで得られる爆発的推進力 — explosive thrust obtained by making it burst out
 
+## e0131
+
+- Page: 91
+- Kanji: 推進力
+- Kana: すいしんりょく
+- English: propulsive force\; thrust
+- Notes: text\: 得た推進力 — the thrust he obtained
+
 ## e0026
 
 - Page: 91
@@ -224,6 +280,14 @@
 - English: to manipulate\, to control\, to operate
 - Notes: text\: 車椅子を操ります — he controls the wheelchair
 
+## e0132
+
+- Page: 91
+- Kanji: 飛びすぎる
+- Kana: とびすぎる
+- English: to overshoot\; to fly too far
+- Notes: text\: とびすぎちゃった — I overshot
+
 ## e0029
 
 - Page: 91
@@ -231,6 +295,14 @@
 - Kana: ツインスネイク
 - English: Twin Snake\, a two\-headed whip technique
 - Notes: text\: 双頭の蛇\!\! — Twin Snake\!\!
+
+## e0133
+
+- Page: 92
+- Kanji: 双頭の蛇
+- Kana: ツインスネイク
+- English: Twin Snake\, a two\-headed whip technique
+- Notes: text\: 双頭の蛇による二重唱 — a duet by Twin Snake
 
 ## e0030
 
@@ -247,6 +319,14 @@
 - Kana: すさまじい
 - English: tremendous\, fierce\, terrifyingly intense
 - Notes: text\: すさまじいスピードで — at tremendous speed
+
+## e0134
+
+- Page: 92
+- Kanji:
+- Kana: スピード
+- English: speed\; velocity
+- Notes: text\: すさまじいスピード — tremendous speed
 
 ## e0032
 
@@ -278,6 +358,14 @@
 - Kanji: 自身
 - Kana: じしん
 - English: oneself\, one’s own self
+- Notes: text\: 自身を守りつつ — while protecting himself
+
+## e0135
+
+- Page: 92
+- Kanji: 守る
+- Kana: まもる
+- English: to protect\; to keep \(a promise or rule\)
 - Notes: text\: 自身を守りつつ — while protecting himself
 
 ## e0036
@@ -368,6 +456,14 @@
 - English: a chance of victory
 - Notes: text\: お前に勝機はないぜ — you have no chance of victory
 
+## e0136
+
+- Page: 93
+- Kanji: 分かる
+- Kana: わかる
+- English: to understand\; to realize
+- Notes: text\: 見ればわかるだろう — you can tell by looking
+
 ## e0047
 
 - Page: 93
@@ -375,6 +471,14 @@
 - Kana: じょうじん
 - English: an ordinary person\, a normal human
 - Notes: text\: 常人にはこのムチの動きを — to an ordinary person\, the movements of these whips\.\.\.
+
+## e0137
+
+- Page: 93
+- Kanji: 鞭
+- Kana: ムチ
+- English: a whip
+- Notes: text\: ムチの動き — the whip’s movements
 
 ## e0048
 
@@ -408,6 +512,22 @@
 - English: to hide\, to conceal oneself
 - Notes: text\: 逃げも隠れもできんぞ — you can’t run away or hide
 
+## e0138
+
+- Page: 94
+- Kanji: 常人
+- Kana: じょうじん
+- English: an ordinary person\; a normal human
+- Notes: text\: 常人じゃねーんだよ — I’m no ordinary person
+
+## e0139
+
+- Page: 94
+- Kanji: 双頭の蛇
+- Kana: ツインスネイク
+- English: Twin Snake\, a two\-headed whip technique
+- Notes: text\: 双頭の蛇の正体 — the true identity of Twin Snake
+
 ## e0052
 
 - Page: 94
@@ -423,6 +543,22 @@
 - Kana: おどろく
 - English: to be surprised\, to be astonished
 - Notes: text\: 驚いたぜキルア\!\! — you surprised me\, Killua\!\!
+
+## e0140
+
+- Page: 95
+- Kanji: 鞭
+- Kana: ムチ
+- English: a whip
+- Notes: text\: 2本のムチを見切った — read the movements of both whips
+
+## e0141
+
+- Page: 95
+- Kanji: 見切る
+- Kana: みきる
+- English: to see through completely\; to read an opponent’s movements
+- Notes: text\: ムチを見切った — read the whips’ movements
 
 ## e0054
 
@@ -471,6 +607,14 @@
 - Kana: うけとめる
 - English: to catch\, to stop\, to receive and withstand
 - Notes: text\: ムチを受け止めた — caught and withstood the whip
+
+## e0142
+
+- Page: 95
+- Kanji: 双方
+- Kana: そうほう
+- English: both sides\; both parties
+- Notes: text\: 双方合わせて — both together
 
 ## e0060
 
@@ -624,6 +768,14 @@
 - English: to crash into\, to collide violently with
 - Notes: text\: 床に激突したら死ぬな — if I crash into the floor\, I’ll die
 
+## e0143
+
+- Page: 96
+- Kanji: 死ぬ
+- Kana: しぬ
+- English: to die
+- Notes: text\: 床に激突したら死ぬ — he’ll die if he hits the floor
+
 ## e0079
 
 - Page: 96
@@ -631,6 +783,14 @@
 - Kana: たのむ
 - English: to ask\, to request\; please
 - Notes: text\: た、頼む\!\! 受けとめてくれ\!\! — p\-please\!\! Catch me\!\!
+
+## e0144
+
+- Page: 96
+- Kanji: 受け止める
+- Kana: うけとめる
+- English: to catch\; to stop\; to receive and withstand
+- Notes: text\: 受けとめてくれ — catch me
 
 ## e0080
 
@@ -648,6 +808,38 @@
 - English: to fall\, to drop
 - Notes: text\: 安心して落ちてきな — don’t worry\, fall down safely
 
+## e0145
+
+- Page: 98
+- Kanji:
+- Kana: どんだけ
+- English: how much\; how very \(casual\)
+- Notes: text\: どんだけ痛いか — how much it hurts
+
+## e0146
+
+- Page: 98
+- Kanji: 痛い
+- Kana: いたい
+- English: painful\; sore
+- Notes: text\: どんだけ痛いか — how much it hurts
+
+## e0084
+
+- Page: 98
+- Kanji: 分かる
+- Kana: わかる
+- English: to understand\; to realize
+- Notes: text\: どんだけ痛いかわかったか — did you realize how painful it is\?
+
+## e0147
+
+- Page: 98
+- Kanji:
+- Kana: バーカ
+- English: idiot\; dummy \(taunting insult\)
+- Notes: text\: バーカ — you idiot
+
 ## e0082
 
 - Page: 98
@@ -664,13 +856,13 @@
 - English: the winner
 - Notes: text\: よって勝者キルア選手\!\! — therefore\, the winner is Killua\!\!
 
-## e0084
+## e0148
 
 - Page: 98
-- Kanji: 分かる
-- Kana: わかる
-- English: to understand\; to realize
-- Notes: text\: どんだけ痛いかわかったか — did you realize how painful it is\?
+- Kanji: 番
+- Kana: ばん
+- English: one’s turn\; one’s place in sequence
+- Notes: text\: ゴンの番 — Gon’s turn
 
 ## e0085
 
@@ -679,6 +871,14 @@
 - Kana: かちかた
 - English: a way of winning\, winning method
 - Notes: text\: オレじゃなきゃ出来ない勝ち方 — a way of winning only I could pull off
+
+## e0149
+
+- Page: 98
+- Kanji: 鞭
+- Kana: ムチ
+- English: a whip
+- Notes: text\: 電気ムチ — electric whip
 
 ## e0086
 
@@ -695,6 +895,30 @@
 - Kana: くらう
 - English: to receive \(a blow\)\; to get hit by
 - Notes: text\: ムチを一度でもくらったら — if you get hit by the whip even once
+
+## e0150
+
+- Page: 98
+- Kanji: 気を失う
+- Kana: きをうしなう
+- English: to lose consciousness\; to faint
+- Notes: text\: 気ィ失っちゃう — you’ll lose consciousness
+
+## e0151
+
+- Page: 98
+- Kanji: 大丈夫
+- Kana: だいじょうぶ
+- English: all right\; okay\; safe
+- Notes: text\: 大丈夫 — I’m fine
+
+## e0152
+
+- Page: 98
+- Kanji: 手を考える
+- Kana: てをかんがえる
+- English: to think of a move\; to have a plan
+- Notes: text\: 手は考えた — I have a plan
 
 ## e0088
 
@@ -720,6 +944,38 @@
 - English: undefeated\, without a loss
 - Notes: text\: 戦闘ギド 無敗 — Gido\, undefeated in combat
 
+## e0153
+
+- Page: 99
+- Kanji: 不戦勝
+- Kana: ふせんしょう
+- English: win by default\; walkover
+- Notes: text\: ギド戦不戦勝 — Gido wins by default
+
+## e0154
+
+- Page: 99
+- Kanji: KO制
+- Kana: ケーオーせい
+- English: knockout rules\; knockout format
+- Notes: text\: ポイント＆KO制 — points and knockout rules
+
+## e0155
+
+- Page: 99
+- Kanji: 時間無制限
+- Kana: じかんむせいげん
+- English: no time limit\; unlimited time
+- Notes: text\: 時間無制限 — no time limit
+
+## e0156
+
+- Page: 99
+- Kanji: 先日
+- Kana: せんじつ
+- English: the other day\; recently
+- Notes: text\: 先日キルア選手に敗れて — defeated by Killua the other day
+
 ## e0091
 
 - Page: 99
@@ -727,6 +983,30 @@
 - Kana: さきほど
 - English: a little while ago\, just now
 - Notes: text\: 先ほど3敗で — having lost three times just now
+
+## e0157
+
+- Page: 99
+- Kanji: 敗れる
+- Kana: やぶれる
+- English: to be defeated\; to lose
+- Notes: text\: キルア選手に敗れて — defeated by Killua
+
+## e0158
+
+- Page: 99
+- Kanji: 後がない
+- Kana: あとがない
+- English: to have no room left\; to have no more chances
+- Notes: text\: あとがない — with no more chances
+
+## e0159
+
+- Page: 99
+- Kanji: 素早さ
+- Kana: すばやさ
+- English: speed\; quickness
+- Notes: text\: すばやさを警戒して — wary of his speed
 
 ## e0092
 
@@ -752,6 +1032,14 @@
 - English: to take out\, to pull out
 - Notes: text\: ムチを取り出しております — he is taking out the whip
 
+## e0160
+
+- Page: 99
+- Kanji: 鞭
+- Kana: ムチ
+- English: a whip
+- Notes: text\: ムチを取り出す — take out the whip
+
 ## e0095
 
 - Page: 99
@@ -759,6 +1047,46 @@
 - Kana: たいする
 - English: to face\, to be opposed to
 - Notes: text\: 対するゴン選手 — facing him\, Gon
+
+## e0161
+
+- Page: 99
+- Kanji: 始める
+- Kana: はじめる
+- English: to begin\; to start
+- Notes: text\: 始め — begin
+
+## e0162
+
+- Page: 100
+- Kanji:
+- Kana: いきなり
+- English: suddenly\; all of a sudden
+- Notes: text\: いきなりの双頭の蛇 — Twin Snake strikes suddenly
+
+## e0163
+
+- Page: 100
+- Kanji: 双頭の蛇
+- Kana: ツインスネイク
+- English: Twin Snake\, a two\-headed whip technique
+- Notes: text\: 双頭の蛇による二重唱 — a duet by Twin Snake
+
+## e0164
+
+- Page: 100
+- Kanji: 二重唱
+- Kana: にじゅうしょう
+- English: a duet\; a two\-part song
+- Notes: text\: 双頭の蛇による二重唱 — a duet performed by Twin Snake
+
+## e0165
+
+- Page: 100
+- Kanji: 一気に
+- Kana: いっきに
+- English: all at once\; in one burst
+- Notes: text\: 一気に勝負を決める — settle the match in one burst
 
 ## e0096
 
@@ -816,6 +1144,22 @@
 - English: to hurl\, to throw violently
 - Notes: text\: んでもってぶん投げたーー\!\! — and then he hurled it\!\!
 
+## e0167
+
+- Page: 101
+- Kanji:
+- Kana: ブン
+- English: a swish\; a whoosh as something swings
+- Notes: readable throwing sound effect as the stone slab flies
+
+## e0166
+
+- Page: 101
+- Kanji: 鞭
+- Kana: ムチ
+- English: a whip
+- Notes: text\: ムチでは防ぎきれん — the whip can’t block it completely
+
 ## e0103
 
 - Page: 101
@@ -823,6 +1167,22 @@
 - Kana: ふせぎきる
 - English: to completely fend off\, to block all the way
 - Notes: text\: これはムチでは防ぎきれん — the whip can’t completely fend this off
+
+## e0168
+
+- Page: 102
+- Kanji: 爆発的
+- Kana: ばくはつてき
+- English: explosive\; explosively powerful
+- Notes: text\: 爆発的推進力 — explosive thrust
+
+## e0169
+
+- Page: 102
+- Kanji: 推進力
+- Kana: すいしんりょく
+- English: propulsive force\; thrust
+- Notes: text\: 爆発的推進力 — explosive thrust
 
 ## e0104
 
@@ -872,6 +1232,14 @@
 - English: to get ahead of\, to arrive before someone
 - Notes: text\: 予想してたかのごとく先回り\!\! — he got ahead as if he had predicted it\!\!
 
+## e0170
+
+- Page: 102
+- Kanji: 逃げる
+- Kana: にげる
+- English: to run away\; to flee
+- Notes: text\: 逃げなきゃならない — has to get away
+
 ## e0110
 
 - Page: 102
@@ -896,6 +1264,22 @@
 - English: to head toward\, to move toward
 - Notes: text\: わざと向かっていっている — he is deliberately heading toward him
 
+## e0171
+
+- Page: 102
+- Kanji: 方向転換
+- Kana: ほうこうてんかん
+- English: change of direction\; turning around
+- Notes: text\: 方向転換するヒマがない — no time to change direction
+
+## e0172
+
+- Page: 102
+- Kanji: 前方
+- Kana: ぜんぽう
+- English: ahead\; forward
+- Notes: text\: 前方に進む — move forward
+
 ## e0113
 
 - Page: 102
@@ -904,6 +1288,38 @@
 - English: rapid\, sudden\, abrupt
 - Notes: text\: 急激なダッシュによって — due to the sudden dash
 
+## e0173
+
+- Page: 102
+- Kanji: バランスを崩す
+- Kana: バランスをくずす
+- English: to lose one’s balance
+- Notes: text\: 体のバランスも崩れ — his balance is thrown off
+
+## e0174
+
+- Page: 102
+- Kanji: 一瞬
+- Kana: いっしゅん
+- English: an instant\; a moment
+- Notes: text\: 一瞬ムチの動きは止まる — the whip’s movement pauses for an instant
+
+## e0175
+
+- Page: 102
+- Kanji: 鞭
+- Kana: ムチ
+- English: a whip
+- Notes: text\: ムチの動き — the whip’s movements
+
+## e0176
+
+- Page: 102
+- Kanji: 止まらざるを得ない
+- Kana: とまらざるをえない
+- English: to have no choice but to stop
+- Notes: text\: 止まらざるを得ない — have no choice but to stop
+
 ## e0114
 
 - Page: 103
@@ -911,6 +1327,22 @@
 - Kana: とらえる
 - English: to catch\, to seize\, to capture
 - Notes: text\: そこを捕える\!\! — catch him there\!\!
+
+## e0177
+
+- Page: 103
+- Kanji:
+- Kana: ギリ
+- English: a strained creak\; a grinding squeak
+- Notes: readable sound effect as Gon grips the wheelchair handles
+
+## e0178
+
+- Page: 103
+- Kanji:
+- Kana: ポト
+- English: plop\; the sound of a small thing dropping
+- Notes: readable falling sound effect
 
 ## e0115
 
@@ -936,6 +1368,46 @@
 - English: maximum\, the greatest extent
 - Notes: text\: 出力を最大にして — set the output to maximum
 
+## e0179
+
+- Page: 104
+- Kanji:
+- Kana: カチカチ
+- English: repeated clicking
+- Notes: text\: カチカチカチャ — repeated switch clicks
+
+## e0180
+
+- Page: 104
+- Kanji:
+- Kana: なんちって
+- English: just kidding\; only joking
+- Notes: text\: なんちって — just kidding
+
+## e0181
+
+- Page: 104
+- Kanji: 失神
+- Kana: しっしん
+- English: fainting\; loss of consciousness
+- Notes: text\: 失神KO — a knockout by fainting
+
+## e0182
+
+- Page: 104
+- Kanji: 勝者
+- Kana: しょうしゃ
+- English: the winner
+- Notes: text\: 勝者ゴン選手 — the winner\, Gon
+
+## e0183
+
+- Page: 105
+- Kanji:
+- Kana: パチパチ
+- English: clapping\; applause
+- Notes: readable applause sound effect
+
 ## e0118
 
 - Page: 105
@@ -951,6 +1423,22 @@
 - Kana: ふくめる
 - English: to include\, to take into account
 - Notes: text\: 前の戦いも含めて及第点だ — including the previous fight\, that earns a passing grade
+
+## e0184
+
+- Page: 105
+- Kanji: 十分
+- Kana: じゅうぶん
+- English: enough\; sufficiently
+- Notes: text\: 十分及第だ — fully meets the passing standard
+
+## e0185
+
+- Page: 105
+- Kanji: 及第
+- Kana: きゅうだい
+- English: passing an examination\; meeting the required standard
+- Notes: text\: 十分及第だ — fully meets the passing standard
 
 ## e0120
 
