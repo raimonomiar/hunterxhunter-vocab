@@ -5,7 +5,7 @@ These chapter files are the canonical, readable source for the shared vocabulary
 ## Coverage
 
 - 73 app chapters
-- 13,788 entries
+- 13,871 entries
 - Volumes 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Chapter index
@@ -99,7 +99,7 @@ Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–16
 ### Volume 8
 
 - [Chapter 1](./vol8-ch01.md) — 173 entries
-- [Chapter 2](./vol8-ch02.md) — 96 entries
+- [Chapter 2](./vol8-ch02.md) — 179 entries
 - [Chapter 3](./vol8-ch03.md) — 87 entries
 - [Chapter 4](./vol8-ch04.md) — 113 entries
 - [Chapter 5](./vol8-ch05.md) — 141 entries
@@ -109,10 +109,10 @@ Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–16
 - [Chapter 9](./vol8-ch09.md) — 124 entries
 - [Chapter 10](./vol8-ch10.md) — 112 entries
 
-Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41.
+Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41. Entries e0072–e0096 are preserved separately for the えじぷと旅行記その② prose insert on scan 042 and are not No.065 or No.066 story vocabulary. Chapter 3 contains No.066 story entries for folios 43–61.
 
 ## Format
 
 Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID unchanged. Entry order within a page follows that page's own reading order, so a section may move to match it without changing its ID or fields. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.
 
-Corpus semantic revision: `184f414dd3c1a1274c7c23f79c72df0bcb4f99e5bc7621a33e22f48e13d462cd`
+Corpus semantic revision: `37a1b35c862f9a2bef0b6875eaf4c291562ef2b34d396f5168cbe831a277c6bf`
