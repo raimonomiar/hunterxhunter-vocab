@@ -5,7 +5,7 @@ These chapter files are the canonical, readable source for the shared vocabulary
 ## Coverage
 
 - 73 app chapters
-- 13,909 entries
+- 13,929 entries
 - Volumes 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Chapter index
@@ -101,7 +101,7 @@ Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–16
 - [Chapter 1](./vol8-ch01.md) — 173 entries
 - [Chapter 2](./vol8-ch02.md) — 179 entries
 - [Chapter 3](./vol8-ch03.md) — 125 entries
-- [Chapter 4](./vol8-ch04.md) — 113 entries
+- [Chapter 4](./vol8-ch04.md) — 133 entries
 - [Chapter 5](./vol8-ch05.md) — 141 entries
 - [Chapter 6](./vol8-ch06.md) — 171 entries
 - [Chapter 7](./vol8-ch07.md) — 163 entries
@@ -109,10 +109,10 @@ Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–16
 - [Chapter 9](./vol8-ch09.md) — 124 entries
 - [Chapter 10](./vol8-ch10.md) — 112 entries
 
-Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41. Entries e0072–e0096 are preserved separately for the えじぷと旅行記その② prose insert on scan 042 and are not No.065 or No.066 story vocabulary. Chapter 3 contains No.066 story entries for folios 43–61.
+Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41. Entries e0072–e0096 are preserved separately for the えじぷと旅行記その② prose insert on scan 042 and are not No.065 or No.066 story vocabulary. Chapter 3 contains No.066 story entries for folios 43–61. Chapter 4 contains No.067 story entries for folios 63–75. Entries e0090–e0113 remain separate for the えじぷと旅行記その④ prose insert on scan 076; No.068 begins on folio 77.
 
 ## Format
 
 Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID unchanged. Entry order within a page follows that page's own reading order, so a section may move to match it without changing its ID or fields. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.
 
-Corpus semantic revision: `4d450c4f13fff989ffb7a8ddccc3dc4cbd8a109921b1a353799283857da8801d`
+Corpus semantic revision: `1a51e69091a070382257dcb99b552b784b0f0ef89b51daa02345fefa8002a964`
