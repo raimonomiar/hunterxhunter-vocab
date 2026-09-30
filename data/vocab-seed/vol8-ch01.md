@@ -1,5 +1,21 @@
 # Volume 8 · Chapter 1
 
+## e0095
+
+- Page: 7
+- Kanji: 帰郷
+- Kana: ききょう
+- English: returning to one\'s hometown\, a homecoming
+- Notes: title\: No\.064 帰郷
+
+## e0096
+
+- Page: 7
+- Kanji:
+- Kana: えーと
+- English: um\, a hesitation filler
+- Notes: text\: えーっと…
+
 ## e0001
 
 - Page: 8
@@ -7,6 +23,22 @@
 - Kana: ひとやすみ
 - English: a short rest\, a break
 - Notes: text\: ひとやすみ…。 — a short rest\.\.\.
+
+## e0097
+
+- Page: 8
+- Kanji:
+- Kana: ふにゃー
+- English: a soft\, relaxed groan or sigh
+- Notes: text\: ふにゃ〜
+
+## e0098
+
+- Page: 8
+- Kanji: 帰郷
+- Kana: ききょう
+- English: returning to one\'s hometown\, a homecoming
+- Notes: title\: No\.064 帰郷 — repeated title
 
 ## e0002
 
@@ -24,6 +56,14 @@
 - English: beforehand\, ahead of time\, first
 - Notes: text\: 先に教えてよ — tell me beforehand
 
+## e0099
+
+- Page: 9
+- Kanji: 何にも
+- Kana: なんにも
+- English: nothing at all\, especially with a negative
+- Notes: text\: 何にも — used with a negative
+
 ## e0004
 
 - Page: 9
@@ -31,6 +71,30 @@
 - Kana: よういする
 - English: to prepare\, to get ready
 - Notes: text\: 何にも用意してないわよ — I haven\'t prepared anything at all
+
+## e0009
+
+- Page: 9
+- Kanji: 適当
+- Kana: てきとう
+- English: however you like\, casually\, suitably
+- Notes: text\: いいよテキトーで座ってて — it\'s fine\, just sit wherever\; written in katakana テキトー for a casual tone
+
+## e0100
+
+- Page: 9
+- Kanji: 友達
+- Kana: ともだち
+- English: a friend
+- Notes: text\: お友達 — polite form
+
+## e0010
+
+- Page: 9
+- Kanji:
+- Kana: おかまいなく
+- English: please don\'t trouble yourself\, don\'t fuss
+- Notes: text\: いえおかまいなく — no\, please don\'t go to any trouble
 
 ## e0005
 
@@ -64,21 +128,29 @@
 - English: to help\, to lend a hand
 - Notes: text\: 何か手伝おうか — should I help with something\?
 
-## e0009
+## e0012
 
 - Page: 9
-- Kanji: 適当
-- Kana: てきとう
-- English: however you like\, casually\, suitably
-- Notes: text\: いいよテキトーで座ってて — it\'s fine\, just sit wherever\; written in katakana テキトー for a casual tone
+- Kanji: 風呂に入る
+- Kana: ふろにはいる
+- English: to take a bath
+- Notes: text\: ゴハン作る間にお風呂入んなさいよ — take a bath while I make dinner
 
-## e0010
+## e0101
 
 - Page: 9
-- Kanji:
-- Kana: おかまいなく
-- English: please don\'t trouble yourself\, don\'t fuss
-- Notes: text\: いえおかまいなく — no\, please don\'t go to any trouble
+- Kanji: 服
+- Kana: ふく
+- English: clothes\, clothing
+- Notes: text\: 服も全部
+
+## e0102
+
+- Page: 9
+- Kanji: 全部
+- Kana: ぜんぶ
+- English: all\, everything
+- Notes: text\: 服も全部
 
 ## e0011
 
@@ -88,13 +160,21 @@
 - English: to do laundry\, to wash clothes
 - Notes: text\: 服も全部出しといて洗濯するから — put all your clothes out too\, I\'ll do the laundry
 
-## e0012
+## e0103
 
 - Page: 9
-- Kanji: 風呂に入る
-- Kana: ふろにはいる
-- English: to take a bath
-- Notes: text\: ゴハン作る間にお風呂入んなさいよ — take a bath while I make dinner
+- Kanji: 10秒以内
+- Kana: じゅうびょういない
+- English: within ten seconds
+- Notes: label\: 10秒以内
+
+## e0104
+
+- Page: 10
+- Kanji:
+- Kana: いただきます
+- English: thanks for the meal\, said before eating
+- Notes: text\: いただきます
 
 ## e0013
 
@@ -128,6 +208,30 @@
 - English: to arrive at\, to reach \(after difficulty\)
 - Notes: text\: 会場までたどりついたのが — those who managed to reach the venue
 
+## e0105
+
+- Page: 10
+- Kanji:
+- Kana: たった
+- English: only\, no more than
+- Notes: text\: たった400人位
+
+## e0106
+
+- Page: 10
+- Kanji: 位
+- Kana: くらい
+- English: about\, approximately
+- Notes: text\: 400人位
+
+## e0107
+
+- Page: 10
+- Kanji: 合格する
+- Kana: ごうかくする
+- English: to pass an exam
+- Notes: text\: 合格したのその中の7人
+
 ## e0017
 
 - Page: 10
@@ -152,21 +256,21 @@
 - English: ordinary\, normal\, usual
 - Notes: text\: けっこう普通ね — fairly normal
 
-## e0020
+## e0108
 
 - Page: 11
-- Kanji: 冗談
-- Kana: じょうだん
-- English: a joke\, a jest
-- Notes: text\: 冗談よ本気でやるわけないでしょ — it was a joke\, of course I wasn\'t serious
+- Kanji:
+- Kana: えい
+- English: an exertion cry\, heave\-ho
+- Notes: exclamation\: えい
 
-## e0021
+## e0109
 
 - Page: 11
-- Kanji: 本気
-- Kana: ほんき
-- English: seriousness\, being serious\, earnest
-- Notes: text\: アレゼッタイ本気だったぜ — that was definitely serious
+- Kanji:
+- Kana: わー
+- English: an exclamation of surprise or excitement
+- Notes: exclamation\: わー
 
 ## e0022
 
@@ -176,6 +280,22 @@
 - English: absolutely\, definitely
 - Notes: text\: アレゼッタイ本気だったぜ — that was absolutely serious\; written in katakana ゼッタイ
 
+## e0021
+
+- Page: 11
+- Kanji: 本気
+- Kana: ほんき
+- English: seriousness\, being serious\, earnest
+- Notes: text\: アレゼッタイ本気だったぜ — that was definitely serious
+
+## e0020
+
+- Page: 11
+- Kanji: 冗談
+- Kana: じょうだん
+- English: a joke\, a jest
+- Notes: text\: 冗談よ本気でやるわけないでしょ — it was a joke\, of course I wasn\'t serious
+
 ## e0023
 
 - Page: 11
@@ -184,6 +304,14 @@
 - English: a boxed lunch
 - Notes: text\: お弁当作ろうか — shall we make a boxed lunch\?
 
+## e0110
+
+- Page: 11
+- Kanji: 森
+- Kana: もり
+- English: a forest\, the woods
+- Notes: text\: 森で採って
+
 ## e0024
 
 - Page: 11
@@ -191,6 +319,30 @@
 - Kana: とる
 - English: to gather\, to pick
 - Notes: text\: 森で何か採って食べる — gather something in the forest and eat it
+
+## e0027
+
+- Page: 12
+- Kanji: 逢う
+- Kana: あう
+- English: to meet \(often used for a meaningful encounter\)
+- Notes: text\: ここでカイトに逢ったんだ — this is where I met Kaito
+
+## e0111
+
+- Page: 12
+- Kanji: 友達
+- Kana: ともだち
+- English: a friend
+- Notes: text\: 友達のキツネグマ
+
+## e0112
+
+- Page: 12
+- Kanji:
+- Kana: キツネグマ
+- English: a fox\-bear\, a creature of Whale Island
+- Notes: text\: キツネグマ
 
 ## e0025
 
@@ -208,13 +360,13 @@
 - English: to show oneself\, to appear
 - Notes: text\: でも多分姿は見せないよ — but it probably won\'t show itself
 
-## e0027
+## e0113
 
 - Page: 12
-- Kanji: 逢う
-- Kana: あう
-- English: to meet \(often used for a meaningful encounter\)
-- Notes: text\: ここでカイトに逢ったんだ — this is where I met Kaito
+- Kanji:
+- Kana: メス
+- English: a female animal
+- Notes: text\: メスの方
 
 ## e0028
 
@@ -223,6 +375,14 @@
 - Kana: きょくたん
 - English: extreme
 - Notes: text\: メスの方が極端に人間の臭いを嫌うから — because the females extremely dislike the smell of humans
+
+## e0114
+
+- Page: 12
+- Kanji: 人間
+- Kana: にんげん
+- English: a human being\, a person
+- Notes: text\: 人間の臭い
 
 ## e0029
 
@@ -239,6 +399,22 @@
 - Kana: きらう
 - English: to dislike\, to hate
 - Notes: text\: 人間の臭いを嫌うから — because they dislike the smell of humans
+
+## e0115
+
+- Page: 12
+- Kanji: 奥さん
+- Kana: おくさん
+- English: someone\'s wife
+- Notes: text\: 奥さん
+
+## e0116
+
+- Page: 12
+- Kanji: 喧嘩
+- Kana: けんか
+- English: a fight\, an argument
+- Notes: text\: ケンカになっちゃう — written in katakana
 
 ## e0031
 
@@ -272,6 +448,30 @@
 - English: playing in the water
 - Notes: text\: ここでコンと水遊びしたんだ — I played in the water here with Con
 
+## e0117
+
+- Page: 13
+- Kanji:
+- Kana: パチャ
+- English: a small splash\, especially as something lands in water
+- Notes: effect\: パチャ
+
+## e0118
+
+- Page: 13
+- Kanji:
+- Kana: おかえり
+- English: welcome back\, welcome home
+- Notes: text\: おかえり
+
+## e0119
+
+- Page: 14
+- Kanji: 8月
+- Kana: はちがつ
+- English: August
+- Notes: text\: 8月はここで
+
 ## e0035
 
 - Page: 14
@@ -280,6 +480,22 @@
 - English: slowly\, leisurely\, at ease
 - Notes: text\: ゆっくり休みながら色々情報収集して — resting leisurely while gathering various information
 
+## e0120
+
+- Page: 14
+- Kanji: 休む
+- Kana: やすむ
+- English: to rest\, to take a break
+- Notes: text\: ゆっくり休みながら
+
+## e0121
+
+- Page: 14
+- Kanji: 色々
+- Kana: いろいろ
+- English: various\, a variety of
+- Notes: text\: 色々情報収集
+
 ## e0036
 
 - Page: 14
@@ -287,6 +503,14 @@
 - Kana: じょうほうしゅうしゅう
 - English: gathering information
 - Notes: text\: 色々情報収集して — gather various information
+
+## e0122
+
+- Page: 14
+- Kanji:
+- Kana: ヨークシン
+- English: Yorknew City
+- Notes: text\: ヨークシンから
 
 ## e0037
 
@@ -312,6 +536,30 @@
 - English: to search for\, to look for
 - Notes: text\: 親父を探そうと思ってる — thinking about searching for dad
 
+## e0123
+
+- Page: 14
+- Kanji:
+- Kana: おそらく
+- English: probably\, most likely
+- Notes: text\: おそらく
+
+## e0124
+
+- Page: 14
+- Kanji:
+- Kana: いろんな
+- English: various\, all kinds of
+- Notes: text\: いろんなハンター
+
+## e0125
+
+- Page: 14
+- Kanji:
+- Kana: ハンター
+- English: a Hunter
+- Notes: text\: ハンターが集まってくる
+
 ## e0040
 
 - Page: 14
@@ -319,14 +567,6 @@
 - Kana: あつまる
 - English: to gather\, to assemble
 - Notes: text\: いろんなハンターが集まってくるだろうから — since all kinds of hunters will probably gather
-
-## e0041
-
-- Page: 14
-- Kanji: 一緒に
-- Kana: いっしょに
-- English: together
-- Notes: text\: キルアもここにいて一緒にヨークシン行こーよ — Killua\, stay here too and let\'s go to Yorknew together
 
 ## e0042
 
@@ -336,13 +576,45 @@
 - English: admirable\, great\, praiseworthy
 - Notes: text\: お前えらいなーって話だよ — the point is that you\'re admirable
 
-## e0043
+## e0041
+
+- Page: 14
+- Kanji: 一緒に
+- Kana: いっしょに
+- English: together
+- Notes: text\: キルアもここにいて一緒にヨークシン行こーよ — Killua\, stay here too and let\'s go to Yorknew together
+
+## e0126
+
+- Page: 14
+- Kanji:
+- Kana: やりたい
+- English: to want to do\, something one wants to do
+- Notes: text\: やりたいこと
+
+## e0127
 
 - Page: 15
-- Kanji: 羨ましい
-- Kana: うらやましい
-- English: envious\, jealous \(of something good\)
-- Notes: text\: なんかうらやましいよお前が — somehow I\'m envious of you
+- Kanji:
+- Kana: やりたくない
+- English: to not want to do
+- Notes: text\: やりたくないこと
+
+## e0128
+
+- Page: 15
+- Kanji: 結構
+- Kana: けっこう
+- English: quite a few\, plenty
+- Notes: text\: 結構あんだけどさ
+
+## e0129
+
+- Page: 15
+- Kanji:
+- Kana: ずっと
+- English: all the time\, continuously
+- Notes: text\: 家にずっといる
 
 ## e0044
 
@@ -351,6 +623,30 @@
 - Kana: かぎょうをつぐ
 - English: to take over the family business
 - Notes: text\: 家にずっといることとか家業継ぐこととか — staying home forever\, or taking over the family business
+
+## e0043
+
+- Page: 15
+- Kanji: 羨ましい
+- Kana: うらやましい
+- English: envious\, jealous \(of something good\)
+- Notes: text\: なんかうらやましいよお前が — somehow I\'m envious of you
+
+## e0130
+
+- Page: 15
+- Kanji: 楽しい
+- Kana: たのしい
+- English: fun\, enjoyable
+- Notes: text\: キルアといると楽しい
+
+## e0131
+
+- Page: 15
+- Kanji:
+- Kana: くじらじま
+- English: Whale Island\, the name of the island
+- Notes: text\: くじら島
 
 ## e0045
 
@@ -368,13 +664,29 @@
 - English: an islander
 - Notes: text\: 純粋な島民ってほんの少しで — the purely native islanders are only a few
 
-## e0047
+## e0132
 
 - Page: 15
-- Kanji: 通信スクール
-- Kana: つうしんスクール
-- English: a correspondence school
-- Notes: text\: 勉強も自宅で通信スクールだったし — studying was also done via correspondence school at home
+- Kanji:
+- Kana: ほんの少し
+- English: just a little\, very few
+- Notes: text\: ほんの少し
+
+## e0133
+
+- Page: 15
+- Kanji: 子供
+- Kana: こども
+- English: a child\, children
+- Notes: text\: 子供も
+
+## e0134
+
+- Page: 15
+- Kanji: 勉強
+- Kana: べんきょう
+- English: study\, learning
+- Notes: text\: 勉強も
 
 ## e0048
 
@@ -384,6 +696,14 @@
 - English: one\'s own home
 - Notes: text\: 勉強も自宅で通信スクールだったし — studying was also done at home via correspondence school
 
+## e0047
+
+- Page: 15
+- Kanji: 通信スクール
+- Kana: つうしんスクール
+- English: a correspondence school
+- Notes: text\: 勉強も自宅で通信スクールだったし — studying was also done via correspondence school at home
+
 ## e0049
 
 - Page: 15
@@ -391,6 +711,22 @@
 - Kana: おないどし
 - English: the same age
 - Notes: text\: 同い年の友達はキルアが初めてだったんだ — Killua was the first friend my age
+
+## e0135
+
+- Page: 15
+- Kanji: 友達
+- Kana: ともだち
+- English: a friend
+- Notes: text\: 同い年の友達
+
+## e0136
+
+- Page: 15
+- Kanji: 初めて
+- Kana: はじめて
+- English: for the first time
+- Notes: text\: キルアが初めてだった
 
 ## e0050
 
@@ -416,6 +752,22 @@
 - English: a long\-term stay
 - Notes: text\: 長期滞在するための島なんだ — an island for a long\-term stay
 
+## e0137
+
+- Page: 16
+- Kanji:
+- Kana: ずっと
+- English: all the time\, continuously
+- Notes: text\: ずっと家に
+
+## e0056
+
+- Page: 16
+- Kanji:
+- Kana: こもりっきり
+- English: shut in\, cooped up \(the whole time\)
+- Notes: text\: ずっと家にこもりっきりでさ — shut myself up at home the whole time
+
 ## e0053
 
 - Page: 16
@@ -440,13 +792,93 @@
 - English: to polish\, to hone \(a skill\)
 - Notes: text\: 技術ばっか磨いてたからな — kept honing that technique
 
-## e0056
+## e0138
+
+- Page: 16
+- Kanji: 楽しい
+- Kana: たのしい
+- English: fun\, enjoyable
+- Notes: text\: きっと楽しいよ
+
+## e0139
+
+- Page: 16
+- Kanji: 初めて
+- Kana: はじめて
+- English: for the first time
+- Notes: text\: ゴンが初めて
+
+## e0140
 
 - Page: 16
 - Kanji:
-- Kana: こもりっきり
-- English: shut in\, cooped up \(the whole time\)
-- Notes: text\: ずっと家にこもりっきりでさ — shut myself up at home the whole time
+- Kana: これから
+- English: from now on
+- Notes: text\: これからも
+
+## e0141
+
+- Page: 16
+- Kanji: 一緒に
+- Kana: いっしょに
+- English: together
+- Notes: text\: 一緒にいよう
+
+## e0142
+
+- Page: 16
+- Kanji:
+- Kana: いろんな
+- English: various\, all kinds of
+- Notes: text\: いろんな所
+
+## e0143
+
+- Page: 16
+- Kanji: 所
+- Kana: ところ
+- English: a place\, a location
+- Notes: text\: いろんな所
+
+## e0144
+
+- Page: 16
+- Kanji: 物
+- Kana: モノ
+- English: a thing\, an object
+- Notes: text\: いろんなモノ — written in katakana
+
+## e0145
+
+- Page: 16
+- Kanji: 見る
+- Kana: みる
+- English: to see\, to look at
+- Notes: text\: モノを見よう
+
+## e0146
+
+- Page: 16
+- Kanji: 親父
+- Kana: おやじ
+- English: one\'s father\, old man \(casual\)
+- Notes: text\: 親父を探す
+
+## e0147
+
+- Page: 16
+- Kanji:
+- Kana: やりたい
+- English: to want to do\, something one wants to do
+- Notes: text\: やりたいこと
+
+## e0148
+
+- Page: 16
+- Kanji: 探す
+- Kana: さがす
+- English: to search for\, to look for
+- Notes: text\: 親父を探す旅
 
 ## e0057
 
@@ -456,21 +888,13 @@
 - English: a journey\, a trip
 - Notes: text\: オレは親父を探す旅 — my journey to search for my father
 
-## e0058
+## e0149
 
-- Page: 17
-- Kanji: 見つかる
-- Kana: みつかる
-- English: to be found\, to turn up
-- Notes: text\: やりたいことが見つかるまで — until I find something I want to do
-
-## e0059
-
-- Page: 17
-- Kanji: 付き合う
-- Kana: つきあう
-- English: to accompany\, to keep \(someone\) company
-- Notes: text\: お前の親父探しにつきあってやるか — I\'ll keep you company on your search for your dad
+- Page: 16
+- Kanji:
+- Kana: きっと
+- English: surely\, certainly
+- Notes: text\: きっと楽しいよ
 
 ## e0060
 
@@ -480,6 +904,62 @@
 - English: not bad
 - Notes: text\: そだな…悪くないな — yeah\.\.\. not bad
 
+## e0150
+
+- Page: 17
+- Kanji:
+- Kana: やりたい
+- English: to want to do\, something one wants to do
+- Notes: text\: やりたいことが見つかるまで
+
+## e0058
+
+- Page: 17
+- Kanji: 見つかる
+- Kana: みつかる
+- English: to be found\, to turn up
+- Notes: text\: やりたいことが見つかるまで — until I find something I want to do
+
+## e0151
+
+- Page: 17
+- Kanji: 親父
+- Kana: おやじ
+- English: one\'s father\, old man \(casual\)
+- Notes: text\: 親父探し
+
+## e0152
+
+- Page: 17
+- Kanji: 探す
+- Kana: さがす
+- English: to search for\, to look for
+- Notes: text\: 親父探しに
+
+## e0059
+
+- Page: 17
+- Kanji: 付き合う
+- Kana: つきあう
+- English: to accompany\, to keep \(someone\) company
+- Notes: text\: お前の親父探しにつきあってやるか — I\'ll keep you company on your search for your dad
+
+## e0153
+
+- Page: 17
+- Kanji:
+- Kana: オッケー
+- English: okay\, all right
+- Notes: text\: オッケー
+
+## e0154
+
+- Page: 17
+- Kanji:
+- Kana: そういや
+- English: now that I mention it\, speaking of that
+- Notes: text\: そーいや — colloquial form
+
 ## e0061
 
 - Page: 17
@@ -488,13 +968,13 @@
 - English: one\'s mother \(casual\)
 - Notes: text\: お前のお袋さんって何してんの\? — what\'s your mom up to\?
 
-## e0062
+## e0064
 
 - Page: 17
-- Kanji: 母親
-- Kana: ははおや
-- English: a mother
-- Notes: text\: 親父のこと以上に母親のこと聞きづらいんだよね — it\'s even harder to ask about my mother than my father
+- Kanji: 以上に
+- Kana: いじょうに
+- English: more than\, even more than
+- Notes: text\: 親父のこと以上に — more than \(asking\) about my dad
 
 ## e0063
 
@@ -504,13 +984,21 @@
 - English: hard to ask\, awkward to ask about
 - Notes: text\: 聞きづらいんだよね — it\'s hard to ask about
 
-## e0064
+## e0062
 
 - Page: 17
-- Kanji: 以上に
-- Kana: いじょうに
-- English: more than\, even more than
-- Notes: text\: 親父のこと以上に — more than \(asking\) about my dad
+- Kanji: 母親
+- Kana: ははおや
+- English: a mother
+- Notes: text\: 親父のこと以上に母親のこと聞きづらいんだよね — it\'s even harder to ask about my mother than my father
+
+## e0155
+
+- Page: 18
+- Kanji:
+- Kana: ずっと
+- English: all the time\, continuously
+- Notes: text\: ずっと親代わり
 
 ## e0065
 
@@ -528,6 +1016,14 @@
 - English: to raise\, to bring up
 - Notes: text\: オレを育ててくれたわけだから — since she\'s the one who raised me
 
+## e0156
+
+- Page: 18
+- Kanji: 聞く
+- Kana: きく
+- English: to ask\, to hear
+- Notes: text\: 聞くのって
+
 ## e0067
 
 - Page: 18
@@ -535,6 +1031,22 @@
 - Kana: わるいきがする
 - English: to feel bad\, to feel guilty \(about something\)
 - Notes: text\: 何か悪い気がしてさ — I feel kind of bad about it
+
+## e0157
+
+- Page: 18
+- Kanji: 親父
+- Kana: おやじ
+- English: one\'s father\, old man \(casual\)
+- Notes: text\: 親父のこと
+
+## e0158
+
+- Page: 18
+- Kanji: 会う
+- Kana: あう
+- English: to meet
+- Notes: text\: カイトに会わなきゃ
 
 ## e0068
 
@@ -544,6 +1056,14 @@
 - English: forcibly\, unreasonably\, against one\'s will
 - Notes: text\: ムリに知ろうとは思わなかった — I didn\'t try to find out by force\; written in katakana ムリ for emphasis
 
+## e0159
+
+- Page: 18
+- Kanji: 知る
+- Kana: しる
+- English: to know\, to find out
+- Notes: text\: 知ろうとは
+
 ## e0069
 
 - Page: 18
@@ -551,6 +1071,14 @@
 - Kana: こうつうじこ
 - English: a traffic accident
 - Notes: text\: 2人とも交通事故で死んだって聞いてて — I\'d heard that both of them died in a traffic accident
+
+## e0160
+
+- Page: 18
+- Kanji: 死ぬ
+- Kana: しぬ
+- English: to die
+- Notes: text\: 交通事故で死んだ
 
 ## e0070
 
@@ -560,13 +1088,29 @@
 - English: to be alive
 - Notes: text\: でも親父は生きてるってわかった時 — but when I found out that dad was alive
 
-## e0071
+## e0161
 
 - Page: 18
-- Kanji: 納得する
-- Kana: なっとくする
-- English: to be convinced\, to accept\, to come to terms with
-- Notes: text\: 死んでたろーなって勝手に納得しちゃってさ — I\'d just convinced myself on my own that he was dead
+- Kanji: 分かる
+- Kana: わかる
+- English: to understand\, to find out
+- Notes: text\: 生きてるって分かった
+
+## e0162
+
+- Page: 18
+- Kanji:
+- Kana: 何となく
+- English: somehow\, for some reason
+- Notes: text\: 何となく
+
+## e0163
+
+- Page: 18
+- Kanji: 母親
+- Kana: ははおや
+- English: one\'s mother
+- Notes: text\: 母親の方
 
 ## e0072
 
@@ -576,6 +1120,30 @@
 - English: on one\'s own\, arbitrarily\, without asking
 - Notes: text\: 勝手に納得しちゃってさ — convinced myself arbitrarily
 
+## e0071
+
+- Page: 18
+- Kanji: 納得する
+- Kana: なっとくする
+- English: to be convinced\, to accept\, to come to terms with
+- Notes: text\: 死んでたろーなって勝手に納得しちゃってさ — I\'d just convinced myself on my own that he was dead
+
+## e0164
+
+- Page: 18
+- Kanji: 酷い
+- Kana: ひどい
+- English: terrible\, harsh
+- Notes: text\: ひでー話 — colloquial pronunciation
+
+## e0165
+
+- Page: 18
+- Kanji:
+- Kana: ハンター
+- English: a Hunter
+- Notes: text\: ハンターになってた
+
 ## e0073
 
 - Page: 19
@@ -583,6 +1151,22 @@
 - Kana: ほかに
 - English: besides\, other than \(that\)
 - Notes: text\: 他にいないんだ…だから聞くこともないし — there\'s no one else\, so there\'s nothing to ask about
+
+## e0166
+
+- Page: 19
+- Kanji: 聞く
+- Kana: きく
+- English: to ask\, to hear
+- Notes: text\: 聞くこともない
+
+## e0167
+
+- Page: 19
+- Kanji: 母親
+- Kana: ははおや
+- English: one\'s mother
+- Notes: text\: 母親がよかった
 
 ## e0074
 
@@ -616,6 +1200,14 @@
 - English: one month
 - Notes: text\: 一か月ちょいかな… — about a month or so\, I guess
 
+## e0168
+
+- Page: 20
+- Kanji:
+- Kana: ちょい
+- English: a little\, a bit
+- Notes: text\: 一か月ちょい
+
 ## e0078
 
 - Page: 20
@@ -632,6 +1224,22 @@
 - English: this time
 - Notes: text\: 今度はジンを探しに行くのね — this time you\'ll go search for Jin
 
+## e0169
+
+- Page: 20
+- Kanji: 探す
+- Kana: さがす
+- English: to search for\, to look for
+- Notes: text\: ジンを探しに行く
+
+## e0170
+
+- Page: 21
+- Kanji: 親父
+- Kana: おやじ
+- English: one\'s father\, old man \(casual\)
+- Notes: text\: 親父がオレに
+
 ## e0080
 
 - Page: 21
@@ -640,6 +1248,14 @@
 - English: to keep\, to look after\, to be entrusted with
 - Notes: text\: ジンから預かってたものよ — this is something I was entrusted with by Jin
 
+## e0171
+
+- Page: 21
+- Kanji:
+- Kana: ハンター
+- English: a Hunter
+- Notes: text\: ハンターになったら
+
 ## e0081
 
 - Page: 21
@@ -647,6 +1263,22 @@
 - Kana: わたす
 - English: to hand over\, to give
 - Notes: text\: ハンターになったら渡してくれって — he said to hand it over to you once you became a Hunter
+
+## e0172
+
+- Page: 21
+- Kanji: 教える
+- Kana: おしえる
+- English: to teach\, to tell
+- Notes: text\: 教えるわ
+
+## e0173
+
+- Page: 21
+- Kanji: 知る
+- Kana: しる
+- English: to know\, to find out
+- Notes: text\: 知ってること
 
 ## e0082
 
