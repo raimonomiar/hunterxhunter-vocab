@@ -5,7 +5,7 @@ These chapter files are the canonical, readable source for the shared vocabulary
 ## Coverage
 
 - 73 app chapters
-- 13,974 entries
+- 14,175 entries
 - Volumes 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Chapter index
@@ -103,7 +103,7 @@ Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–16
 - [Chapter 3](./vol8-ch03.md) — 125 entries
 - [Chapter 4](./vol8-ch04.md) — 133 entries
 - [Chapter 5](./vol8-ch05.md) — 186 entries
-- [Chapter 6](./vol8-ch06.md) — 171 entries
+- [Chapter 6](./vol8-ch06.md) — 372 entries
 - [Chapter 7](./vol8-ch07.md) — 163 entries
 - [Chapter 8](./vol8-ch08.md) — 97 entries
 - [Chapter 9](./vol8-ch09.md) — 124 entries
@@ -115,4 +115,4 @@ Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. 
 
 Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID unchanged. Entry order within a page follows that page's own reading order, so a section may move to match it without changing its ID or fields. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.
 
-Corpus semantic revision: `02eb4e6dc7353465d845390fc768678db5aa8813597ef6b7d700600928b7e308`
+Corpus semantic revision: `1ea9751dd20909b1101c98fb0b4428ee3245604abc614d82c0eaad844f8a6654`
