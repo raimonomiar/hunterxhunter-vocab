@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 73);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    13929,
+    13974,
   );
   const volume7Chapter6 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 7 && chapter.chapter === 6,
@@ -51,14 +51,19 @@ test("Volume 8 story chapters and travelogue inserts stay separate", () => {
   const chapter4 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 8 && chapter.chapter === 4,
   );
+  const chapter5 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 8 && chapter.chapter === 5,
+  );
   assert.ok(chapter1, "Volume 8 Chapter 1 exists");
   assert.ok(chapter2, "Volume 8 Chapter 2 exists");
   assert.ok(chapter3, "Volume 8 Chapter 3 exists");
   assert.ok(chapter4, "Volume 8 Chapter 4 exists");
+  assert.ok(chapter5, "Volume 8 Chapter 5 exists");
   assert.equal(chapter1.entries.length, 173);
   assert.equal(chapter2.entries.length, 179);
   assert.equal(chapter3.entries.length, 125);
   assert.equal(chapter4.entries.length, 133);
+  assert.equal(chapter5.entries.length, 186);
 
   const chapter1StoryEntries = chapter1.entries.filter(
     (entry) => entry.page >= 7 && entry.page <= 21,
@@ -196,6 +201,114 @@ test("Volume 8 story chapters and travelogue inserts stay separate", () => {
     assert.ok(
       chapter4.entries[index - 1].page <= chapter4.entries[index].page,
       "Volume 8 Chapter 4 entries stay in ascending page order",
+    );
+  }
+
+  const chapter5StoryEntries = chapter5.entries.filter(
+    (entry) => entry.page >= 77 && entry.page <= 95,
+  );
+  const chapter5CardNoteEntries = chapter5.entries.filter((entry) => entry.page === 96);
+  assert.equal(chapter5StoryEntries.length, 175);
+  assert.equal(chapter5CardNoteEntries.length, 11);
+  assert.ok(chapter5.entries.every((entry) => entry.page >= 77 && entry.page <= 96));
+  assert.deepEqual(
+    chapter5.entries.filter((entry) => entry.page === 77).map((entry) => entry.id),
+    ["e0142", "e0143"],
+  );
+  assert.deepEqual(
+    chapter5.entries.filter((entry) => entry.page === 78).map((entry) => entry.id),
+    ["e0144", "e0145", "e0146"],
+  );
+  assert.deepEqual(
+    chapter5.entries.filter((entry) => entry.kanji === "潜入者").map((entry) => entry.page),
+    [88, 89, 90, 92, 93],
+  );
+  assert.deepEqual(
+    chapter5CardNoteEntries.map(({ id, kanji, kana, english, notes }) => [
+      id,
+      kanji,
+      kana,
+      english,
+      notes,
+    ]),
+    [
+      [
+        "e0131",
+        "中学時代",
+        "ちゅうがくじだい",
+        "one's middle-school years",
+        "text: 中学時代、弟と私とで — when I was in middle school, my younger brother and I",
+      ],
+      ["e0132", "弟", "おとうと", "younger brother", "text: 弟と私とで — my younger brother and I"],
+      [
+        "e0133",
+        "勝手に",
+        "かってに",
+        "on one's own; without permission",
+        "text: 勝手にボードゲームを作って — made a board game on our own",
+      ],
+      [
+        "e0134",
+        null,
+        "ボードゲーム",
+        "board game",
+        "text: ボードゲームを作って遊んでいた — we made and played a board game",
+      ],
+      [
+        "e0135",
+        "怪物",
+        "かいぶつ",
+        "monster, creature",
+        "text: 怪物をぶっ殺しながら — while killing monsters",
+      ],
+      [
+        "e0136",
+        "皆殺し",
+        "みなごろし",
+        "massacre; killing everyone",
+        "text: 皆殺しぶっ殺しゲーム — a game of killing everyone",
+      ],
+      [
+        "e0137",
+        "お宝",
+        "おたから",
+        "treasure",
+        "text: お宝をいっぱい集める — collect lots of treasure",
+      ],
+      [
+        "e0138",
+        "集める",
+        "あつめる",
+        "to collect, to gather",
+        "text: お宝をいっぱい集める — collect lots of treasure",
+      ],
+      [
+        "e0139",
+        "戦闘",
+        "せんとう",
+        "combat, battle",
+        "text: サイコロを使った戦闘システム — a combat system using dice",
+      ],
+      [
+        "e0140",
+        "遊ぶ",
+        "あそぶ",
+        "to play",
+        "text: 1人でも遊べるように — so that even one person can play",
+      ],
+      [
+        "e0141",
+        "考える",
+        "かんがえる",
+        "to think; to devise",
+        "text: 1人でも遊べるように考えた — devised it so that even one person could play",
+      ],
+    ],
+  );
+  for (let index = 1; index < chapter5.entries.length; index += 1) {
+    assert.ok(
+      chapter5.entries[index - 1].page <= chapter5.entries[index].page,
+      "Volume 8 Chapter 5 entries stay in ascending page order",
     );
   }
 });

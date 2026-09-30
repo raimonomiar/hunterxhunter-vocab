@@ -1,5 +1,53 @@
 # Volume 8 · Chapter 5
 
+## e0142
+
+- Page: 77
+- Kanji: 人体収集家
+- Kana: じんたいしゅうしゅうか
+- English: a collector of human bodies
+- Notes: title\: No.068 人体収集家の館②
+
+## e0143
+
+- Page: 77
+- Kanji: 館
+- Kana: やかた
+- English: a mansion\, a stately residence
+- Notes: title\: 人体収集家の館②
+
+## e0144
+
+- Page: 78
+- Kanji: 導く薬指の鎖
+- Kana: ダウジングフィンガーチェーン
+- English: Dowsing Finger Chain \(Nen ability\)
+- Notes: ability name\: Kurapika\'s chain for dowsing
+
+## e0145
+
+- Page: 78
+- Kanji: 人体収集家
+- Kana: じんたいしゅうしゅうか
+- English: a collector of human bodies
+- Notes: title\: No.068 人体収集家の館②
+
+## e0146
+
+- Page: 78
+- Kanji: 館
+- Kana: やかた
+- English: a mansion\, a stately residence
+- Notes: title\: 人体収集家の館②
+
+## e0147
+
+- Page: 79
+- Kanji: 鎖
+- Kana: くさり
+- English: a chain
+- Notes: text\: 鎖で弾丸を止める — a chain stopping bullets
+
 ## e0001
 
 - Page: 79
@@ -39,6 +87,38 @@
 - Kana: じゅう
 - English: a gun
 - Notes: text\: 銃6人 — six gun\-users in the attack count
+
+## e0148
+
+- Page: 81
+- Kanji:
+- Kana: ガシャーン
+- English: a clatter\, a crash
+- Notes: sfx\: chain striking the attackers
+
+## e0149
+
+- Page: 82
+- Kanji: 殺気
+- Kana: さっき
+- English: killing intent\, bloodlust
+- Notes: text\: 殺気を消す — hide one\'s killing intent
+
+## e0150
+
+- Page: 82
+- Kanji: 消す
+- Kana: けす
+- English: to erase\, to hide
+- Notes: text\: 殺気を消す — to conceal killing intent
+
+## e0151
+
+- Page: 82
+- Kanji: 見事
+- Kana: みごと
+- English: splendid\, impressive
+- Notes: text\: 見事だが — impressive\, but
 
 ## e0006
 
@@ -160,6 +240,14 @@
 - English: okay
 - Notes: text\: オーケー\! — okay\!
 
+## e0152
+
+- Page: 85
+- Kanji:
+- Kana: シュウウウウ
+- English: a hissing\, dissipating sound
+- Notes: sfx\: aura figures fading away
+
 ## e0021
 
 - Page: 85
@@ -215,6 +303,14 @@
 - Kana: きづく
 - English: to notice\, to realize
 - Notes: text\: だがそいつの念とは気づかなかった — but I did not realize it was that person\'s Nen
+
+## e0153
+
+- Page: 85
+- Kanji:
+- Kana: なぜ
+- English: why
+- Notes: text\: なぜわかった — why did you know?
 
 ## e0028
 
@@ -288,6 +384,38 @@
 - English: a trigger\, a cue\, an opportunity
 - Notes: text\: 気づいたきっかけは — the trigger for noticing it was
 
+## e0041
+
+- Page: 86
+- Kanji: 攻撃者
+- Kana: こうげきしゃ
+- English: an attacker
+- Notes: text\: 2階から現れた攻撃者 — the attacker who appeared from the second floor
+
+## e0154
+
+- Page: 86
+- Kanji:
+- Kana: シャンデリア
+- English: a chandelier
+- Notes: text\: シャンデリアに飛び移った — chandelier
+
+## e0155
+
+- Page: 86
+- Kanji: 飛び移る
+- Kana: とびうつる
+- English: to jump across\, to jump onto
+- Notes: text\: シャンデリアに飛び移った — jumped onto the chandelier
+
+## e0156
+
+- Page: 86
+- Kanji: お粗末
+- Kana: おそまつ
+- English: poor\, shoddy\, clumsy
+- Notes: text\: お粗末なことに — foolishly\, unfortunately
+
 ## e0037
 
 - Page: 86
@@ -295,6 +423,14 @@
 - Kana: かいか
 - English: downstairs\, the lower floor
 - Notes: text\: 階下へは行かず — without going downstairs
+
+## e0157
+
+- Page: 86
+- Kanji: 届く
+- Kana: とどく
+- English: to reach\, to arrive
+- Notes: text\: 届かぬ私 — unable to reach me
 
 ## e0038
 
@@ -319,14 +455,6 @@
 - Kana: ふりつづける
 - English: to keep swinging
 - Notes: text\: 剣を振り続けた — kept swinging the sword
-
-## e0041
-
-- Page: 86
-- Kanji: 攻撃者
-- Kana: こうげきしゃ
-- English: an attacker
-- Notes: text\: 2階から現れた攻撃者 — the attacker who appeared from the second floor
 
 ## e0042
 
@@ -367,6 +495,38 @@
 - Kana: みじゅく
 - English: immature\, inexperienced\, unskilled
 - Notes: text\: 攻撃技術も未熟 — their attack technique is unskilled
+
+## e0158
+
+- Page: 86
+- Kanji: 命じる
+- Kana: めいじる
+- English: to order\, to command
+- Notes: text\: こう命じられた — was ordered to do this
+
+## e0159
+
+- Page: 86
+- Kanji: 人間大
+- Kana: にんげんだい
+- English: human-sized
+- Notes: text\: 人間大のオーラの塊 — human-sized aura clumps
+
+## e0160
+
+- Page: 86
+- Kanji: 遠距離操作
+- Kana: えんきょりそうさ
+- English: remote manipulation
+- Notes: text\: 遠距離操作で動かす — manipulate from a distance
+
+## e0161
+
+- Page: 86
+- Kanji:
+- Kana: パワー
+- English: power\, strength
+- Notes: text\: パワーを持つ能力者 — a powerful ability user
 
 ## e0047
 
@@ -440,6 +600,30 @@
 - English: senior\, upperclassman\, more experienced person
 - Notes: text\: 君達の先輩だ — I am your senior
 
+## e0162
+
+- Page: 87
+- Kanji: 館
+- Kana: やかた
+- English: a mansion\, a stately residence
+- Notes: text\: 館の主人 — the mansion\'s owner
+
+## e0163
+
+- Page: 87
+- Kanji: 主人
+- Kana: しゅじん
+- English: an owner\, a master
+- Notes: text\: 館の主人 — the mansion\'s owner
+
+## e0164
+
+- Page: 87
+- Kanji: 雇う
+- Kana: やとう
+- English: to hire\, to employ
+- Notes: text\: 館の主人に雇われている — employed by the mansion\'s owner
+
 ## e0056
 
 - Page: 87
@@ -511,6 +695,14 @@
 - Kana: おれい
 - English: thanks\, gratitude\; a token of thanks
 - Notes: text\: お礼のつもりで言ったのだろうが — you probably meant it as thanks\, but
+
+## e0165
+
+- Page: 88
+- Kanji: 擁護
+- Kana: ようご
+- English: defense\, support
+- Notes: text\: 擁護のつもりで — intending to defend them
 
 ## e0065
 
@@ -600,6 +792,14 @@
 - English: gradually\, little by little
 - Notes: text\: ジワジワと心臓の音が早く大きくなる — the heartbeat gradually becomes faster and louder
 
+## e0166
+
+- Page: 89
+- Kanji: 誤解
+- Kana: ごかい
+- English: a misunderstanding
+- Notes: text\: 誤解による不安 — anxiety caused by a misunderstanding
+
 ## e0076
 
 - Page: 89
@@ -615,6 +815,22 @@
 - Kana: こうふん
 - English: excitement\, agitation
 - Notes: text\: 不安と興奮でね — from anxiety and excitement
+
+## e0167
+
+- Page: 89
+- Kanji: 音色
+- Kana: ねいろ
+- English: tone\, timbre
+- Notes: text\: 心臓の音色 — the tone of a heartbeat
+
+## e0168
+
+- Page: 89
+- Kanji: 落ち着く
+- Kana: おちつく
+- English: to calm down\, to settle
+- Notes: text\: 音色が静かに落ち着いていった — the tone gradually quieted
 
 ## e0078
 
@@ -640,6 +856,14 @@
 - English: eloquence\; eloquent
 - Notes: text\: 嘘つきの雄弁 — a liar\'s eloquence
 
+## e0169
+
+- Page: 89
+- Kanji: 旋律
+- Kana: せんりつ
+- English: a melody
+- Notes: text\: 嘘つきの旋律 — a liar\'s melody
+
 ## e0081
 
 - Page: 89
@@ -647,6 +871,22 @@
 - Kana: さんかしゃ
 - English: a participant
 - Notes: text\: 本当は5人のうち参加者が3人で — actually\, three of the five may be participants
+
+## e0170
+
+- Page: 89
+- Kanji: 潜入者
+- Kana: せんにゅうしゃ
+- English: an infiltrator
+- Notes: text\: 参加者が3人で潜入者が2人 — three participants and two infiltrators
+
+## e0171
+
+- Page: 90
+- Kanji: 潜入者
+- Kana: せんにゅうしゃ
+- English: an infiltrator
+- Notes: text\: 彼も潜入者ではない — he is not an infiltrator
 
 ## e0082
 
@@ -704,6 +944,22 @@
 - English: to burn\, to catch fire
 - Notes: text\: 殴ったモノはみな燃える — everything punched burns
 
+## e0172
+
+- Page: 90
+- Kanji: 流離の大俳人
+- Kana: グレイトのハイカイジン
+- English: The Great Haiku Poet
+- Notes: ability name\: manga reading グレイトのハイカイジン; literal reading さすらいのだいはいじん
+
+## e0173
+
+- Page: 91
+- Kanji:
+- Kana: ガシャ
+- English: a clatter\, a crash
+- Notes: sfx\: a chair crashing down
+
 ## e0089
 
 - Page: 91
@@ -752,6 +1008,22 @@
 - English: to compose \(a poem\)\, to recite
 - Notes: text\: オレが詠み記した句は実現する — verses I compose and write come true
 
+## e0174
+
+- Page: 91
+- Kanji: 詠み記す
+- Kana: よみしるす
+- English: to compose and write a verse
+- Notes: text\: 詠み記した句 — a verse composed and written
+
+## e0175
+
+- Page: 91
+- Kanji: 句
+- Kana: く
+- English: a verse\, a poem
+- Notes: text\: 詠み記した句 — a verse he composed
+
 ## e0095
 
 - Page: 91
@@ -775,6 +1047,22 @@
 - Kana: ほんばん
 - English: the real thing\; the main event
 - Notes: text\: ここからが本番だ — from here is the real thing
+
+## e0176
+
+- Page: 92
+- Kanji: 焼かれ死ぬ
+- Kana: やかれしぬ
+- English: to be burned to death
+- Notes: text\: 空言人が焼かれ死ぬ — to be burned to death
+
+## e0177
+
+- Page: 92
+- Kanji: 嘘つき
+- Kana: うそつき
+- English: a liar
+- Notes: text\: 嘘つきは焦熱地獄に落ちる — a liar falls into burning hell
 
 ## e0098
 
@@ -808,6 +1096,14 @@
 - English: to ask\, to question
 - Notes: text\: 我が問いに — in response to my question
 
+## e0178
+
+- Page: 92
+- Kanji: 潜入者
+- Kana: せんにゅうしゃ
+- English: an infiltrator
+- Notes: text\: あんたは潜入者か — are you an infiltrator?
+
 ## e0102
 
 - Page: 92
@@ -831,6 +1127,14 @@
 - Kana: みのため
 - English: for one\'s own sake
 - Notes: text\: 答えた方が身のためだ — you would do better to answer for your own sake
+
+## e0179
+
+- Page: 93
+- Kanji: 潜入者
+- Kana: せんにゅうしゃ
+- English: an infiltrator
+- Notes: text\: お前は潜入者か — are you an infiltrator?
 
 ## e0105
 
@@ -872,6 +1176,14 @@
 - English: a reward\, a prize
 - Notes: text\: ご褒美に教えてやるよ — I will tell you as a reward
 
+## e0180
+
+- Page: 94
+- Kanji: 教える
+- Kana: おしえる
+- English: to tell\, to teach
+- Notes: text\: ご褒美に教えてやる — tell you as a reward
+
 ## e0110
 
 - Page: 94
@@ -896,6 +1208,14 @@
 - English: Manipulation type \(Nen category\)
 - Notes: text\: 操作系に属する能力 — an ability belonging to the Manipulation category
 
+## e0181
+
+- Page: 94
+- Kanji: 属する
+- Kana: ぞくする
+- English: to belong to
+- Notes: text\: 操作系に属する — belong to the Manipulation category
+
 ## e0113
 
 - Page: 94
@@ -903,6 +1223,14 @@
 - Kana: のうりょく
 - English: ability\, capability
 - Notes: text\: 操作系に属する能力を持っている — possess an ability belonging to Manipulation
+
+## e0182
+
+- Page: 94
+- Kanji: 命令
+- Kana: めいれい
+- English: an order\, a command
+- Notes: text\: どんな命令をしたの — what order did you give?
 
 ## e0114
 
@@ -1023,6 +1351,38 @@
 - Kana: ふむ
 - English: to step on\, to tread
 - Notes: text\: 言わなきゃ踏むのをやめるわよ — if you do not tell me\, I will stop stepping on you
+
+## e0183
+
+- Page: 95
+- Kanji: やめる
+- Kana: やめる
+- English: to stop doing\, to quit
+- Notes: text\: 踏むのをやめる — stop stepping on someone
+
+## e0184
+
+- Page: 95
+- Kanji: 卑しい
+- Kana: いやしい
+- English: lowly\, vile
+- Notes: text\: 卑しい犬使い — a lowly dog handler
+
+## e0185
+
+- Page: 95
+- Kanji: 犬使い
+- Kana: いぬつかい
+- English: a dog handler
+- Notes: text\: 卑しい犬使い — a lowly dog handler
+
+## e0186
+
+- Page: 95
+- Kanji: 館
+- Kana: やかた
+- English: a mansion\, a stately residence
+- Notes: label\: 館脱出 — escape from the mansion
 
 ## e0129
 

@@ -35,7 +35,7 @@ export function renderCorpusIndex(corpus: CorpusSource): string {
     }
     if (volume === 8) {
       lines.push(
-        "Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41. Entries e0072–e0096 are preserved separately for the えじぷと旅行記その② prose insert on scan 042 and are not No.065 or No.066 story vocabulary. Chapter 3 contains No.066 story entries for folios 43–61. Chapter 4 contains No.067 story entries for folios 63–75. Entries e0090–e0113 remain separate for the えじぷと旅行記その④ prose insert on scan 076; No.068 begins on folio 77.",
+        "Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41. Entries e0072–e0096 are preserved separately for the えじぷと旅行記その② prose insert on scan 042 and are not No.065 or No.066 story vocabulary. Chapter 3 contains No.066 story entries for folios 43–61. Chapter 4 contains No.067 story entries for folios 63–75. Entries e0090–e0113 remain separate for the えじぷと旅行記その④ prose insert on scan 076. Chapter 5 contains No.068 story entries for folios 77–95. Entries e0131–e0141 remain separate for Togashi’s note about drawing card illustrations on scan 096; No.069 begins on folio 97.",
         "",
       );
     }
