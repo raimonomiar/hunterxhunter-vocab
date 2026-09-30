@@ -33,6 +33,12 @@ export function renderCorpusIndex(corpus: CorpusSource): string {
         "",
       );
     }
+    if (volume === 8) {
+      lines.push(
+        "Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41.",
+        "",
+      );
+    }
   }
   lines.push(
     "## Format",
