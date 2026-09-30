@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 73);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    13974,
+    14175,
   );
   const volume7Chapter6 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 7 && chapter.chapter === 6,

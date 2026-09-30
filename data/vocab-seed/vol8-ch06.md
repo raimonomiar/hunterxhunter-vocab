@@ -1,5 +1,47 @@
 # Volume 8 · Chapter 6
 
+
+
+
+
+
+
+
+
+
+
+## e0172
+
+- Page: 97
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: label\: No\.069 グリードアイランド — chapter title
+
+## e0173
+
+- Page: 97
+- Kanji: トイ・ランド
+- Kana: トイ・ランド
+- English: Toy Land\, an online store
+- Notes: label\: トイ・ランド — the online store name
+
+## e0174
+
+- Page: 97
+- Kanji: アクセスする
+- Kana: アクセスする
+- English: to access
+- Notes: text\: トイ・ランドにアクセスして — access Toy Land
+
+## e0175
+
+- Page: 97
+- Kanji: 商品
+- Kana: しょうひん
+- English: a product\; an item for sale
+- Notes: text\: 希望商品 — desired item
+
 ## e0001
 
 - Page: 97
@@ -24,6 +66,14 @@
 - English: an address
 - Notes: text\: 住所を入力すれば — if you enter an address
 
+## e0176
+
+- Page: 97
+- Kanji: データ
+- Kana: データ
+- English: data\; information stored electronically
+- Notes: text\: データ付きで紹介 — listed with data
+
 ## e0004
 
 - Page: 97
@@ -40,6 +90,30 @@
 - English: to introduce\, to recommend
 - Notes: text\: データ付きで紹介してくれる — it recommends them with data
 
+## e0177
+
+- Page: 97
+- Kanji: ジョイ・ステーション
+- Kana: ジョイ・ステーション
+- English: Joy Station\, a game console
+- Notes: label\: ジョイ・ステーション
+
+## e0178
+
+- Page: 97
+- Kanji: ロムカード
+- Kana: ロムカード
+- English: a ROM card
+- Notes: label\: ロムカード
+
+## e0179
+
+- Page: 97
+- Kanji: 安値
+- Kana: やすね
+- English: a low price
+- Notes: text\: なるべく安値で買いたい — want to buy at the lowest price possible
+
 ## e0006
 
 - Page: 97
@@ -55,6 +129,14 @@
 - Kana: ようきゅう
 - English: a request\, a demand
 - Notes: text\: その要求通りの店 — a shop matching that request
+
+## e0180
+
+- Page: 97
+- Kanji: 探す
+- Kana: さがす
+- English: to search for\; to look for
+- Notes: text\: その要求通りの店を探す — look for a shop matching the request
 
 ## e0008
 
@@ -88,6 +170,22 @@
 - English: to hope for\, to request
 - Notes: text\: 即日配達を希望にした — I set it to request same\-day delivery
 
+## e0181
+
+- Page: 97
+- Kanji: ゲームソフト
+- Kana: ゲームソフト
+- English: game software\; a game
+- Notes: text\: ゲームソフトがない — without game software
+
+## e0182
+
+- Page: 97
+- Kanji: 本体
+- Kana: ほんたい
+- English: the main unit\; the console itself
+- Notes: text\: カードと本体だけ — only the card and console
+
 ## e0012
 
 - Page: 97
@@ -95,6 +193,38 @@
 - Kana: タイトル
 - English: a title
 - Notes: text\: タイトルとか何も書いてない — nothing like a title is written
+
+## e0183
+
+- Page: 97
+- Kanji: 調べる
+- Kana: しらべる
+- English: to investigate\; to look up
+- Notes: text\: どんなゲームか調べる — find out what kind of game it is
+
+## e0184
+
+- Page: 97
+- Kanji: 貴重
+- Kana: きちょう
+- English: valuable\; precious\; rare
+- Notes: text\: 貴重なヤツ — a valuable one
+
+## e0185
+
+- Page: 97
+- Kanji: ヤツ
+- Kana: ヤツ
+- English: a guy\; a thing \(colloquial\)
+- Notes: text\: 貴重なヤツ — a valuable one
+
+## e0186
+
+- Page: 98
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: label\: No\.069 グリードアイランド — chapter title
 
 ## e0013
 
@@ -119,6 +249,14 @@
 - Kana: かた
 - English: a model\, a type\, a form
 - Notes: text\: 3世代前の型 — a model from three generations ago
+
+## e0187
+
+- Page: 99
+- Kanji: 未だに
+- Kana: いまだに
+- English: still\; even now
+- Notes: text\: 未だに売れてる — it still sells
 
 ## e0016
 
@@ -160,6 +298,14 @@
 - English: empty
 - Notes: text\: 空のままにして — leave it empty
 
+## e0188
+
+- Page: 99
+- Kanji: カチャ
+- Kana: カチャ
+- English: click\; clack \(inserting a cartridge\)
+- Notes: effect\: カチャ — the cartridge clicks into place
+
 ## e0021
 
 - Page: 99
@@ -167,6 +313,22 @@
 - Kana: さしこむ
 - English: to insert\, to plug in
 - Notes: text\: ロムカードを差し込み — insert the ROM card
+
+## e0189
+
+- Page: 99
+- Kanji: ロムカード
+- Kana: ロムカード
+- English: a ROM card
+- Notes: text\: ロムカードを差し込み — insert the ROM card
+
+## e0190
+
+- Page: 99
+- Kanji: パワー
+- Kana: パワー
+- English: power\; the power switch
+- Notes: text\: パワーを入れる — turn the power on
 
 ## e0022
 
@@ -184,6 +346,22 @@
 - English: unknown\, little\-known
 - Notes: caption\: 知られざるゲーム — an unknown game
 
+## e0191
+
+- Page: 99
+- Kanji: ミックスする
+- Kana: ミックスする
+- English: to mix\; to combine
+- Notes: caption\: ゲームがミックスされた — games have been mixed together
+
+## e0192
+
+- Page: 99
+- Kanji: 名作
+- Kana: めいさく
+- English: a masterpiece\; a classic work
+- Notes: caption\: 知られざる名作 — an unknown classic
+
 ## e0024
 
 - Page: 100
@@ -192,6 +370,22 @@
 - English: to use up\, to use completely
 - Notes: text\: 30ブロック全部使い切ってる — it uses all 30 blocks
 
+## e0193
+
+- Page: 100
+- Kanji: 容量
+- Kana: ようりょう
+- English: capacity\; storage capacity
+- Notes: text\: すげー容量だな — that is a huge capacity
+
+## e0194
+
+- Page: 100
+- Kanji: ブロック
+- Kana: ブロック
+- English: a block \(unit of game storage\)
+- Notes: text\: 30ブロック全部使い切ってる — all 30 blocks are used up
+
 ## e0025
 
 - Page: 100
@@ -199,6 +393,14 @@
 - Kana: むだ
 - English: waste\, pointless use
 - Notes: text\: 無駄かもしれないけど — it may be wasteful\, but
+
+## e0195
+
+- Page: 100
+- Kanji: 一応
+- Kana: いちおう
+- English: just in case\; for now
+- Notes: text\: 一応データをコピーしとく — copy the data just in case
 
 ## e0026
 
@@ -216,6 +418,14 @@
 - English: all the data\, the complete data
 - Notes: text\: フルデータをコピーしとく — copy the full data
 
+## e0196
+
+- Page: 100
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: グリードアイランドをコピーします — copying Greed Island
+
 ## e0028
 
 - Page: 100
@@ -223,6 +433,38 @@
 - Kana: しる
 - English: to know\, to be familiar with
 - Notes: text\: グリードアイランド知ってる\? — do you know Greed Island\?
+
+## e0197
+
+- Page: 100
+- Kanji: ピ
+- Kana: ピ
+- English: beep
+- Notes: effect\: ピ — a short electronic beep
+
+## e0198
+
+- Page: 101
+- Kanji: トイ・ランド
+- Kana: トイ・ランド
+- English: Toy Land\, an online store
+- Notes: text\: トイ・ランドで取り寄せる — order it through Toy Land
+
+## e0199
+
+- Page: 101
+- Kanji: 取り寄せる
+- Kana: とりよせる
+- English: to order and have delivered
+- Notes: text\: トイ・ランドで取り寄せる — order it through Toy Land
+
+## e0200
+
+- Page: 101
+- Kanji: カチャ
+- Kana: カチャ
+- English: click\; clack
+- Notes: effect\: カチャ — a button click
 
 ## e0029
 
@@ -232,6 +474,22 @@
 - English: applicable\, corresponding
 - Notes: text\: 該当店数は0軒です — the number of matching shops is zero
 
+## e0201
+
+- Page: 101
+- Kanji: 条件
+- Kana: じょうけん
+- English: a condition\; a requirement
+- Notes: text\: 条件に合う店 — shops matching the conditions
+
+## e0202
+
+- Page: 101
+- Kanji: 合う
+- Kana: あう
+- English: to match\; to fit
+- Notes: text\: 条件に合う店 — a shop matching the conditions
+
 ## e0030
 
 - Page: 101
@@ -239,6 +497,38 @@
 - Kana: けん
 - English: counter for houses\, shops\, or establishments
 - Notes: text\: 0軒です — there are zero establishments
+
+## e0203
+
+- Page: 101
+- Kanji: 即日
+- Kana: そくじつ
+- English: the same day
+- Notes: text\: 即日配達希望 — request same\-day delivery
+
+## e0204
+
+- Page: 101
+- Kanji: 配達
+- Kana: はいたつ
+- English: delivery
+- Notes: text\: 即日配達希望 — request same\-day delivery
+
+## e0205
+
+- Page: 101
+- Kanji: 希望する
+- Kana: きぼうする
+- English: to hope for\; to request
+- Notes: text\: 即日配達希望にした — set same\-day delivery as the preference
+
+## e0206
+
+- Page: 101
+- Kanji: とりあえず
+- Kana: とりあえず
+- English: for now\; first of all
+- Notes: text\: とりあえず売ってる店全部 — first\, all the shops selling it
 
 ## e0031
 
@@ -304,6 +594,38 @@
 - English: to sell out
 - Notes: text\: つまり売り切れか — so it is sold out\?
 
+## e0207
+
+- Page: 102
+- Kanji: 市場
+- Kana: しじょう
+- English: the market
+- Notes: text\: 市場に出てない — it is not on the market
+
+## e0208
+
+- Page: 102
+- Kanji: 個人
+- Kana: こじん
+- English: an individual\; a private person
+- Notes: text\: 個人が作ったゲーム — a game made by an individual
+
+## e0209
+
+- Page: 102
+- Kanji: 作る
+- Kana: つくる
+- English: to make\; to create
+- Notes: text\: 個人が作ったゲーム — a game made by an individual
+
+## e0210
+
+- Page: 102
+- Kanji: 売り物
+- Kana: うりもの
+- English: an item for sale\; merchandise
+- Notes: text\: 元々売りもんじゃないか — it was not made for sale
+
 ## e0039
 
 - Page: 102
@@ -336,6 +658,38 @@
 - English: few\, little
 - Notes: text\: 100個ってのは少ないの\? — is 100 units a small number\?
 
+## e0211
+
+- Page: 102
+- Kanji: ゲーム年鑑
+- Kana: ゲームねんかん
+- English: a video game yearbook
+- Notes: text\: ゲーム年鑑なら — if we use the game yearbook
+
+## e0212
+
+- Page: 102
+- Kanji: 載る
+- Kana: のる
+- English: to be listed\; to appear in print
+- Notes: text\: 市販ゲームが全部載ってる — all commercially sold games are listed
+
+## e0213
+
+- Page: 102
+- Kanji: 市販
+- Kana: しはん
+- English: commercial sale\; being commercially available
+- Notes: text\: 市販ゲーム — commercially sold games
+
+## e0214
+
+- Page: 102
+- Kanji: 全部
+- Kana: ぜんぶ
+- English: all\; everything
+- Notes: text\: 市販ゲームが全部載ってる — it lists all commercially sold games
+
 ## e0043
 
 - Page: 102
@@ -359,6 +713,70 @@
 - Kana: はつばいきんし
 - English: a sales ban\, prohibition on release
 - Notes: text\: 発売禁止になってるゲーム — a game whose release has been prohibited
+
+## e0215
+
+- Page: 102
+- Kanji: とにかく
+- Kana: とにかく
+- English: anyway\; in any case
+- Notes: text\: とにかく調べてみる — investigate anyway
+
+## e0216
+
+- Page: 102
+- Kanji: カチャカチャ
+- Kana: カチャカチャ
+- English: clack\-clack \(typing\)
+- Notes: effect\: カチャカチャ — typing at the keyboard
+
+## e0217
+
+- Page: 102
+- Kanji: ハンター専用
+- Kana: ハンターせんよう
+- English: exclusively for Hunters
+- Notes: label\: ハンター専用 — for Hunters only
+
+## e0218
+
+- Page: 102
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: label\: グリードアイランド — title on the game listing
+
+## e0219
+
+- Page: 102
+- Kanji: 制作発売元
+- Kana: せいさくはつばいもと
+- English: producer and publisher
+- Notes: label\: 制作発売元 — producer and publisher
+
+## e0220
+
+- Page: 102
+- Kanji: 株式会社
+- Kana: かぶしきがいしゃ
+- English: stock company\; corporation
+- Notes: label\: 株式会社マリリン — Marilyn Corporation
+
+## e0221
+
+- Page: 102
+- Kanji: 発売年度
+- Kana: はつばいねんど
+- English: year of release
+- Notes: label\: 発売年度 1987年 — release year 1987
+
+## e0222
+
+- Page: 102
+- Kanji: ジェニー
+- Kana: ジェニー
+- English: Jenny\, the currency
+- Notes: label\: 58億ジェニー — 5\.8 billion Jenny
 
 ## e0046
 
@@ -424,6 +842,62 @@
 - English: to end\, to finish
 - Notes: text\: 開発は終了しています — development has ended
 
+## e0223
+
+- Page: 103
+- Kanji: デタラメ
+- Kana: デタラメ
+- English: nonsense\; absurd
+- Notes: text\: デタラメな値段 — an absurd price
+
+## e0224
+
+- Page: 103
+- Kanji: 値段
+- Kana: ねだん
+- English: a price
+- Notes: text\: なんちゅう値段だ — what an outrageous price
+
+## e0225
+
+- Page: 103
+- Kanji: 販売
+- Kana: はんばい
+- English: sale\; selling
+- Notes: text\: 販売個数 — number sold
+
+## e0226
+
+- Page: 103
+- Kanji: 個数
+- Kana: こすう
+- English: number of items\; quantity
+- Notes: text\: 販売個数 — number sold
+
+## e0227
+
+- Page: 103
+- Kanji: 少ない
+- Kana: すくない
+- English: few\; little
+- Notes: text\: 100個ってのは少ないの — is 100 copies a small number\?
+
+## e0228
+
+- Page: 103
+- Kanji: 絶対
+- Kana: ぜったい
+- English: definitely\; absolutely
+- Notes: text\: ゼッテーなめてる — they are definitely taking us for fools
+
+## e0229
+
+- Page: 103
+- Kanji: なめる
+- Kana: なめる
+- English: to look down on\; to make light of
+- Notes: text\: ゼッテーなめてる — they are definitely taking us for fools
+
 ## e0054
 
 - Page: 103
@@ -432,6 +906,30 @@
 - English: the producer\, the original maker
 - Notes: text\: 制作元に在庫はないのかな — I wonder if the producer has stock
 
+## e0230
+
+- Page: 103
+- Kanji: 在庫
+- Kana: ざいこ
+- English: stock\; inventory
+- Notes: text\: 制作元に在庫はないのかな — maybe the producer has no stock
+
+## e0231
+
+- Page: 103
+- Kanji: 問い合わせる
+- Kana: といあわせる
+- English: to inquire\; to contact
+- Notes: text\: 制作元に問い合わせる — contact the producer
+
+## e0232
+
+- Page: 103
+- Kanji: カチャカチャ
+- Kana: カチャカチャ
+- English: clack\-clack \(typing\)
+- Notes: effect\: カチャカチャ — typing at the keyboard
+
 ## e0055
 
 - Page: 103
@@ -439,6 +937,94 @@
 - Kana: かんぜんに
 - English: completely\, entirely
 - Notes: text\: これが完全に売り切れだって事 — the fact that this is completely sold out
+
+## e0233
+
+- Page: 103
+- Kanji: 当然
+- Kana: とうぜん
+- English: naturally\; as expected
+- Notes: text\: 売り切れたのは当然 — naturally\, it sold out
+
+## e0234
+
+- Page: 103
+- Kanji: 絶版
+- Kana: ぜっぱん
+- English: out of print\; no longer produced
+- Notes: text\: 絶版になっておりまして — it is out of print
+
+## e0235
+
+- Page: 103
+- Kanji: 再生産
+- Kana: さいせいさん
+- English: remanufacturing\; renewed production
+- Notes: text\: 再生産の予定はございません — there are no plans to produce more
+
+## e0236
+
+- Page: 103
+- Kanji: 予定
+- Kana: よてい
+- English: plan\; schedule
+- Notes: text\: 再生産の予定 — plans for renewed production
+
+## e0237
+
+- Page: 103
+- Kanji: 開発
+- Kana: かいはつ
+- English: development
+- Notes: text\: 開発は子会社が行った — development was carried out by a subsidiary
+
+## e0238
+
+- Page: 103
+- Kanji: 子会社
+- Kana: こがいしゃ
+- English: a subsidiary company
+- Notes: text\: 開発は子会社が行った — development was carried out by a subsidiary
+
+## e0239
+
+- Page: 103
+- Kanji: 行う
+- Kana: おこなう
+- English: to carry out\; to conduct
+- Notes: text\: 子会社が行った — a subsidiary carried it out
+
+## e0240
+
+- Page: 103
+- Kanji: 以前
+- Kana: いぜん
+- English: before\; previously
+- Notes: text\: ずっと以前に終了 — ended long ago
+
+## e0241
+
+- Page: 103
+- Kanji: 終了する
+- Kana: しゅうりょうする
+- English: to end\; to finish
+- Notes: text\: 開発はずっと以前に終了 — development ended long ago
+
+## e0242
+
+- Page: 103
+- Kanji: 既に
+- Kana: すでに
+- English: already
+- Notes: text\: すでにその会社はなくなって — that company had already ceased to exist
+
+## e0243
+
+- Page: 103
+- Kanji: 会社
+- Kana: かいしゃ
+- English: a company
+- Notes: text\: その会社はなくなって — that company had ceased to exist
 
 ## e0056
 
@@ -455,6 +1041,14 @@
 - Kana: なくなる
 - English: to disappear\, to be gone\, to cease to exist
 - Notes: text\: その会社はなくなっておりまして — that company is gone
+
+## e0244
+
+- Page: 103
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: グリードアイランドですか — is this about Greed Island\?
 
 ## e0058
 
@@ -480,6 +1074,38 @@
 - English: a means\, a method
 - Notes: text\: 正当な手段 — legitimate means
 
+## e0245
+
+- Page: 104
+- Kanji: 出回る
+- Kana: でまわる
+- English: to circulate\; to be available on the market
+- Notes: text\: 中古市場にも出回ってねー — it is not circulating in the used market either
+
+## e0246
+
+- Page: 104
+- Kanji: 探し出す
+- Kana: さがしだす
+- English: to search out\; to track down
+- Notes: text\: 持ってる人を探し出す — track down someone who has it
+
+## e0247
+
+- Page: 104
+- Kanji: 譲ってもらう
+- Kana: ゆずってもらう
+- English: to have someone give or sell something to you
+- Notes: text\: ゆずってもらうしかない — have someone part with it
+
+## e0248
+
+- Page: 104
+- Kanji: 電脳ネット
+- Kana: でんのうネット
+- English: the online network\; the internet
+- Notes: text\: 電脳ネットのオークションサイト — an online auction site
+
 ## e0061
 
 - Page: 104
@@ -503,6 +1129,46 @@
 - Kana: こくちする
 - English: to announce\, to notify\, to publicize
 - Notes: text\: オークションに告知して — announce it at an auction
+
+## e0249
+
+- Page: 104
+- Kanji: 売ってくれる
+- Kana: うってくれる
+- English: to sell something to someone
+- Notes: text\: 売ってくれるヤツ — someone willing to sell it
+
+## e0250
+
+- Page: 104
+- Kanji: 待つ
+- Kana: まつ
+- English: to wait
+- Notes: text\: 名乗り出るのを待つ — wait for someone to come forward
+
+## e0251
+
+- Page: 104
+- Kanji: 闘技場
+- Kana: とうぎじょう
+- English: an arena\; a fighting arena
+- Notes: text\: 闘技場の金 — money from the arena
+
+## e0252
+
+- Page: 104
+- Kanji: 合わせる
+- Kana: あわせる
+- English: to combine\; to put together
+- Notes: text\: ２人合わせても — even combined\, the two of us
+
+## e0253
+
+- Page: 104
+- Kanji: 限る
+- Kana: かぎる
+- English: to be limited\; to be confined to
+- Notes: text\: 50億と限らない — it may not be limited to five billion
 
 ## e0064
 
@@ -528,6 +1194,22 @@
 - English: a transaction\, a deal
 - Notes: text\: 個人との取り引き — a transaction with an individual
 
+## e0254
+
+- Page: 104
+- Kanji: 言い値
+- Kana: いいね
+- English: the price named by the seller
+- Notes: text\: 売り手の言い値次第 — whatever price the seller names
+
+## e0255
+
+- Page: 104
+- Kanji: 次第
+- Kana: しだい
+- English: depending on\; according to
+- Notes: text\: 言い値次第 — depending on the seller’s asking price
+
 ## e0067
 
 - Page: 104
@@ -552,6 +1234,14 @@
 - English: to demand\, to request
 - Notes: text\: 高い金を要求される — be asked for a high price
 
+## e0256
+
+- Page: 104
+- Kanji: ダメ元
+- Kana: ダメもと
+- English: with nothing to lose\; as a long shot
+- Notes: text\: ダメもとで告知だけ — post the notice as a long shot
+
 ## e0070
 
 - Page: 104
@@ -560,6 +1250,54 @@
 - English: common\, ordinary\, commonplace
 - Notes: text\: ざらだもんな — that sort of thing is commonplace
 
+## e0257
+
+- Page: 104
+- Kanji: アクセスする
+- Kana: アクセスする
+- English: to access
+- Notes: text\: アクセスなんてこない — no one will access it
+
+## e0258
+
+- Page: 105
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: label\: ゲームソフト グリードアイランド — the requested game
+
+## e0259
+
+- Page: 105
+- Kanji: ゲームソフト
+- Kana: ゲームソフト
+- English: game software\; a game
+- Notes: label\: ゲームソフト求ム — game software wanted
+
+## e0260
+
+- Page: 105
+- Kanji: 求む
+- Kana: もとむ
+- English: wanted\; sought \(in a notice\)
+- Notes: label\: ゲームソフト求ム — game software wanted
+
+## e0261
+
+- Page: 105
+- Kanji: カチャ
+- Kana: カチャ
+- English: click\; clack
+- Notes: effect\: カチャ — pressing the controls
+
+## e0262
+
+- Page: 105
+- Kanji: ピ
+- Kana: ピ
+- English: beep
+- Notes: effect\: ピ — a short electronic beep
+
 ## e0071
 
 - Page: 105
@@ -567,6 +1305,14 @@
 - Kana: おうそうだん
 - English: price negotiable\, negotiable upon consultation
 - Notes: listing\: 値段応相談 — price negotiable
+
+## e0263
+
+- Page: 105
+- Kanji: 値段
+- Kana: ねだん
+- English: a price
+- Notes: label\: 値段応相談 — price negotiable
 
 ## e0072
 
@@ -584,6 +1330,22 @@
 - English: in no time\, in the blink of an eye
 - Notes: text\: あっという間に1万件近くに — nearly ten thousand in no time
 
+## e0264
+
+- Page: 105
+- Kanji: 金目当て
+- Kana: かねめあて
+- English: motivated by money\; after the money
+- Notes: text\: こいつら金目当て — these people are after the money
+
+## e0265
+
+- Page: 105
+- Kanji: 売りつける
+- Kana: うりつける
+- English: to foist something on a buyer\; to sell dishonestly
+- Notes: text\: ニセモノ売りつけよう — try to foist fakes on us
+
 ## e0074
 
 - Page: 105
@@ -591,6 +1353,30 @@
 - Kana: ほんもの
 - English: the real thing\, genuine article
 - Notes: text\: これ全部本物か偽物か — whether all of these are genuine or fake
+
+## e0266
+
+- Page: 105
+- Kanji: お手上げ
+- Kana: おてあげ
+- English: to be at a loss\; to give up
+- Notes: text\: お手上げだな — we are at a loss
+
+## e0267
+
+- Page: 105
+- Kanji: 一つ一つ
+- Kana: ひとつひとつ
+- English: one by one\; each individually
+- Notes: text\: 一つ一つ交渉 — negotiate with each one
+
+## e0268
+
+- Page: 105
+- Kanji: 交渉
+- Kana: こうしょう
+- English: negotiation\; bargaining
+- Notes: text\: 一つ一つ交渉 — negotiate with each one
 
 ## e0075
 
@@ -600,6 +1386,38 @@
 - English: a fake\, a counterfeit
 - Notes: text\: 本物か偽物か — genuine or fake
 
+## e0269
+
+- Page: 105
+- Kanji: 当たり前
+- Kana: あたりまえ
+- English: natural\; to be expected
+- Notes: text\: 考えてみりゃ当たり前だ — it is only natural when you think about it
+
+## e0270
+
+- Page: 105
+- Kanji: アクセスする
+- Kana: アクセスする
+- English: to access
+- Notes: text\: １万件近くアクセス — nearly ten thousand accesses
+
+## e0271
+
+- Page: 105
+- Kanji: 金額
+- Kana: きんがく
+- English: an amount of money\; a sum
+- Notes: text\: 額が額だからな — considering the amount involved
+
+## e0272
+
+- Page: 105
+- Kanji: 考える
+- Kana: かんがえる
+- English: to think\; to consider
+- Notes: text\: 額が額だから考えてみりゃ — considering the amount involved
+
 ## e0076
 
 - Page: 105
@@ -607,6 +1425,22 @@
 - Kana: はんだんする
 - English: to judge\, to determine
 - Notes: text\: オレ達じゃ判断つかねー — we can’t determine it
+
+## e0273
+
+- Page: 106
+- Kanji: ディープ
+- Kana: ディープ
+- English: deep\; hard to reach \(online\)
+- Notes: text\: もっとディープなトコ — a deeper part of the network
+
+## e0274
+
+- Page: 106
+- Kanji: 入り込む
+- Kana: はいりこむ
+- English: to get into\; to enter deeply
+- Notes: text\: トコに入りこめば — if we get into that part
 
 ## e0077
 
@@ -624,6 +1458,22 @@
 - English: information
 - Notes: text\: ゲームの情報も豊富にある — there is also abundant game information
 
+## e0275
+
+- Page: 106
+- Kanji: 両方
+- Kana: りょうほう
+- English: both\; both sides
+- Notes: text\: ゲームと電脳ネット両方 — both games and the online network
+
+## e0276
+
+- Page: 106
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: グリードアイランド持ってるかも — might have Greed Island
+
 ## e0079
 
 - Page: 106
@@ -640,6 +1490,30 @@
 - English: to ask\, to request\, to rely on
 - Notes: text\: こいつに頼むの — ask this guy for help
 
+## e0277
+
+- Page: 106
+- Kanji: 電話に出る
+- Kana: でんわにでる
+- English: to answer the phone
+- Notes: text\: 10秒以内に電話に出ねーと — answer the phone within ten seconds
+
+## e0278
+
+- Page: 106
+- Kanji: フィギュア
+- Kana: フィギュア
+- English: a figure\; a collectible statuette
+- Notes: text\: てめーのフィギュア — your figure
+
+## e0279
+
+- Page: 106
+- Kanji: ぶち壊す
+- Kana: ぶちこわす
+- English: to smash\; to wreck
+- Notes: text\: フィギュアぶち壊す — smash the figure
+
 ## e0081
 
 - Page: 106
@@ -647,6 +1521,14 @@
 - Kana: よびだす
 - English: to call out\, to summon
 - Notes: text\: オレキルアを呼び出して — call for Killua
+
+## e0280
+
+- Page: 106
+- Kanji: 嘘をつく
+- Kana: うそをつく
+- English: to lie\; to tell a falsehood
+- Notes: text\: 嘘つけよ — don’t lie
 
 ## e0082
 
@@ -688,6 +1570,22 @@
 - English: busy
 - Notes: text\: 忙しいのに — even though I’m busy
 
+## e0281
+
+- Page: 106
+- Kanji: 人形
+- Kana: にんぎょう
+- English: a doll\; a figure
+- Notes: text\: オレの人形 — my figure
+
+## e0282
+
+- Page: 106
+- Kanji: コフ
+- Kana: コフ
+- English: cough\; a small throat\-clearing sound
+- Notes: effect\: コフ — a brief throat\-clearing sound
+
 ## e0087
 
 - Page: 106
@@ -712,6 +1610,14 @@
 - English: to kill
 - Notes: text\: 指一本触れたら殺すぞ — I’ll kill you if you touch it
 
+## e0283
+
+- Page: 107
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: クリードアイランド？ — Greed Island\?
+
 ## e0090
 
 - Page: 107
@@ -719,6 +1625,30 @@
 - Kana: あにき
 - English: older brother\; boss\, senior
 - Notes: text\: 兄貴が電話だよ — your older brother is calling
+
+## e0284
+
+- Page: 107
+- Kanji: 冗談
+- Kana: じょうだん
+- English: a joke\; kidding
+- Notes: text\: 冗談だよ — I’m kidding
+
+## e0285
+
+- Page: 107
+- Kanji: 怒る
+- Kana: おこる
+- English: to get angry
+- Notes: text\: 兄貴怒んないで — don’t get angry\, bro
+
+## e0286
+
+- Page: 107
+- Kanji: 怖い
+- Kana: こわい
+- English: scary\; frightening
+- Notes: text\: コワイなぁ — that’s scary
 
 ## e0091
 
@@ -744,6 +1674,14 @@
 - English: to want\, to desire
 - Notes: text\: 持ってないけど欲しかった — I don’t have it\, but I wanted it
 
+## e0287
+
+- Page: 107
+- Kanji: レアゲー
+- Kana: レアゲー
+- English: a rare game
+- Notes: text\: そんなレアゲー — such a rare game
+
 ## e0094
 
 - Page: 107
@@ -759,6 +1697,38 @@
 - Kana: げんてい
 - English: limited\, limited edition
 - Notes: text\: 100本限定 — limited to 100 copies
+
+## e0288
+
+- Page: 107
+- Kanji: 商品
+- Kana: しょうひん
+- English: a product\; an item for sale
+- Notes: text\: 100本限定の商品 — a product limited to 100 copies
+
+## e0289
+
+- Page: 107
+- Kanji: 一括
+- Kana: いっかつ
+- English: in a lump sum\; all at once
+- Notes: text\: 現金一括販売のみ — cash payment in full only
+
+## e0290
+
+- Page: 107
+- Kanji: 現金
+- Kana: げんきん
+- English: cash
+- Notes: text\: 現金一括販売 — cash payment in full
+
+## e0291
+
+- Page: 107
+- Kanji: 販売
+- Kana: はんばい
+- English: sale\; selling
+- Notes: text\: 現金一括販売 — cash sale in full
 
 ## e0096
 
@@ -784,6 +1754,22 @@
 - English: to flood in\, to pour in
 - Notes: text\: 注文が殺到した — orders flooded in
 
+## e0292
+
+- Page: 107
+- Kanji: 後から
+- Kana: あとから
+- English: later\; afterward
+- Notes: text\: オレも後から手を打って — I also took steps later
+
+## e0293
+
+- Page: 107
+- Kanji: 持ち主
+- Kana: もちぬし
+- English: the owner\; the person who has something
+- Notes: text\: 持ち主さえ特定できない — cannot even identify the owner
+
 ## e0099
 
 - Page: 107
@@ -791,6 +1777,14 @@
 - Kana: うわさ
 - English: a rumor\, hearsay
 - Notes: text\: 〜というウワサ — a rumor that \.\.\.
+
+## e0294
+
+- Page: 107
+- Kanji: 伝説
+- Kana: でんせつ
+- English: a legend\; a celebrated story
+- Notes: text\: 伝説のゲーム — a legendary game
 
 ## e0100
 
@@ -808,6 +1802,30 @@
 - English: to identify\, to pinpoint\, to specify
 - Notes: text\: 特定できてない — it hasn’t been identified
 
+## e0295
+
+- Page: 107
+- Kanji: カタカタ
+- Kana: カタカタ
+- English: clatter\; typing sound
+- Notes: effect\: カタカタ — typing at a keyboard
+
+## e0296
+
+- Page: 108
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: グリード探してんのか — looking for Greed Island
+
+## e0297
+
+- Page: 108
+- Kanji: 無理
+- Kana: むり
+- English: impossible\; unreasonable
+- Notes: text\: ムリムリ — no chance
+
 ## e0102
 
 - Page: 108
@@ -824,6 +1842,30 @@
 - English: to give up\, to abandon hope
 - Notes: text\: あきらめたんだから — since I gave up
 
+## e0298
+
+- Page: 108
+- Kanji: 兄貴
+- Kana: あにき
+- English: older brother\; boss or senior
+- Notes: text\: 兄貴が手も足も出ない — you cannot do anything\, bro
+
+## e0299
+
+- Page: 108
+- Kanji: 手も足も出ない
+- Kana: てもあしもでない
+- English: unable to do anything\; helpless
+- Notes: text\: 手も足も出ない — unable to do anything
+
+## e0300
+
+- Page: 108
+- Kanji: 降参
+- Kana: こうさん
+- English: surrender\; giving up
+- Notes: text\: 降参してんのか — have you given up\?
+
 ## e0104
 
 - Page: 108
@@ -831,6 +1873,14 @@
 - Kana: こころあたり
 - English: a clue\, an idea\, a likely source
 - Notes: text\: 心当たりくらいある — I have at least one lead
+
+## e0301
+
+- Page: 108
+- Kanji: 昔
+- Kana: むかし
+- English: the past\; long ago
+- Notes: text\: 昔の話だよ — that was in the past
 
 ## e0105
 
@@ -848,6 +1898,22 @@
 - English: to think\, to consider
 - Notes: text\: 力と金額を考えると — considering the effort and cost
 
+## e0302
+
+- Page: 108
+- Kanji: 労力
+- Kana: ろうりょく
+- English: effort\; labor
+- Notes: text\: 労力と金額を考える — consider the effort and cost
+
+## e0303
+
+- Page: 108
+- Kanji: タダ
+- Kana: タダ
+- English: free\; at no cost \(colloquial\)
+- Notes: text\: タダじゃやだね — I’m not doing it for free
+
 ## e0107
 
 - Page: 108
@@ -855,6 +1921,14 @@
 - Kana: おしえる
 - English: to tell\, to teach
 - Notes: text\: その当たりっての教えてよ — tell me about that lead
+
+## e0304
+
+- Page: 108
+- Kanji: 欲しい
+- Kana: ほしい
+- English: to want\; to desire
+- Notes: text\: 欲しいゲームでもない — not a game I want that badly
 
 ## e0108
 
@@ -872,6 +1946,22 @@
 - English: memory data\, saved game data
 - Notes: text\: グリードアイランドのメモリーデータ — Greed Island memory data
 
+## e0305
+
+- Page: 109
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: グリードアイランドのメモリーデータ — Greed Island memory data
+
+## e0306
+
+- Page: 109
+- Kanji: コネ
+- Kana: コネ
+- English: a connection\; a contact
+- Notes: text\: ちょっとしたコネで — through a small connection
+
 ## e0110
 
 - Page: 109
@@ -879,6 +1969,22 @@
 - Kana: てにいれる
 - English: to obtain\, to get hold of
 - Notes: text\: ロムカードだけ手に入れた — I got hold of only the ROM card
+
+## e0307
+
+- Page: 109
+- Kanji: 兄貴
+- Kana: あにき
+- English: older brother\; boss or senior
+- Notes: text\: 兄貴ならこのデータを解析して — if you analyze this data\, bro
+
+## e0308
+
+- Page: 109
+- Kanji: ロムカード
+- Kana: ロムカード
+- English: a ROM card
+- Notes: text\: ロムカードだけ手に入れた — got hold of only the ROM card
 
 ## e0111
 
@@ -912,6 +2018,22 @@
 - English: to lie\, to tell a falsehood
 - Notes: text\: 取引きで嘘をつくほど — enough to lie in a deal
 
+## e0309
+
+- Page: 109
+- Kanji: 本当
+- Kana: ほんとう
+- English: the truth\; genuine
+- Notes: text\: その話本当だろうな — that story is true\, right\?
+
+## e0310
+
+- Page: 109
+- Kanji: 取り引き
+- Kana: とりひき
+- English: a transaction\; a deal
+- Notes: text\: 取引きで嘘つく — lie in a deal
+
 ## e0115
 
 - Page: 109
@@ -919,6 +2041,14 @@
 - Kana: どきょう
 - English: nerve\, guts\, courage
 - Notes: text\: 嘘つくほど度胸はねー — I don’t have the nerve to lie like that
+
+## e0311
+
+- Page: 109
+- Kanji: 心当たり
+- Kana: こころあたり
+- English: a clue\; an idea\; a likely source
+- Notes: text\: 心当たりは２つある — I have two leads
 
 ## e0116
 
@@ -944,6 +2074,30 @@
 - English: degree of reliability\, trustworthiness
 - Notes: text\: 信頼度はネットでも最高峰だ — its reliability is among the highest online
 
+## e0312
+
+- Page: 109
+- Kanji: ハンター専用
+- Kana: ハンターせんよう
+- English: exclusively for Hunters
+- Notes: text\: ハンター専用のサイト — a site exclusively for Hunters
+
+## e0313
+
+- Page: 109
+- Kanji: サイト
+- Kana: サイト
+- English: a website\; a site
+- Notes: text\: ハンター専用のサイト — a site exclusively for Hunters
+
+## e0314
+
+- Page: 109
+- Kanji: 情報量
+- Kana: じょうほうりょう
+- English: amount of information
+- Notes: text\: 情報量の多さ — the amount of information available
+
 ## e0119
 
 - Page: 109
@@ -959,6 +2113,22 @@
 - Kana: つうじょう
 - English: ordinary\, usual\, normal
 - Notes: text\: 通常サイトじゃ考えられない — unthinkable on an ordinary site
+
+## e0315
+
+- Page: 109
+- Kanji: ケータイ
+- Kana: ケータイ
+- English: a mobile phone\; cell phone
+- Notes: text\: ケータイじゃやばい — using a cell phone would be bad
+
+## e0316
+
+- Page: 109
+- Kanji: やばい
+- Kana: やばい
+- English: risky\; bad\; dangerous \(colloquial\)
+- Notes: text\: ケータイじゃやばい — using a cell phone would be risky
 
 ## e0121
 
@@ -976,6 +2146,14 @@
 - English: a treasure\, valuable item
 - Notes: text\: 貴重なお宝 — precious treasures
 
+## e0317
+
+- Page: 109
+- Kanji: 可能性
+- Kana: かのうせい
+- English: a possibility\; likelihood
+- Notes: text\: 可能性が高い — highly likely
+
 ## e0123
 
 - Page: 109
@@ -992,6 +2170,14 @@
 - English: to need\, to be necessary
 - Notes: text\: ハンター証が要る — a Hunter License is necessary
 
+## e0318
+
+- Page: 110
+- Kanji: ハンター証
+- Kana: ハンターしょう
+- English: Hunter License
+- Notes: text\: ハンター証とアドレスが要る — a Hunter License and address are needed
+
 ## e0125
 
 - Page: 110
@@ -999,6 +2185,30 @@
 - Kana: とどく
 - English: to arrive\, to be delivered
 - Notes: text\: ロムカードが届き次第 — as soon as the ROM card arrives
+
+## e0319
+
+- Page: 110
+- Kanji: 敵に回す
+- Kana: てきにまわす
+- English: to make an enemy of
+- Notes: text\: 敵にまわすと仕事が — if we make them our enemy
+
+## e0320
+
+- Page: 110
+- Kanji: 仕事
+- Kana: しごと
+- English: work\; one’s job
+- Notes: text\: 仕事やりにくくなる — make work difficult
+
+## e0321
+
+- Page: 110
+- Kanji: やりにくい
+- Kana: やりにくい
+- English: difficult to do\; awkward
+- Notes: text\: 仕事やりにくくなる — make work difficult
 
 ## e0126
 
@@ -1040,6 +2250,38 @@
 - English: unrelated\, it doesn’t matter
 - Notes: text\: 関係ないね — that has nothing to do with it
 
+## e0322
+
+- Page: 110
+- Kanji: ヨークシン
+- Kana: ヨークシン
+- English: Yorknew City
+- Notes: text\: ヨークシンのオークション — the Yorknew auction
+
+## e0323
+
+- Page: 110
+- Kanji: オークション
+- Kana: オークション
+- English: an auction
+- Notes: text\: ヨークシンのオークション — the Yorknew auction
+
+## e0324
+
+- Page: 110
+- Kanji: 今年
+- Kana: ことし
+- English: this year
+- Notes: text\: 今年のオークション — this year’s auction
+
+## e0325
+
+- Page: 110
+- Kanji: 噂
+- Kana: うわさ
+- English: a rumor\; hearsay
+- Notes: text\: 流れるってウワサ — a rumor that copies will appear
+
 ## e0131
 
 - Page: 110
@@ -1072,6 +2314,14 @@
 - English: a person\, a figure\, a character
 - Notes: text\: ある人物が大量に抱え込んでた — a certain person had hoarded a large quantity
 
+## e0326
+
+- Page: 110
+- Kanji: ポリ
+- Kana: ポリ
+- English: crunch\; a small chewing sound
+- Notes: effect\: ポリ — a small chewing sound
+
 ## e0135
 
 - Page: 110
@@ -1088,6 +2338,22 @@
 - English: to hoard\, to hold onto\, to keep in one’s possession
 - Notes: text\: 大量に抱え込んでた — had hoarded a large quantity
 
+## e0327
+
+- Page: 111
+- Kanji: ガセネタ
+- Kana: ガセネタ
+- English: false information\; a bogus rumor
+- Notes: text\: ガセネタの可能性 — the chance the tip is bogus
+
+## e0328
+
+- Page: 111
+- Kanji: 可能性
+- Kana: かのうせい
+- English: a possibility\; likelihood
+- Notes: text\: ガセネタの可能性 — the possibility it is false information
+
 ## e0137
 
 - Page: 111
@@ -1096,6 +2362,22 @@
 - English: to send\, to ship
 - Notes: text\: ロムカードはいつ送る\? — when will you send the ROM card\?
 
+## e0329
+
+- Page: 111
+- Kanji: ロムカード
+- Kana: ロムカード
+- English: a ROM card
+- Notes: text\: ロムカードはいつもの方法で送る — send the ROM card the usual way
+
+## e0330
+
+- Page: 111
+- Kanji: 流れ
+- Kana: ながれ
+- English: the flow\; the course of events
+- Notes: text\: 話の流れで — because of how the conversation went
+
 ## e0138
 
 - Page: 111
@@ -1103,6 +2385,30 @@
 - Kana: かわりに
 - English: in exchange\, instead\, in return
 - Notes: text\: そのかわりに — in exchange for that
+
+## e0331
+
+- Page: 111
+- Kanji: コピーする
+- Kana: コピーする
+- English: to copy
+- Notes: text\: カードのコピーと交換 — exchange for a copy of the card
+
+## e0332
+
+- Page: 111
+- Kanji: 交換する
+- Kana: こうかんする
+- English: to exchange\; to trade
+- Notes: text\: コピーと交換 — exchange it for a copy
+
+## e0333
+
+- Page: 111
+- Kanji: ハンター証
+- Kana: ハンターしょう
+- English: Hunter License
+- Notes: text\: 証を使うんだね — use the license
 
 ## e0139
 
@@ -1128,6 +2434,30 @@
 - English: exclusive use\, dedicated for
 - Notes: text\: メール専用のサイト — a site dedicated to email
 
+## e0334
+
+- Page: 111
+- Kanji: パソコン
+- Kana: パソコン
+- English: a personal computer
+- Notes: text\: 自宅のパソコン — the computer at home
+
+## e0335
+
+- Page: 111
+- Kanji: 住所
+- Kana: じゅうしょ
+- English: an address
+- Notes: text\: 住所がバレバレ — your address would be obvious
+
+## e0336
+
+- Page: 111
+- Kanji: バレバレ
+- Kana: バレバレ
+- English: completely obvious\; totally exposed
+- Notes: text\: 住所がバレバレ — your address would be obvious
+
 ## e0142
 
 - Page: 111
@@ -1152,6 +2482,30 @@
 - English: one’s own home
 - Notes: text\: 自宅のパソコン — the computer at home
 
+## e0337
+
+- Page: 111
+- Kanji: 集まる
+- Kana: あつまる
+- English: to gather\; to assemble
+- Notes: text\: 小悪党がゾロゾロ島に集まる — petty crooks would gather on the island
+
+## e0338
+
+- Page: 111
+- Kanji: 公共
+- Kana: こうきょう
+- English: public\; shared by the public
+- Notes: text\: 公共のパソコン — a public computer
+
+## e0339
+
+- Page: 111
+- Kanji: 喫茶店
+- Kana: きっさてん
+- English: a coffee shop\; cafe
+- Notes: text\: ホテルとか喫茶店 — a hotel or cafe
+
 ## e0145
 
 - Page: 111
@@ -1167,6 +2521,14 @@
 - Kana: こうしき
 - English: official\, formal
 - Notes: text\: 公式のパソコン — an official computer
+
+## e0340
+
+- Page: 111
+- Kanji: アドレス
+- Kana: アドレス
+- English: an address\; an online address
+- Notes: text\: アドレスがわかるまで — until we know the address
 
 ## e0147
 
@@ -1192,6 +2554,38 @@
 - English: to aim at\, to target
 - Notes: text\: ハンター証狙いの小悪党 — petty crooks targeting Hunter Licenses
 
+## e0341
+
+- Page: 112
+- Kanji: ヨークシン
+- Kana: ヨークシン
+- English: Yorknew City
+- Notes: text\: ヨークシンのオークション — the Yorknew auction
+
+## e0342
+
+- Page: 112
+- Kanji: オークション
+- Kana: オークション
+- English: an auction
+- Notes: text\: ヨークシンのオークション — the Yorknew auction
+
+## e0343
+
+- Page: 112
+- Kanji: 兄貴
+- Kana: あにき
+- English: older brother\; boss or senior
+- Notes: text\: 兄貴はガセかも — you said it might be false
+
+## e0344
+
+- Page: 112
+- Kanji: ガセ
+- Kana: ガセ
+- English: a fake\; false information \(colloquial\)
+- Notes: text\: あながちガセじゃない — it may not be entirely false
+
 ## e0150
 
 - Page: 112
@@ -1200,6 +2594,54 @@
 - English: this year
 - Notes: text\: 今年のオークション — this year’s auction
 
+## e0345
+
+- Page: 112
+- Kanji: 人物
+- Kana: じんぶつ
+- English: a person\; a figure
+- Notes: text\: ある人物がゲームを — a certain person has the game
+
+## e0346
+
+- Page: 112
+- Kanji: 何十本
+- Kana: なんじゅっぽん
+- English: dozens \(of copies\)
+- Notes: text\: ゲームを何十本も — dozens of game copies
+
+## e0347
+
+- Page: 112
+- Kanji: 流す
+- Kana: ながす
+- English: to put into circulation\; to release onto the market
+- Notes: text\: オークションに流す — put them up for auction
+
+## e0348
+
+- Page: 112
+- Kanji: 情報
+- Kana: じょうほう
+- English: information
+- Notes: text\: そういう情報がある — there is information like that
+
+## e0349
+
+- Page: 112
+- Kanji: ジン
+- Kana: ジン
+- English: Ging\, a character’s name
+- Notes: text\: その人物がジンかも — that person might be Ging
+
+## e0350
+
+- Page: 112
+- Kanji: あながち
+- Kana: あながち
+- English: not entirely\; not necessarily
+- Notes: text\: あながちガセじゃない — it may not be entirely false
+
 ## e0151
 
 - Page: 112
@@ -1207,6 +2649,22 @@
 - Kana: いままで
 - English: until now\, up to now
 - Notes: text\: 今まで流れてない情報 — information not circulated until now
+
+## e0351
+
+- Page: 112
+- Kanji: 手に入れる
+- Kana: てにいれる
+- English: to obtain\; to get hold of
+- Notes: text\: 手に入れるためには — in order to get it
+
+## e0352
+
+- Page: 112
+- Kanji: 伝説
+- Kana: でんせつ
+- English: a legend\; a celebrated story
+- Notes: text\: 伝説のゲーム — the legendary game
 
 ## e0152
 
@@ -1232,6 +2690,14 @@
 - English: what on earth\; one whole unit
 - Notes: text\: 一体どんなゲームなんだろう — what on earth kind of game is it\?
 
+## e0353
+
+- Page: 113
+- Kanji: グリードアイランド
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: label\: グリードアイランド — title card
+
 ## e0155
 
 - Page: 113
@@ -1239,6 +2705,22 @@
 - Kana: はつばいする
 - English: to release\, to put on sale
 - Notes: text\: 1987年発売の — released in 1987
+
+## e0354
+
+- Page: 113
+- Kanji: ハンター専用
+- Kana: ハンターせんよう
+- English: exclusively for Hunters
+- Notes: text\: ハンター専用ハンティングゲーム — a hunting game for Hunters only
+
+## e0355
+
+- Page: 113
+- Kanji: ハンティングゲーム
+- Kana: ハンティングゲーム
+- English: a hunting game
+- Notes: text\: ハンター専用ハンティングゲーム — a hunting game for Hunters only
 
 ## e0156
 
@@ -1248,6 +2730,22 @@
 - English: the highest price in history
 - Notes: text\: 史上最高価格での販売 — sold at the highest price in history
 
+## e0356
+
+- Page: 113
+- Kanji: 販売
+- Kana: はんばい
+- English: sale\; selling
+- Notes: text\: 史上最高価格で販売 — sold at the highest price in history
+
+## e0357
+
+- Page: 113
+- Kanji: 限定
+- Kana: げんてい
+- English: limited\; limited edition
+- Notes: text\: 限定100本の商品 — a product limited to 100 copies
+
 ## e0157
 
 - Page: 113
@@ -1255,6 +2753,14 @@
 - Kana: しょうひん
 - English: a product\, merchandise
 - Notes: text\: 限定100本の商品 — the product limited to 100 copies
+
+## e0358
+
+- Page: 113
+- Kanji: 殺到する
+- Kana: さっとうする
+- English: to rush in\; to flood in
+- Notes: text\: 200倍の注文が殺到した — orders at 200 times that amount flooded in
 
 ## e0158
 
@@ -1264,6 +2770,14 @@
 - English: an order\, a request
 - Notes: text\: 200倍の注文が殺到した — orders at 200 times that number flooded in
 
+## e0359
+
+- Page: 113
+- Kanji: その後
+- Kana: そのご
+- English: after that\; afterward
+- Notes: text\: その後 — after that
+
 ## e0159
 
 - Page: 113
@@ -1271,6 +2785,14 @@
 - Kana: まったく
 - English: entirely\, completely\; not at all
 - Notes: text\: 全く市場に姿を現さず — never appeared on the market at all
+
+## e0360
+
+- Page: 113
+- Kanji: 市場
+- Kana: しじょう
+- English: the market
+- Notes: text\: 全く市場に姿を現さず — never appeared on the market
 
 ## e0160
 
@@ -1280,6 +2802,14 @@
 - English: to appear\, to show oneself
 - Notes: text\: 市場に姿を現さず — without appearing on the market
 
+## e0361
+
+- Page: 113
+- Kanji: 電脳ネット
+- Kana: でんのうネット
+- English: the online network\; the internet
+- Notes: text\: 電脳ネット上で — on the online network
+
 ## e0161
 
 - Page: 113
@@ -1287,6 +2817,14 @@
 - Kana: さまざま
 - English: various\, diverse
 - Notes: text\: 様々な情報 — various information
+
+## e0362
+
+- Page: 113
+- Kanji: 情報
+- Kana: じょうほう
+- English: information
+- Notes: text\: 様々な情報だけが飛び交う — only various information circulated
 
 ## e0162
 
@@ -1312,6 +2850,22 @@
 - English: the game itself
 - Notes: text\: ゲーム自体に170億ジェニー — 17 billion Jenny for the game itself
 
+## e0363
+
+- Page: 113
+- Kanji: クリアデータ
+- Kana: クリアデータ
+- English: cleared game data\; a completed save
+- Notes: text\: クリアデータ入りのロムカード — a ROM card with cleared game data
+
+## e0364
+
+- Page: 113
+- Kanji: ロムカード
+- Kana: ロムカード
+- English: a ROM card
+- Notes: text\: クリアデータ入りのロムカード — a ROM card with cleared game data
+
 ## e0165
 
 - Page: 113
@@ -1320,6 +2874,14 @@
 - English: a high amount\, high\-priced
 - Notes: text\: 高額懸賞がかけられた — a high\-value reward was offered
 
+## e0365
+
+- Page: 113
+- Kanji: ジェニー
+- Kana: ジェニー
+- English: Jenny\, the currency
+- Notes: text\: 500億ジェニー — 50 billion Jenny
+
 ## e0166
 
 - Page: 113
@@ -1327,6 +2889,22 @@
 - Kana: けんしょう
 - English: a prize\, a reward offered for achievement
 - Notes: text\: 高額懸賞 — a high\-value reward
+
+## e0366
+
+- Page: 113
+- Kanji: 懸ける
+- Kana: かける
+- English: to put up \(a prize or reward\)
+- Notes: text\: 高額懸賞が懸けられた — a high\-value reward was offered
+
+## e0367
+
+- Page: 113
+- Kanji: 名乗り出る
+- Kana: なのりでる
+- English: to come forward\; to identify oneself
+- Notes: text\: 名乗り出る者は一人も現れず — no one came forward
 
 ## e0167
 
@@ -1352,6 +2930,30 @@
 - English: a legend\, a tradition
 - Notes: text\: 幻のゲーム伝説 — the legend of the phantom game
 
+## e0368
+
+- Page: 113
+- Kanji: 現在
+- Kana: げんざい
+- English: the present\; currently
+- Notes: label\: この懸賞は現在も有効 — the reward is still valid
+
+## e0369
+
+- Page: 113
+- Kanji: 有効
+- Kana: ゆうこう
+- English: valid\; in effect
+- Notes: label\: この懸賞は現在も有効 — the reward is still valid
+
+## e0370
+
+- Page: 113
+- Kanji: タタタ
+- Kana: タタタ
+- English: tat\-tat\-tat \(rapid typing\)
+- Notes: effect\: タタタ — rapid keyboard tapping
+
 ## e0170
 
 - Page: 114
@@ -1367,3 +2969,19 @@
 - Kana: しゅうしふをうつ
 - English: to put an end to\, to bring to a close
 - Notes: text\: 伝説に終止符を打ってやる — I’ll put an end to the legend
+
+## e0371
+
+- Page: 114
+- Kanji: 伝説
+- Kana: でんせつ
+- English: a legend\; a celebrated story
+- Notes: text\: 伝説に終止符を打つ — put an end to the legend
+
+## e0372
+
+- Page: 114
+- Kanji: カタカタ
+- Kana: カタカタ
+- English: clatter\; typing sound
+- Notes: effect\: カタカタ — typing across the keyboards
