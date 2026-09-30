@@ -1,5 +1,21 @@
 # Volume 8 · Chapter 4
 
+## e0114
+
+- Page: 63
+- Kanji: 人体収集家
+- Kana: じんたいしゅうしゅうか
+- English: a collector of human bodies
+- Notes: No.067 chapter title
+
+## e0132
+
+- Page: 64
+- Kanji:
+- Kana: じーっ
+- English: to stare intently\, a fixed stare
+- Notes: sfx\: Kurapika watching the visitors
+
 ## e0001
 
 - Page: 64
@@ -15,6 +31,14 @@
 - Kana: もの
 - English: a person
 - Notes: text\: クラピカという者だ — I am one called Kurapika
+
+## e0115
+
+- Page: 65
+- Kanji:
+- Kana: ギィィ
+- English: a creak \(of a door opening\)
+- Notes: sfx\: a door creaking open
 
 ## e0003
 
@@ -32,6 +56,22 @@
 - English: to come\, to go\, to be \(honorific\)
 - Notes: text\: ようこそいらっしゃいました — welcome\, glad you came
 
+## e0116
+
+- Page: 65
+- Kanji:
+- Kana: こちら
+- English: this way\; here
+- Notes: text\: こちらへ — this way
+
+## e0117
+
+- Page: 65
+- Kanji:
+- Kana: どうぞ
+- English: please\; go ahead
+- Notes: text\: こちらへどうぞ — please\, this way
+
 ## e0005
 
 - Page: 65
@@ -40,6 +80,14 @@
 - English: please wait \(polite\)
 - Notes: text\: こちらでお待ち下さい — please wait here
 
+## e0133
+
+- Page: 66
+- Kanji:
+- Kana: カン
+- English: a clink\, a metallic tap
+- Notes: sfx\: a brief metallic sound
+
 ## e0006
 
 - Page: 66
@@ -47,6 +95,22 @@
 - Kana: ごうかく
 - English: passing \(a test or screening\)\, qualifying
 - Notes: text\: 合格ね — you pass\; said as a verdict on an applicant
+
+## e0009
+
+- Page: 67
+- Kanji: 修得する
+- Kana: しゅうとくする
+- English: to master\, to acquire \(a skill\)
+- Notes: text\: わずか半年程で念を修得してくるなんて — to think you mastered Nen in only about half a year
+
+## e0118
+
+- Page: 67
+- Kanji: 覚える
+- Kana: おぼえる
+- English: to remember
+- Notes: text\: 私を覚えているのか — do you remember me\?
 
 ## e0007
 
@@ -64,13 +128,13 @@
 - English: a broker\'s office\, an agency
 - Notes: text\: あなたが思っている以上に仲介所は見つけにくいのよ — the agency is harder to find than you think
 
-## e0009
+## e0119
 
 - Page: 67
-- Kanji: 修得する
-- Kana: しゅうとくする
-- English: to master\, to acquire \(a skill\)
-- Notes: text\: わずか半年程で念を修得してくるなんて — to think you mastered Nen in only about half a year
+- Kanji: 見つけにくい
+- Kana: みつけにくい
+- English: hard to find
+- Notes: text\: 仲介所は見つけにくい — the agency is hard to find
 
 ## e0010
 
@@ -79,6 +143,22 @@
 - Kana: やといぬし
 - English: an employer
 - Notes: text\: どんな雇い主がお望み\? — what kind of employer do you want\?
+
+## e0018
+
+- Page: 67
+- Kanji:
+- Kana: コネクション
+- English: a connection \(personal or business ties\)
+- Notes: text\: ヨークシンで開催されるオークションに強いコネクションを持つ人物がいい — someone with strong connections to the auction held in York Shin would be good
+
+## e0019
+
+- Page: 67
+- Kanji: 問う
+- Kana: とう
+- English: to ask\, to question\; to matter\, to concern
+- Notes: text\: 仕事の内容は問わない — the nature of the job doesn\'t matter\; idiom \~を問わない \= regardless of \~
 
 ## e0011
 
@@ -136,21 +216,61 @@
 - English: to employ\, to hire
 - Notes: text\: あなたを雇うとは思えないけど — I can\'t imagine hiring you\, but
 
-## e0018
+## e0120
 
-- Page: 67
-- Kanji:
-- Kana: コネクション
-- English: a connection \(personal or business ties\)
-- Notes: text\: ヨークシンで開催されるオークションに強いコネクションを持つ人物がいい — someone with strong connections to the auction held in York Shin would be good
+- Page: 68
+- Kanji: 経歴
+- Kana: けいれき
+- English: one's background\, personal history
+- Notes: text\: 経歴問わず — regardless of background
 
-## e0019
+## e0121
 
-- Page: 67
-- Kanji: 問う
-- Kana: とう
-- English: to ask\, to question\; to matter\, to concern
-- Notes: text\: 仕事の内容は問わない — the nature of the job doesn\'t matter\; idiom \~を問わない \= regardless of \~
+- Page: 68
+- Kanji: 面接
+- Kana: めんせつ
+- English: an interview
+- Notes: text\: 面接で判断 — judged in an interview
+
+## e0122
+
+- Page: 68
+- Kanji: 判断
+- Kana: はんだん
+- English: judgment\, a decision
+- Notes: text\: 面接で判断 — judged in an interview
+
+## e0027
+
+- Page: 68
+- Kanji: 身元
+- Kana: みもと
+- English: one\'s identity\, background
+- Notes: text\: 3人とも身元確認済みの依頼よ — all three are requests with identity already confirmed
+
+## e0028
+
+- Page: 68
+- Kanji: 確認済み
+- Kana: かくにんずみ
+- English: already confirmed\, verified
+- Notes: text\: 身元確認済みの依頼よ — requests with identity already confirmed
+
+## e0123
+
+- Page: 68
+- Kanji: 身辺警護
+- Kana: しんぺんけいご
+- English: personal security\, close protection
+- Notes: text\: 身辺警護込み — including personal security
+
+## e0124
+
+- Page: 68
+- Kanji: 選ぶ
+- Kana: えらぶ
+- English: to choose\, to select
+- Notes: text\: 内容を読むから選んでいい — read the details and choose
 
 ## e0020
 
@@ -208,22 +328,6 @@
 - English: commemoration\, memorial
 - Notes: text\: ロード社製記念皿 — a commemorative plate made by Lord Co\.
 
-## e0027
-
-- Page: 68
-- Kanji: 身元
-- Kana: みもと
-- English: one\'s identity\, background
-- Notes: text\: 3人とも身元確認済みの依頼よ — all three are requests with identity already confirmed
-
-## e0028
-
-- Page: 68
-- Kanji: 確認済み
-- Kana: かくにんずみ
-- English: already confirmed\, verified
-- Notes: text\: 身元確認済みの依頼よ — requests with identity already confirmed
-
 ## e0029
 
 - Page: 68
@@ -255,6 +359,14 @@
 - Kana: しょうりゅうず
 - English: a design or artwork of an ascending dragon
 - Notes: text\: 極美品昇龍図 — mint\-condition ascending\-dragon design
+
+## e0125
+
+- Page: 68
+- Kanji: 人体収集家
+- Kana: じんたいしゅうしゅうか
+- English: a collector of human bodies
+- Notes: text\: 人体収集家 — a body collector
 
 ## e0033
 
@@ -312,6 +424,14 @@
 - English: to obtain\, to get
 - Notes: text\: こちらの望むものを手に入れてくれるかどうかだ — whether you can get what we want
 
+## e0042
+
+- Page: 69
+- Kanji: 開催
+- Kana: かいさい
+- English: holding \(an event\)\, opening
+- Notes: text\: オークション開催まであと1か月あるが — there\'s about a month until the auction opens\, but
+
 ## e0040
 
 - Page: 69
@@ -328,13 +448,13 @@
 - English: it doesn\'t matter\, I don\'t mind
 - Notes: text\: どれでも構わないので — since any one is fine
 
-## e0042
+## e0126
 
 - Page: 69
-- Kanji: 開催
-- Kana: かいさい
-- English: holding \(an event\)\, opening
-- Notes: text\: オークション開催まであと1か月あるが — there\'s about a month until the auction opens\, but
+- Kanji: 探す
+- Kana: さがす
+- English: to search for\, to look for
+- Notes: text\: 探して来てくれ — go find one
 
 ## e0043
 
@@ -359,6 +479,14 @@
 - Kana: ていちゃくする
 - English: to fix\, to settle\, to take hold
 - Notes: text\: 死後緋色で定着したもの — ones that settled into scarlet after death
+
+## e0057
+
+- Page: 70
+- Kanji: 頭部
+- Kana: とうぶ
+- English: the head \(of a body\)
+- Notes: text\: 頭部とセットがベスト — best as a set with the head
 
 ## e0046
 
@@ -447,14 +575,6 @@
 - Kana: ホルマリンづけ
 - English: pickled\/preserved in formalin
 - Notes: text\: 死体のホルマリン漬けとかな — like a corpse pickled in formalin
-
-## e0057
-
-- Page: 70
-- Kanji: 頭部
-- Kana: とうぶ
-- English: the head \(of a body\)
-- Notes: text\: 頭部とセットがベスト — best as a set with the head
 
 ## e0058
 
@@ -632,13 +752,13 @@
 - English: an understanding person\, a sympathizer
 - Notes: text\: 自慢できる理解者 — an understanding confidant
 
-## e0080
+## e0127
 
 - Page: 72
-- Kanji: 一網打尽
-- Kana: いちもうだじん
-- English: catching everything in one sweep\, rounding up all at once
-- Notes: text\: 必ず手に入れて一網打尽にしてやる — I will get it and round them all up in one sweep\!\!\; yojijukugo idiom
+- Kanji: 人体収集家
+- Kana: じんたいしゅうしゅうか
+- English: a collector of human bodies
+- Notes: text\: 人体収集家同士 — among body collectors
 
 ## e0081
 
@@ -672,6 +792,22 @@
 - English: a record of one\'s friendships or associates
 - Notes: text\: 下衆共の交友録 — a registry of friendship among vile people
 
+## e0080
+
+- Page: 72
+- Kanji: 一網打尽
+- Kana: いちもうだじん
+- English: catching everything in one sweep\, rounding up all at once
+- Notes: text\: 必ず手に入れて一網打尽にしてやる — I will get it and round them all up in one sweep\!\!\; yojijukugo idiom
+
+## e0128
+
+- Page: 73
+- Kanji:
+- Kana: ガシャ
+- English: a clatter\, a clank
+- Notes: sfx\: a clatter
+
 ## e0085
 
 - Page: 73
@@ -688,14 +824,6 @@
 - English: to forget to mention\, to forget to tell
 - Notes: text\: 伝え忘れたが — I forgot to mention\, but
 
-## e0087
-
-- Page: 73
-- Kanji: 無事
-- Kana: ぶじ
-- English: safely\, without incident
-- Notes: text\: その館から無事出られる位が「最低」な — the bare minimum being to get out of that mansion safely
-
 ## e0088
 
 - Page: 73
@@ -711,6 +839,38 @@
 - Kana: さいていじょうけん
 - English: the minimum requirement\, the bare minimum condition
 - Notes: text\: 雇用の最低条件だ — the minimum condition for employment
+
+## e0129
+
+- Page: 73
+- Kanji: 館
+- Kana: やかた
+- English: a mansion\, a stately residence
+- Notes: text\: その館から — from that mansion
+
+## e0087
+
+- Page: 73
+- Kanji: 無事
+- Kana: ぶじ
+- English: safely\, without incident
+- Notes: text\: その館から無事出られる位が「最低」な — the bare minimum being to get out of that mansion safely
+
+## e0130
+
+- Page: 75
+- Kanji:
+- Kana: ザッ
+- English: a quick step\, a sudden swish
+- Notes: sfx\: sudden movement
+
+## e0131
+
+- Page: 75
+- Kanji:
+- Kana: バシッ
+- English: a sharp smack\, a crack
+- Notes: sfx\: a sharp strike
 
 ## e0090
 
