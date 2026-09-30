@@ -1,5 +1,13 @@
 # Volume 8 · Chapter 3
 
+## e0088
+
+- Page: 43
+- Kanji:
+- Kana: テープ
+- English: tape
+- Notes: No.066 chapter title
+
 ## e0001
 
 - Page: 44
@@ -56,6 +64,14 @@
 - English: yes
 - Notes: text\: ”イエス”ってことか — so that means \"yes\"\?\; katakana loanword
 
+## e0011
+
+- Page: 45
+- Kanji: 覚悟
+- Kana: かくご
+- English: resolve\, mental preparedness \(for something hard\)
+- Notes: text\: 覚悟はあるか\? — are you prepared\?
+
 ## e0008
 
 - Page: 45
@@ -80,14 +96,6 @@
 - English: to discard\, to throw away
 - Notes: text\: 他のものを捨てていく — throws away everything else
 
-## e0011
-
-- Page: 45
-- Kanji: 覚悟
-- Kana: かくご
-- English: resolve\, mental preparedness \(for something hard\)
-- Notes: text\: 覚悟はあるか\? — are you prepared\?
-
 ## e0012
 
 - Page: 45
@@ -95,6 +103,14 @@
 - Kana: ていど
 - English: degree\, extent
 - Notes: text\: 会いたいって程度の気持ちなら — if it\'s just that degree of wanting to meet
+
+## e0089
+
+- Page: 45
+- Kanji:
+- Kana: テープ
+- English: tape
+- Notes: mentioned in the message
 
 ## e0013
 
@@ -176,6 +192,14 @@
 - English: absolutely\, without exception
 - Notes: text\: だがその間絶対に変わらないものがある — but there\'s one thing that absolutely won\'t change
 
+## e0090
+
+- Page: 48
+- Kanji: 見る
+- Kana: みる
+- English: to see or watch
+- Notes: handwritten note reads みていてくれ
+
 ## e0023
 
 - Page: 52
@@ -183,6 +207,14 @@
 - Kana: げんざい
 - English: currently\, right now
 - Notes: text\: お前が聞いている現在も何処かでバカやってる — even now as you\'re listening to this\, I\'m off being an idiot somewhere
+
+## e0091
+
+- Page: 52
+- Kanji: 馬鹿をやる
+- Kana: ばかをやる
+- English: to act foolishly
+- Notes: casual text form バカやってる
 
 ## e0024
 
@@ -216,6 +248,14 @@
 - English: to catch\, to capture
 - Notes: text\: 捕まえてみろよ — try and catch me
 
+## e0092
+
+- Page: 53
+- Kanji: 親父
+- Kana: おやじ
+- English: father or dad
+- Notes: Gon asks about his father
+
 ## e0028
 
 - Page: 53
@@ -240,6 +280,14 @@
 - English: mother
 - Notes: text\: お前の母親についてた — it was about your mother
 
+## e0032
+
+- Page: 54
+- Kanji: 知る
+- Kana: しる
+- English: to know\, to find out
+- Notes: text\: 知りたければこのまま聞いてくれ — if you want to know\, keep listening
+
 ## e0031
 
 - Page: 54
@@ -248,13 +296,21 @@
 - English: not particularly \(usu\. with negative nuance\)
 - Notes: text\: 別にいいなら — if it\'s fine either way
 
-## e0032
+## e0093
 
 - Page: 54
-- Kanji: 知る
-- Kana: しる
-- English: to know\, to find out
-- Notes: text\: 知りたければこのまま聞いてくれ — if you want to know\, keep listening
+- Kanji:
+- Kana: カチッ
+- English: a small click
+- Notes: sound effect as Gon presses the stop button
+
+## e0035
+
+- Page: 55
+- Kanji: 手がかり
+- Kana: てがかり
+- English: a clue\, a lead
+- Notes: text\: もしかしたら何か手がかりがあるかも知れないぜ — there might possibly be some kind of clue
 
 ## e0033
 
@@ -272,13 +328,45 @@
 - English: intuition\, a hunch
 - Notes: text\: 勘だけど — just a hunch\, but\.\.\.
 
-## e0035
+## e0094
 
 - Page: 55
-- Kanji: 手がかり
-- Kana: てがかり
-- English: a clue\, a lead
-- Notes: text\: もしかしたら何か手がかりがあるかも知れないぜ — there might possibly be some kind of clue
+- Kanji: 母親
+- Kana: ははおや
+- English: mother
+- Notes: Gon says Mito is his mother
+
+## e0095
+
+- Page: 55
+- Kanji: 食べる
+- Kana: たべる
+- English: to eat
+- Notes: Gon calls Killua to eat
+
+## e0096
+
+- Page: 55
+- Kanji:
+- Kana: キュルキュル
+- English: a winding or whirring sound
+- Notes: sound effect from the tape deck
+
+## e0097
+
+- Page: 56
+- Kanji: 止める
+- Kana: とめる
+- English: to stop
+- Notes: Gon says the stopped tape started moving
+
+## e0098
+
+- Page: 56
+- Kanji:
+- Kana: テープ
+- English: tape
+- Notes: the tape starts moving on its own
 
 ## e0036
 
@@ -304,6 +392,14 @@
 - English: aura
 - Notes: text\: デッキにオーラが\!\? — an aura on the deck\!\?
 
+## e0099
+
+- Page: 56
+- Kanji: 念
+- Kana: ねん
+- English: Nen the life energy used by Hunters
+- Notes: Gon realizes the deck has Nen
+
 ## e0039
 
 - Page: 56
@@ -311,6 +407,22 @@
 - Kana: まきもどす
 - English: to rewind
 - Notes: text\: 念でテープを巻き戻してる\!\! — he\'s rewinding the tape with Nen\!\!
+
+## e0100
+
+- Page: 56
+- Kanji:
+- Kana: キュルル
+- English: a winding or whirring sound
+- Notes: sound effect as the tape rewinds
+
+## e0101
+
+- Page: 57
+- Kanji: 現在
+- Kana: げんざい
+- English: currently or right now
+- Notes: Killua wonders if Ging is doing this now
 
 ## e0040
 
@@ -320,6 +432,46 @@
 - English: to imbue with Nen\, to put one\'s spirit into
 - Notes: text\: 念をこめたんだよ10年以上前に\! — I imbued it with Nen more than 10 years ago\!
 
+## e0102
+
+- Page: 57
+- Kanji: 停止ボタン
+- Kana: ていしぼたん
+- English: stop button
+- Notes: Ging explains how the button triggers rewind
+
+## e0103
+
+- Page: 57
+- Kanji: 押す
+- Kana: おす
+- English: to press or push
+- Notes: Ging explains pressing the stop button
+
+## e0104
+
+- Page: 57
+- Kanji: 巻き戻す
+- Kana: まきもどす
+- English: to rewind
+- Notes: Ging explains the tape was set to rewind
+
+## e0105
+
+- Page: 57
+- Kanji:
+- Kana: カチッ
+- English: a small click
+- Notes: sound effect as the button is pressed
+
+## e0106
+
+- Page: 57
+- Kanji:
+- Kana: ジー
+- English: a steady whine or hum
+- Notes: sound effect as the deck runs
+
 ## e0041
 
 - Page: 57
@@ -328,6 +480,22 @@
 - English: audio recording
 - Notes: text\: 今度は録音…\! — this time it\'s recording\.\.\.\!
 
+## e0107
+
+- Page: 57
+- Kanji: 消す
+- Kana: けす
+- English: to erase or delete
+- Notes: Killua realizes Ging intends to erase his voice
+
+## e0108
+
+- Page: 57
+- Kanji: 音声
+- Kana: おんせい
+- English: voice recording or audio
+- Notes: Ging wants to erase his own voice
+
 ## e0042
 
 - Page: 57
@@ -335,14 +503,6 @@
 - Kana: とめる
 - English: to stop
 - Notes: text\: ダメだ止められない\! — no good\, I can\'t stop it\!
-
-## e0043
-
-- Page: 58
-- Kanji: 悪いな
-- Kana: わるいな
-- English: sorry\, my bad
-- Notes: text\: 悪いなゴン\! — sorry\, Gon\!
 
 ## e0044
 
@@ -360,6 +520,14 @@
 - English: to pull out\, to unplug
 - Notes: text\: コードも抜いたのに — even though I pulled the cord out
 
+## e0043
+
+- Page: 58
+- Kanji: 悪いな
+- Kana: わるいな
+- English: sorry\, my bad
+- Notes: text\: 悪いなゴン\! — sorry\, Gon\!
+
 ## e0046
 
 - Page: 58
@@ -376,6 +544,22 @@
 - English: damn it\, crap
 - Notes: text\: くそっ — interjection of frustration
 
+## e0109
+
+- Page: 59
+- Kanji:
+- Kana: ガガガ
+- English: a grinding rattling sound
+- Notes: sound effect as the deck keeps running
+
+## e0110
+
+- Page: 59
+- Kanji: 念
+- Kana: ねん
+- English: Nen the life energy used by Hunters
+- Notes: Killua says Nen is guarding the deck
+
 ## e0048
 
 - Page: 59
@@ -383,6 +567,22 @@
 - Kana: がーどする
 - English: to guard\, to protect
 - Notes: text\: 念でガードしてやがる — he\'s guarding it with Nen\, damn it
+
+## e0111
+
+- Page: 59
+- Kanji:
+- Kana: ジー
+- English: a steady whine or hum
+- Notes: sound effect from the running deck
+
+## e0112
+
+- Page: 59
+- Kanji: 録音
+- Kana: ろくおん
+- English: audio recording
+- Notes: the tape switches back to recording
 
 ## e0049
 
@@ -392,6 +592,54 @@
 - English: to erase\, to delete
 - Notes: text\: 消す気だ\!自分の音声を\! — he intends to erase it\! his own voice\!
 
+## e0113
+
+- Page: 59
+- Kanji: 音声
+- Kana: おんせい
+- English: voice recording or audio
+- Notes: Killua refers again to Ging erasing his voice
+
+## e0114
+
+- Page: 59
+- Kanji:
+- Kana: カチッ
+- English: a small click
+- Notes: sound effect as Gon presses the button
+
+## e0115
+
+- Page: 60
+- Kanji:
+- Kana: ダビング
+- English: copying or dubbing a recording
+- Notes: the dubbing tape is also damaged
+
+## e0116
+
+- Page: 60
+- Kanji:
+- Kana: テープ
+- English: tape
+- Notes: the dubbing tape is also damaged
+
+## e0117
+
+- Page: 60
+- Kanji: 必要
+- Kana: ひつよう
+- English: necessary or needed
+- Notes: Killua wonders why this was necessary
+
+## e0118
+
+- Page: 60
+- Kanji: 手がかり
+- Kana: てがかり
+- English: a clue or lead
+- Notes: Killua says Ging did not want to leave clues
+
 ## e0050
 
 - Page: 60
@@ -399,6 +647,14 @@
 - Kana: のこす
 - English: to leave behind
 - Notes: text\: 手がかりを残したくなかったってことだろうな — I guess he didn\'t want to leave any clues behind
+
+## e0119
+
+- Page: 60
+- Kanji: 音声
+- Kana: おんせい
+- English: voice recording or audio
+- Notes: Killua describes what can be learned from a voice
 
 ## e0051
 
@@ -408,6 +664,14 @@
 - English: considerable\, a fair amount
 - Notes: text\: 音声からだけでも相当のデータが得られるからな — you can get a considerable amount of data from just the voice
 
+## e0120
+
+- Page: 60
+- Kanji:
+- Kana: データ
+- English: data
+- Notes: a considerable amount can be obtained from the voice
+
 ## e0052
 
 - Page: 60
@@ -415,30 +679,6 @@
 - Kana: える
 - English: to obtain\, to gain
 - Notes: text\: 相当のデータが得られるからな — you can gain a considerable amount of data
-
-## e0053
-
-- Page: 60
-- Kanji: 背景
-- Kana: はいけい
-- English: background
-- Notes: text\: 背景の雑音から録音した場所が特定できることも多い — often the recording location can be identified from background noise
-
-## e0054
-
-- Page: 60
-- Kanji: 雑音
-- Kana: ざつおん
-- English: noise\, static
-- Notes: text\: 背景の雑音から録音した場所が特定できることも多い — from background noise
-
-## e0055
-
-- Page: 60
-- Kanji: 特定する
-- Kana: とくていする
-- English: to identify\, to pinpoint
-- Notes: text\: 録音した場所が特定できることも多い — the recording location can often be identified
 
 ## e0056
 
@@ -504,6 +744,38 @@
 - English: to read off\, to discern
 - Notes: text\: 心理状態だって読みとれる — even psychological state can be discerned
 
+## e0053
+
+- Page: 60
+- Kanji: 背景
+- Kana: はいけい
+- English: background
+- Notes: text\: 背景の雑音から録音した場所が特定できることも多い — often the recording location can be identified from background noise
+
+## e0054
+
+- Page: 60
+- Kanji: 雑音
+- Kana: ざつおん
+- English: noise\, static
+- Notes: text\: 背景の雑音から録音した場所が特定できることも多い — from background noise
+
+## e0121
+
+- Page: 60
+- Kanji: 録音
+- Kana: ろくおん
+- English: audio recording
+- Notes: background noise can identify where it was recorded
+
+## e0055
+
+- Page: 60
+- Kanji: 特定する
+- Kana: とくていする
+- English: to identify\, to pinpoint
+- Notes: text\: 録音した場所が特定できることも多い — the recording location can often be identified
+
 ## e0064
 
 - Page: 60
@@ -511,6 +783,14 @@
 - Kana: けいかいする
 - English: to be wary of\, to be on guard
 - Notes: text\: でももっと警戒したのは別のことだぜ — but what I was more wary of was something else
+
+## e0122
+
+- Page: 60
+- Kanji: 機械
+- Kana: きかい
+- English: machine
+- Notes: Nen analysis can surpass a machine
 
 ## e0065
 
@@ -552,6 +832,14 @@
 - English: owner\, possessor
 - Notes: text\: 念能力の持ち主がいても — even if there\'s an owner of such a Nen ability
 
+## e0123
+
+- Page: 60
+- Kanji: 聞く
+- Kana: きく
+- English: to hear or listen
+- Notes: Killua gives an example of an ability that reads a voice
+
 ## e0070
 
 - Page: 60
@@ -559,6 +847,14 @@
 - Kana: てごわい
 - English: formidable\, tough \(as an opponent\)
 - Notes: text\: 手強いな — he\'s a tough one
+
+## e0073
+
+- Page: 61
+- Kanji: 指輪
+- Kana: ゆびわ
+- English: a ring
+- Notes: text\: 指輪はともかく — leaving the ring aside
 
 ## e0071
 
@@ -576,13 +872,13 @@
 - English: dedicated\, exclusive\-use
 - Notes: text\: これ専用のハードがあるのかな — maybe there\'s dedicated hardware for this
 
-## e0073
+## e0124
 
 - Page: 61
-- Kanji: 指輪
-- Kana: ゆびわ
-- English: a ring
-- Notes: text\: 指輪はともかく — leaving the ring aside
+- Kanji:
+- Kana: ハード
+- English: hardware
+- Notes: Gon wonders whether dedicated hardware exists
 
 ## e0074
 
@@ -607,6 +903,14 @@
 - Kana: げーむき
 - English: game console
 - Notes: text\: これゲーム機専用のROMカードだよ — this is a ROM cartridge exclusive to a game console
+
+## e0125
+
+- Page: 61
+- Kanji:
+- Kana: ジョイステーション
+- English: Joystation a game console
+- Notes: the full name is clarified after the abbreviation ジョイステ
 
 ## e0077
 

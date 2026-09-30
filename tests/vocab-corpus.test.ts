@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 73);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    13871,
+    13909,
   );
   const volume7Chapter6 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 7 && chapter.chapter === 6,
@@ -36,7 +36,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   );
 });
 
-test("Volume 8 Chapters 1 and 2 keep story and insert boundaries separate", () => {
+test("Volume 8 story chapters and travelogue inserts stay separate", () => {
   const result = loadCorpus();
   assert.deepEqual(result.diagnostics, []);
   const chapter1 = result.corpus.chapters.find(
@@ -45,10 +45,15 @@ test("Volume 8 Chapters 1 and 2 keep story and insert boundaries separate", () =
   const chapter2 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 8 && chapter.chapter === 2,
   );
+  const chapter3 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 8 && chapter.chapter === 3,
+  );
   assert.ok(chapter1, "Volume 8 Chapter 1 exists");
   assert.ok(chapter2, "Volume 8 Chapter 2 exists");
+  assert.ok(chapter3, "Volume 8 Chapter 3 exists");
   assert.equal(chapter1.entries.length, 173);
   assert.equal(chapter2.entries.length, 179);
+  assert.equal(chapter3.entries.length, 125);
 
   const chapter1StoryEntries = chapter1.entries.filter(
     (entry) => entry.page >= 7 && entry.page <= 21,
@@ -69,6 +74,41 @@ test("Volume 8 Chapters 1 and 2 keep story and insert boundaries separate", () =
     chapter2TravelogueEntries.map((entry) => entry.id),
     Array.from({ length: 25 }, (_, index) => `e${String(index + 72).padStart(4, "0")}`),
   );
+  const chapter3StoryEntries = chapter3.entries.filter(
+    (entry) => entry.page >= 43 && entry.page <= 61,
+  );
+  const chapter3TravelogueEntries = chapter3.entries.filter((entry) => entry.page === 62);
+  assert.equal(chapter3StoryEntries.length, 114);
+  assert.equal(chapter3TravelogueEntries.length, 11);
+  assert.ok(chapter3.entries.every((entry) => entry.page >= 43 && entry.page <= 62));
+  assert.deepEqual(
+    chapter3TravelogueEntries.map((entry) => entry.id),
+    Array.from({ length: 11 }, (_, index) => `e${String(index + 77).padStart(4, "0")}`),
+  );
+  assert.deepEqual(
+    chapter3.entries.filter((entry) => entry.kana === "テープ").map((entry) => entry.page),
+    [43, 45, 56, 60],
+  );
+  assert.deepEqual(
+    chapter3.entries.filter((entry) => entry.kanji === "母親").map((entry) => entry.page),
+    [54, 55],
+  );
+  const originalChapter3Ids = new Set(
+    Array.from({ length: 87 }, (_, index) => `e${String(index + 1).padStart(4, "0")}`),
+  );
+  assert.deepEqual(
+    chapter3.entries
+      .filter((entry) => originalChapter3Ids.has(entry.id))
+      .map((entry) => entry.id)
+      .sort(),
+    [...originalChapter3Ids].sort(),
+  );
+  for (let index = 1; index < chapter3.entries.length; index += 1) {
+    assert.ok(
+      chapter3.entries[index - 1].page <= chapter3.entries[index].page,
+      "Volume 8 Chapter 3 entries stay in ascending page order",
+    );
+  }
   const originalChapter2Ids = new Set(
     Array.from({ length: 71 }, (_, index) => `e${String(index + 1).padStart(4, "0")}`),
   );
