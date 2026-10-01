@@ -24,6 +24,14 @@
 - English: an auction
 - Notes: chapter title\: オークションへ — to the auction
 
+## e0164
+
+- Page: 116
+- Kanji:
+- Kana: ハンター
+- English: a Hunter
+- Notes: text\: ハンター専用サイト
+
 ## e0004
 
 - Page: 116
@@ -31,6 +39,14 @@
 - Kana: せんよう
 - English: exclusive\, special\-purpose\, dedicated
 - Notes: text\: ハンター専用サイト — a site exclusively for Hunters
+
+## e0165
+
+- Page: 116
+- Kanji:
+- Kana: サイト
+- English: a site\; a website
+- Notes: text\: ハンター専用サイト
 
 ## e0005
 
@@ -48,6 +64,22 @@
 - English: a tavern\, a bar
 - Notes: text\: 狩人の酒場 — hunters\' tavern
 
+## e0166
+
+- Page: 116
+- Kanji:
+- Kana: ナンバー
+- English: a number\; a serial number
+- Notes: label\: 証ナンバー
+
+## e0167
+
+- Page: 116
+- Kanji: 入力
+- Kana: にゅうりょく
+- English: input\; data entry
+- Notes: label\: 証ナンバー入力
+
 ## e0007
 
 - Page: 116
@@ -64,6 +96,46 @@
 - English: proof\, certification\, a license
 - Notes: text\: ハンター証を差し込んで下さい — please insert your Hunter license
 
+## e0168
+
+- Page: 117
+- Kanji: 色々
+- Kana: いろいろ
+- English: various\; all sorts of
+- Notes: text\: いろいろ
+
+## e0169
+
+- Page: 117
+- Kanji:
+- Kana: カーソル
+- English: a cursor
+- Notes: text\: カーソルを合わせて
+
+## e0170
+
+- Page: 117
+- Kanji: 合わせる
+- Kana: あわせる
+- English: to align\; to position
+- Notes: text\: カーソルを合わせて
+
+## e0171
+
+- Page: 117
+- Kanji: こいつ
+- Kana: こいつ
+- English: this one\; this fellow \(casual\)
+- Notes: text\: こいつだ
+
+## e0172
+
+- Page: 117
+- Kanji:
+- Kana: バーテンダー
+- English: a bartender
+- Notes: text\: 右のバーテンダー
+
 ## e0009
 
 - Page: 117
@@ -71,6 +143,14 @@
 - Kana: じょうほうや
 - English: an information broker
 - Notes: text\: 右のカウンターが情報屋だぜ — the counter on the right is the information broker
+
+## e0173
+
+- Page: 117
+- Kanji: 望み
+- Kana: のぞみ
+- English: a wish\; what someone wants
+- Notes: text\: どんな情報がお望みだ
 
 ## e0010
 
@@ -80,6 +160,14 @@
 - English: information\, news
 - Notes: text\: どんな情報がのぞみだ\? — what kind of information do you want\?
 
+## e0174
+
+- Page: 117
+- Kanji:
+- Kana: カチ
+- English: a click\; a clicking sound
+- Notes: sound effect\: mouse click
+
 ## e0011
 
 - Page: 117
@@ -87,6 +175,14 @@
 - Kana: こうもく
 - English: an item\, an entry\, a menu category
 - Notes: text\: ゲームの項目を — the game entry\/menu item
+
+## e0175
+
+- Page: 117
+- Kanji:
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: グリードアイランド
 
 ## e0012
 
@@ -103,6 +199,14 @@
 - Kana: りょう
 - English: quantity\, amount\, volume
 - Notes: text\: すごい量だな — that\'s a huge amount
+
+## e0176
+
+- Page: 118
+- Kanji:
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: グリードアイランドが2000万
 
 ## e0014
 
@@ -144,6 +248,22 @@
 - English: to tell\, to teach
 - Notes: text\: タダじゃ教えてくれねーな — they won\'t tell us for free
 
+## e0177
+
+- Page: 118
+- Kanji: 額
+- Kana: がく
+- English: an amount of money\; a sum
+- Notes: text\: この額なら
+
+## e0178
+
+- Page: 118
+- Kanji: 仕方ない
+- Kana: しかたない
+- English: it cannot be helped
+- Notes: text\: しかたねーか
+
 ## e0019
 
 - Page: 118
@@ -160,6 +280,14 @@
 - English: to become numb\, to be paralyzed
 - Notes: text\: 金銭感覚マヒしてくるな — my sense of money is getting numb
 
+## e0179
+
+- Page: 118
+- Kanji:
+- Kana: カシャ
+- English: a click\; a clack
+- Notes: sound effect\: plugging in the cable
+
 ## e0021
 
 - Page: 118
@@ -167,6 +295,14 @@
 - Kana: きく
 - English: to listen\, to hear\; to ask
 - Notes: text\: それじゃよく聞きな — then listen carefully
+
+## e0180
+
+- Page: 119
+- Kanji:
+- Kana: ゲーム
+- English: a game
+- Notes: text\: 作ったゲーム
 
 ## e0022
 
@@ -208,6 +344,38 @@
 - English: a purpose\, an objective
 - Notes: text\: 制作者の真の目的は不明 — the creators\' true purpose is unknown
 
+## e0181
+
+- Page: 119
+- Kanji: 複数
+- Kana: ふくすう
+- English: several\; multiple
+- Notes: text\: どうも複数らしい
+
+## e0182
+
+- Page: 119
+- Kanji: 本
+- Kana: ほん
+- English: counter for long\, cylindrical objects
+- Notes: text\: 100本のゲームソフト
+
+## e0183
+
+- Page: 119
+- Kanji:
+- Kana: ゲームソフト
+- English: game software\; a game disc
+- Notes: text\: 100本のゲームソフト
+
+## e0184
+
+- Page: 119
+- Kanji: 全て
+- Kana: すべて
+- English: all\; everything
+- Notes: text\: 全てに念を込めた
+
 ## e0027
 
 - Page: 119
@@ -215,6 +383,14 @@
 - Kana: こめる
 - English: to put into\, to pour into\; to imbue
 - Notes: text\: 100本のゲームソフト全てに念を込めた — they imbued all one hundred game discs with Nen
+
+## e0185
+
+- Page: 119
+- Kanji:
+- Kana: スタートする
+- English: to start\; to begin
+- Notes: text\: ゲームをスタートすると
 
 ## e0028
 
@@ -256,6 +432,14 @@
 - English: to live\, to be alive
 - Notes: text\: プレイヤーがゲームの中で生きている限り — as long as the player is alive in the game
 
+## e0186
+
+- Page: 119
+- Kanji:
+- Kana: コンセント
+- English: an electrical outlet\; a power socket
+- Notes: text\: コンセントを抜いても
+
 ## e0033
 
 - Page: 119
@@ -272,6 +456,46 @@
 - English: to keep moving\, to continue operating
 - Notes: text\: ゲーム機は動き続ける — the game console keeps operating
 
+## e0187
+
+- Page: 119
+- Kanji: 匿名
+- Kana: とくめい
+- English: anonymous\; unnamed
+- Notes: text\: 匿名を条件に
+
+## e0188
+
+- Page: 119
+- Kanji: 条件
+- Kana: じょうけん
+- English: a condition\; a term
+- Notes: text\: 匿名を条件に
+
+## e0189
+
+- Page: 119
+- Kanji: 所有者
+- Kana: しょゆうしゃ
+- English: an owner\; a proprietor
+- Notes: text\: 所有者の一人
+
+## e0190
+
+- Page: 119
+- Kanji: 証言する
+- Kana: しょうげんする
+- English: to testify\; to give a statement
+- Notes: text\: 所有者の一人が証言してくれた
+
+## e0191
+
+- Page: 119
+- Kanji:
+- Kana: プレイする
+- English: to play \(a game\)
+- Notes: text\: プレイできない
+
 ## e0035
 
 - Page: 119
@@ -287,6 +511,46 @@
 - Kana: めい
 - English: counter for people \(formal\)
 - Notes: text\: 50名のハンター — fifty Hunters
+
+## e0192
+
+- Page: 119
+- Kanji:
+- Kana: ハンター
+- English: a Hunter
+- Notes: text\: 50名のハンター
+
+## e0193
+
+- Page: 119
+- Kanji: そのうち
+- Kana: そのうち
+- English: among them\; of those
+- Notes: text\: そのうち3名
+
+## e0194
+
+- Page: 119
+- Kanji:
+- Kana: ライセンス
+- English: a license
+- Notes: text\: ライセンスを持つ
+
+## e0195
+
+- Page: 119
+- Kanji: 持つ
+- Kana: もつ
+- English: to have\; to hold
+- Notes: text\: ライセンスを持つ
+
+## e0196
+
+- Page: 119
+- Kanji:
+- Kana: プロ
+- English: a professional\; a pro
+- Notes: text\: プロだった
 
 ## e0037
 
@@ -320,6 +584,14 @@
 - English: a save point
 - Notes: text\: セーブポイントさえ見つかれば戻れるらしいが — supposedly one can return if they find even a save point
 
+## e0197
+
+- Page: 119
+- Kanji: 見つかる
+- Kana: みつかる
+- English: to be found\; to turn up
+- Notes: text\: セーブポイントさえ見つかれば
+
 ## e0041
 
 - Page: 119
@@ -327,6 +599,14 @@
 - Kana: もどる
 - English: to return\, to go back
 - Notes: text\: セーブポイントさえ見つかれば戻れるらしい — supposedly one can return from a save point
+
+## e0198
+
+- Page: 119
+- Kanji: 誰一人
+- Kana: だれひとり
+- English: not a single person
+- Notes: text\: 誰一人還ってきた者はいない
 
 ## e0042
 
@@ -344,6 +624,38 @@
 - English: to stop\, to come to a halt
 - Notes: text\: 死ねば止まる — if \[the player\] dies\, it stops
 
+## e0045
+
+- Page: 120
+- Kanji: 本当
+- Kana: ほんとう
+- English: truth\, reality\; real
+- Notes: text\: 本当か — is that true\?
+
+## e0199
+
+- Page: 120
+- Kanji:
+- Kana: サイト
+- English: a site\; a website
+- Notes: text\: ハンターサイトの情報
+
+## e0200
+
+- Page: 120
+- Kanji: 情報
+- Kana: じょうほう
+- English: information\; news
+- Notes: text\: サイトの情報だぜ
+
+## e0201
+
+- Page: 120
+- Kanji: まず
+- Kana: まず
+- English: first\; first of all
+- Notes: text\: まず間違いない
+
 ## e0044
 
 - Page: 120
@@ -352,13 +664,13 @@
 - English: certain\, without a doubt
 - Notes: text\: まず間違いない — there is no doubt about it
 
-## e0045
+## e0202
 
-- Page: 120
-- Kanji: 本当
-- Kana: ほんとう
-- English: truth\, reality\; real
-- Notes: text\: 本当か — is that true\?
+- Page: 121
+- Kanji:
+- Kana: オークション
+- English: an auction
+- Notes: text\: 開催されるオークション
 
 ## e0046
 
@@ -375,6 +687,22 @@
 - Kana: げんざい
 - English: currently\, at present\; the present
 - Notes: text\: 8月14日現在までに — as of August 14
+
+## e0203
+
+- Page: 121
+- Kanji: 本
+- Kana: ほん
+- English: counter for long\, cylindrical objects
+- Notes: text\: 7本のグリードアイランド
+
+## e0204
+
+- Page: 121
+- Kanji:
+- Kana: グリードアイランド
+- English: Greed Island\, the game title
+- Notes: text\: 7本のグリードアイランド
 
 ## e0048
 
@@ -400,6 +728,14 @@
 - English: an application\, a request
 - Notes: text\: 競売申請登録 — auction application registration
 
+## e0205
+
+- Page: 121
+- Kanji: 模様
+- Kana: もよう
+- English: appearance\; indication \(that something is so\)
+- Notes: text\: 登録されている模様
+
 ## e0051
 
 - Page: 121
@@ -408,6 +744,22 @@
 - English: the minimum winning bid\, reserve price
 - Notes: text\: 最低落札価格 89億ジェニー — minimum winning bid\: 8\.9 billion Jenny
 
+## e0206
+
+- Page: 121
+- Kanji:
+- Kana: ジェニー
+- English: Jenny\, the currency
+- Notes: text\: 89億ジェニー
+
+## e0207
+
+- Page: 121
+- Kanji: 上がる
+- Kana: あがる
+- English: to rise\; to go up \(in price\)
+- Notes: text\: やっぱ上がってんよ
+
 ## e0052
 
 - Page: 121
@@ -415,6 +767,14 @@
 - Kana: さんかする
 - English: to participate\, to take part
 - Notes: text\: オレ達も参加できるのかな\? — I wonder if we can participate too
+
+## e0208
+
+- Page: 121
+- Kanji: 買う
+- Kana: かう
+- English: to buy\; to purchase
+- Notes: text\: 買う方じゃなく
 
 ## e0053
 
@@ -464,6 +824,14 @@
 - English: to go well\, to work out
 - Notes: text\: うまくいけば — if it works out
 
+## e0209
+
+- Page: 121
+- Kanji: 入り込む
+- Kana: はいりこむ
+- English: to enter\; to get into
+- Notes: text\: 入りこむ余地
+
 ## e0059
 
 - Page: 121
@@ -512,6 +880,14 @@
 - English: degree of difficulty
 - Notes: text\: 総合入手難易度G（易しい） — overall acquisition difficulty\: G \(easy\)
 
+## e0210
+
+- Page: 122
+- Kanji:
+- Kana: ゲーム
+- English: a game
+- Notes: text\: 幻のゲーム
+
 ## e0065
 
 - Page: 122
@@ -544,6 +920,22 @@
 - English: to show up\, to appear
 - Notes: text\: 公の競売にも姿を見せ始めた — it has begun appearing in public auctions
 
+## e0211
+
+- Page: 122
+- Kanji: 探す
+- Kana: さがす
+- English: to search for\; to look for
+- Notes: text\: 「探す」意味での難易度
+
+## e0212
+
+- Page: 122
+- Kanji: 金額面
+- Kana: きんがくめん
+- English: in terms of the amount of money
+- Notes: text\: 金額面を考慮
+
 ## e0069
 
 - Page: 122
@@ -551,6 +943,14 @@
 - Kana: こうりょする
 - English: to take into consideration\, to account for
 - Notes: text\: 金額面を考慮に入れ — taking the price aspect into consideration
+
+## e0213
+
+- Page: 122
+- Kanji: 易しい
+- Kana: やさしい
+- English: easy\; simple
+- Notes: text\: 最も易しい
 
 ## e0070
 
@@ -560,6 +960,14 @@
 - English: to exist\, to be extant
 - Notes: text\: 現存するプロハンター — professional Hunters currently in existence
 
+## e0214
+
+- Page: 122
+- Kanji:
+- Kana: ソフト
+- English: software\; a game disc
+- Notes: text\: 100本というソフト数
+
 ## e0071
 
 - Page: 122
@@ -568,6 +976,30 @@
 - English: a valuable\, a precious item
 - Notes: text\: 100本というソフト数は貴重品というには多すぎる — one hundred copies is too many to call them precious items
 
+## e0215
+
+- Page: 122
+- Kanji: 多すぎる
+- Kana: おおすぎる
+- English: too many\; too much
+- Notes: text\: 貴重品というには多すぎる
+
+## e0216
+
+- Page: 122
+- Kanji:
+- Kana: ハンター
+- English: a Hunter
+- Notes: text\: プロハンター
+
+## e0217
+
+- Page: 122
+- Kanji: 約
+- Kana: やく
+- English: approximately\; about
+- Notes: text\: 約6人に一人
+
 ## e0072
 
 - Page: 122
@@ -575,6 +1007,30 @@
 - Kana: しょゆうする
 - English: to own\, to possess
 - Notes: text\: プロハンターの約6人に一人が所有できる — about one in six professional Hunters could own one
+
+## e0218
+
+- Page: 122
+- Kanji: 計算
+- Kana: けいさん
+- English: a calculation\; a reckoning
+- Notes: text\: 所持できる計算
+
+## e0219
+
+- Page: 122
+- Kanji: 程度
+- Kana: ていど
+- English: degree\; extent
+- Notes: text\: この程度の品
+
+## e0220
+
+- Page: 122
+- Kanji: 品
+- Kana: しな
+- English: an item\; an article
+- Notes: text\: この程度の品
 
 ## e0073
 
@@ -591,6 +1047,46 @@
 - Kana: ぜったい
 - English: absolutely\, definitely
 - Notes: text\: ゼッタイ手に入れてやろうぜ — let\'s definitely get our hands on it
+
+## e0221
+
+- Page: 123
+- Kanji: 手に入れる
+- Kana: てにいれる
+- English: to obtain\; to get hold of
+- Notes: text\: 絶対手に入れてやろう
+
+## e0222
+
+- Page: 123
+- Kanji:
+- Kana: オークション
+- English: an auction
+- Notes: text\: オークションサイト
+
+## e0223
+
+- Page: 123
+- Kanji: まず
+- Kana: まず
+- English: first\; first of all
+- Notes: text\: まず一般ネット
+
+## e0224
+
+- Page: 123
+- Kanji:
+- Kana: ネット
+- English: the internet\; a network
+- Notes: text\: 一般ネット
+
+## e0225
+
+- Page: 123
+- Kanji:
+- Kana: フリーマーケット
+- English: a flea market
+- Notes: text\: フリーマーケット
 
 ## e0075
 
@@ -616,6 +1112,22 @@
 - English: to find\, to discover
 - Notes: text\: 掘り出し物を見つけよう — let\'s find a rare bargain
 
+## e0226
+
+- Page: 123
+- Kanji:
+- Kana: カタカタ
+- English: a clattering sound\; keyboard tapping
+- Notes: sound effect\: typing at a computer
+
+## e0227
+
+- Page: 124
+- Kanji: いくら
+- Kana: いくら
+- English: how much\; how many
+- Notes: text\: 残りいくら
+
 ## e0078
 
 - Page: 124
@@ -623,6 +1135,78 @@
 - Kana: のこる
 - English: to remain\, to be left
 - Notes: text\: 残りいくら\? — how much is left\?
+
+## e0228
+
+- Page: 124
+- Kanji: 合わせる
+- Kana: あわせる
+- English: to combine\; to total
+- Notes: text\: 2人合わせて
+
+## e0229
+
+- Page: 124
+- Kanji:
+- Kana: ジェニー
+- English: Jenny\, the currency
+- Notes: text\: 1084万ジェニー
+
+## e0230
+
+- Page: 124
+- Kanji: まんまと
+- Kana: まんまと
+- English: completely\; neatly \(into a trap\)
+- Notes: text\: まんまとだまされた
+
+## e0231
+
+- Page: 124
+- Kanji: だまされる
+- Kana: だまされる
+- English: to be deceived\; to be tricked
+- Notes: text\: だまされた
+
+## e0232
+
+- Page: 124
+- Kanji: 最初
+- Kana: さいしょ
+- English: the beginning\; the first
+- Notes: text\: 最初の壺
+
+## e0233
+
+- Page: 124
+- Kanji: 壺
+- Kana: つぼ
+- English: a jar\; a pot
+- Notes: text\: 最初の壺
+
+## e0234
+
+- Page: 124
+- Kanji: 倍
+- Kana: ばい
+- English: times\; a multiple
+- Notes: text\: 2倍で売れた
+
+## e0235
+
+- Page: 124
+- Kanji: 売れる
+- Kana: うれる
+- English: to sell\; to be sold
+- Notes: text\: 2倍で売れた
+
+## e0236
+
+- Page: 124
+- Kanji: 罠
+- Kana: わな
+- English: a trap\; a snare
+- Notes: text\: それが罠だった
 
 ## e0079
 
@@ -656,6 +1240,46 @@
 - English: a swindler\, a con artist
 - Notes: text\: 詐欺師の常套手段だもんな — that\'s a swindler\'s standard trick
 
+## e0237
+
+- Page: 124
+- Kanji: 小金
+- Kana: こがね
+- English: a small amount of money
+- Notes: text\: 小金をもうけさせて
+
+## e0238
+
+- Page: 124
+- Kanji: 儲けさせる
+- Kana: もうけさせる
+- English: to let someone profit\; to make someone money
+- Notes: text\: 小金をもうけさせて
+
+## e0239
+
+- Page: 124
+- Kanji: 大金
+- Kana: おおがね
+- English: a large sum of money
+- Notes: text\: 大金をせしめる
+
+## e0240
+
+- Page: 124
+- Kanji: せしめる
+- Kana: せしめる
+- English: to obtain by trickery\; to pocket
+- Notes: text\: 大金をせしめる
+
+## e0241
+
+- Page: 124
+- Kanji: 詐欺
+- Kana: さぎ
+- English: fraud\; a scam
+- Notes: text\: 詐欺の常套手段
+
 ## e0083
 
 - Page: 124
@@ -663,6 +1287,54 @@
 - Kana: じょうとうしゅだん
 - English: a standard tactic\, a stock method
 - Notes: text\: 詐欺師の常套手段 — a swindler\'s standard trick
+
+## e0242
+
+- Page: 124
+- Kanji: 八時間
+- Kana: はちじかん
+- English: eight hours
+- Notes: text\: 8時間やって
+
+## e0243
+
+- Page: 124
+- Kanji: 稼ぐ
+- Kana: かせぐ
+- English: to earn\; to make money
+- Notes: text\: 80億稼ぐ
+
+## e0244
+
+- Page: 124
+- Kanji: たった
+- Kana: たった
+- English: only\; just
+- Notes: text\: たった8万ジェニー
+
+## e0245
+
+- Page: 124
+- Kanji: 何百年
+- Kana: なんびゃくねん
+- English: hundreds of years
+- Notes: text\: 何百年かかる
+
+## e0246
+
+- Page: 124
+- Kanji: かかる
+- Kana: かかる
+- English: to take \(time\)\; to cost
+- Notes: text\: 何百年かかる
+
+## e0247
+
+- Page: 124
+- Kanji: 減る
+- Kana: へる
+- English: to decrease\; to go down
+- Notes: text\: 減るよりいい
 
 ## e0084
 
@@ -720,6 +1392,22 @@
 - English: to refrain from\, to hold back
 - Notes: text\: ひかえましょう — please refrain
 
+## e0248
+
+- Page: 124
+- Kanji: 乗り乗り
+- Kana: のりのり
+- English: enthusiastic\; in high spirits
+- Notes: text\: 乗り乗りだった
+
+## e0249
+
+- Page: 125
+- Kanji:
+- Kana: オークション
+- English: an auction
+- Notes: text\: オークションまでの残り2週間
+
 ## e0091
 
 - Page: 125
@@ -727,6 +1415,30 @@
 - Kana: のこり
 - English: the remainder\, what is left
 - Notes: text\: オークションまでの残り2週間 — two weeks remaining until the auction
+
+## e0250
+
+- Page: 125
+- Kanji: 二週間
+- Kana: にしゅうかん
+- English: two weeks
+- Notes: text\: 残り2週間
+
+## e0251
+
+- Page: 125
+- Kanji: どちら
+- Kana: どちら
+- English: which of two\; either one
+- Notes: text\: どちらがお金を稼げるか
+
+## e0252
+
+- Page: 125
+- Kanji: お金
+- Kana: おかね
+- English: money
+- Notes: text\: お金を稼げるか
 
 ## e0092
 
@@ -744,6 +1456,30 @@
 - English: a match\, a contest\, a wager
 - Notes: text\: よーし勝負だ — all right\, it\'s a contest
 
+## e0253
+
+- Page: 125
+- Kanji: ずつ
+- Kana: ずつ
+- English: each\; apiece
+- Notes: text\: 542万ずつ
+
+## e0254
+
+- Page: 125
+- Kanji: 持つ
+- Kana: もつ
+- English: to have\; to hold
+- Notes: text\: 542万ずつ持って
+
+## e0255
+
+- Page: 125
+- Kanji: 時点
+- Kana: じてん
+- English: a point in time\; as of
+- Notes: text\: 8月31日夜9時の時点で
+
 ## e0094
 
 - Page: 125
@@ -759,6 +1495,14 @@
 - Kana: かつ
 - English: to win\, to defeat
 - Notes: text\: どっちが多い方の勝ち — whoever has more wins
+
+## e0256
+
+- Page: 125
+- Kanji: 面白い
+- Kana: おもしろい
+- English: interesting\; fun
+- Notes: text\: 面白え
 
 ## e0096
 
@@ -800,6 +1544,54 @@
 - English: anything\, everything
 - Notes: text\: 言うことを何でもやる — do anything \[the winner says\]
 
+## e0257
+
+- Page: 125
+- Kanji: 完膚なきまで
+- Kana: かんぷなきまで
+- English: utterly\; completely
+- Notes: text\: 完膚なきまでに負かしたら
+
+## e0258
+
+- Page: 125
+- Kanji: 負かす
+- Kana: まかす
+- English: to defeat\; to beat
+- Notes: text\: 負かしたら
+
+## e0259
+
+- Page: 125
+- Kanji: いちについて
+- Kana: いちについて
+- English: on your marks
+- Notes: starting call\: いちについて
+
+## e0260
+
+- Page: 125
+- Kanji: よーい
+- Kana: よーい
+- English: ready\; get set
+- Notes: starting call\: よーい
+
+## e0261
+
+- Page: 125
+- Kanji:
+- Kana: ドン
+- English: bang\; the start signal
+- Notes: sound effect\: race starts
+
+## e0262
+
+- Page: 126
+- Kanji:
+- Kana: ドドド
+- English: a heavy\, dramatic rumble
+- Notes: sound effect\: imposing entrance
+
 ## e0101
 
 - Page: 126
@@ -807,6 +1599,14 @@
 - Kana: かんていしょ
 - English: an appraisal certificate\, a certificate of authenticity
 - Notes: text\: 毛髪鑑定書付き — with a hair appraisal certificate
+
+## e0263
+
+- Page: 126
+- Kanji: 女優
+- Kana: じょゆう
+- English: an actress
+- Notes: text\: 名女優セーラ
 
 ## e0102
 
@@ -823,6 +1623,22 @@
 - Kana: ディーエヌエーかんてい
 - English: DNA testing\, DNA identification
 - Notes: text\: DNA鑑定書付き — with a DNA identification certificate
+
+## e0264
+
+- Page: 126
+- Kanji: 付き
+- Kana: つき
+- English: with\; accompanied by
+- Notes: text\: DNA鑑定書付き
+
+## e0265
+
+- Page: 126
+- Kanji: 埋葬品
+- Kana: まいそうひん
+- English: burial goods\; grave goods
+- Notes: text\: 埋葬品のミイラ
 
 ## e0104
 
@@ -848,6 +1664,14 @@
 - English: skin
 - Notes: text\: 竜皮病患者の皮膚 — the skin of a patient with dragon\-skin disease
 
+## e0266
+
+- Page: 126
+- Kanji: 龍皮病
+- Kana: りゅうひびょう
+- English: dragon\-skin disease
+- Notes: text\: 龍皮病患者
+
 ## e0107
 
 - Page: 126
@@ -863,6 +1687,14 @@
 - Kana: いっかくじゅう
 - English: a unicorn
 - Notes: text\: 一角獣の頭蓋骨 — a unicorn skull
+
+## e0267
+
+- Page: 126
+- Kanji: 一角族
+- Kana: いっかくぞく
+- English: the One\-Horned tribe
+- Notes: text\: 一角族の頭蓋骨
 
 ## e0109
 
@@ -880,6 +1712,22 @@
 - English: an escort team\, a bodyguard unit
 - Notes: text\: オレが護衛団ダルツォルネ — I\'m Dalzollene of the escort team
 
+## e0268
+
+- Page: 127
+- Kanji:
+- Kana: リーダー
+- English: a leader
+- Notes: text\: 護衛団リーダー
+
+## e0269
+
+- Page: 127
+- Kanji: よろしく
+- Kana: よろしく
+- English: please treat me well\; pleased to meet you
+- Notes: greeting\: よろしく
+
 ## e0111
 
 - Page: 127
@@ -896,6 +1744,30 @@
 - English: to hire\, to adopt\, to accept
 - Notes: text\: 4人とも正式に採用だ — all four of you are officially hired
 
+## e0270
+
+- Page: 127
+- Kanji: さて
+- Kana: さて
+- English: well then\; now
+- Notes: text\: さて諸君らには
+
+## e0271
+
+- Page: 127
+- Kanji: 諸君
+- Kana: しょくん
+- English: you all\; ladies and gentlemen
+- Notes: text\: 諸君らには
+
+## e0272
+
+- Page: 127
+- Kanji: 早速
+- Kana: さっそく
+- English: immediately\; right away
+- Notes: text\: 早速任務について
+
 ## e0113
 
 - Page: 127
@@ -911,6 +1783,14 @@
 - Kana: つく
 - English: to take up \(a post or duty\)\, to assume
 - Notes: text\: 任務についてもらう — you will take up your assignment
+
+## e0273
+
+- Page: 127
+- Kanji:
+- Kana: ボス
+- English: a boss\; the person in charge
+- Notes: text\: ボスのガード
 
 ## e0115
 
@@ -936,6 +1816,14 @@
 - English: to send\; to escort\, to see someone off
 - Notes: text\: ボスをホテルの一部屋まで送ること — escort the boss to a hotel room
 
+## e0274
+
+- Page: 127
+- Kanji:
+- Kana: ホテル
+- English: a hotel
+- Notes: text\: ホテルの部屋
+
 ## e0118
 
 - Page: 127
@@ -952,6 +1840,22 @@
 - English: the suburbs\, outskirts
 - Notes: text\: ヨークシン郊外のリンゴーン空港 — Lingon Airport on the outskirts of York Shin
 
+## e0275
+
+- Page: 128
+- Kanji: 空港
+- Kana: くうこう
+- English: an airport
+- Notes: text\: リンゴーン空港
+
+## e0276
+
+- Page: 128
+- Kanji: 専用
+- Kana: せんよう
+- English: exclusive\; for a particular use
+- Notes: text\: 専用飛行船
+
 ## e0120
 
 - Page: 128
@@ -960,6 +1864,30 @@
 - English: an airship\, a dirigible
 - Notes: text\: 専用飛行船で行きます — we will go by a dedicated airship
 
+## e0277
+
+- Page: 128
+- Kanji: 移動時間
+- Kana: いどうじかん
+- English: travel time\; transit time
+- Notes: text\: 移動時間約90分
+
+## e0278
+
+- Page: 128
+- Kanji: 約
+- Kana: やく
+- English: approximately\; about
+- Notes: text\: 約90分
+
+## e0279
+
+- Page: 128
+- Kanji: 使う
+- Kana: つかう
+- English: to use
+- Notes: text\: 専用車を使う
+
 ## e0121
 
 - Page: 128
@@ -967,6 +1895,22 @@
 - Kana: じんけい
 - English: a formation\, a battle array
 - Notes: text\: 新入り4人は陣形の一番外を囲む — the four newcomers will surround the outermost part of the formation
+
+## e0280
+
+- Page: 128
+- Kanji: 一番
+- Kana: いちばん
+- English: number one\; the most
+- Notes: text\: 陣形の一番外
+
+## e0281
+
+- Page: 128
+- Kanji: 外
+- Kana: そと
+- English: outside\; the exterior
+- Notes: text\: 陣形の一番外
 
 ## e0122
 
@@ -983,6 +1927,14 @@
 - Kana: しんいり
 - English: a newcomer\, a rookie
 - Notes: text\: 新入り4人 — the four newcomers
+
+## e0282
+
+- Page: 128
+- Kanji:
+- Kana: ボス
+- English: a boss\; the person in charge
+- Notes: text\: ボスを狙う人物
 
 ## e0124
 
@@ -1040,6 +1992,14 @@
 - English: to answer completely\, to answer all of
 - Notes: text\: ありすぎて答え切れないと言っておこう — let us say there are too many to answer completely
 
+## e0283
+
+- Page: 129
+- Kanji:
+- Kana: ボス
+- English: a boss\; the person in charge
+- Notes: text\: ボスは黒社会の要人
+
 ## e0131
 
 - Page: 129
@@ -1080,6 +2040,30 @@
 - English: to say again\, to rephrase
 - Notes: text\: わかってないようなので言い直そう — since you do not seem to understand\, let me rephrase
 
+## e0284
+
+- Page: 129
+- Kanji: いまいが
+- Kana: いまいが
+- English: whether or not\; regardless
+- Notes: text\: 恨んでいようがいまいが — whether someone resents him or not
+
+## e0285
+
+- Page: 129
+- Kanji: 要は
+- Kana: ようは
+- English: in short\; the point is
+- Notes: text\: 要は実際に
+
+## e0286
+
+- Page: 129
+- Kanji: 実際
+- Kana: じっさい
+- English: reality\; actually
+- Notes: text\: 実際に行動を起こす
+
 ## e0136
 
 - Page: 129
@@ -1088,6 +2072,14 @@
 - English: to take action\, to make a move
 - Notes: text\: 行動を起こすかもしれない人物 — people who might take action
 
+## e0287
+
+- Page: 129
+- Kanji: 人物
+- Kana: じんぶつ
+- English: a person\; a figure
+- Notes: text\: 人物の心当たり
+
 ## e0137
 
 - Page: 129
@@ -1095,6 +2087,14 @@
 - Kana: しぼる
 - English: to narrow down\, to tighten\, to squeeze
 - Notes: text\: 敵が絞れれば — if we can narrow down the enemies
+
+## e0288
+
+- Page: 129
+- Kanji: 動機
+- Kana: どうき
+- English: a motive\; a motivation
+- Notes: text\: 動機・性格・環境
 
 ## e0138
 
@@ -1160,6 +2160,62 @@
 - English: an enemy\, an opponent
 - Notes: text\: 近づく者全てが敵だ — everyone who approaches is an enemy
 
+## e0289
+
+- Page: 129
+- Kanji: 方法
+- Kana: ほうほう
+- English: a method\; a way
+- Notes: text\: どんな方法で
+
+## e0290
+
+- Page: 129
+- Kanji: 襲いかかる
+- Kana: おそいかかる
+- English: to attack\; to pounce on
+- Notes: text\: 襲いかかってきても
+
+## e0291
+
+- Page: 129
+- Kanji: 守る
+- Kana: まもる
+- English: to protect\; to defend
+- Notes: text\: ボスを守る
+
+## e0292
+
+- Page: 129
+- Kanji: 叩き込む
+- Kana: たたきこむ
+- English: to hammer into\; to drill into
+- Notes: text\: 頭に叩き込んで
+
+## e0293
+
+- Page: 130
+- Kanji:
+- Kana: ベシ
+- English: a slap\; a smacking sound
+- Notes: sound effect\: hand against the face
+
+## e0294
+
+- Page: 130
+- Kanji: 敵
+- Kana: てき
+- English: an enemy\; an opponent
+- Notes: text\: 敵の姿
+
+## e0148
+
+- Page: 130
+- Kanji: 姿
+- Kana: すがた
+- English: figure\, appearance\, form
+- Notes: text\: 敵の姿 — the enemy\'s appearance
+
 ## e0146
 
 - Page: 130
@@ -1175,14 +2231,6 @@
 - Kana: そうぞうする
 - English: to imagine\, to picture
 - Notes: text\: 敵の姿を勝手に想像するな — do not imagine the enemy\'s appearance on your own
-
-## e0148
-
-- Page: 130
-- Kanji: 姿
-- Kana: すがた
-- English: figure\, appearance\, form
-- Notes: text\: 敵の姿 — the enemy\'s appearance
 
 ## e0149
 
@@ -1200,6 +2248,22 @@
 - English: all\, everything\, entirely
 - Notes: text\: 近づく者全てが敵だ — everyone who approaches is an enemy
 
+## e0295
+
+- Page: 130
+- Kanji: 諸君
+- Kana: しょくん
+- English: you all\; ladies and gentlemen
+- Notes: text\: 来な諸君
+
+## e0296
+
+- Page: 130
+- Kanji:
+- Kana: ボス
+- English: a boss\; the person in charge
+- Notes: text\: ボスを紹介しよう
+
 ## e0151
 
 - Page: 130
@@ -1207,6 +2271,22 @@
 - Kana: しょうかいする
 - English: to introduce\, to present
 - Notes: text\: ボスを紹介しよう — I will introduce the boss
+
+## e0297
+
+- Page: 131
+- Kanji: あれ
+- Kana: あれ
+- English: that\; what is that\?
+- Notes: text\: あれは？
+
+## e0298
+
+- Page: 131
+- Kanji: ちょっと
+- Kana: ちょっと
+- English: a little\; wait a moment
+- Notes: text\: ちょっと
 
 ## e0152
 
@@ -1216,13 +2296,13 @@
 - English: the real thing\, genuine article
 - Notes: text\: 本物の人間だ — he is a real human
 
-## e0153
+## e0299
 
 - Page: 131
-- Kanji: 仲間
-- Kana: なかま
-- English: a companion\, comrade\, associate
-- Notes: text\: かつての仕事仲間だが — he was once a work colleague
+- Kanji: 人間
+- Kana: にんげん
+- English: a human being\; a person
+- Notes: text\: 本物の人間
 
 ## e0154
 
@@ -1231,6 +2311,22 @@
 - Kana: かつて
 - English: once\, formerly\, in the past
 - Notes: text\: かつての仕事仲間 — a former work colleague
+
+## e0300
+
+- Page: 131
+- Kanji: 仕事
+- Kana: しごと
+- English: work\; a job
+- Notes: text\: かつての仕事仲間
+
+## e0153
+
+- Page: 131
+- Kanji: 仲間
+- Kana: なかま
+- English: a companion\, comrade\, associate
+- Notes: text\: かつての仕事仲間だが — he was once a work colleague
 
 ## e0155
 
@@ -1248,6 +2344,22 @@
 - English: to protect\; to obey\, to keep \(a rule\)
 - Notes: text\: オレの教えを守らず — without following my instructions
 
+## e0301
+
+- Page: 132
+- Kanji: 敵
+- Kana: てき
+- English: an enemy\; an opponent
+- Notes: text\: 敵の偽情報
+
+## e0302
+
+- Page: 132
+- Kanji: 偽情報
+- Kana: にせじょうほう
+- English: false information\; disinformation
+- Notes: text\: 敵の偽情報
+
 ## e0157
 
 - Page: 132
@@ -1256,37 +2368,29 @@
 - English: to be manipulated\, to be made to dance to someone\'s tune
 - Notes: text\: 敵の情報に踊らされ — manipulated by information about the enemy
 
-## e0158
+## e0303
 
 - Page: 132
-- Kanji: 結局
-- Kana: けっきょく
-- English: in the end\, after all
-- Notes: text\: 結局は護衛団はおろかボスを危険にさらした — in the end\, they endangered not only the escort team but the boss
+- Kanji: 勝手に
+- Kana: かってに
+- English: arbitrarily\; without permission
+- Notes: text\: 勝手に敵を想像し
 
-## e0159
-
-- Page: 132
-- Kanji: 危険にさらす
-- Kana: きけんにさらす
-- English: to expose to danger\, to endanger
-- Notes: text\: ボスを危険にさらした — they endangered the boss
-
-## e0160
+## e0304
 
 - Page: 132
-- Kanji: おろか
-- Kana: おろか
-- English: let alone\, not to mention\; foolish
-- Notes: text\: 護衛団はおろかボスを危険にさらした — they endangered not only the escort team but the boss
+- Kanji: 想像する
+- Kana: そうぞうする
+- English: to imagine\; to picture
+- Notes: text\: 敵を想像し
 
-## e0161
+## e0305
 
 - Page: 132
-- Kanji: 替わり
-- Kana: かわり
-- English: a substitute\, replacement\, stand\-in
-- Notes: text\: 諸君ら4人は彼の替わりだよ — you four are his replacements
+- Kanji: したがって
+- Kana: したがって
+- English: therefore\; consequently
+- Notes: text\: したがって処分した
 
 ## e0162
 
@@ -1296,6 +2400,78 @@
 - English: to dispose of\, to deal with\, to eliminate
 - Notes: text\: したがって処分した — therefore I disposed of them
 
+## e0306
+
+- Page: 132
+- Kanji: 結果
+- Kana: けっか
+- English: a result\; consequently
+- Notes: text\: 結果、護衛団は
+
+## e0158
+
+- Page: 132
+- Kanji: 結局
+- Kana: けっきょく
+- English: in the end\, after all
+- Notes: text\: 結局は護衛団はおろかボスを危険にさらした — in the end\, they endangered not only the escort team but the boss
+
+## e0307
+
+- Page: 132
+- Kanji: 護衛団
+- Kana: ごえいだん
+- English: an escort team\; a bodyguard unit
+- Notes: text\: 護衛団はおろか
+
+## e0160
+
+- Page: 132
+- Kanji: おろか
+- Kana: おろか
+- English: let alone\, not to mention\; foolish
+- Notes: text\: 護衛団はおろかボスを危険にさらした — they endangered not only the escort team but the boss
+
+## e0308
+
+- Page: 132
+- Kanji:
+- Kana: ボス
+- English: a boss\; the person in charge
+- Notes: text\: ボスを危険にさらした
+
+## e0159
+
+- Page: 132
+- Kanji: 危険にさらす
+- Kana: きけんにさらす
+- English: to expose to danger\, to endanger
+- Notes: text\: ボスを危険にさらした — they endangered the boss
+
+## e0309
+
+- Page: 132
+- Kanji: 諸君
+- Kana: しょくん
+- English: you all\; ladies and gentlemen
+- Notes: text\: 諸君ら4人
+
+## e0161
+
+- Page: 132
+- Kanji: 替わり
+- Kana: かわり
+- English: a substitute\, replacement\, stand\-in
+- Notes: text\: 諸君ら4人は彼の替わりだよ — you four are his replacements
+
+## e0310
+
+- Page: 132
+- Kanji: 新入り
+- Kana: しんいり
+- English: a newcomer\; a rookie
+- Notes: text\: 新入りを連れて来ました
+
 ## e0163
 
 - Page: 132
@@ -1303,3 +2479,43 @@
 - Kana: つれてくる
 - English: to bring someone along
 - Notes: text\: ボス 新入りを連れて来ました — boss\, I have brought the newcomers
+
+## e0311
+
+- Page: 132
+- Kanji: どうぞ
+- Kana: どうぞ
+- English: please\; here you are
+- Notes: text\: どうぞ
+
+## e0312
+
+- Page: 132
+- Kanji:
+- Kana: ゴゴゴ
+- English: a low\, ominous rumble
+- Notes: sound effect\: ominous rumbling
+
+## e0313
+
+- Page: 133
+- Kanji: そして
+- Kana: そして
+- English: and then\; and
+- Notes: heading\: そして
+
+## e0314
+
+- Page: 133
+- Kanji:
+- Kana: オークション
+- English: an auction
+- Notes: heading\: オークション当日
+
+## e0315
+
+- Page: 133
+- Kanji: 当日
+- Kana: とうじつ
+- English: the day in question\; that day
+- Notes: heading\: オークション当日
