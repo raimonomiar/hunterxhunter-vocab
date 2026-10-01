@@ -1,5 +1,213 @@
 # Volume 8 · Chapter 8
 
+## e0098
+
+- Page: 135
+- Kanji: オークション
+- Kana: オークション
+- English: auction
+- Notes: title\: オークション開催\!\!
+
+## e0099
+
+- Page: 135
+- Kanji: 開催する
+- Kana: かいさいする
+- English: to hold an event\; to be held
+- Notes: text\: 年に一度開催される — held once a year
+
+## e0100
+
+- Page: 135
+- Kanji: 年に一度
+- Kana: ねんにいちど
+- English: once a year
+- Notes: text\: 年に一度
+
+## e0101
+
+- Page: 135
+- Kanji: 世界最大
+- Kana: せかいさいだい
+- English: the world\'s largest
+- Notes: text\: 世界最大の大競り市
+
+## e0102
+
+- Page: 135
+- Kanji: 大競り市
+- Kana: おおぜりいち
+- English: major auction\; large auction market
+- Notes: text\: 世界最大の大競り市
+
+## e0256
+
+- Page: 135
+- Kanji: 10日間
+- Kana: とおかかん
+- English: ten days
+- Notes: text\: 10日間の日程中
+
+## e0103
+
+- Page: 135
+- Kanji: 日程
+- Kana: にってい
+- English: schedule\; itinerary
+- Notes: text\: 10日間の日程中
+
+## e0104
+
+- Page: 135
+- Kanji: 公式
+- Kana: こうしき
+- English: official\; formal
+- Notes: text\: 公式の競り
+
+## e0105
+
+- Page: 135
+- Kanji: 競り
+- Kana: せり
+- English: auction\; bidding
+- Notes: text\: 公式の競り
+
+## e0106
+
+- Page: 135
+- Kanji: 数十兆
+- Kana: すうじゅっちょう
+- English: tens of trillions
+- Notes: text\: 数十兆の金が動く
+
+## e0107
+
+- Page: 135
+- Kanji: 動く
+- Kana: うごく
+- English: to move\; to circulate
+- Notes: text\: 数十兆の金が動く
+
+## e0108
+
+- Page: 135
+- Kanji: 品物
+- Kana: しなもの
+- English: article\; item\; goods
+- Notes: text\: 競り落とした品物
+
+## e0109
+
+- Page: 135
+- Kanji: 一攫千金
+- Kana: いっかくせんきん
+- English: making a fortune at one stroke
+- Notes: text\: まさに一攫千金
+
+## e0110
+
+- Page: 135
+- Kanji: 夢の市
+- Kana: ゆめのいち
+- English: dream market
+- Notes: text\: 夢の市
+
+## e0111
+
+- Page: 135
+- Kanji: 数万点
+- Kana: すうまんてん
+- English: tens of thousands of items
+- Notes: text\: 数万点に及ぶ
+
+## e0112
+
+- Page: 135
+- Kanji: 及ぶ
+- Kana: およぶ
+- English: to reach\; to extend to
+- Notes: text\: 数万点に及ぶ
+
+## e0113
+
+- Page: 135
+- Kanji: オークションハウス
+- Kana: オークションハウス
+- English: auction house
+- Notes: text\: オークションハウス
+
+## e0114
+
+- Page: 135
+- Kanji: まぎれる
+- Kana: まぎれる
+- English: to be mixed in\; to blend in
+- Notes: text\: オークションハウスにまぎれ
+
+## e0115
+
+- Page: 135
+- Kanji: 犯罪
+- Kana: はんざい
+- English: crime
+- Notes: text\: 犯罪に関わる
+
+## e0116
+
+- Page: 135
+- Kanji: 関わる
+- Kana: かかわる
+- English: to be involved in\; to concern
+- Notes: text\: 犯罪に関わる
+
+## e0117
+
+- Page: 135
+- Kanji: 扱う
+- Kana: あつかう
+- English: to handle\; to deal in
+- Notes: text\: モノのみを扱う
+
+## e0118
+
+- Page: 135
+- Kanji: 闇のオークション
+- Kana: やみのオークション
+- English: underground auction
+- Notes: text\: 闇のオークション
+
+## e0119
+
+- Page: 135
+- Kanji: 多数
+- Kana: たすう
+- English: a large number\; numerous
+- Notes: text\: 多数存在する
+
+## e0120
+
+- Page: 135
+- Kanji: 存在する
+- Kana: そんざいする
+- English: to exist\; to be found
+- Notes: text\: 多数存在する
+
+## e0121
+
+- Page: 137
+- Kanji: オークション
+- Kana: オークション
+- English: auction
+- Notes: title\: オークション開催\!\!
+
+## e0122
+
+- Page: 137
+- Kanji: 開催する
+- Kana: かいさいする
+- English: to hold an event\; to be held
+- Notes: title\: オークション開催\!\!
+
 ## e0001
 
 - Page: 139
@@ -23,6 +231,30 @@
 - Kana: 見てみる
 - English: to try looking\, to take a look
 - Notes: text\: どっか見てみよーよ — let\'s take a look somewhere
+
+## e0123
+
+- Page: 139
+- Kanji: バクチ
+- Kana: ばくち
+- English: gambling\; a gamble
+- Notes: text\: バクチで一発当てようとする
+
+## e0124
+
+- Page: 139
+- Kanji: 一発当てる
+- Kana: いっぱつあてる
+- English: to hit it big\; to strike it lucky
+- Notes: text\: 一発当てようとする
+
+## e0125
+
+- Page: 139
+- Kanji: 間違い
+- Kana: まちがい
+- English: mistake\; error
+- Notes: text\: まず間違い
 
 ## e0004
 
@@ -48,6 +280,22 @@
 - English: to earn\, to make money
 - Notes: text\: それよりは稼げるぞ — you can earn more than that
 
+## e0126
+
+- Page: 139
+- Kanji: ジェニー
+- Kana: ジェニー
+- English: Jenny\, the currency used in the series
+- Notes: price labels\: ジェニー
+
+## e0127
+
+- Page: 139
+- Kanji: 勝ち
+- Kana: かち
+- English: victory\; win
+- Notes: text\: 勝ちは勝ち
+
 ## e0007
 
 - Page: 139
@@ -72,6 +320,14 @@
 - English: knowledgeable\, familiar with\; detailed
 - Notes: text\: 駆け引きなんかかなり詳しくなった — I became quite knowledgeable about the tactics
 
+## e0128
+
+- Page: 139
+- Kanji: 痛い目に遭う
+- Kana: いたいめにあう
+- English: to have a painful experience\; to learn the hard way
+- Notes: text\: 痛い目にあう
+
 ## e0010
 
 - Page: 139
@@ -88,6 +344,22 @@
 - English: an intermediate\-level person or player
 - Notes: text\: 自称中級者 — self\-proclaimed intermediate player
 
+## e0129
+
+- Page: 139
+- Kanji: 勝負
+- Kana: しょうぶ
+- English: contest\; match\; deciding contest
+- Notes: text\: 勝負はオレの勝ち
+
+## e0130
+
+- Page: 139
+- Kanji: 言うことを聞く
+- Kana: いうことをきく
+- English: to do as one is told\; to obey
+- Notes: text\: オレの言うことを聞いて
+
 ## e0012
 
 - Page: 140
@@ -103,6 +375,14 @@
 - Kana: つく
 - English: to arrive\, to reach
 - Notes: text\: 午後に着くって — I was told I would arrive in the afternoon
+
+## e0131
+
+- Page: 140
+- Kanji: 仕事中
+- Kana: しごとちゅう
+- English: while at work\; during work
+- Notes: text\: 仕事中だから
 
 ## e0014
 
@@ -128,6 +408,14 @@
 - English: to become free\, to open up \(time or space\)
 - Notes: text\: もし空いたら連絡くれるって — they said they would contact me if they became free
 
+## e0132
+
+- Page: 140
+- Kanji: 昨日
+- Kana: きのう
+- English: yesterday
+- Notes: text\: 昨日からもう来てる
+
 ## e0017
 
 - Page: 140
@@ -135,6 +423,30 @@
 - Kana: ひつじゅひん
 - English: a necessity\, an essential item
 - Notes: text\: ハンターの必需品だろが — it is an essential item for a Hunter
+
+## e0133
+
+- Page: 140
+- Kanji: 携帯
+- Kana: けいたい
+- English: mobile phone\; cellphone
+- Notes: text\: ケータイ買えよ
+
+## e0134
+
+- Page: 140
+- Kanji: 買う
+- Kana: かう
+- English: to buy\; to purchase
+- Notes: text\: ケータイ買えよ
+
+## e0135
+
+- Page: 140
+- Kanji: 電源オン
+- Kana: でんげんおん
+- English: power on\; switch on
+- Notes: text\: 電源オンにしといて
 
 ## e0018
 
@@ -152,6 +464,22 @@
 - English: slim\, thin\-model
 - Notes: text\: カードサイズの超薄型 — an ultra\-slim card\-sized model
 
+## e0136
+
+- Page: 140
+- Kanji: 超
+- Kana: ちょう
+- English: super\; ultra\-
+- Notes: label\: 超薄型
+
+## e0137
+
+- Page: 140
+- Kanji: カードサイズ
+- Kana: カードサイズ
+- English: card\-sized
+- Notes: label\: カードサイズ
+
 ## e0020
 
 - Page: 140
@@ -159,6 +487,14 @@
 - Kana: しょざいち
 - English: location\, address
 - Notes: text\: 所在地がついていて — it has the location information attached
+
+## e0138
+
+- Page: 140
+- Kanji: モード
+- Kana: モード
+- English: mode\; setting
+- Notes: label\: 所在地モード
 
 ## e0021
 
@@ -168,6 +504,30 @@
 - English: meeting up\, rendezvous
 - Notes: text\: 待ち合わせにも便利だよ — it is convenient for meeting up too
 
+## e0139
+
+- Page: 140
+- Kanji: 便利
+- Kana: べんり
+- English: convenient\; handy
+- Notes: text\: 待ち合わせにも便利
+
+## e0140
+
+- Page: 140
+- Kanji: 国
+- Kana: くに
+- English: country
+- Notes: text\: 使えない国
+
+## e0141
+
+- Page: 140
+- Kanji: けっこう
+- Kana: けっこう
+- English: quite\; fairly
+- Notes: text\: 国がけっこうある
+
 ## e0022
 
 - Page: 140
@@ -175,6 +535,30 @@
 - Kana: ぼうすい
 - English: waterproofing\, water\-resistant
 - Notes: text\: 防水でね — it is waterproof\, you know
+
+## e0142
+
+- Page: 140
+- Kanji: 使える
+- Kana: つかえる
+- English: to be usable\; to be able to use
+- Notes: text\: 使えねェ国
+
+## e0143
+
+- Page: 140
+- Kanji: 完全
+- Kana: かんぜん
+- English: complete\; entirely
+- Notes: text\: 完全に電話だけ
+
+## e0144
+
+- Page: 140
+- Kanji: 電話をかける
+- Kana: でんわをかける
+- English: to make a phone call
+- Notes: text\: 電話だけかける人用
 
 ## e0023
 
@@ -191,6 +575,22 @@
 - Kana: ねがはる
 - English: to be expensive\, to have a high price
 - Notes: text\: 少し重いが値も張る — it is a little heavy\, but also expensive
+
+## e0149
+
+- Page: 141
+- Kanji: 型
+- Kana: がた
+- English: model\; type
+- Notes: text\: ビートル07型
+
+## e0150
+
+- Page: 141
+- Kanji: 重い
+- Kana: おもい
+- English: heavy
+- Notes: text\: 少し重くて
 
 ## e0025
 
@@ -224,6 +624,38 @@
 - English: interpretation\, interpreting
 - Notes: text\: 多言語通訳機能 — multilingual interpretation function
 
+## e0145
+
+- Page: 141
+- Kanji: 種類
+- Kana: しゅるい
+- English: kind\; type\; variety
+- Notes: label\: 200種類
+
+## e0146
+
+- Page: 141
+- Kanji: 民族
+- Kana: みんぞく
+- English: ethnic group\; people
+- Notes: label\: 民族言語通訳
+
+## e0147
+
+- Page: 141
+- Kanji: 言語
+- Kana: げんご
+- English: language
+- Notes: label\: 民族言語通訳
+
+## e0148
+
+- Page: 141
+- Kanji: 機能
+- Kana: きのう
+- English: function\; feature
+- Notes: label\: 通訳機能付き
+
 ## e0029
 
 - Page: 141
@@ -231,6 +663,14 @@
 - Kana: ろくが
 - English: video recording
 - Notes: text\: TVも観れるし録画もできる — it can watch TV and record too
+
+## e0151
+
+- Page: 141
+- Kanji: 昼すぎ
+- Kana: ひるすぎ
+- English: early afternoon\; after noon
+- Notes: text\: 昼すぎって言ってた
 
 ## e0030
 
@@ -240,6 +680,22 @@
 - English: to surprise\, to astonish someone
 - Notes: text\: お前らを驚かそうと思ってな — I thought I would surprise you guys
 
+## e0152
+
+- Page: 141
+- Kanji: 香水
+- Kana: こうすい
+- English: perfume
+- Notes: text\: 新しい香水
+
+## e0156
+
+- Page: 141
+- Kanji: 他で買う
+- Kana: ほかでかう
+- English: to buy elsewhere
+- Notes: text\: 他で買うよ
+
 ## e0031
 
 - Page: 141
@@ -247,6 +703,30 @@
 - Kana: ねぎる
 - English: to haggle\, to bargain down the price
 - Notes: text\: 値切り始めた — he started haggling over the price
+
+## e0153
+
+- Page: 141
+- Kanji: 十の位
+- Kana: じゅうのくらい
+- English: tens digit\; tens place
+- Notes: text\: 十の位で値切り始めた
+
+## e0154
+
+- Page: 141
+- Kanji: 何とか
+- Kana: なんとか
+- English: somehow\; please
+- Notes: text\: そこを何とか
+
+## e0155
+
+- Page: 141
+- Kanji: 助ける
+- Kana: たすける
+- English: to help\; to assist
+- Notes: text\: 助けると思って
 
 ## e0032
 
@@ -288,6 +768,14 @@
 - English: to give a discount\; to lose
 - Notes: text\: あの店にしちゃ負けてくれた方だな — for that shop\, they gave quite a discount
 
+## e0157
+
+- Page: 142
+- Kanji: 本気
+- Kana: ほんき
+- English: seriousness\; in earnest
+- Notes: text\: 本気のオレは
+
 ## e0037
 
 - Page: 142
@@ -312,6 +800,38 @@
 - English: to applaud\, to clap
 - Notes: text\: 見物人から拍手された — the spectators applauded him
 
+## e0158
+
+- Page: 142
+- Kanji: 常識
+- Kana: じょうしき
+- English: common sense\; convention
+- Notes: text\: 値切んのは常識だろ
+
+## e0159
+
+- Page: 142
+- Kanji: 同じ
+- Kana: おなじ
+- English: same\; identical
+- Notes: text\: 同じ機種
+
+## e0160
+
+- Page: 142
+- Kanji: 機種
+- Kana: きしゅ
+- English: model\; type of device
+- Notes: text\: 同じ機種
+
+## e0161
+
+- Page: 142
+- Kanji: ゲットする
+- Kana: ゲットする
+- English: to get\; to obtain
+- Notes: text\: 8万2千ジェニーでゲットした
+
 ## e0040
 
 - Page: 142
@@ -319,6 +839,54 @@
 - Kana: うく
 - English: to be left over\, to be saved \(money\)\; to float
 - Notes: text\: お金が浮いたよ — I saved some money
+
+## e0162
+
+- Page: 142
+- Kanji: 相手
+- Kana: あいて
+- English: other party\; opponent
+- Notes: text\: 相手がもう帰ってくれって
+
+## e0163
+
+- Page: 142
+- Kanji: 帰る
+- Kana: かえる
+- English: to return\; to go home
+- Notes: text\: もう帰ってくれ
+
+## e0164
+
+- Page: 142
+- Kanji: 商談
+- Kana: しょうだん
+- English: business negotiation
+- Notes: text\: 本当の商談
+
+## e0165
+
+- Page: 142
+- Kanji: ある意味
+- Kana: あるいみ
+- English: in a sense\; in some ways
+- Notes: text\: ある意味
+
+## e0166
+
+- Page: 142
+- Kanji: 遠い
+- Kana: とおい
+- English: far\; distant
+- Notes: text\: オークションから一番遠い
+
+## e0167
+
+- Page: 142
+- Kanji: キャラ
+- Kana: キャラ
+- English: character\; personality
+- Notes: text\: 一番遠いキャラ
 
 ## e0041
 
@@ -328,6 +896,30 @@
 - English: to master\, to acquire \(a skill\)
 - Notes: text\: 念は修得したんだろ — you mastered Nen\, right\?
 
+## e0168
+
+- Page: 142
+- Kanji: 受験
+- Kana: じゅけん
+- English: examination\; entrance exam
+- Notes: text\: 受験が終わってから
+
+## e0169
+
+- Page: 142
+- Kanji: バッチリ
+- Kana: ばっちり
+- English: perfectly\; without a hitch
+- Notes: text\: ああバッチリだぜ
+
+## e0170
+
+- Page: 142
+- Kanji: 念
+- Kana: ねん
+- English: Nen\, a supernatural life\-energy technique
+- Notes: text\: 念は修得したんだろ
+
 ## e0042
 
 - Page: 142
@@ -336,6 +928,46 @@
 - English: to learn\, to memorize\; to remember
 - Notes: text\: もう覚えたぜ — I have already learned it
 
+## e0171
+
+- Page: 143
+- Kanji: 達
+- Kana: たち
+- English: pluralizing suffix for people
+- Notes: text\: ゴン達3人
+
+## e0172
+
+- Page: 143
+- Kanji: 出会う
+- Kana: であう
+- English: to meet\; to encounter
+- Notes: text\: ゴン達3人が出会う
+
+## e0173
+
+- Page: 143
+- Kanji: ほぼ
+- Kana: ほぼ
+- English: almost\; nearly
+- Notes: text\: ほぼ24時間前
+
+## e0174
+
+- Page: 143
+- Kanji: 24時間前
+- Kana: にじゅうよじかんまえ
+- English: 24 hours earlier
+- Notes: caption\: ほぼ24時間前
+
+## e0175
+
+- Page: 143
+- Kanji: ゴォォォ
+- Kana: ゴォォォ
+- English: roaring sound of an engine
+- Notes: sound effect\: approaching aircraft
+
 ## e0043
 
 - Page: 144
@@ -343,6 +975,22 @@
 - Kana: ぶん
 - English: share\, portion\, amount belonging to someone
 - Notes: text\: これが9月の分です — this is September\'s share
+
+## e0176
+
+- Page: 144
+- Kanji: ちょっと
+- Kana: ちょっと
+- English: a little\; somewhat
+- Notes: text\: ちょっと多くない
+
+## e0177
+
+- Page: 144
+- Kanji: 多い
+- Kana: おおい
+- English: many\; much
+- Notes: text\: ちょっと多くない
 
 ## e0044
 
@@ -368,6 +1016,54 @@
 - English: to tell someone\'s fortune\, to divine
 - Notes: text\: ぜひ占っていただきたい — I would very much like you to tell the fortune
 
+## e0178
+
+- Page: 144
+- Kanji: ぜひ
+- Kana: ぜひ
+- English: by all means\; very much
+- Notes: text\: ぜひ占っていただきたい
+
+## e0179
+
+- Page: 144
+- Kanji: いただく
+- Kana: いただく
+- English: to receive\; humble auxiliary for doing
+- Notes: text\: 占っていただきたい
+
+## e0180
+
+- Page: 145
+- Kanji: 御贔屓
+- Kana: ごひいき
+- English: favor\; patronage
+- Notes: text\: 父君を御贔屓にされておられる
+
+## e0181
+
+- Page: 145
+- Kanji: 外せない
+- Kana: はずせない
+- English: unable to miss\; indispensable
+- Notes: text\: どうしても外せない会議
+
+## e0182
+
+- Page: 145
+- Kanji: 会議
+- Kana: かいぎ
+- English: meeting\; conference
+- Notes: text\: 外せない会議
+
+## e0183
+
+- Page: 145
+- Kanji: どうせ
+- Kana: どうせ
+- English: anyway\; in any case
+- Notes: text\: 女と旅行でしょ、どうせ
+
 ## e0047
 
 - Page: 145
@@ -383,6 +1079,14 @@
 - Kana: やくそくをやぶる
 - English: to break a promise
 - Notes: text\: 今度約束破ったら本当にやめるからね — if you break your promise next time\, I really will quit
+
+## e0184
+
+- Page: 145
+- Kanji: 本当に
+- Kana: ほんとうに
+- English: really\; truly
+- Notes: text\: 本当にやめるからね
 
 ## e0049
 
@@ -400,6 +1104,14 @@
 - English: treasure\, valuable item
 - Notes: text\: やったあお宝ゲットォ — yay\, I got a treasure
 
+## e0185
+
+- Page: 145
+- Kanji: 得する
+- Kana: とくする
+- English: to benefit\; to get a bargain
+- Notes: text\: 得しちゃった
+
 ## e0051
 
 - Page: 145
@@ -415,6 +1127,46 @@
 - Kana: おめでとう
 - English: congratulations
 - Notes: text\: おめでとうございます — congratulations
+
+## e0186
+
+- Page: 145
+- Kanji: 決まる
+- Kana: きまる
+- English: to be decided\; to be settled
+- Notes: text\: そうと決まれば
+
+## e0187
+
+- Page: 145
+- Kanji: さっさと
+- Kana: さっさと
+- English: quickly\; without delay
+- Notes: text\: さっさと終わらしちゃお
+
+## e0188
+
+- Page: 145
+- Kanji: 終わらす
+- Kana: おわらす
+- English: to finish\; to get something over with
+- Notes: text\: 終わらしちゃお
+
+## e0189
+
+- Page: 146
+- Kanji: 天使
+- Kana: てんし
+- English: angel
+- Notes: ability title\: 天使の自動筆記
+
+## e0190
+
+- Page: 146
+- Kanji: 自動筆記
+- Kana: じどうひっき
+- English: automatic writing
+- Notes: ability title\: 天使の自動筆記
 
 ## e0053
 
@@ -439,6 +1191,22 @@
 - Kana: むすめ
 - English: daughter\, young woman
 - Notes: text\: あの娘は — that girl
+
+## e0257
+
+- Page: 147
+- Kanji: シャカシャカ
+- Kana: シャカシャカ
+- English: swishing or scraping sound
+- Notes: sound effect\: quick writing
+
+## e0191
+
+- Page: 147
+- Kanji: 顧客
+- Kana: こきゃく
+- English: customer\; client
+- Notes: text\: 多数顧客に抱えてる
 
 ## e0056
 
@@ -480,6 +1248,30 @@
 - English: to have under one\'s care or control\; to hold
 - Notes: text\: 顔役を多数抱えてる — he has numerous power brokers under him
 
+## e0192
+
+- Page: 147
+- Kanji: コネ
+- Kana: コネ
+- English: connections\; influential contacts
+- Notes: text\: 父親のコネ
+
+## e0193
+
+- Page: 147
+- Kanji: むしろ
+- Kana: むしろ
+- English: rather\; instead
+- Notes: text\: むしろ逆だろう
+
+## e0194
+
+- Page: 147
+- Kanji: 逆
+- Kana: ぎゃく
+- English: opposite\; reverse
+- Notes: text\: むしろ逆だろう
+
 ## e0061
 
 - Page: 147
@@ -488,6 +1280,22 @@
 - English: to use\, to make use of
 - Notes: text\: 娘を利用して — using his daughter
 
+## e0195
+
+- Page: 147
+- Kanji: 闇世界
+- Kana: やみせかい
+- English: underworld\; shadowy world
+- Notes: text\: 父親が闇世界で
+
+## e0196
+
+- Page: 147
+- Kanji: のし上がる
+- Kana: のしあがる
+- English: to rise to power\; to climb the ranks
+- Notes: text\: 闇世界でのし上がった
+
 ## e0062
 
 - Page: 147
@@ -495,6 +1303,54 @@
 - Kana: いじょう
 - English: abnormality\, unusualness\; extreme
 - Notes: text\: 父親は異常におそれている — the father is extremely afraid
+
+## e0197
+
+- Page: 147
+- Kanji: 恐れる
+- Kana: おそれる
+- English: to fear\; to be afraid of
+- Notes: text\: 父親は異常におそれている
+
+## e0198
+
+- Page: 147
+- Kanji: 失う
+- Kana: うしなう
+- English: to lose\; to forfeit
+- Notes: text\: 娘を失うこと
+
+## e0199
+
+- Page: 147
+- Kanji: 押しかける
+- Kana: おしかける
+- English: to push in\; to descend on
+- Notes: text\: 自分がおしかけてきた連中
+
+## e0200
+
+- Page: 147
+- Kanji: 押しのける
+- Kana: おしのける
+- English: to push aside\; to shove out of the way
+- Notes: text\: 自分がおしのけてきた
+
+## e0201
+
+- Page: 147
+- Kanji: 連中
+- Kana: れんちゅう
+- English: group of people\; those guys
+- Notes: text\: 連中の嫉みによる報復
+
+## e0202
+
+- Page: 147
+- Kanji: 嫉み
+- Kana: ねたみ
+- English: envy\; jealousy
+- Notes: text\: 連中の嫉みによる報復
 
 ## e0063
 
@@ -528,6 +1384,14 @@
 - English: to erase\; to eliminate\, kill
 - Notes: text\: 近づく奴は消せばいい — anyone who approaches can simply be eliminated
 
+## e0203
+
+- Page: 147
+- Kanji: 正しい
+- Kana: ただしい
+- English: correct\; right
+- Notes: text\: と言った方が正しいだろう
+
 ## e0067
 
 - Page: 148
@@ -544,6 +1408,22 @@
 - English: thank you for your hard work\; good work
 - Notes: text\: お疲れ様です — thank you for your hard work
 
+## e0204
+
+- Page: 148
+- Kanji: 明日
+- Kana: あした
+- English: tomorrow
+- Notes: text\: 明日のオークション
+
+## e0205
+
+- Page: 148
+- Kanji: 夜
+- Kana: よる
+- English: night\; evening
+- Notes: text\: 夜からでしょ
+
 ## e0069
 
 - Page: 148
@@ -552,6 +1432,94 @@
 - English: shopping\, a purchase
 - Notes: text\: それまで買い物したい — I want to shop until then
 
+## e0206
+
+- Page: 148
+- Kanji: お供する
+- Kana: おともする
+- English: to accompany\; to escort
+- Notes: text\: お供します
+
+## e0207
+
+- Page: 148
+- Kanji: ブォォォ
+- Kana: ブォォォ
+- English: engine\-revving sound
+- Notes: sound effect\: car driving away
+
+## e0208
+
+- Page: 148
+- Kanji: ヒュウウウ
+- Kana: ヒュウウウ
+- English: whistling sound of wind
+- Notes: sound effect\: wind over the road
+
+## e0209
+
+- Page: 149
+- Kanji: 一堂に会する
+- Kana: いちどうにかいする
+- English: to assemble in one place
+- Notes: text\: 13人が一堂に会する
+
+## e0210
+
+- Page: 149
+- Kanji: 何年振り
+- Kana: なんねんぶり
+- English: for the first time in how many years
+- Notes: text\: 何年振りだっけ
+
+## e0211
+
+- Page: 149
+- Kanji: 面子
+- Kana: めんつ
+- English: lineup\; group of members
+- Notes: text\: 2人面子が違う
+
+## e0212
+
+- Page: 149
+- Kanji: 違う
+- Kana: ちがう
+- English: to differ\; to be different
+- Notes: text\: 2人面子が違う
+
+## e0213
+
+- Page: 149
+- Kanji: 替わる
+- Kana: かわる
+- English: to change\; to be replaced
+- Notes: text\: 別の人に替わった
+
+## e0214
+
+- Page: 149
+- Kanji: 野郎
+- Kana: やろう
+- English: guy\; fellow \(rough\)
+- Notes: text\: 4番の野郎
+
+## e0215
+
+- Page: 149
+- Kanji: ちゃんと
+- Kana: ちゃんと
+- English: properly\; as expected
+- Notes: text\: 今日はちゃんと来るんだろうな
+
+## e0216
+
+- Page: 150
+- Kanji: 知らない
+- Kana: しらない
+- English: not to know\; to have no idea
+- Notes: text\: 知らないね
+
 ## e0070
 
 - Page: 150
@@ -559,6 +1527,46 @@
 - Kana: やくめ
 - English: duty\, role\, responsibility
 - Notes: text\: お前の役目だろ — that is your role
+
+## e0217
+
+- Page: 150
+- Kanji: 聞く
+- Kana: きく
+- English: to ask\; to hear
+- Notes: text\: あたしに聞くな
+
+## e0218
+
+- Page: 150
+- Kanji: 伝える
+- Kana: つたえる
+- English: to convey\; to tell
+- Notes: text\: 来いと伝えただけ
+
+## e0219
+
+- Page: 150
+- Kanji: わがまま
+- Kana: わがまま
+- English: selfishness\; being willful
+- Notes: text\: アイツのワガママ
+
+## e0220
+
+- Page: 150
+- Kanji: 許す
+- Kana: ゆるす
+- English: to allow\; to forgive
+- Notes: text\: ワガママを許すか
+
+## e0221
+
+- Page: 150
+- Kanji: 腕がいい
+- Kana: うでがいい
+- English: to be skilled\; to be capable
+- Notes: text\: 腕がいいからだろ
 
 ## e0071
 
@@ -576,6 +1584,70 @@
 - English: freely extensible and contractible
 - Notes: text\: 伸縮自在の愛 — freely extensible and contractible love\; a name for Bungee Gum
 
+## e0222
+
+- Page: 150
+- Kanji: 出来る
+- Kana: できる
+- English: to be able to\; to be well made
+- Notes: text\: よーく出来てる
+
+## e0223
+
+- Page: 150
+- Kanji: 戦りづらい
+- Kana: やりづらい
+- English: difficult to fight\; hard to deal with
+- Notes: text\: 戦りづれェぜ
+
+## e0224
+
+- Page: 150
+- Kanji: 正味
+- Kana: しょうみ
+- English: to be honest\; frankly
+- Notes: text\: 正味な話
+
+## e0225
+
+- Page: 150
+- Kanji: 買いかぶる
+- Kana: かいかぶる
+- English: to overestimate\; to give too much credit
+- Notes: text\: 買いかぶりだ
+
+## e0226
+
+- Page: 150
+- Kanji: 大したことない
+- Kana: たいしたことない
+- English: not much\; nothing special
+- Notes: text\: 大したことねェよ
+
+## e0227
+
+- Page: 150
+- Kanji: 口だけ
+- Kana: くちだけ
+- English: all talk\; empty words
+- Notes: text\: 口だけなら
+
+## e0228
+
+- Page: 150
+- Kanji: 何とでも言える
+- Kana: なんとでもいえる
+- English: to be able to say anything
+- Notes: text\: 何とでも言える
+
+## e0229
+
+- Page: 150
+- Kanji: 怖がる
+- Kana: こわがる
+- English: to be afraid of\; to fear
+- Notes: text\: 団長がヒソカの事怖がってる
+
 ## e0073
 
 - Page: 150
@@ -584,13 +1656,37 @@
 - English: to fear\, to be afraid of
 - Notes: text\: 父親は異常におそれている — the father is extremely afraid
 
-## e0074
+## e0230
 
-- Page: 154
-- Kanji: 敵に回す
-- Kana: てきにまわす
-- English: to make an enemy of\, to turn against oneself
-- Notes: text\: 世の中の能力者全部敵にまわす — make every ability user in the world an enemy
+- Page: 150
+- Kanji: ヒュオオオ
+- Kana: ヒュオオオ
+- English: whooshing sound of wind
+- Notes: sound effect\: rushing wind
+
+## e0234
+
+- Page: 151
+- Kanji: ガガガ
+- Kana: ガガガ
+- English: rumbling or clattering sound
+- Notes: sound effect\: clattering during the fight
+
+## e0231
+
+- Page: 151
+- Kanji: 一体
+- Kana: いったい
+- English: what on earth\; exactly
+- Notes: text\: 団長一体何する気だろ
+
+## e0232
+
+- Page: 151
+- Kanji: 何する気
+- Kana: なにするき
+- English: what someone intends to do
+- Notes: text\: 何する気だろ
 
 ## e0075
 
@@ -599,6 +1695,14 @@
 - Kana: とうぞくだん
 - English: band of thieves\, gang of robbers
 - Notes: text\: オレ達盗賊団に決まってるね — we are obviously a band of thieves
+
+## e0233
+
+- Page: 151
+- Kanji: 盗む
+- Kana: ぬすむ
+- English: to steal\; to rob
+- Notes: text\: 盗賊モノ盗むに決まってる
 
 ## e0076
 
@@ -632,6 +1736,38 @@
 - English: the whole\, in general\, across the board
 - Notes: text\: 古書全般 — old books in general
 
+## e0235
+
+- Page: 152
+- Kanji: 違う
+- Kana: ちがう
+- English: to differ\; to be wrong
+- Notes: text\: 違うね
+
+## e0236
+
+- Page: 152
+- Kanji: 世界一
+- Kana: せかいいち
+- English: the world\'s most\; number one in the world
+- Notes: text\: 世界一危険なゲーム
+
+## e0237
+
+- Page: 152
+- Kanji: 危険
+- Kana: きけん
+- English: danger\; dangerous
+- Notes: text\: 世界一危険なゲーム
+
+## e0238
+
+- Page: 152
+- Kanji: ゲームソフト
+- Kana: ゲームソフト
+- English: video game software
+- Notes: text\: 世界一高いゲームソフト
+
 ## e0080
 
 - Page: 152
@@ -639,6 +1775,14 @@
 - Kana: ほんずき
 - English: book lover\, someone fond of books
 - Notes: text\: 団長は本好きだし — the Boss is fond of books\, too
+
+## e0239
+
+- Page: 152
+- Kanji: らしい
+- Kana: らしい
+- English: it seems\; apparently
+- Notes: text\: 危険なゲームらしい
 
 ## e0081
 
@@ -656,6 +1800,14 @@
 - English: interest\, curiosity
 - Notes: text\: 興味あるよ — I am interested
 
+## e0240
+
+- Page: 152
+- Kanji: 何本か
+- Kana: なんぼんか
+- English: several\; a few \(long objects or items\)
+- Notes: text\: ゲームソフト何本か
+
 ## e0083
 
 - Page: 152
@@ -664,6 +1816,14 @@
 - English: to put up for sale\, to offer for sale
 - Notes: text\: 世界一高いゲームソフトが売りに出される — the world\'s most expensive game software will be put up for sale
 
+## e0241
+
+- Page: 152
+- Kanji: 全部
+- Kana: ぜんぶ
+- English: all\; everything
+- Notes: text\: 全部だ
+
 ## e0084
 
 - Page: 153
@@ -671,6 +1831,14 @@
 - Kana: ちかきょうばい
 - English: underground auction
 - Notes: text\: 地下競売のお宝 — treasure from the underground auction
+
+## e0242
+
+- Page: 153
+- Kanji: お宝
+- Kana: おたから
+- English: treasure\; valuable item
+- Notes: text\: 地下競売のお宝
 
 ## e0085
 
@@ -688,6 +1856,62 @@
 - English: to snatch away\, to make off with
 - Notes: text\: まるごとかっさらう — steal the whole lot
 
+## e0258
+
+- Page: 154
+- Kanji: 本気
+- Kana: ほんき
+- English: seriousness\; in earnest
+- Notes: text\: 本気かよ団長
+
+## e0243
+
+- Page: 154
+- Kanji: 競売
+- Kana: きょうばい
+- English: auction\; public sale
+- Notes: text\: 地下の競売
+
+## e0244
+
+- Page: 154
+- Kanji: 世界中
+- Kana: せかいじゅう
+- English: throughout the world\; worldwide
+- Notes: text\: 世界中のヤクザ
+
+## e0245
+
+- Page: 154
+- Kanji: ヤクザ
+- Kana: ヤクザ
+- English: yakuza\; organized gangsters
+- Notes: text\: 世界中のヤクザ
+
+## e0246
+
+- Page: 154
+- Kanji: 協定
+- Kana: きょうてい
+- English: agreement\; pact
+- Notes: text\: 協定を組んで
+
+## e0247
+
+- Page: 154
+- Kanji: 組む
+- Kana: くむ
+- English: to form\; to join together
+- Notes: text\: 協定を組んで
+
+## e0248
+
+- Page: 154
+- Kanji: 仕切る
+- Kana: しきる
+- English: to run\; to control
+- Notes: text\: 競売を仕切ってる
+
 ## e0087
 
 - Page: 154
@@ -695,6 +1919,38 @@
 - Kana: てをだす
 - English: to lay hands on\; to get involved with
 - Notes: text\: 手を出したら — if we lay hands on it \/ get involved
+
+## e0249
+
+- Page: 154
+- Kanji: 世の中
+- Kana: よのなか
+- English: the world\; society
+- Notes: text\: 世の中の筋モン
+
+## e0250
+
+- Page: 154
+- Kanji: 筋モン
+- Kana: すじもん
+- English: gangster\; underworld figure \(slang\)
+- Notes: text\: 世の中の筋モン
+
+## e0251
+
+- Page: 154
+- Kanji: 全部
+- Kana: ぜんぶ
+- English: all\; every one
+- Notes: text\: 筋モン全部敵にまわす
+
+## e0074
+
+- Page: 154
+- Kanji: 敵に回す
+- Kana: てきにまわす
+- English: to make an enemy of\, to turn against oneself
+- Notes: text\: 世の中の能力者全部敵にまわす — make every ability user in the world an enemy
 
 ## e0088
 
@@ -736,6 +1992,22 @@
 - English: to kill
 - Notes: text\: オレが許す 殺せ — I permit it\; kill him
 
+## e0252
+
+- Page: 154
+- Kanji: 今すぐ
+- Kana: いますぐ
+- English: right now\; immediately
+- Notes: text\: 今すぐ
+
+## e0253
+
+- Page: 155
+- Kanji: お嬢様
+- Kana: おじょうさま
+- English: young lady\; daughter \(polite\)
+- Notes: text\: お嬢様の占い
+
 ## e0093
 
 - Page: 155
@@ -760,6 +2032,14 @@
 - English: enjoyment\, anticipation\, something to look forward to
 - Notes: text\: お楽しみのところすいません — sorry to interrupt while you are enjoying yourselves
 
+## e0254
+
+- Page: 155
+- Kanji: 占い
+- Kana: うらない
+- English: fortune\-telling\; divination
+- Notes: text\: お嬢様の占い
+
 ## e0096
 
 - Page: 155
@@ -775,3 +2055,11 @@
 - Kana: きになる
 - English: to be concerned about\, to be curious about
 - Notes: text\: 少々気になる事が — there is something slightly concerning
+
+## e0255
+
+- Page: 155
+- Kanji: かなり
+- Kana: かなり
+- English: quite\; fairly\; considerably
+- Notes: text\: 少々……いやかなり気になる
