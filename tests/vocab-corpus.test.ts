@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 73);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    14488,
+    14696,
   );
   const volume7Chapter6 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 7 && chapter.chapter === 6,
@@ -60,6 +60,9 @@ test("Volume 8 story chapters and travelogue inserts stay separate", () => {
   const chapter8 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 8 && chapter.chapter === 8,
   );
+  const chapter9 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 8 && chapter.chapter === 9,
+  );
   assert.ok(chapter1, "Volume 8 Chapter 1 exists");
   assert.ok(chapter2, "Volume 8 Chapter 2 exists");
   assert.ok(chapter3, "Volume 8 Chapter 3 exists");
@@ -67,6 +70,7 @@ test("Volume 8 story chapters and travelogue inserts stay separate", () => {
   assert.ok(chapter5, "Volume 8 Chapter 5 exists");
   assert.ok(chapter7, "Volume 8 Chapter 7 exists");
   assert.ok(chapter8, "Volume 8 Chapter 8 exists");
+  assert.ok(chapter9, "Volume 8 Chapter 9 exists");
   assert.equal(chapter1.entries.length, 173);
   assert.equal(chapter2.entries.length, 179);
   assert.equal(chapter3.entries.length, 125);
@@ -74,6 +78,7 @@ test("Volume 8 story chapters and travelogue inserts stay separate", () => {
   assert.equal(chapter5.entries.length, 186);
   assert.equal(chapter7.entries.length, 315);
   assert.equal(chapter8.entries.length, 258);
+  assert.equal(chapter9.entries.length, 332);
   assert.ok(chapter7.entries.every((entry) => entry.page >= 115 && entry.page <= 133));
   assert.deepEqual(
     chapter7.entries.filter((entry) => entry.page === 133).map((entry) => entry.kana),
@@ -106,6 +111,31 @@ test("Volume 8 story chapters and travelogue inserts stay separate", () => {
     assert.ok(
       chapter8.entries[index - 1].page <= chapter8.entries[index].page,
       "Volume 8 Chapter 8 entries stay in ascending page order",
+    );
+  }
+  assert.ok(chapter9.entries.every((entry) => entry.page >= 157 && entry.page <= 175));
+  const originalChapter9Ids = new Set(
+    Array.from({ length: 124 }, (_, index) => `e${String(index + 1).padStart(4, "0")}`),
+  );
+  assert.deepEqual(
+    chapter9.entries
+      .filter((entry) => originalChapter9Ids.has(entry.id))
+      .map((entry) => entry.id)
+      .sort(),
+    [...originalChapter9Ids].sort(),
+  );
+  assert.deepEqual(
+    chapter9.entries.filter((entry) => entry.page === 172).map((entry) => entry.kanji),
+    ["ミシッ", "ギギ", "ドン"],
+  );
+  assert.deepEqual(
+    chapter9.entries.filter((entry) => entry.kanji === "地下競売").map((entry) => entry.page),
+    [160, 161, 162],
+  );
+  for (let index = 1; index < chapter9.entries.length; index += 1) {
+    assert.ok(
+      chapter9.entries[index - 1].page <= chapter9.entries[index].page,
+      "Volume 8 Chapter 9 entries stay in ascending page order",
     );
   }
   const originalChapter7Ids = new Set(
