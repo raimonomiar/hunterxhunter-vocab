@@ -10,7 +10,7 @@ test("committed corpus has exact coverage and no validation errors", () => {
   assert.equal(result.corpus.chapters.length, 73);
   assert.equal(
     result.corpus.chapters.reduce((total, chapter) => total + chapter.entries.length, 0),
-    14175,
+    14327,
   );
   const volume7Chapter6 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 7 && chapter.chapter === 6,
@@ -54,16 +54,50 @@ test("Volume 8 story chapters and travelogue inserts stay separate", () => {
   const chapter5 = result.corpus.chapters.find(
     (chapter) => chapter.volume === 8 && chapter.chapter === 5,
   );
+  const chapter7 = result.corpus.chapters.find(
+    (chapter) => chapter.volume === 8 && chapter.chapter === 7,
+  );
   assert.ok(chapter1, "Volume 8 Chapter 1 exists");
   assert.ok(chapter2, "Volume 8 Chapter 2 exists");
   assert.ok(chapter3, "Volume 8 Chapter 3 exists");
   assert.ok(chapter4, "Volume 8 Chapter 4 exists");
   assert.ok(chapter5, "Volume 8 Chapter 5 exists");
+  assert.ok(chapter7, "Volume 8 Chapter 7 exists");
   assert.equal(chapter1.entries.length, 173);
   assert.equal(chapter2.entries.length, 179);
   assert.equal(chapter3.entries.length, 125);
   assert.equal(chapter4.entries.length, 133);
   assert.equal(chapter5.entries.length, 186);
+  assert.equal(chapter7.entries.length, 315);
+  assert.ok(chapter7.entries.every((entry) => entry.page >= 115 && entry.page <= 133));
+  assert.deepEqual(
+    chapter7.entries.filter((entry) => entry.page === 133).map((entry) => entry.kana),
+    ["そして", "オークション", "とうじつ"],
+  );
+  assert.deepEqual(
+    chapter7.entries.filter((entry) => entry.kana === "オークション").map((entry) => entry.page),
+    [115, 121, 123, 125, 133],
+  );
+  assert.deepEqual(
+    chapter7.entries.filter((entry) => entry.kana === "ボス").map((entry) => entry.page),
+    [127, 128, 129, 130, 132],
+  );
+  const originalChapter7Ids = new Set(
+    Array.from({ length: 163 }, (_, index) => `e${String(index + 1).padStart(4, "0")}`),
+  );
+  assert.deepEqual(
+    chapter7.entries
+      .filter((entry) => originalChapter7Ids.has(entry.id))
+      .map((entry) => entry.id)
+      .sort(),
+    [...originalChapter7Ids].sort(),
+  );
+  for (let index = 1; index < chapter7.entries.length; index += 1) {
+    assert.ok(
+      chapter7.entries[index - 1].page <= chapter7.entries[index].page,
+      "Volume 8 Chapter 7 entries stay in ascending page order",
+    );
+  }
 
   const chapter1StoryEntries = chapter1.entries.filter(
     (entry) => entry.page >= 7 && entry.page <= 21,
