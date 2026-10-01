@@ -5,7 +5,7 @@ These chapter files are the canonical, readable source for the shared vocabulary
 ## Coverage
 
 - 73 app chapters
-- 14,488 entries
+- 14,696 entries
 - Volumes 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Chapter index
@@ -106,7 +106,7 @@ Volume 7 boundaries: Chapter 8 contains No.062 story entries for folios 149–16
 - [Chapter 6](./vol8-ch06.md) — 372 entries
 - [Chapter 7](./vol8-ch07.md) — 315 entries
 - [Chapter 8](./vol8-ch08.md) — 258 entries
-- [Chapter 9](./vol8-ch09.md) — 124 entries
+- [Chapter 9](./vol8-ch09.md) — 332 entries
 - [Chapter 10](./vol8-ch10.md) — 112 entries
 
 Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. Entries e0082–e0094 are preserved separately for the えじぷと旅行記その① prose insert on scan 022 and are not No.064 or No.065 story vocabulary. Chapter 2 contains No.065 story entries for folios 23–41. Entries e0072–e0096 are preserved separately for the えじぷと旅行記その② prose insert on scan 042 and are not No.065 or No.066 story vocabulary. Chapter 3 contains No.066 story entries for folios 43–61. Chapter 4 contains No.067 story entries for folios 63–75. Entries e0090–e0113 remain separate for the えじぷと旅行記その④ prose insert on scan 076. Chapter 5 contains No.068 story entries for folios 77–95. Entries e0131–e0141 remain separate for Togashi’s note about drawing card illustrations on scan 096; No.069 begins on folio 97.
@@ -115,4 +115,4 @@ Volume 8 boundaries: Chapter 1 contains No.064 story entries for folios 7–21. 
 
 Each entry keeps a permanent heading such as `e0001`. Edit the five labeled fields in place; keep the ID unchanged. Entry order within a page follows that page's own reading order, so a section may move to match it without changing its ID or fields. Blank Kanji and Notes fields mean null. See the repository [contribution guide](../../CONTRIBUTING.md) for correction workflow and validation rules.
 
-Corpus semantic revision: `034e6983410a96b120c7deb843a92376d5c5cd5c88821041569bb16c58c5847e`
+Corpus semantic revision: `c65367b9acf750b9b0c3deb9567402d0da5e259b83ad7d26977db98f60665b49`
