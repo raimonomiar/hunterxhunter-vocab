@@ -19,6 +19,7 @@ Open [http://localhost:3000](http://localhost:3000). By default the app uses a l
 - [Vocabulary corpus index](data/vocab-seed/README.md) — browse by volume and chapter on GitHub.
 - [Contribution guide](CONTRIBUTING.md) — correct a reading or gloss through a focused pull request.
 - [Correction pull-request template](.github/PULL_REQUEST_TEMPLATE/correction.md) — capture the entry ID, before/after text, context, and uncertainty.
+- [Anonymous visit counts](docs/anonymous-visits.md) — read the count semantics, privacy limits, activation requirements, and owner reporting command.
 
 Markdown is the only maintained shared source. JSON seed files are intentionally not kept in parallel.
 
@@ -47,6 +48,7 @@ Apply refuses unresolved conflicts and refuses a stale plan if the source or dat
 - `npm run format:check` — Prettier formatting verification
 - `npm run audit` — npm vulnerability audit for high-severity and above findings
 - `npm run import-vocab` — legacy workbook recovery path only; it requires the uncommitted workbook and is not the normal setup path
+- `npm run report-visits` — print anonymous daily visit totals and coarse country/region aggregates from the configured database
 - `npm run lint` — eslint
 
 The committed corpus currently covers volumes 1–8, including the recovered Volume 1 chapters 1–4 workbook rows.
