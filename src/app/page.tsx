@@ -6,6 +6,7 @@ import { getPageNavigationItems } from "@/lib/page-navigation";
 import EntryRow from "@/components/EntryRow";
 import GoToTopButton from "@/components/GoToTopButton";
 import PageNavigator from "@/components/PageNavigator";
+import { recordAnonymousVisitForSession } from "@/lib/anonymous-visit-client";
 
 const SUPPORT_URL = "https://buymeacoffee.com/ayushkarki";
 
@@ -35,6 +36,10 @@ export default function Home() {
   const [searchLoading, setSearchLoading] = useState(false);
 
   const [searchError, setSearchError] = useState<string | null>(null);
+
+  useEffect(() => {
+    recordAnonymousVisitForSession();
+  }, []);
 
   const loadStructure = useCallback(async () => {
     setStructureLoading(true);
