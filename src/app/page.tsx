@@ -20,31 +20,42 @@ async function fetchJson<T>(input: string, init?: RequestInit): Promise<T> {
 
 export default function Home() {
   const [structure, setStructure] = useState<VolumeSummary[] | null>(null);
+  const [structureLoading, setStructureLoading] = useState(true);
+  const [structureError, setStructureError] = useState<string | null>(null);
   const [selectedVolume, setSelectedVolume] = useState(1);
   const [selectedChapter, setSelectedChapter] = useState(1);
 
   const [chapterEntries, setChapterEntries] = useState<VocabEntry[]>([]);
   const [chapterLoading, setChapterLoading] = useState(true);
+  const [chapterError, setChapterError] = useState<string | null>(null);
   const [currentPage, setCurrentPage] = useState<number | null>(null);
 
   const [query, setQuery] = useState("");
   const [searchResults, setSearchResults] = useState<VocabEntry[] | null>(null);
   const [searchLoading, setSearchLoading] = useState(false);
 
-  const [error, setError] = useState<string | null>(null);
+  const [searchError, setSearchError] = useState<string | null>(null);
 
   const loadStructure = useCallback(async () => {
-    const data = await fetchJson<VolumeSummary[]>("/api/structure");
-    setStructure(data);
-    return data;
+    setStructureLoading(true);
+    setStructureError(null);
+    try {
+      const data = await fetchJson<VolumeSummary[]>("/api/structure");
+      setStructure(data);
+    } catch (err) {
+      setStructureError(err instanceof Error ? err.message : "Failed to load chapters");
+    } finally {
+      setStructureLoading(false);
+    }
   }, []);
 
   useEffect(() => {
-    loadStructure().catch((err) => setError(err.message));
+    void loadStructure();
   }, [loadStructure]);
 
   const loadChapterEntries = useCallback(async (volume: number, chapter: number) => {
     setChapterLoading(true);
+    setChapterError(null);
     setCurrentPage(null);
     try {
       const data = await fetchJson<VocabEntry[]>(
@@ -52,7 +63,7 @@ export default function Home() {
       );
       setChapterEntries(data);
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Failed to load entries");
+      setChapterError(err instanceof Error ? err.message : "Failed to load entries");
     } finally {
       setChapterLoading(false);
     }
@@ -69,10 +80,11 @@ export default function Home() {
       return;
     }
     setSearchLoading(true);
+    setSearchError(null);
     const handle = setTimeout(() => {
       fetchJson<VocabEntry[]>(`/api/entries?q=${encodeURIComponent(trimmed)}`)
         .then((data) => setSearchResults(data))
-        .catch((err) => setError(err instanceof Error ? err.message : "Search failed"))
+        .catch((err) => setSearchError(err instanceof Error ? err.message : "Search failed"))
         .finally(() => setSearchLoading(false));
     }, 250);
     return () => clearTimeout(handle);
@@ -108,12 +120,20 @@ export default function Home() {
   }, []);
 
   const isSearching = query.trim().length > 0;
+  const loadingStatus = structureLoading
+    ? chapterLoading
+      ? "Loading volumes and vocabulary…"
+      : "Loading volumes…"
+    : chapterLoading
+      ? "Loading vocabulary…"
+      : null;
 
   return (
     <main
       id="page-top"
       tabIndex={-1}
       aria-labelledby="page-title"
+      aria-busy={!isSearching && loadingStatus !== null}
       className="mx-auto flex min-h-screen w-full max-w-2xl flex-col px-4 pb-28 outline-none min-[360px]:pr-28 sm:px-6 lg:pr-0"
     >
       <header className="sticky top-0 z-10 -mx-4 bg-white/90 px-4 pt-4 pb-3 backdrop-blur sm:-mx-6 sm:px-6 dark:bg-neutral-950/90">
@@ -156,11 +176,51 @@ export default function Home() {
         />
       </header>
 
-      {error && (
+      {!isSearching && loadingStatus && (
+        <p
+          role="status"
+          aria-live="polite"
+          aria-atomic="true"
+          className="mb-3 flex items-center gap-2 px-1 text-sm text-neutral-500"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            viewBox="0 0 24 24"
+            className="size-4 shrink-0 animate-spin motion-reduce:animate-none"
+            fill="none"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="9"
+              stroke="currentColor"
+              strokeOpacity="0.25"
+              strokeWidth="3"
+            />
+            <path d="M21 12a9 9 0 0 0-9-9" stroke="currentColor" strokeWidth="3" />
+          </svg>
+          <span>{loadingStatus}</span>
+        </p>
+      )}
+
+      {searchError && (
         <div className="mb-3 flex items-center justify-between rounded-lg bg-red-50 px-3 py-2 text-sm text-red-700 dark:bg-red-950 dark:text-red-300">
-          <span>{error}</span>
-          <button onClick={() => setError(null)} className="font-medium">
+          <span>{searchError}</span>
+          <button onClick={() => setSearchError(null)} className="font-medium">
             Dismiss
+          </button>
+        </div>
+      )}
+
+      {structureError && (
+        <div
+          role="alert"
+          className="mb-3 flex items-center justify-between gap-3 rounded-lg bg-red-50 px-3 py-2 text-sm text-red-700 dark:bg-red-950 dark:text-red-300"
+        >
+          <span>Couldn’t load volumes and chapters: {structureError}</span>
+          <button onClick={() => void loadStructure()} className="shrink-0 font-medium underline">
+            Retry loading volumes
           </button>
         </div>
       )}
@@ -200,7 +260,7 @@ export default function Home() {
           <div>
             <div className="mb-1 text-sm font-medium text-neutral-500">Chapter</div>
             <div className="flex flex-wrap gap-2" role="group" aria-label="Chapter">
-              {chapterOptions.length === 0 && (
+              {chapterOptions.length === 0 && !structureLoading && !structureError && (
                 <span className="py-2 text-sm text-neutral-400">No chapters yet</span>
               )}
               {chapterOptions.map((c) => (
@@ -222,9 +282,20 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col gap-2">
-            {chapterLoading ? (
-              <p className="text-sm text-neutral-500">Loading...</p>
-            ) : chapterEntries.length === 0 ? (
+            {chapterError ? (
+              <div
+                role="alert"
+                className="flex items-center justify-between gap-3 rounded-lg bg-red-50 px-3 py-2 text-sm text-red-700 dark:bg-red-950 dark:text-red-300"
+              >
+                <span>Couldn’t load vocabulary: {chapterError}</span>
+                <button
+                  onClick={() => void loadChapterEntries(selectedVolume, selectedChapter)}
+                  className="shrink-0 font-medium underline"
+                >
+                  Retry loading vocabulary
+                </button>
+              </div>
+            ) : chapterLoading ? null : chapterEntries.length === 0 ? (
               <div className="rounded-xl border border-dashed border-neutral-300 px-4 py-8 text-center text-neutral-500 dark:border-neutral-700">
                 <p>
                   No entries in Volume {selectedVolume} Chapter {selectedChapter}.

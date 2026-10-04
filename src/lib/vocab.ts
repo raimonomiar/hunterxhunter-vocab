@@ -14,7 +14,6 @@ export type VocabEntry = {
 
 export type ChapterSummary = {
   number: number;
-  entryCount: number;
 };
 
 export type VolumeSummary = {
@@ -70,17 +69,13 @@ export async function findOrCreateChapter(volume: number, chapter: number): Prom
   return findOrCreateChapterWithExecutor(await ready(), volume, chapter);
 }
 
-export async function getStructure(): Promise<VolumeSummary[]> {
-  const db = await ready();
+export async function getStructureWithExecutor(db: DbExecutor): Promise<VolumeSummary[]> {
   const result = await db.execute(`
     SELECT
       v.number AS volume_number,
-      c.number AS chapter_number,
-      COUNT(e.id) AS entry_count
+      c.number AS chapter_number
     FROM volumes v
     LEFT JOIN chapters c ON c.volume_id = v.id
-    LEFT JOIN vocab_entries e ON e.chapter_id = c.id
-    GROUP BY v.number, c.number
     ORDER BY v.number ASC, c.number ASC
   `);
 
@@ -93,13 +88,16 @@ export async function getStructure(): Promise<VolumeSummary[]> {
     if (row.chapter_number === null) continue;
     byVolume.get(volumeNumber)!.push({
       number: Number(row.chapter_number),
-      entryCount: Number(row.entry_count),
     });
   }
 
   return [...byVolume.entries()]
     .sort((a, b) => a[0] - b[0])
     .map(([number, chapters]) => ({ number, chapters }));
+}
+
+export async function getStructure(): Promise<VolumeSummary[]> {
+  return getStructureWithExecutor(await ready());
 }
 
 export async function getChapterEntriesWithExecutor(
