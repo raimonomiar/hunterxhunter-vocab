@@ -1,5 +1,123 @@
 import { expect, test } from "@playwright/test";
 
+function deferred<T>() {
+  let resolve!: (value: T | PromiseLike<T>) => void;
+  const promise = new Promise<T>((done) => {
+    resolve = done;
+  });
+  return { promise, resolve };
+}
+
+const initialStructure = [{ number: 1, chapters: [{ number: 1 }] }];
+const initialEntries = [
+  {
+    id: 1,
+    volume: 1,
+    chapter: 1,
+    kanji: "建物",
+    kana: "たてもの",
+    english: "building",
+    page: 106,
+    notes: null,
+  },
+];
+const searchEntries = [{ ...initialEntries[0], english: "power" }];
+const initialEntriesRequest = (url: URL) =>
+  url.pathname === "/api/entries" &&
+  url.searchParams.get("volume") === "1" &&
+  url.searchParams.get("chapter") === "1";
+const searchRequest = (url: URL) => url.pathname === "/api/entries" && url.searchParams.has("q");
+const browserEntries = Array.from({ length: 16 }, (_, index) => ({
+  ...initialEntries[0],
+  id: index + 1,
+  english: index === 0 ? "power" : `study word ${index + 1}`,
+  page: 106 + index,
+}));
+
+test.beforeEach(async ({ page }) => {
+  await page.route("**/api/structure", (route) => route.fulfill({ json: initialStructure }));
+  await page.route(initialEntriesRequest, (route) => route.fulfill({ json: browserEntries }));
+  await page.route(searchRequest, (route) => route.fulfill({ json: searchEntries }));
+});
+
+test("initial load announces progress immediately and clears after its data arrives", async ({
+  page,
+}) => {
+  await page.emulateMedia({ reducedMotion: "reduce" });
+
+  const structureStarted = deferred<void>();
+  const entriesStarted = deferred<void>();
+  const releaseStructure = deferred<void>();
+  const releaseEntries = deferred<void>();
+
+  await page.route("**/api/structure", async (route) => {
+    structureStarted.resolve();
+    await releaseStructure.promise;
+    await route.fulfill({ json: initialStructure });
+  });
+  await page.route(initialEntriesRequest, async (route) => {
+    entriesStarted.resolve();
+    await releaseEntries.promise;
+    await route.fulfill({ json: initialEntries });
+  });
+
+  try {
+    await page.goto("/");
+    const status = page.getByRole("status");
+    await expect(status).toHaveText("Loading volumes and vocabulary…");
+    await Promise.all([structureStarted.promise, entriesStarted.promise]);
+
+    const spinner = status.locator("svg");
+    await expect(spinner).toHaveClass(/motion-reduce:animate-none/);
+    expect(await spinner.evaluate((element) => getComputedStyle(element).animationName)).toBe(
+      "none",
+    );
+
+    releaseStructure.resolve();
+    releaseEntries.resolve();
+    await expect(status).toHaveCount(0);
+    await expect(page.getByText("building", { exact: true })).toBeVisible();
+  } finally {
+    releaseStructure.resolve();
+    releaseEntries.resolve();
+  }
+});
+
+test("initial load errors stop the status and offer retries", async ({ page }) => {
+  let structureAttempts = 0;
+  let entriesAttempts = 0;
+  await page.route("**/api/structure", (route) => {
+    structureAttempts += 1;
+    return route.fulfill({
+      status: structureAttempts === 1 ? 503 : 200,
+      json: structureAttempts === 1 ? { error: "Temporary API failure" } : initialStructure,
+    });
+  });
+  await page.route(initialEntriesRequest, (route) => {
+    entriesAttempts += 1;
+    return route.fulfill({
+      status: entriesAttempts === 1 ? 503 : 200,
+      json: entriesAttempts === 1 ? { error: "Temporary API failure" } : initialEntries,
+    });
+  });
+
+  await page.goto("/");
+  await expect(page.getByRole("status")).toHaveCount(0);
+  await expect(page.getByRole("alert").filter({ hasText: "volumes and chapters" })).toBeVisible();
+  await expect(page.getByRole("alert").filter({ hasText: "vocabulary" })).toBeVisible();
+  await expect(page.getByRole("button", { name: "Retry loading volumes" })).toBeVisible();
+  await expect(page.getByRole("button", { name: "Retry loading vocabulary" })).toBeVisible();
+
+  await page.getByRole("button", { name: "Retry loading volumes" }).click();
+  await page.getByRole("button", { name: "Retry loading vocabulary" }).click();
+
+  await expect(page.getByRole("button", { name: "1" })).toHaveCount(2);
+  await expect(page.getByText("building", { exact: true })).toBeVisible();
+  await expect(page.getByRole("status")).toHaveCount(0);
+  expect(structureAttempts).toBe(2);
+  expect(entriesAttempts).toBe(2);
+});
+
 test("reader can search the corpus and return to the top while writes stay disabled", async ({
   page,
 }) => {
